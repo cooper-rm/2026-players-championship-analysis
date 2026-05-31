@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+# Put the repo root on sys.path so tests can `from src.pull_data import ...`
+pythonpath = ["."]
+# Only look for tests in tests/ (faster, no surprises)
+testpaths = ["tests"]

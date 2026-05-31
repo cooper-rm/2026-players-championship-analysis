@@ -1,0 +1,9 @@
+requests>=2.31
+python-dotenv>=1.0
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+jupyter>=1.0
+pytest>=8.0
