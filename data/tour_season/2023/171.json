@@ -1,0 +1,1359 @@
+{
+  "stat_id": "171",
+  "year": 2023,
+  "category": "Scoring",
+  "stat_title": "Par 3 Performance",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Eric Cole",
+      "Status": "-28",
+      "Par 3 Avg": "2.95",
+      "Total Par": "1,569"
+    },
+    {
+      "rank": 2,
+      "player": "Max Homa",
+      "Status": "-21",
+      "Par 3 Avg": "2.94",
+      "Total Par": "1,038"
+    },
+    {
+      "rank": 3,
+      "player": "Jon Rahm",
+      "Status": "-14",
+      "Par 3 Avg": "2.95",
+      "Total Par": "864"
+    },
+    {
+      "rank": 4,
+      "player": "Peter Kuest",
+      "Status": "-13",
+      "Par 3 Avg": "2.93",
+      "Total Par": "540"
+    },
+    {
+      "rank": 5,
+      "player": "Rickie Fowler",
+      "Status": "-9",
+      "Par 3 Avg": "2.98",
+      "Total Par": "1,200"
+    },
+    {
+      "rank": 5,
+      "player": "Collin Morikawa",
+      "Status": "-9",
+      "Par 3 Avg": "2.97",
+      "Total Par": "996"
+    },
+    {
+      "rank": 7,
+      "player": "Aaron Baddeley",
+      "Status": "-8",
+      "Par 3 Avg": "2.98",
+      "Total Par": "987"
+    },
+    {
+      "rank": 7,
+      "player": "Sam Ryder",
+      "Status": "-8",
+      "Par 3 Avg": "2.98",
+      "Total Par": "1,374"
+    },
+    {
+      "rank": 7,
+      "player": "Justin Suh",
+      "Status": "-8",
+      "Par 3 Avg": "2.98",
+      "Total Par": "1,416"
+    },
+    {
+      "rank": 10,
+      "player": "Nicolai Hojgaard",
+      "Status": "-7",
+      "Par 3 Avg": "2.96",
+      "Total Par": "582"
+    },
+    {
+      "rank": 10,
+      "player": "Rory McIlroy",
+      "Status": "-7",
+      "Par 3 Avg": "2.97",
+      "Total Par": "780"
+    },
+    {
+      "rank": 10,
+      "player": "Andrew Putnam",
+      "Status": "-7",
+      "Par 3 Avg": "2.98",
+      "Total Par": "1,395"
+    },
+    {
+      "rank": 13,
+      "player": "Greyson Sigg",
+      "Status": "-5",
+      "Par 3 Avg": "2.99",
+      "Total Par": "1,275"
+    },
+    {
+      "rank": 14,
+      "player": "Sam Burns",
+      "Status": "-4",
+      "Par 3 Avg": "2.99",
+      "Total Par": "993"
+    },
+    {
+      "rank": 14,
+      "player": "Adam Hadwin",
+      "Status": "-4",
+      "Par 3 Avg": "2.99",
+      "Total Par": "1,074"
+    },
+    {
+      "rank": 14,
+      "player": "Scottie Scheffler",
+      "Status": "-4",
+      "Par 3 Avg": "2.99",
+      "Total Par": "1,080"
+    },
+    {
+      "rank": 17,
+      "player": "Ludvig \u00c5berg",
+      "Status": "-3",
+      "Par 3 Avg": "2.99",
+      "Total Par": "606"
+    },
+    {
+      "rank": 17,
+      "player": "Mark Hubbard",
+      "Status": "-3",
+      "Par 3 Avg": "2.99",
+      "Total Par": "1,428"
+    },
+    {
+      "rank": 19,
+      "player": "Sahith Theegala",
+      "Status": "-2",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,302"
+    },
+    {
+      "rank": 20,
+      "player": "Tommy Fleetwood",
+      "Status": "-1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "924"
+    },
+    {
+      "rank": 20,
+      "player": "Emiliano Grillo",
+      "Status": "-1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,398"
+    },
+    {
+      "rank": 20,
+      "player": "Viktor Hovland",
+      "Status": "-1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,083"
+    },
+    {
+      "rank": 20,
+      "player": "Justin Rose",
+      "Status": "-1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "843"
+    },
+    {
+      "rank": 20,
+      "player": "J.J. Spaun",
+      "Status": "-1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,236"
+    },
+    {
+      "rank": 25,
+      "player": "Adam Schenk",
+      "Status": "E",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,479"
+    },
+    {
+      "rank": 25,
+      "player": "Chris Stroud",
+      "Status": "E",
+      "Par 3 Avg": "3.00",
+      "Total Par": "693"
+    },
+    {
+      "rank": 27,
+      "player": "Ben Griffin",
+      "Status": "+1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,479"
+    },
+    {
+      "rank": 27,
+      "player": "Chesson Hadley",
+      "Status": "+1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,131"
+    },
+    {
+      "rank": 27,
+      "player": "Nick Hardy",
+      "Status": "+1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,449"
+    },
+    {
+      "rank": 27,
+      "player": "Russell Knox",
+      "Status": "+1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,395"
+    },
+    {
+      "rank": 27,
+      "player": "William McGirt",
+      "Status": "+1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "639"
+    },
+    {
+      "rank": 27,
+      "player": "Carson Young",
+      "Status": "+1",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,206"
+    },
+    {
+      "rank": 33,
+      "player": "Keegan Bradley",
+      "Status": "+2",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,002"
+    },
+    {
+      "rank": 33,
+      "player": "Stephan Jaeger",
+      "Status": "+2",
+      "Par 3 Avg": "3.00",
+      "Total Par": "1,512"
+    },
+    {
+      "rank": 33,
+      "player": "Hideki Matsuyama",
+      "Status": "+2",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,074"
+    },
+    {
+      "rank": 33,
+      "player": "Alex Noren",
+      "Status": "+2",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,146"
+    },
+    {
+      "rank": 33,
+      "player": "Cameron Young",
+      "Status": "+2",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,032"
+    },
+    {
+      "rank": 38,
+      "player": "Matt Fitzpatrick",
+      "Status": "+3",
+      "Par 3 Avg": "3.01",
+      "Total Par": "879"
+    },
+    {
+      "rank": 38,
+      "player": "Lucas Glover",
+      "Status": "+3",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,209"
+    },
+    {
+      "rank": 38,
+      "player": "Tom Hoge",
+      "Status": "+3",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,281"
+    },
+    {
+      "rank": 38,
+      "player": "Nate Lashley",
+      "Status": "+3",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,302"
+    },
+    {
+      "rank": 42,
+      "player": "Brice Garnett",
+      "Status": "+4",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,041"
+    },
+    {
+      "rank": 42,
+      "player": "Chez Reavie",
+      "Status": "+4",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,158"
+    },
+    {
+      "rank": 42,
+      "player": "Adam Svensson",
+      "Status": "+4",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,494"
+    },
+    {
+      "rank": 45,
+      "player": "Doug Ghim",
+      "Status": "+5",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,131"
+    },
+    {
+      "rank": 45,
+      "player": "Brian Harman",
+      "Status": "+5",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,134"
+    },
+    {
+      "rank": 45,
+      "player": "Si Woo Kim",
+      "Status": "+5",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,236"
+    },
+    {
+      "rank": 45,
+      "player": "Matt NeSmith",
+      "Status": "+5",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,227"
+    },
+    {
+      "rank": 45,
+      "player": "Xander Schauffele",
+      "Status": "+5",
+      "Par 3 Avg": "3.01",
+      "Total Par": "1,017"
+    },
+    {
+      "rank": 50,
+      "player": "Christiaan Bezuidenhout",
+      "Status": "+6",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,086"
+    },
+    {
+      "rank": 50,
+      "player": "Charley Hoffman",
+      "Status": "+6",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,017"
+    },
+    {
+      "rank": 52,
+      "player": "Jason Day",
+      "Status": "+7",
+      "Par 3 Avg": "3.02",
+      "Total Par": "978"
+    },
+    {
+      "rank": 52,
+      "player": "Austin Eckroat",
+      "Status": "+7",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,239"
+    },
+    {
+      "rank": 52,
+      "player": "Tom Kim",
+      "Status": "+7",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,104"
+    },
+    {
+      "rank": 52,
+      "player": "Chris Kirk",
+      "Status": "+7",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,110"
+    },
+    {
+      "rank": 52,
+      "player": "Matt Kuchar",
+      "Status": "+7",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,089"
+    },
+    {
+      "rank": 57,
+      "player": "Ryan Moore",
+      "Status": "+8",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,005"
+    },
+    {
+      "rank": 57,
+      "player": "Scott Piercy",
+      "Status": "+8",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,203"
+    },
+    {
+      "rank": 57,
+      "player": "Brendon Todd",
+      "Status": "+8",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,239"
+    },
+    {
+      "rank": 60,
+      "player": "Tyrrell Hatton",
+      "Status": "+9",
+      "Par 3 Avg": "3.03",
+      "Total Par": "960"
+    },
+    {
+      "rank": 60,
+      "player": "Martin Laird",
+      "Status": "+9",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,086"
+    },
+    {
+      "rank": 60,
+      "player": "Andrew Novak",
+      "Status": "+9",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,167"
+    },
+    {
+      "rank": 60,
+      "player": "Cameron Percy",
+      "Status": "+9",
+      "Par 3 Avg": "3.03",
+      "Total Par": "819"
+    },
+    {
+      "rank": 64,
+      "player": "Zac Blair",
+      "Status": "+10",
+      "Par 3 Avg": "3.03",
+      "Total Par": "975"
+    },
+    {
+      "rank": 64,
+      "player": "Harris English",
+      "Status": "+10",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,188"
+    },
+    {
+      "rank": 64,
+      "player": "Shane Lowry",
+      "Status": "+10",
+      "Par 3 Avg": "3.04",
+      "Total Par": "756"
+    },
+    {
+      "rank": 64,
+      "player": "Doc Redman",
+      "Status": "+10",
+      "Par 3 Avg": "3.03",
+      "Total Par": "957"
+    },
+    {
+      "rank": 64,
+      "player": "Patrick Rodgers",
+      "Status": "+10",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,290"
+    },
+    {
+      "rank": 64,
+      "player": "Robby Shelton",
+      "Status": "+10",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,287"
+    },
+    {
+      "rank": 64,
+      "player": "Austin Smotherman",
+      "Status": "+10",
+      "Par 3 Avg": "3.02",
+      "Total Par": "1,218"
+    },
+    {
+      "rank": 71,
+      "player": "Hayden Buckley",
+      "Status": "+11",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,038"
+    },
+    {
+      "rank": 71,
+      "player": "Mackenzie Hughes",
+      "Status": "+11",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,104"
+    },
+    {
+      "rank": 71,
+      "player": "Kurt Kitayama",
+      "Status": "+11",
+      "Par 3 Avg": "3.04",
+      "Total Par": "909"
+    },
+    {
+      "rank": 71,
+      "player": "Keith Mitchell",
+      "Status": "+11",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,167"
+    },
+    {
+      "rank": 71,
+      "player": "S.Y. Noh",
+      "Status": "+11",
+      "Par 3 Avg": "3.04",
+      "Total Par": "831"
+    },
+    {
+      "rank": 76,
+      "player": "Byeong Hun An",
+      "Status": "+12",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,311"
+    },
+    {
+      "rank": 76,
+      "player": "Joseph Bramlett",
+      "Status": "+12",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,005"
+    },
+    {
+      "rank": 76,
+      "player": "Russell Henley",
+      "Status": "+12",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,014"
+    },
+    {
+      "rank": 76,
+      "player": "Sung Kang",
+      "Status": "+12",
+      "Par 3 Avg": "3.06",
+      "Total Par": "585"
+    },
+    {
+      "rank": 76,
+      "player": "J.T. Poston",
+      "Status": "+12",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,218"
+    },
+    {
+      "rank": 76,
+      "player": "Brian Stuard",
+      "Status": "+12",
+      "Par 3 Avg": "3.04",
+      "Total Par": "885"
+    },
+    {
+      "rank": 82,
+      "player": "Kevin Chappell",
+      "Status": "+13",
+      "Par 3 Avg": "3.06",
+      "Total Par": "681"
+    },
+    {
+      "rank": 82,
+      "player": "Nico Echavarria",
+      "Status": "+13",
+      "Par 3 Avg": "3.04",
+      "Total Par": "969"
+    },
+    {
+      "rank": 82,
+      "player": "Troy Merritt",
+      "Status": "+13",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,131"
+    },
+    {
+      "rank": 82,
+      "player": "Henrik Norlander",
+      "Status": "+13",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,107"
+    },
+    {
+      "rank": 82,
+      "player": "Ben Taylor",
+      "Status": "+13",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,329"
+    },
+    {
+      "rank": 87,
+      "player": "Akshay Bhatia",
+      "Status": "+14",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,026"
+    },
+    {
+      "rank": 87,
+      "player": "Corey Conners",
+      "Status": "+14",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,038"
+    },
+    {
+      "rank": 87,
+      "player": "Sungjae Im",
+      "Status": "+14",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,272"
+    },
+    {
+      "rank": 87,
+      "player": "Satoshi Kodaira",
+      "Status": "+14",
+      "Par 3 Avg": "3.05",
+      "Total Par": "795"
+    },
+    {
+      "rank": 87,
+      "player": "K.H. Lee",
+      "Status": "+14",
+      "Par 3 Avg": "3.03",
+      "Total Par": "1,326"
+    },
+    {
+      "rank": 87,
+      "player": "Maverick McNealy",
+      "Status": "+14",
+      "Par 3 Avg": "3.05",
+      "Total Par": "801"
+    },
+    {
+      "rank": 87,
+      "player": "Seamus Power",
+      "Status": "+14",
+      "Par 3 Avg": "3.04",
+      "Total Par": "981"
+    },
+    {
+      "rank": 87,
+      "player": "Kevin Yu",
+      "Status": "+14",
+      "Par 3 Avg": "3.05",
+      "Total Par": "873"
+    },
+    {
+      "rank": 95,
+      "player": "Harry Hall",
+      "Status": "+15",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,269"
+    },
+    {
+      "rank": 95,
+      "player": "Chad Ramey",
+      "Status": "+15",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,227"
+    },
+    {
+      "rank": 95,
+      "player": "Sepp Straka",
+      "Status": "+15",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,116"
+    },
+    {
+      "rank": 98,
+      "player": "C.T. Pan",
+      "Status": "+16",
+      "Par 3 Avg": "3.07",
+      "Total Par": "648"
+    },
+    {
+      "rank": 98,
+      "player": "Callum Tarren",
+      "Status": "+16",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,215"
+    },
+    {
+      "rank": 98,
+      "player": "Dylan Wu",
+      "Status": "+16",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,317"
+    },
+    {
+      "rank": 101,
+      "player": "Tony Finau",
+      "Status": "+17",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,032"
+    },
+    {
+      "rank": 101,
+      "player": "Michael Kim",
+      "Status": "+17",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,215"
+    },
+    {
+      "rank": 101,
+      "player": "Hank Lebioda",
+      "Status": "+17",
+      "Par 3 Avg": "3.07",
+      "Total Par": "753"
+    },
+    {
+      "rank": 101,
+      "player": "Peter Malnati",
+      "Status": "+17",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,161"
+    },
+    {
+      "rank": 101,
+      "player": "Vincent Norrman",
+      "Status": "+17",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,053"
+    },
+    {
+      "rank": 101,
+      "player": "Sean O'Hair",
+      "Status": "+17",
+      "Par 3 Avg": "3.08",
+      "Total Par": "639"
+    },
+    {
+      "rank": 101,
+      "player": "Jordan Spieth",
+      "Status": "+17",
+      "Par 3 Avg": "3.06",
+      "Total Par": "879"
+    },
+    {
+      "rank": 101,
+      "player": "Nick Taylor",
+      "Status": "+17",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,155"
+    },
+    {
+      "rank": 109,
+      "player": "Scott Stallings",
+      "Status": "+18",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,023"
+    },
+    {
+      "rank": 109,
+      "player": "Erik van Rooyen",
+      "Status": "+18",
+      "Par 3 Avg": "3.06",
+      "Total Par": "972"
+    },
+    {
+      "rank": 111,
+      "player": "Tano Goya",
+      "Status": "+19",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,107"
+    },
+    {
+      "rank": 111,
+      "player": "Taylor Montgomery",
+      "Status": "+19",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,260"
+    },
+    {
+      "rank": 111,
+      "player": "Davis Thompson",
+      "Status": "+19",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,170"
+    },
+    {
+      "rank": 111,
+      "player": "Brandon Wu",
+      "Status": "+19",
+      "Par 3 Avg": "3.04",
+      "Total Par": "1,431"
+    },
+    {
+      "rank": 115,
+      "player": "Wesley Bryan",
+      "Status": "+20",
+      "Par 3 Avg": "3.10",
+      "Total Par": "585"
+    },
+    {
+      "rank": 115,
+      "player": "Stewart Cink",
+      "Status": "+20",
+      "Par 3 Avg": "3.06",
+      "Total Par": "984"
+    },
+    {
+      "rank": 115,
+      "player": "Tyler Duncan",
+      "Status": "+20",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,134"
+    },
+    {
+      "rank": 115,
+      "player": "Denny McCarthy",
+      "Status": "+20",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,239"
+    },
+    {
+      "rank": 115,
+      "player": "Augusto N\u00fa\u00f1ez",
+      "Status": "+20",
+      "Par 3 Avg": "3.06",
+      "Total Par": "1,041"
+    },
+    {
+      "rank": 120,
+      "player": "Wyndham Clark",
+      "Status": "+21",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,296"
+    },
+    {
+      "rank": 120,
+      "player": "Cam Davis",
+      "Status": "+21",
+      "Par 3 Avg": "3.06",
+      "Total Par": "1,128"
+    },
+    {
+      "rank": 120,
+      "player": "Harrison Endycott",
+      "Status": "+21",
+      "Par 3 Avg": "3.06",
+      "Total Par": "1,083"
+    },
+    {
+      "rank": 120,
+      "player": "Lanto Griffin",
+      "Status": "+21",
+      "Par 3 Avg": "3.09",
+      "Total Par": "693"
+    },
+    {
+      "rank": 120,
+      "player": "James Hahn",
+      "Status": "+21",
+      "Par 3 Avg": "3.06",
+      "Total Par": "987"
+    },
+    {
+      "rank": 120,
+      "player": "Paul Haley II",
+      "Status": "+21",
+      "Par 3 Avg": "3.06",
+      "Total Par": "1,131"
+    },
+    {
+      "rank": 120,
+      "player": "Lucas Herbert",
+      "Status": "+21",
+      "Par 3 Avg": "3.08",
+      "Total Par": "774"
+    },
+    {
+      "rank": 127,
+      "player": "Patrick Cantlay",
+      "Status": "+22",
+      "Par 3 Avg": "3.08",
+      "Total Par": "870"
+    },
+    {
+      "rank": 127,
+      "player": "Thomas Detry",
+      "Status": "+22",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,215"
+    },
+    {
+      "rank": 127,
+      "player": "Matti Schmid",
+      "Status": "+22",
+      "Par 3 Avg": "3.07",
+      "Total Par": "957"
+    },
+    {
+      "rank": 130,
+      "player": "Webb Simpson",
+      "Status": "+23",
+      "Par 3 Avg": "3.10",
+      "Total Par": "699"
+    },
+    {
+      "rank": 131,
+      "player": "Joel Dahmen",
+      "Status": "+24",
+      "Par 3 Avg": "3.06",
+      "Total Par": "1,161"
+    },
+    {
+      "rank": 131,
+      "player": "Lee Hodges",
+      "Status": "+24",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,338"
+    },
+    {
+      "rank": 131,
+      "player": "Robert Streb",
+      "Status": "+24",
+      "Par 3 Avg": "3.07",
+      "Total Par": "978"
+    },
+    {
+      "rank": 131,
+      "player": "Carl Yuan",
+      "Status": "+24",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,035"
+    },
+    {
+      "rank": 135,
+      "player": "Ryan Armour",
+      "Status": "+25",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,137"
+    },
+    {
+      "rank": 135,
+      "player": "Austin Cook",
+      "Status": "+25",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,047"
+    },
+    {
+      "rank": 135,
+      "player": "Billy Horschel",
+      "Status": "+25",
+      "Par 3 Avg": "3.10",
+      "Total Par": "780"
+    },
+    {
+      "rank": 135,
+      "player": "Alex Smalley",
+      "Status": "+25",
+      "Par 3 Avg": "3.05",
+      "Total Par": "1,383"
+    },
+    {
+      "rank": 139,
+      "player": "Ben Martin",
+      "Status": "+26",
+      "Par 3 Avg": "3.06",
+      "Total Par": "1,275"
+    },
+    {
+      "rank": 139,
+      "player": "Nick Watney",
+      "Status": "+26",
+      "Par 3 Avg": "3.08",
+      "Total Par": "927"
+    },
+    {
+      "rank": 141,
+      "player": "Jonathan Byrd",
+      "Status": "+27",
+      "Par 3 Avg": "3.11",
+      "Total Par": "729"
+    },
+    {
+      "rank": 141,
+      "player": "Jim Herman",
+      "Status": "+27",
+      "Par 3 Avg": "3.09",
+      "Total Par": "927"
+    },
+    {
+      "rank": 141,
+      "player": "Justin Lower",
+      "Status": "+27",
+      "Par 3 Avg": "3.06",
+      "Total Par": "1,323"
+    },
+    {
+      "rank": 141,
+      "player": "Kevin Roy",
+      "Status": "+27",
+      "Par 3 Avg": "3.09",
+      "Total Par": "933"
+    },
+    {
+      "rank": 141,
+      "player": "Danny Willett",
+      "Status": "+27",
+      "Par 3 Avg": "3.10",
+      "Total Par": "816"
+    },
+    {
+      "rank": 146,
+      "player": "Zecheng Dou",
+      "Status": "+28",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,197"
+    },
+    {
+      "rank": 146,
+      "player": "Cody Gribble",
+      "Status": "+28",
+      "Par 3 Avg": "3.10",
+      "Total Par": "855"
+    },
+    {
+      "rank": 146,
+      "player": "David Lingmerth",
+      "Status": "+28",
+      "Par 3 Avg": "3.08",
+      "Total Par": "1,098"
+    },
+    {
+      "rank": 146,
+      "player": "Max McGreevy",
+      "Status": "+28",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,125"
+    },
+    {
+      "rank": 146,
+      "player": "Ryan Palmer",
+      "Status": "+28",
+      "Par 3 Avg": "3.09",
+      "Total Par": "957"
+    },
+    {
+      "rank": 151,
+      "player": "Tyson Alexander",
+      "Status": "+29",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,179"
+    },
+    {
+      "rank": 151,
+      "player": "Beau Hossler",
+      "Status": "+29",
+      "Par 3 Avg": "3.06",
+      "Total Par": "1,371"
+    },
+    {
+      "rank": 151,
+      "player": "Taylor Pendrith",
+      "Status": "+29",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,209"
+    },
+    {
+      "rank": 151,
+      "player": "Adam Scott",
+      "Status": "+29",
+      "Par 3 Avg": "3.11",
+      "Total Par": "828"
+    },
+    {
+      "rank": 155,
+      "player": "Zach Johnson",
+      "Status": "+30",
+      "Par 3 Avg": "3.11",
+      "Total Par": "834"
+    },
+    {
+      "rank": 155,
+      "player": "Justin Thomas",
+      "Status": "+30",
+      "Par 3 Avg": "3.10",
+      "Total Par": "882"
+    },
+    {
+      "rank": 155,
+      "player": "Matt Wallace",
+      "Status": "+30",
+      "Par 3 Avg": "3.08",
+      "Total Par": "1,068"
+    },
+    {
+      "rank": 158,
+      "player": "David Lipsky",
+      "Status": "+31",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,293"
+    },
+    {
+      "rank": 158,
+      "player": "Jimmy Walker",
+      "Status": "+31",
+      "Par 3 Avg": "3.09",
+      "Total Par": "1,065"
+    },
+    {
+      "rank": 160,
+      "player": "Ryan Gerard",
+      "Status": "+32",
+      "Par 3 Avg": "3.13",
+      "Total Par": "768"
+    },
+    {
+      "rank": 160,
+      "player": "Taylor Moore",
+      "Status": "+32",
+      "Par 3 Avg": "3.08",
+      "Total Par": "1,263"
+    },
+    {
+      "rank": 160,
+      "player": "Kevin Tway",
+      "Status": "+32",
+      "Par 3 Avg": "3.08",
+      "Total Par": "1,233"
+    },
+    {
+      "rank": 160,
+      "player": "Gary Woodland",
+      "Status": "+32",
+      "Par 3 Avg": "3.09",
+      "Total Par": "1,056"
+    },
+    {
+      "rank": 164,
+      "player": "Trevor Werbylo",
+      "Status": "+33",
+      "Par 3 Avg": "3.10",
+      "Total Par": "1,035"
+    },
+    {
+      "rank": 164,
+      "player": "Kyle Westmoreland",
+      "Status": "+33",
+      "Par 3 Avg": "3.10",
+      "Total Par": "969"
+    },
+    {
+      "rank": 166,
+      "player": "Scott Harrington",
+      "Status": "+34",
+      "Par 3 Avg": "3.10",
+      "Total Par": "975"
+    },
+    {
+      "rank": 166,
+      "player": "Patton Kizzire",
+      "Status": "+34",
+      "Par 3 Avg": "3.08",
+      "Total Par": "1,206"
+    },
+    {
+      "rank": 166,
+      "player": "Adam Long",
+      "Status": "+34",
+      "Par 3 Avg": "3.07",
+      "Total Par": "1,389"
+    },
+    {
+      "rank": 166,
+      "player": "Sam Stevens",
+      "Status": "+34",
+      "Par 3 Avg": "3.08",
+      "Total Par": "1,317"
+    },
+    {
+      "rank": 170,
+      "player": "Michael Gligic",
+      "Status": "+35",
+      "Par 3 Avg": "3.12",
+      "Total Par": "897"
+    },
+    {
+      "rank": 170,
+      "player": "Harry Higgs",
+      "Status": "+35",
+      "Par 3 Avg": "3.10",
+      "Total Par": "1,011"
+    },
+    {
+      "rank": 170,
+      "player": "Martin Trainer",
+      "Status": "+35",
+      "Par 3 Avg": "3.14",
+      "Total Par": "759"
+    },
+    {
+      "rank": 173,
+      "player": "MJ Daffue",
+      "Status": "+36",
+      "Par 3 Avg": "3.09",
+      "Total Par": "1,251"
+    },
+    {
+      "rank": 174,
+      "player": "Jason Dufner",
+      "Status": "+37",
+      "Par 3 Avg": "3.10",
+      "Total Par": "1,098"
+    },
+    {
+      "rank": 174,
+      "player": "Kelly Kraft",
+      "Status": "+37",
+      "Par 3 Avg": "3.10",
+      "Total Par": "1,095"
+    },
+    {
+      "rank": 176,
+      "player": "Cameron Champ",
+      "Status": "+38",
+      "Par 3 Avg": "3.12",
+      "Total Par": "978"
+    },
+    {
+      "rank": 176,
+      "player": "Aaron Rai",
+      "Status": "+38",
+      "Par 3 Avg": "3.09",
+      "Total Par": "1,296"
+    },
+    {
+      "rank": 178,
+      "player": "Will Gordon",
+      "Status": "+39",
+      "Par 3 Avg": "3.08",
+      "Total Par": "1,380"
+    },
+    {
+      "rank": 179,
+      "player": "S.H. Kim",
+      "Status": "+40",
+      "Par 3 Avg": "3.09",
+      "Total Par": "1,377"
+    },
+    {
+      "rank": 180,
+      "player": "Kramer Hickok",
+      "Status": "+41",
+      "Par 3 Avg": "3.10",
+      "Total Par": "1,176"
+    },
+    {
+      "rank": 180,
+      "player": "Luke List",
+      "Status": "+41",
+      "Par 3 Avg": "3.10",
+      "Total Par": "1,242"
+    },
+    {
+      "rank": 180,
+      "player": "Trey Mullinax",
+      "Status": "+41",
+      "Par 3 Avg": "3.14",
+      "Total Par": "858"
+    },
+    {
+      "rank": 183,
+      "player": "Kevin Streelman",
+      "Status": "+42",
+      "Par 3 Avg": "3.10",
+      "Total Par": "1,203"
+    },
+    {
+      "rank": 184,
+      "player": "Trevor Cone",
+      "Status": "+44",
+      "Par 3 Avg": "3.13",
+      "Total Par": "999"
+    },
+    {
+      "rank": 184,
+      "player": "Garrick Higgo",
+      "Status": "+44",
+      "Par 3 Avg": "3.10",
+      "Total Par": "1,266"
+    },
+    {
+      "rank": 184,
+      "player": "Brandon Matthews",
+      "Status": "+44",
+      "Par 3 Avg": "3.18",
+      "Total Par": "723"
+    },
+    {
+      "rank": 187,
+      "player": "Andrew Landry",
+      "Status": "+45",
+      "Par 3 Avg": "3.14",
+      "Total Par": "963"
+    },
+    {
+      "rank": 188,
+      "player": "Dylan Frittelli",
+      "Status": "+46",
+      "Par 3 Avg": "3.14",
+      "Total Par": "975"
+    },
+    {
+      "rank": 189,
+      "player": "Ryan Brehm",
+      "Status": "+49",
+      "Par 3 Avg": "3.14",
+      "Total Par": "1,035"
+    },
+    {
+      "rank": 190,
+      "player": "Richy Werenski",
+      "Status": "+51",
+      "Par 3 Avg": "3.13",
+      "Total Par": "1,209"
+    },
+    {
+      "rank": 191,
+      "player": "Davis Riley",
+      "Status": "+53",
+      "Par 3 Avg": "3.12",
+      "Total Par": "1,287"
+    },
+    {
+      "rank": 192,
+      "player": "Matthias Schwab",
+      "Status": "+64",
+      "Par 3 Avg": "3.15",
+      "Total Par": "1,257"
+    },
+    {
+      "rank": 193,
+      "player": "Brent Grant",
+      "Status": "+67",
+      "Par 3 Avg": "3.20",
+      "Total Par": "1,023"
+    }
+  ]
+}

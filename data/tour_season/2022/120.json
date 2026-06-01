@@ -1,0 +1,1536 @@
+{
+  "stat_id": "120",
+  "year": 2022,
+  "category": "Scoring",
+  "stat_title": "Scoring Average (Adjusted)",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Rory McIlroy",
+      "Avg": "68.670",
+      "Total Strokes": "4,134",
+      "Total Adjustment": "-13.830",
+      "Total Rounds": "60"
+    },
+    {
+      "rank": 2,
+      "player": "Cameron Smith",
+      "Avg": "69.203",
+      "Total Strokes": "4,271",
+      "Total Adjustment": "19.612",
+      "Total Rounds": "62"
+    },
+    {
+      "rank": 3,
+      "player": "Matt Fitzpatrick",
+      "Avg": "69.217",
+      "Total Strokes": "4,865",
+      "Total Adjustment": "-19.784",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 4,
+      "player": "Scottie Scheffler",
+      "Avg": "69.293",
+      "Total Strokes": "5,787",
+      "Total Adjustment": "33.571",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 5,
+      "player": "Xander Schauffele",
+      "Avg": "69.462",
+      "Total Strokes": "4,964",
+      "Total Adjustment": "37.253",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 6,
+      "player": "Patrick Cantlay",
+      "Avg": "69.468",
+      "Total Strokes": "4,693",
+      "Total Adjustment": "30.836",
+      "Total Rounds": "68"
+    },
+    {
+      "rank": 7,
+      "player": "Justin Thomas",
+      "Avg": "69.493",
+      "Total Strokes": "5,232",
+      "Total Adjustment": "49.477",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 8,
+      "player": "Tommy Fleetwood",
+      "Avg": "69.653",
+      "Total Strokes": "3,909",
+      "Total Adjustment": "-8.456",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 9,
+      "player": "Shane Lowry",
+      "Avg": "69.661",
+      "Total Strokes": "4,040",
+      "Total Adjustment": ".338",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 10,
+      "player": "Will Zalatoris",
+      "Avg": "69.698",
+      "Total Strokes": "5,286",
+      "Total Adjustment": "11.069",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 11,
+      "player": "Tony Finau",
+      "Avg": "69.748",
+      "Total Strokes": "5,949",
+      "Total Adjustment": "49.317",
+      "Total Rounds": "86"
+    },
+    {
+      "rank": 12,
+      "player": "Jon Rahm",
+      "Avg": "69.755",
+      "Total Strokes": "4,871",
+      "Total Adjustment": "11.884",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 13,
+      "player": "Sungjae Im",
+      "Avg": "69.762",
+      "Total Strokes": "6,091",
+      "Total Adjustment": "48.024",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 14,
+      "player": "Sam Burns",
+      "Avg": "69.768",
+      "Total Strokes": "5,549",
+      "Total Adjustment": "32.422",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 15,
+      "player": "Joaquin Niemann",
+      "Avg": "69.829",
+      "Total Strokes": "5,560",
+      "Total Adjustment": "26.336",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 16,
+      "player": "Cameron Young",
+      "Avg": "69.844",
+      "Total Strokes": "5,711",
+      "Total Adjustment": "16.185",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 17,
+      "player": "Collin Morikawa",
+      "Avg": "69.863",
+      "Total Strokes": "4,178",
+      "Total Adjustment": "13.764",
+      "Total Rounds": "60"
+    },
+    {
+      "rank": 18,
+      "player": "Keith Mitchell",
+      "Avg": "69.916",
+      "Total Strokes": "5,978",
+      "Total Adjustment": "34.794",
+      "Total Rounds": "86"
+    },
+    {
+      "rank": 19,
+      "player": "Russell Henley",
+      "Avg": "69.933",
+      "Total Strokes": "5,424",
+      "Total Adjustment": "30.800",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 20,
+      "player": "Corey Conners",
+      "Avg": "69.941",
+      "Total Strokes": "6,064",
+      "Total Adjustment": "20.892",
+      "Total Rounds": "87"
+    },
+    {
+      "rank": 21,
+      "player": "Aaron Wise",
+      "Avg": "69.944",
+      "Total Strokes": "5,970",
+      "Total Adjustment": "45.182",
+      "Total Rounds": "86"
+    },
+    {
+      "rank": 22,
+      "player": "Denny McCarthy",
+      "Avg": "69.971",
+      "Total Strokes": "6,981",
+      "Total Adjustment": "16.085",
+      "Total Rounds": "100"
+    },
+    {
+      "rank": 23,
+      "player": "Max Homa",
+      "Avg": "69.972",
+      "Total Strokes": "5,729",
+      "Total Adjustment": "8.691",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 24,
+      "player": "Tyrrell Hatton",
+      "Avg": "70.010",
+      "Total Strokes": "4,495",
+      "Total Adjustment": "-14.373",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 25,
+      "player": "Billy Horschel",
+      "Avg": "70.023",
+      "Total Strokes": "4,886",
+      "Total Adjustment": "15.591",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 26,
+      "player": "Talor Gooch",
+      "Avg": "70.063",
+      "Total Strokes": "4,931",
+      "Total Adjustment": "43.453",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 27,
+      "player": "Hideki Matsuyama",
+      "Avg": "70.116",
+      "Total Strokes": "5,003",
+      "Total Adjustment": "45.366",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 28,
+      "player": "Viktor Hovland",
+      "Avg": "70.163",
+      "Total Strokes": "4,882",
+      "Total Adjustment": "29.387",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 29,
+      "player": "Brian Harman",
+      "Avg": "70.195",
+      "Total Strokes": "6,361",
+      "Total Adjustment": "26.789",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 30,
+      "player": "Mito Pereira",
+      "Avg": "70.216",
+      "Total Strokes": "6,222",
+      "Total Adjustment": "27.222",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 31,
+      "player": "Jordan Spieth",
+      "Avg": "70.240",
+      "Total Strokes": "5,161",
+      "Total Adjustment": "36.742",
+      "Total Rounds": "74"
+    },
+    {
+      "rank": 32,
+      "player": "Davis Riley",
+      "Avg": "70.259",
+      "Total Strokes": "6,570",
+      "Total Adjustment": "34.325",
+      "Total Rounds": "94"
+    },
+    {
+      "rank": 33,
+      "player": "Maverick McNealy",
+      "Avg": "70.282",
+      "Total Strokes": "6,138",
+      "Total Adjustment": "46.813",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 34,
+      "player": "Mark Hubbard",
+      "Avg": "70.284",
+      "Total Strokes": "4,728",
+      "Total Adjustment": "51.308",
+      "Total Rounds": "68"
+    },
+    {
+      "rank": 35,
+      "player": "Matt Kuchar",
+      "Avg": "70.291",
+      "Total Strokes": "4,954",
+      "Total Adjustment": "36.665",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 36,
+      "player": "J.T. Poston",
+      "Avg": "70.295",
+      "Total Strokes": "6,141",
+      "Total Adjustment": "44.982",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 37,
+      "player": "Seamus Power",
+      "Avg": "70.303",
+      "Total Strokes": "5,438",
+      "Total Adjustment": "45.625",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 38,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "70.320",
+      "Total Strokes": "5,596",
+      "Total Adjustment": "29.564",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 39,
+      "player": "Troy Merritt",
+      "Avg": "70.338",
+      "Total Strokes": "6,398",
+      "Total Adjustment": "2.765",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 40,
+      "player": "Keegan Bradley",
+      "Avg": "70.354",
+      "Total Strokes": "5,612",
+      "Total Adjustment": "16.288",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 41,
+      "player": "Tom Hoge",
+      "Avg": "70.366",
+      "Total Strokes": "6,714",
+      "Total Adjustment": "41.169",
+      "Total Rounds": "96"
+    },
+    {
+      "rank": 42,
+      "player": "Charles Howell III",
+      "Avg": "70.389",
+      "Total Strokes": "3,766",
+      "Total Adjustment": "34.982",
+      "Total Rounds": "54"
+    },
+    {
+      "rank": 43,
+      "player": "Justin Rose",
+      "Avg": "70.406",
+      "Total Strokes": "3,794",
+      "Total Adjustment": "7.932",
+      "Total Rounds": "54"
+    },
+    {
+      "rank": 44,
+      "player": "Adam Long",
+      "Avg": "70.417",
+      "Total Strokes": "6,157",
+      "Total Adjustment": "39.665",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 45,
+      "player": "Harold Varner III",
+      "Avg": "70.422",
+      "Total Strokes": "4,829",
+      "Total Adjustment": "30.110",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 46,
+      "player": "Chris Kirk",
+      "Avg": "70.425",
+      "Total Strokes": "5,888",
+      "Total Adjustment": "27.674",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 47,
+      "player": "Brendon Todd",
+      "Avg": "70.439",
+      "Total Strokes": "5,808",
+      "Total Adjustment": "38.405",
+      "Total Rounds": "83"
+    },
+    {
+      "rank": 48,
+      "player": "Scott Stallings",
+      "Avg": "70.457",
+      "Total Strokes": "6,707",
+      "Total Adjustment": "56.832",
+      "Total Rounds": "96"
+    },
+    {
+      "rank": 48,
+      "player": "Gary Woodland",
+      "Avg": "70.457",
+      "Total Strokes": "4,872",
+      "Total Adjustment": "-10.486",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 50,
+      "player": "Andrew Putnam",
+      "Avg": "70.468",
+      "Total Strokes": "6,578",
+      "Total Adjustment": "45.987",
+      "Total Rounds": "94"
+    },
+    {
+      "rank": 51,
+      "player": "Taylor Pendrith",
+      "Avg": "70.506",
+      "Total Strokes": "4,952",
+      "Total Adjustment": "53.921",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 51,
+      "player": "Adam Scott",
+      "Avg": "70.506",
+      "Total Strokes": "5,046",
+      "Total Adjustment": "30.456",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 53,
+      "player": "Marc Leishman",
+      "Avg": "70.511",
+      "Total Strokes": "5,048",
+      "Total Adjustment": "28.784",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 54,
+      "player": "Jhonattan Vegas",
+      "Avg": "70.521",
+      "Total Strokes": "5,403",
+      "Total Adjustment": "27.128",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 55,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "70.524",
+      "Total Strokes": "5,826",
+      "Total Adjustment": "27.485",
+      "Total Rounds": "83"
+    },
+    {
+      "rank": 56,
+      "player": "Alex Smalley",
+      "Avg": "70.535",
+      "Total Strokes": "6,521",
+      "Total Adjustment": "38.798",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 57,
+      "player": "Alex Noren",
+      "Avg": "70.545",
+      "Total Strokes": "4,478",
+      "Total Adjustment": "36.886",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 58,
+      "player": "Martin Laird",
+      "Avg": "70.574",
+      "Total Strokes": "4,637",
+      "Total Adjustment": "20.888",
+      "Total Rounds": "66"
+    },
+    {
+      "rank": 59,
+      "player": "K.H. Lee",
+      "Avg": "70.578",
+      "Total Strokes": "6,880",
+      "Total Adjustment": "36.609",
+      "Total Rounds": "98"
+    },
+    {
+      "rank": 60,
+      "player": "Webb Simpson",
+      "Avg": "70.583",
+      "Total Strokes": "4,140",
+      "Total Adjustment": "24.380",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 61,
+      "player": "Matthew NeSmith",
+      "Avg": "70.594",
+      "Total Strokes": "6,482",
+      "Total Adjustment": "12.631",
+      "Total Rounds": "92"
+    },
+    {
+      "rank": 62,
+      "player": "Adam Hadwin",
+      "Avg": "70.595",
+      "Total Strokes": "6,307",
+      "Total Adjustment": "46.569",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 62,
+      "player": "Patrick Rodgers",
+      "Avg": "70.595",
+      "Total Strokes": "5,976",
+      "Total Adjustment": "24.587",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 64,
+      "player": "Matthias Schwab",
+      "Avg": "70.598",
+      "Total Strokes": "4,912",
+      "Total Adjustment": "29.851",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 65,
+      "player": "Russell Knox",
+      "Avg": "70.603",
+      "Total Strokes": "6,246",
+      "Total Adjustment": "37.652",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 66,
+      "player": "Aaron Rai",
+      "Avg": "70.637",
+      "Total Strokes": "6,245",
+      "Total Adjustment": "41.677",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 67,
+      "player": "Mackenzie Hughes",
+      "Avg": "70.640",
+      "Total Strokes": "5,796",
+      "Total Adjustment": "-3.504",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 68,
+      "player": "J.J. Spaun",
+      "Avg": "70.669",
+      "Total Strokes": "6,674",
+      "Total Adjustment": "39.600",
+      "Total Rounds": "95"
+    },
+    {
+      "rank": 69,
+      "player": "Luke List",
+      "Avg": "70.679",
+      "Total Strokes": "5,643",
+      "Total Adjustment": "11.346",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 69,
+      "player": "Brendan Steele",
+      "Avg": "70.679",
+      "Total Strokes": "5,139",
+      "Total Adjustment": "20.570",
+      "Total Rounds": "73"
+    },
+    {
+      "rank": 71,
+      "player": "Tyler Duncan",
+      "Avg": "70.696",
+      "Total Strokes": "5,733",
+      "Total Adjustment": "64.112",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 72,
+      "player": "Cam Davis",
+      "Avg": "70.714",
+      "Total Strokes": "5,747",
+      "Total Adjustment": "51.584",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 73,
+      "player": "Lanto Griffin",
+      "Avg": "70.735",
+      "Total Strokes": "5,502",
+      "Total Adjustment": "15.309",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 74,
+      "player": "John Huh",
+      "Avg": "70.737",
+      "Total Strokes": "5,179",
+      "Total Adjustment": "55.515",
+      "Total Rounds": "74"
+    },
+    {
+      "rank": 75,
+      "player": "Cameron Tringale",
+      "Avg": "70.761",
+      "Total Strokes": "6,472",
+      "Total Adjustment": "38.052",
+      "Total Rounds": "92"
+    },
+    {
+      "rank": 76,
+      "player": "Ryan Palmer",
+      "Avg": "70.763",
+      "Total Strokes": "4,729",
+      "Total Adjustment": "12.130",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 77,
+      "player": "Wyndham Clark",
+      "Avg": "70.771",
+      "Total Strokes": "6,817",
+      "Total Adjustment": "47.764",
+      "Total Rounds": "97"
+    },
+    {
+      "rank": 78,
+      "player": "Jason Kokrak",
+      "Avg": "70.778",
+      "Total Strokes": "4,293",
+      "Total Adjustment": "24.455",
+      "Total Rounds": "61"
+    },
+    {
+      "rank": 79,
+      "player": "Satoshi Kodaira",
+      "Avg": "70.785",
+      "Total Strokes": "3,583",
+      "Total Adjustment": "27.018",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 80,
+      "player": "Sahith Theegala",
+      "Avg": "70.788",
+      "Total Strokes": "7,911",
+      "Total Adjustment": "88.099",
+      "Total Rounds": "113"
+    },
+    {
+      "rank": 81,
+      "player": "Callum Tarren",
+      "Avg": "70.801",
+      "Total Strokes": "4,859",
+      "Total Adjustment": "26.248",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 82,
+      "player": "David Lipsky",
+      "Avg": "70.802",
+      "Total Strokes": "6,190",
+      "Total Adjustment": "40.562",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 83,
+      "player": "C.T. Pan",
+      "Avg": "70.803",
+      "Total Strokes": "5,777",
+      "Total Adjustment": "28.806",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 84,
+      "player": "Jason Day",
+      "Avg": "70.806",
+      "Total Strokes": "4,009",
+      "Total Adjustment": "26.944",
+      "Total Rounds": "57"
+    },
+    {
+      "rank": 85,
+      "player": "Rory Sabbatini",
+      "Avg": "70.836",
+      "Total Strokes": "3,855",
+      "Total Adjustment": "40.957",
+      "Total Rounds": "55"
+    },
+    {
+      "rank": 86,
+      "player": "Stephan Jaeger",
+      "Avg": "70.841",
+      "Total Strokes": "5,988",
+      "Total Adjustment": "33.445",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 87,
+      "player": "Nick Hardy",
+      "Avg": "70.845",
+      "Total Strokes": "4,150",
+      "Total Adjustment": "29.826",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 88,
+      "player": "Joel Dahmen",
+      "Avg": "70.855",
+      "Total Strokes": "5,985",
+      "Total Adjustment": "37.633",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 89,
+      "player": "Anirban Lahiri",
+      "Avg": "70.869",
+      "Total Strokes": "5,082",
+      "Total Adjustment": "20.560",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 90,
+      "player": "Adam Svensson",
+      "Avg": "70.877",
+      "Total Strokes": "7,015",
+      "Total Adjustment": "72.692",
+      "Total Rounds": "100"
+    },
+    {
+      "rank": 91,
+      "player": "Matt Jones",
+      "Avg": "70.879",
+      "Total Strokes": "4,287",
+      "Total Adjustment": "36.639",
+      "Total Rounds": "61"
+    },
+    {
+      "rank": 92,
+      "player": "Luke Donald",
+      "Avg": "70.882",
+      "Total Strokes": "4,721",
+      "Total Adjustment": "28.086",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 92,
+      "player": "Kurt Kitayama",
+      "Avg": "70.882",
+      "Total Strokes": "4,937",
+      "Total Adjustment": "24.747",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 94,
+      "player": "Lee Hodges",
+      "Avg": "70.889",
+      "Total Strokes": "6,531",
+      "Total Adjustment": "61.690",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 95,
+      "player": "Kevin Streelman",
+      "Avg": "70.901",
+      "Total Strokes": "6,178",
+      "Total Adjustment": "61.254",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 96,
+      "player": "Nate Lashley",
+      "Avg": "70.902",
+      "Total Strokes": "5,321",
+      "Total Adjustment": "67.521",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 97,
+      "player": "Robert Streb",
+      "Avg": "70.906",
+      "Total Strokes": "5,844",
+      "Total Adjustment": "41.167",
+      "Total Rounds": "83"
+    },
+    {
+      "rank": 98,
+      "player": "Si Woo Kim",
+      "Avg": "70.916",
+      "Total Strokes": "6,893",
+      "Total Adjustment": "56.773",
+      "Total Rounds": "98"
+    },
+    {
+      "rank": 99,
+      "player": "Abraham Ancer",
+      "Avg": "70.917",
+      "Total Strokes": "4,071",
+      "Total Adjustment": "42.161",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 100,
+      "player": "Vince Whaley",
+      "Avg": "70.923",
+      "Total Strokes": "5,957",
+      "Total Adjustment": "71.429",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 101,
+      "player": "Ryan Armour",
+      "Avg": "70.924",
+      "Total Strokes": "3,527",
+      "Total Adjustment": "19.214",
+      "Total Rounds": "50"
+    },
+    {
+      "rank": 102,
+      "player": "Vaughn Taylor",
+      "Avg": "70.928",
+      "Total Strokes": "3,718",
+      "Total Adjustment": "41.203",
+      "Total Rounds": "53"
+    },
+    {
+      "rank": 103,
+      "player": "Nick Taylor",
+      "Avg": "70.930",
+      "Total Strokes": "6,224",
+      "Total Adjustment": "17.822",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 104,
+      "player": "Taylor Moore",
+      "Avg": "70.939",
+      "Total Strokes": "5,897",
+      "Total Adjustment": "61.908",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 105,
+      "player": "Pat Perez",
+      "Avg": "70.941",
+      "Total Strokes": "4,374",
+      "Total Adjustment": "24.369",
+      "Total Rounds": "62"
+    },
+    {
+      "rank": 106,
+      "player": "Cameron Percy",
+      "Avg": "70.947",
+      "Total Strokes": "3,088",
+      "Total Adjustment": "33.649",
+      "Total Rounds": "44"
+    },
+    {
+      "rank": 107,
+      "player": "Emiliano Grillo",
+      "Avg": "70.965",
+      "Total Strokes": "5,891",
+      "Total Adjustment": "70.057",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 108,
+      "player": "Kevin Kisner",
+      "Avg": "70.966",
+      "Total Strokes": "4,630",
+      "Total Adjustment": "53.740",
+      "Total Rounds": "66"
+    },
+    {
+      "rank": 109,
+      "player": "James Hahn",
+      "Avg": "70.973",
+      "Total Strokes": "4,993",
+      "Total Adjustment": "46.106",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 110,
+      "player": "Beau Hossler",
+      "Avg": "70.980",
+      "Total Strokes": "4,974",
+      "Total Adjustment": "-5.423",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 111,
+      "player": "Rickie Fowler",
+      "Avg": "70.987",
+      "Total Strokes": "5,040",
+      "Total Adjustment": ".088",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 112,
+      "player": "Greyson Sigg",
+      "Avg": "70.994",
+      "Total Strokes": "6,321",
+      "Total Adjustment": "68.423",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 113,
+      "player": "Brandon Wu",
+      "Avg": "71.006",
+      "Total Strokes": "5,203",
+      "Total Adjustment": "51.450",
+      "Total Rounds": "74"
+    },
+    {
+      "rank": 114,
+      "player": "Trey Mullinax",
+      "Avg": "71.008",
+      "Total Strokes": "5,745",
+      "Total Adjustment": "77.668",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 115,
+      "player": "Dylan Frittelli",
+      "Avg": "71.013",
+      "Total Strokes": "6,574",
+      "Total Adjustment": "30.248",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 116,
+      "player": "Chez Reavie",
+      "Avg": "71.039",
+      "Total Strokes": "5,999",
+      "Total Adjustment": "39.277",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 117,
+      "player": "Hayden Buckley",
+      "Avg": "71.041",
+      "Total Strokes": "6,410",
+      "Total Adjustment": "54.692",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 118,
+      "player": "Doug Ghim",
+      "Avg": "71.056",
+      "Total Strokes": "5,935",
+      "Total Adjustment": "33.712",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 119,
+      "player": "Peter Malnati",
+      "Avg": "71.059",
+      "Total Strokes": "7,249",
+      "Total Adjustment": "70.116",
+      "Total Rounds": "103"
+    },
+    {
+      "rank": 120,
+      "player": "Sam Ryder",
+      "Avg": "71.064",
+      "Total Strokes": "6,202",
+      "Total Adjustment": "51.622",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 121,
+      "player": "Chase Seiffert",
+      "Avg": "71.067",
+      "Total Strokes": "3,610",
+      "Total Adjustment": "14.420",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 122,
+      "player": "Michael Thompson",
+      "Avg": "71.070",
+      "Total Strokes": "5,902",
+      "Total Adjustment": "67.921",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 123,
+      "player": "Danny Lee",
+      "Avg": "71.072",
+      "Total Strokes": "3,687",
+      "Total Adjustment": "8.760",
+      "Total Rounds": "52"
+    },
+    {
+      "rank": 124,
+      "player": "Ian Poulter",
+      "Avg": "71.078",
+      "Total Strokes": "3,118",
+      "Total Adjustment": "9.452",
+      "Total Rounds": "44"
+    },
+    {
+      "rank": 125,
+      "player": "Scott Piercy",
+      "Avg": "71.084",
+      "Total Strokes": "5,429",
+      "Total Adjustment": "44.486",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 126,
+      "player": "Kramer Hickok",
+      "Avg": "71.087",
+      "Total Strokes": "6,437",
+      "Total Adjustment": "31.936",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 127,
+      "player": "Justin Lower",
+      "Avg": "71.093",
+      "Total Strokes": "5,068",
+      "Total Adjustment": "50.683",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 128,
+      "player": "Hank Lebioda",
+      "Avg": "71.098",
+      "Total Strokes": "5,642",
+      "Total Adjustment": "45.812",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 129,
+      "player": "Austin Smotherman",
+      "Avg": "71.106",
+      "Total Strokes": "5,429",
+      "Total Adjustment": "46.131",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 130,
+      "player": "Danny Willett",
+      "Avg": "71.114",
+      "Total Strokes": "4,398",
+      "Total Adjustment": "11.052",
+      "Total Rounds": "62"
+    },
+    {
+      "rank": 131,
+      "player": "Stewart Cink",
+      "Avg": "71.118",
+      "Total Strokes": "5,443",
+      "Total Adjustment": "33.111",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 131,
+      "player": "Adam Schenk",
+      "Avg": "71.118",
+      "Total Strokes": "6,393",
+      "Total Adjustment": "7.575",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 133,
+      "player": "Sepp Straka",
+      "Avg": "71.119",
+      "Total Strokes": "6,940",
+      "Total Adjustment": "29.672",
+      "Total Rounds": "98"
+    },
+    {
+      "rank": 134,
+      "player": "Jonathan Byrd",
+      "Avg": "71.135",
+      "Total Strokes": "4,013",
+      "Total Adjustment": "41.670",
+      "Total Rounds": "57"
+    },
+    {
+      "rank": 135,
+      "player": "Kelly Kraft",
+      "Avg": "71.144",
+      "Total Strokes": "4,870",
+      "Total Adjustment": "38.927",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 136,
+      "player": "Zach Johnson",
+      "Avg": "71.174",
+      "Total Strokes": "4,536",
+      "Total Adjustment": "19.161",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 137,
+      "player": "Lucas Herbert",
+      "Avg": "71.179",
+      "Total Strokes": "3,849",
+      "Total Adjustment": "-5.322",
+      "Total Rounds": "54"
+    },
+    {
+      "rank": 138,
+      "player": "Chad Ramey",
+      "Avg": "71.208",
+      "Total Strokes": "5,160",
+      "Total Adjustment": "38.173",
+      "Total Rounds": "73"
+    },
+    {
+      "rank": 139,
+      "player": "Brooks Koepka",
+      "Avg": "71.234",
+      "Total Strokes": "3,257",
+      "Total Adjustment": "19.785",
+      "Total Rounds": "46"
+    },
+    {
+      "rank": 140,
+      "player": "Bill Haas",
+      "Avg": "71.255",
+      "Total Strokes": "6,349",
+      "Total Adjustment": "63.994",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 141,
+      "player": "Francesco Molinari",
+      "Avg": "71.263",
+      "Total Strokes": "3,764",
+      "Total Adjustment": "12.915",
+      "Total Rounds": "53"
+    },
+    {
+      "rank": 142,
+      "player": "Lucas Glover",
+      "Avg": "71.270",
+      "Total Strokes": "6,583",
+      "Total Adjustment": "45.093",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 143,
+      "player": "Patton Kizzire",
+      "Avg": "71.285",
+      "Total Strokes": "6,346",
+      "Total Adjustment": "69.635",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 144,
+      "player": "Michael Gligic",
+      "Avg": "71.296",
+      "Total Strokes": "5,002",
+      "Total Adjustment": "60.030",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 145,
+      "player": "Andrew Novak",
+      "Avg": "71.303",
+      "Total Strokes": "5,367",
+      "Total Adjustment": "52.004",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 146,
+      "player": "Brian Stuard",
+      "Avg": "71.332",
+      "Total Strokes": "6,300",
+      "Total Adjustment": "48.574",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 147,
+      "player": "Henrik Norlander",
+      "Avg": "71.365",
+      "Total Strokes": "5,091",
+      "Total Adjustment": "47.290",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 148,
+      "player": "Matthew Wolff",
+      "Avg": "71.375",
+      "Total Strokes": "3,352",
+      "Total Adjustment": "2.640",
+      "Total Rounds": "47"
+    },
+    {
+      "rank": 149,
+      "player": "Brice Garnett",
+      "Avg": "71.376",
+      "Total Strokes": "5,438",
+      "Total Adjustment": "57.921",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 150,
+      "player": "Ben Kohles",
+      "Avg": "71.385",
+      "Total Strokes": "4,452",
+      "Total Adjustment": "45.256",
+      "Total Rounds": "63"
+    },
+    {
+      "rank": 151,
+      "player": "Matt Wallace",
+      "Avg": "71.400",
+      "Total Strokes": "3,974",
+      "Total Adjustment": "24.407",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 152,
+      "player": "Erik van Rooyen",
+      "Avg": "71.453",
+      "Total Strokes": "3,410",
+      "Total Adjustment": "19.760",
+      "Total Rounds": "48"
+    },
+    {
+      "rank": 153,
+      "player": "Doc Redman",
+      "Avg": "71.467",
+      "Total Strokes": "5,584",
+      "Total Adjustment": "61.858",
+      "Total Rounds": "79"
+    },
+    {
+      "rank": 154,
+      "player": "Hudson Swafford",
+      "Avg": "71.490",
+      "Total Strokes": "4,530",
+      "Total Adjustment": "45.355",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 155,
+      "player": "S.Y. Noh",
+      "Avg": "71.496",
+      "Total Strokes": "4,457",
+      "Total Adjustment": "47.228",
+      "Total Rounds": "63"
+    },
+    {
+      "rank": 156,
+      "player": "Scott Gutschewski",
+      "Avg": "71.510",
+      "Total Strokes": "3,961",
+      "Total Adjustment": "43.541",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 156,
+      "player": "Charley Hoffman",
+      "Avg": "71.510",
+      "Total Strokes": "4,889",
+      "Total Adjustment": "45.191",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 158,
+      "player": "Cameron Champ",
+      "Avg": "71.527",
+      "Total Strokes": "3,990",
+      "Total Adjustment": "15.530",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 159,
+      "player": "Austin Cook",
+      "Avg": "71.543",
+      "Total Strokes": "4,882",
+      "Total Adjustment": "54.466",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 160,
+      "player": "Kevin Tway",
+      "Avg": "71.554",
+      "Total Strokes": "5,454",
+      "Total Adjustment": "55.634",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 161,
+      "player": "Max McGreevy",
+      "Avg": "71.556",
+      "Total Strokes": "5,110",
+      "Total Adjustment": "42.058",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 162,
+      "player": "Chesson Hadley",
+      "Avg": "71.565",
+      "Total Strokes": "5,658",
+      "Total Adjustment": "67.197",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 163,
+      "player": "Jim Knous",
+      "Avg": "71.566",
+      "Total Strokes": "3,614",
+      "Total Adjustment": "35.845",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 164,
+      "player": "Roger Sloan",
+      "Avg": "71.569",
+      "Total Strokes": "5,189",
+      "Total Adjustment": "35.535",
+      "Total Rounds": "73"
+    },
+    {
+      "rank": 165,
+      "player": "Harry Higgs",
+      "Avg": "71.606",
+      "Total Strokes": "5,693",
+      "Total Adjustment": "35.480",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 166,
+      "player": "Jared Wolfe",
+      "Avg": "71.611",
+      "Total Strokes": "4,175",
+      "Total Adjustment": "50.026",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 167,
+      "player": "Kiradech Aphibarnrat",
+      "Avg": "71.616",
+      "Total Strokes": "3,756",
+      "Total Adjustment": "39.654",
+      "Total Rounds": "53"
+    },
+    {
+      "rank": 168,
+      "player": "Joseph Bramlett",
+      "Avg": "71.619",
+      "Total Strokes": "5,745",
+      "Total Adjustment": "56.137",
+      "Total Rounds": "81"
+    },
+    {
+      "rank": 169,
+      "player": "Dylan Wu",
+      "Avg": "71.628",
+      "Total Strokes": "4,756",
+      "Total Adjustment": "43.070",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 170,
+      "player": "Carlos Ortiz",
+      "Avg": "71.632",
+      "Total Strokes": "4,320",
+      "Total Adjustment": "49.563",
+      "Total Rounds": "61"
+    },
+    {
+      "rank": 171,
+      "player": "Brandt Snedeker",
+      "Avg": "71.691",
+      "Total Strokes": "4,193",
+      "Total Adjustment": "36.790",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 172,
+      "player": "Camilo Villegas",
+      "Avg": "71.708",
+      "Total Strokes": "4,911",
+      "Total Adjustment": "36.837",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 173,
+      "player": "Paul Barjon",
+      "Avg": "71.752",
+      "Total Strokes": "5,043",
+      "Total Adjustment": "51.363",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 174,
+      "player": "Jim Herman",
+      "Avg": "71.791",
+      "Total Strokes": "3,628",
+      "Total Adjustment": "33.337",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 175,
+      "player": "Curtis Thompson",
+      "Avg": "71.839",
+      "Total Strokes": "4,550",
+      "Total Adjustment": "47.665",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 176,
+      "player": "Martin Trainer",
+      "Avg": "71.841",
+      "Total Strokes": "5,551",
+      "Total Adjustment": "52.581",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 177,
+      "player": "David Skinns",
+      "Avg": "71.907",
+      "Total Strokes": "4,694",
+      "Total Adjustment": "51.878",
+      "Total Rounds": "66"
+    },
+    {
+      "rank": 178,
+      "player": "Kevin Chappell",
+      "Avg": "71.909",
+      "Total Strokes": "3,912",
+      "Total Adjustment": "43.002",
+      "Total Rounds": "55"
+    },
+    {
+      "rank": 179,
+      "player": "Sung Kang",
+      "Avg": "71.923",
+      "Total Strokes": "5,678",
+      "Total Adjustment": "75.813",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 180,
+      "player": "Bo Hoag",
+      "Avg": "71.970",
+      "Total Strokes": "3,497",
+      "Total Adjustment": "29.552",
+      "Total Rounds": "49"
+    },
+    {
+      "rank": 181,
+      "player": "Seth Reeves",
+      "Avg": "72.005",
+      "Total Strokes": "4,762",
+      "Total Adjustment": "62.337",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 182,
+      "player": "Nick Watney",
+      "Avg": "72.038",
+      "Total Strokes": "5,450",
+      "Total Adjustment": "24.886",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 183,
+      "player": "Brandon Hagy",
+      "Avg": "72.071",
+      "Total Strokes": "5,572",
+      "Total Adjustment": "49.541",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 184,
+      "player": "Jason Dufner",
+      "Avg": "72.076",
+      "Total Strokes": "3,589",
+      "Total Adjustment": "14.815",
+      "Total Rounds": "50"
+    },
+    {
+      "rank": 185,
+      "player": "Wesley Bryan",
+      "Avg": "72.093",
+      "Total Strokes": "3,497",
+      "Total Adjustment": "35.569",
+      "Total Rounds": "49"
+    },
+    {
+      "rank": 186,
+      "player": "Garrick Higgo",
+      "Avg": "72.172",
+      "Total Strokes": "4,178",
+      "Total Adjustment": "7.952",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 187,
+      "player": "Dawie van der Walt",
+      "Avg": "72.198",
+      "Total Strokes": "4,436",
+      "Total Adjustment": "40.271",
+      "Total Rounds": "62"
+    },
+    {
+      "rank": 188,
+      "player": "Brett Drewitt",
+      "Avg": "72.233",
+      "Total Strokes": "4,149",
+      "Total Adjustment": "40.542",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 189,
+      "player": "Richy Werenski",
+      "Avg": "72.310",
+      "Total Strokes": "4,509",
+      "Total Adjustment": "46.560",
+      "Total Rounds": "63"
+    },
+    {
+      "rank": 190,
+      "player": "Joshua Creel",
+      "Avg": "72.388",
+      "Total Strokes": "3,374",
+      "Total Adjustment": "28.239",
+      "Total Rounds": "47"
+    },
+    {
+      "rank": 191,
+      "player": "Jonas Blixt",
+      "Avg": "72.679",
+      "Total Strokes": "3,601",
+      "Total Adjustment": "32.962",
+      "Total Rounds": "50"
+    }
+  ]
+}

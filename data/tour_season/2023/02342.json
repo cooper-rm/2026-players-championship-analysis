@@ -1,0 +1,1359 @@
+{
+  "stat_id": "02342",
+  "year": 2023,
+  "category": "Off The Tee",
+  "stat_title": "Percentage of Yardage covered by Tee Shots - Par 4's",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Trevor Cone",
+      "Avg (%)": "70.97%",
+      "Total Shot Distance": "202,750.7",
+      "Total Distance": "285,688"
+    },
+    {
+      "rank": 2,
+      "player": "Cameron Young",
+      "Avg (%)": "70.47%",
+      "Total Shot Distance": "226,392.1",
+      "Total Distance": "321,259"
+    },
+    {
+      "rank": 3,
+      "player": "Ludvig \u00c5berg",
+      "Avg (%)": "70.36%",
+      "Total Shot Distance": "145,964.9",
+      "Total Distance": "207,449"
+    },
+    {
+      "rank": 4,
+      "player": "Luke List",
+      "Avg (%)": "70.33%",
+      "Total Shot Distance": "265,192.1",
+      "Total Distance": "377,090"
+    },
+    {
+      "rank": 5,
+      "player": "Kevin Yu",
+      "Avg (%)": "70.14%",
+      "Total Shot Distance": "155,504.3",
+      "Total Distance": "221,697"
+    },
+    {
+      "rank": 6,
+      "player": "Rory McIlroy",
+      "Avg (%)": "70.09%",
+      "Total Shot Distance": "197,985.5",
+      "Total Distance": "282,459"
+    },
+    {
+      "rank": 7,
+      "player": "Peter Kuest",
+      "Avg (%)": "69.91%",
+      "Total Shot Distance": "126,883.7",
+      "Total Distance": "181,494"
+    },
+    {
+      "rank": 8,
+      "player": "Brent Grant",
+      "Avg (%)": "69.80%",
+      "Total Shot Distance": "183,087.9",
+      "Total Distance": "262,302"
+    },
+    {
+      "rank": 9,
+      "player": "Byeong Hun An",
+      "Avg (%)": "69.71%",
+      "Total Shot Distance": "287,450.6",
+      "Total Distance": "412,366"
+    },
+    {
+      "rank": 10,
+      "player": "Kyle Westmoreland",
+      "Avg (%)": "69.67%",
+      "Total Shot Distance": "182,295.3",
+      "Total Distance": "261,666"
+    },
+    {
+      "rank": 11,
+      "player": "MJ Daffue",
+      "Avg (%)": "69.54%",
+      "Total Shot Distance": "235,848.4",
+      "Total Distance": "339,139"
+    },
+    {
+      "rank": 12,
+      "player": "Vincent Norrman",
+      "Avg (%)": "69.46%",
+      "Total Shot Distance": "209,339.4",
+      "Total Distance": "301,397"
+    },
+    {
+      "rank": 13,
+      "player": "Callum Tarren",
+      "Avg (%)": "69.45%",
+      "Total Shot Distance": "263,120.1",
+      "Total Distance": "378,849"
+    },
+    {
+      "rank": 14,
+      "player": "Carl Yuan",
+      "Avg (%)": "69.40%",
+      "Total Shot Distance": "218,431.5",
+      "Total Distance": "314,760"
+    },
+    {
+      "rank": 15,
+      "player": "Keith Mitchell",
+      "Avg (%)": "69.35%",
+      "Total Shot Distance": "241,795.7",
+      "Total Distance": "348,639"
+    },
+    {
+      "rank": 16,
+      "player": "Nicolai Hojgaard",
+      "Avg (%)": "69.24%",
+      "Total Shot Distance": "108,751.1",
+      "Total Distance": "157,068"
+    },
+    {
+      "rank": 17,
+      "player": "Brandon Matthews",
+      "Avg (%)": "69.22%",
+      "Total Shot Distance": "133,053.8",
+      "Total Distance": "192,228"
+    },
+    {
+      "rank": 18,
+      "player": "Sam Stevens",
+      "Avg (%)": "69.19%",
+      "Total Shot Distance": "266,195.2",
+      "Total Distance": "384,708"
+    },
+    {
+      "rank": 19,
+      "player": "Adam Scott",
+      "Avg (%)": "69.14%",
+      "Total Shot Distance": "171,837.4",
+      "Total Distance": "248,541"
+    },
+    {
+      "rank": 20,
+      "player": "Scott Harrington",
+      "Avg (%)": "69.11%",
+      "Total Shot Distance": "177,792.7",
+      "Total Distance": "257,275"
+    },
+    {
+      "rank": 21,
+      "player": "Lucas Herbert",
+      "Avg (%)": "68.97%",
+      "Total Shot Distance": "153,290.1",
+      "Total Distance": "222,262"
+    },
+    {
+      "rank": 22,
+      "player": "Trey Mullinax",
+      "Avg (%)": "68.96%",
+      "Total Shot Distance": "214,142.7",
+      "Total Distance": "310,533"
+    },
+    {
+      "rank": 23,
+      "player": "Scottie Scheffler",
+      "Avg (%)": "68.92%",
+      "Total Shot Distance": "244,001.0",
+      "Total Distance": "354,027"
+    },
+    {
+      "rank": 24,
+      "player": "Matti Schmid",
+      "Avg (%)": "68.91%",
+      "Total Shot Distance": "161,788.6",
+      "Total Distance": "234,788"
+    },
+    {
+      "rank": 25,
+      "player": "Taylor Pendrith",
+      "Avg (%)": "68.80%",
+      "Total Shot Distance": "252,679.7",
+      "Total Distance": "367,272"
+    },
+    {
+      "rank": 26,
+      "player": "Kevin Tway",
+      "Avg (%)": "68.79%",
+      "Total Shot Distance": "255,233.1",
+      "Total Distance": "371,030"
+    },
+    {
+      "rank": 27,
+      "player": "Patrick Rodgers",
+      "Avg (%)": "68.78%",
+      "Total Shot Distance": "268,374.7",
+      "Total Distance": "390,206"
+    },
+    {
+      "rank": 28,
+      "player": "Garrick Higgo",
+      "Avg (%)": "68.76%",
+      "Total Shot Distance": "280,008.1",
+      "Total Distance": "407,248"
+    },
+    {
+      "rank": 29,
+      "player": "Wyndham Clark",
+      "Avg (%)": "68.70%",
+      "Total Shot Distance": "274,059.7",
+      "Total Distance": "398,916"
+    },
+    {
+      "rank": 30,
+      "player": "Joseph Bramlett",
+      "Avg (%)": "68.69%",
+      "Total Shot Distance": "211,827.1",
+      "Total Distance": "308,394"
+    },
+    {
+      "rank": 31,
+      "player": "Davis Thompson",
+      "Avg (%)": "68.65%",
+      "Total Shot Distance": "274,180.7",
+      "Total Distance": "399,394"
+    },
+    {
+      "rank": 32,
+      "player": "Charley Hoffman",
+      "Avg (%)": "68.59%",
+      "Total Shot Distance": "180,066.6",
+      "Total Distance": "262,512"
+    },
+    {
+      "rank": 33,
+      "player": "Beau Hossler",
+      "Avg (%)": "68.57%",
+      "Total Shot Distance": "277,123.7",
+      "Total Distance": "404,175"
+    },
+    {
+      "rank": 34,
+      "player": "Trevor Werbylo",
+      "Avg (%)": "68.55%",
+      "Total Shot Distance": "178,545.8",
+      "Total Distance": "260,472"
+    },
+    {
+      "rank": 35,
+      "player": "Ryan Brehm",
+      "Avg (%)": "68.52%",
+      "Total Shot Distance": "212,566.9",
+      "Total Distance": "310,234"
+    },
+    {
+      "rank": 35,
+      "player": "Jon Rahm",
+      "Avg (%)": "68.52%",
+      "Total Shot Distance": "195,997.0",
+      "Total Distance": "286,055"
+    },
+    {
+      "rank": 37,
+      "player": "Viktor Hovland",
+      "Avg (%)": "68.51%",
+      "Total Shot Distance": "230,482.8",
+      "Total Distance": "336,399"
+    },
+    {
+      "rank": 38,
+      "player": "Patrick Cantlay",
+      "Avg (%)": "68.47%",
+      "Total Shot Distance": "203,368.3",
+      "Total Distance": "297,010"
+    },
+    {
+      "rank": 39,
+      "player": "Akshay Bhatia",
+      "Avg (%)": "68.43%",
+      "Total Shot Distance": "183,579.7",
+      "Total Distance": "268,277"
+    },
+    {
+      "rank": 40,
+      "player": "Cameron Champ",
+      "Avg (%)": "68.41%",
+      "Total Shot Distance": "186,095.7",
+      "Total Distance": "272,012"
+    },
+    {
+      "rank": 41,
+      "player": "Corey Conners",
+      "Avg (%)": "68.40%",
+      "Total Shot Distance": "248,320.8",
+      "Total Distance": "363,029"
+    },
+    {
+      "rank": 42,
+      "player": "Stephan Jaeger",
+      "Avg (%)": "68.39%",
+      "Total Shot Distance": "340,863.5",
+      "Total Distance": "498,444"
+    },
+    {
+      "rank": 42,
+      "player": "Augusto N\u00fa\u00f1ez",
+      "Avg (%)": "68.39%",
+      "Total Shot Distance": "180,881.7",
+      "Total Distance": "264,490"
+    },
+    {
+      "rank": 44,
+      "player": "Zecheng Dou",
+      "Avg (%)": "68.37%",
+      "Total Shot Distance": "235,668.2",
+      "Total Distance": "344,698"
+    },
+    {
+      "rank": 45,
+      "player": "Max Homa",
+      "Avg (%)": "68.31%",
+      "Total Shot Distance": "248,865.6",
+      "Total Distance": "364,326"
+    },
+    {
+      "rank": 46,
+      "player": "Cam Davis",
+      "Avg (%)": "68.27%",
+      "Total Shot Distance": "259,696.0",
+      "Total Distance": "380,381"
+    },
+    {
+      "rank": 47,
+      "player": "Justin Thomas",
+      "Avg (%)": "68.21%",
+      "Total Shot Distance": "211,660.5",
+      "Total Distance": "310,307"
+    },
+    {
+      "rank": 48,
+      "player": "Michael Gligic",
+      "Avg (%)": "68.19%",
+      "Total Shot Distance": "159,806.3",
+      "Total Distance": "234,351"
+    },
+    {
+      "rank": 48,
+      "player": "Harry Higgs",
+      "Avg (%)": "68.19%",
+      "Total Shot Distance": "183,347.0",
+      "Total Distance": "268,865"
+    },
+    {
+      "rank": 50,
+      "player": "Nick Hardy",
+      "Avg (%)": "68.17%",
+      "Total Shot Distance": "282,795.8",
+      "Total Distance": "414,813"
+    },
+    {
+      "rank": 51,
+      "player": "Scott Stallings",
+      "Avg (%)": "68.16%",
+      "Total Shot Distance": "210,259.8",
+      "Total Distance": "308,460"
+    },
+    {
+      "rank": 52,
+      "player": "Martin Trainer",
+      "Avg (%)": "68.15%",
+      "Total Shot Distance": "116,266.9",
+      "Total Distance": "170,602"
+    },
+    {
+      "rank": 53,
+      "player": "Stewart Cink",
+      "Avg (%)": "68.14%",
+      "Total Shot Distance": "207,923.2",
+      "Total Distance": "305,146"
+    },
+    {
+      "rank": 54,
+      "player": "Ryan Palmer",
+      "Avg (%)": "68.12%",
+      "Total Shot Distance": "207,621.5",
+      "Total Distance": "304,801"
+    },
+    {
+      "rank": 55,
+      "player": "Sam Burns",
+      "Avg (%)": "68.06%",
+      "Total Shot Distance": "234,984.0",
+      "Total Distance": "345,258"
+    },
+    {
+      "rank": 56,
+      "player": "Kevin Chappell",
+      "Avg (%)": "68.04%",
+      "Total Shot Distance": "110,351.6",
+      "Total Distance": "162,178"
+    },
+    {
+      "rank": 57,
+      "player": "Jimmy Walker",
+      "Avg (%)": "68.03%",
+      "Total Shot Distance": "237,485.7",
+      "Total Distance": "349,066"
+    },
+    {
+      "rank": 58,
+      "player": "Dylan Frittelli",
+      "Avg (%)": "68.00%",
+      "Total Shot Distance": "183,179.4",
+      "Total Distance": "269,389"
+    },
+    {
+      "rank": 58,
+      "player": "Tyrrell Hatton",
+      "Avg (%)": "68.00%",
+      "Total Shot Distance": "215,939.5",
+      "Total Distance": "317,555"
+    },
+    {
+      "rank": 60,
+      "player": "S.H. Kim",
+      "Avg (%)": "67.97%",
+      "Total Shot Distance": "300,005.8",
+      "Total Distance": "441,391"
+    },
+    {
+      "rank": 61,
+      "player": "Erik van Rooyen",
+      "Avg (%)": "67.94%",
+      "Total Shot Distance": "172,035.6",
+      "Total Distance": "253,205"
+    },
+    {
+      "rank": 62,
+      "player": "Tyler Duncan",
+      "Avg (%)": "67.91%",
+      "Total Shot Distance": "248,291.7",
+      "Total Distance": "365,595"
+    },
+    {
+      "rank": 63,
+      "player": "Gary Woodland",
+      "Avg (%)": "67.83%",
+      "Total Shot Distance": "230,086.6",
+      "Total Distance": "339,208"
+    },
+    {
+      "rank": 64,
+      "player": "Tano Goya",
+      "Avg (%)": "67.82%",
+      "Total Shot Distance": "199,127.2",
+      "Total Distance": "293,610"
+    },
+    {
+      "rank": 65,
+      "player": "Hayden Buckley",
+      "Avg (%)": "67.80%",
+      "Total Shot Distance": "209,150.1",
+      "Total Distance": "308,496"
+    },
+    {
+      "rank": 65,
+      "player": "Thomas Detry",
+      "Avg (%)": "67.80%",
+      "Total Shot Distance": "210,528.5",
+      "Total Distance": "310,516"
+    },
+    {
+      "rank": 65,
+      "player": "Jordan Spieth",
+      "Avg (%)": "67.80%",
+      "Total Shot Distance": "199,937.7",
+      "Total Distance": "294,906"
+    },
+    {
+      "rank": 68,
+      "player": "Sahith Theegala",
+      "Avg (%)": "67.70%",
+      "Total Shot Distance": "273,136.6",
+      "Total Distance": "403,469"
+    },
+    {
+      "rank": 69,
+      "player": "Chesson Hadley",
+      "Avg (%)": "67.68%",
+      "Total Shot Distance": "244,439.3",
+      "Total Distance": "361,158"
+    },
+    {
+      "rank": 70,
+      "player": "J.J. Spaun",
+      "Avg (%)": "67.67%",
+      "Total Shot Distance": "265,477.3",
+      "Total Distance": "392,319"
+    },
+    {
+      "rank": 71,
+      "player": "Robert Streb",
+      "Avg (%)": "67.63%",
+      "Total Shot Distance": "194,575.8",
+      "Total Distance": "287,691"
+    },
+    {
+      "rank": 72,
+      "player": "Michael Kim",
+      "Avg (%)": "67.62%",
+      "Total Shot Distance": "216,226.4",
+      "Total Distance": "319,781"
+    },
+    {
+      "rank": 72,
+      "player": "Peter Malnati",
+      "Avg (%)": "67.62%",
+      "Total Shot Distance": "232,705.4",
+      "Total Distance": "344,129"
+    },
+    {
+      "rank": 74,
+      "player": "Jason Day",
+      "Avg (%)": "67.60%",
+      "Total Shot Distance": "206,426.3",
+      "Total Distance": "305,352"
+    },
+    {
+      "rank": 74,
+      "player": "Matt Fitzpatrick",
+      "Avg (%)": "67.60%",
+      "Total Shot Distance": "204,480.7",
+      "Total Distance": "302,498"
+    },
+    {
+      "rank": 76,
+      "player": "Ben Griffin",
+      "Avg (%)": "67.59%",
+      "Total Shot Distance": "281,457.2",
+      "Total Distance": "416,410"
+    },
+    {
+      "rank": 77,
+      "player": "Keegan Bradley",
+      "Avg (%)": "67.58%",
+      "Total Shot Distance": "217,202.1",
+      "Total Distance": "321,403"
+    },
+    {
+      "rank": 78,
+      "player": "Davis Riley",
+      "Avg (%)": "67.54%",
+      "Total Shot Distance": "236,922.6",
+      "Total Distance": "350,767"
+    },
+    {
+      "rank": 79,
+      "player": "Patton Kizzire",
+      "Avg (%)": "67.52%",
+      "Total Shot Distance": "256,900.1",
+      "Total Distance": "380,508"
+    },
+    {
+      "rank": 80,
+      "player": "Joel Dahmen",
+      "Avg (%)": "67.47%",
+      "Total Shot Distance": "225,903.4",
+      "Total Distance": "334,797"
+    },
+    {
+      "rank": 80,
+      "player": "Taylor Moore",
+      "Avg (%)": "67.47%",
+      "Total Shot Distance": "256,453.5",
+      "Total Distance": "380,074"
+    },
+    {
+      "rank": 82,
+      "player": "Cody Gribble",
+      "Avg (%)": "67.46%",
+      "Total Shot Distance": "152,376.2",
+      "Total Distance": "225,892"
+    },
+    {
+      "rank": 83,
+      "player": "Austin Smotherman",
+      "Avg (%)": "67.44%",
+      "Total Shot Distance": "250,785.9",
+      "Total Distance": "371,864"
+    },
+    {
+      "rank": 84,
+      "player": "Austin Eckroat",
+      "Avg (%)": "67.43%",
+      "Total Shot Distance": "223,188.5",
+      "Total Distance": "330,982"
+    },
+    {
+      "rank": 84,
+      "player": "Sungjae Im",
+      "Avg (%)": "67.43%",
+      "Total Shot Distance": "275,631.3",
+      "Total Distance": "408,775"
+    },
+    {
+      "rank": 86,
+      "player": "Jason Dufner",
+      "Avg (%)": "67.42%",
+      "Total Shot Distance": "212,427.9",
+      "Total Distance": "315,097"
+    },
+    {
+      "rank": 87,
+      "player": "Kevin Roy",
+      "Avg (%)": "67.39%",
+      "Total Shot Distance": "162,592.1",
+      "Total Distance": "241,262"
+    },
+    {
+      "rank": 88,
+      "player": "K.H. Lee",
+      "Avg (%)": "67.38%",
+      "Total Shot Distance": "259,137.9",
+      "Total Distance": "384,585"
+    },
+    {
+      "rank": 88,
+      "player": "Chad Ramey",
+      "Avg (%)": "67.38%",
+      "Total Shot Distance": "275,772.7",
+      "Total Distance": "409,278"
+    },
+    {
+      "rank": 90,
+      "player": "Greyson Sigg",
+      "Avg (%)": "67.35%",
+      "Total Shot Distance": "275,376.2",
+      "Total Distance": "408,880"
+    },
+    {
+      "rank": 91,
+      "player": "Tony Finau",
+      "Avg (%)": "67.34%",
+      "Total Shot Distance": "233,558.7",
+      "Total Distance": "346,832"
+    },
+    {
+      "rank": 92,
+      "player": "Will Gordon",
+      "Avg (%)": "67.33%",
+      "Total Shot Distance": "273,956.4",
+      "Total Distance": "406,891"
+    },
+    {
+      "rank": 93,
+      "player": "Ben Taylor",
+      "Avg (%)": "67.28%",
+      "Total Shot Distance": "262,474.6",
+      "Total Distance": "390,118"
+    },
+    {
+      "rank": 94,
+      "player": "Taylor Montgomery",
+      "Avg (%)": "67.26%",
+      "Total Shot Distance": "265,799.1",
+      "Total Distance": "395,172"
+    },
+    {
+      "rank": 94,
+      "player": "Andrew Novak",
+      "Avg (%)": "67.26%",
+      "Total Shot Distance": "211,616.1",
+      "Total Distance": "314,610"
+    },
+    {
+      "rank": 96,
+      "player": "Wesley Bryan",
+      "Avg (%)": "67.15%",
+      "Total Shot Distance": "94,074.6",
+      "Total Distance": "140,096"
+    },
+    {
+      "rank": 97,
+      "player": "S.Y. Noh",
+      "Avg (%)": "67.14%",
+      "Total Shot Distance": "140,882.3",
+      "Total Distance": "209,838"
+    },
+    {
+      "rank": 98,
+      "player": "Brian Harman",
+      "Avg (%)": "67.13%",
+      "Total Shot Distance": "254,419.5",
+      "Total Distance": "378,975"
+    },
+    {
+      "rank": 99,
+      "player": "Mackenzie Hughes",
+      "Avg (%)": "67.12%",
+      "Total Shot Distance": "222,118.9",
+      "Total Distance": "330,946"
+    },
+    {
+      "rank": 100,
+      "player": "Kurt Kitayama",
+      "Avg (%)": "67.08%",
+      "Total Shot Distance": "178,341.1",
+      "Total Distance": "265,845"
+    },
+    {
+      "rank": 100,
+      "player": "Scott Piercy",
+      "Avg (%)": "67.08%",
+      "Total Shot Distance": "217,159.8",
+      "Total Distance": "323,740"
+    },
+    {
+      "rank": 102,
+      "player": "Tyson Alexander",
+      "Avg (%)": "67.07%",
+      "Total Shot Distance": "214,731.9",
+      "Total Distance": "320,153"
+    },
+    {
+      "rank": 102,
+      "player": "Adam Schenk",
+      "Avg (%)": "67.07%",
+      "Total Shot Distance": "311,044.0",
+      "Total Distance": "463,748"
+    },
+    {
+      "rank": 102,
+      "player": "Matt Wallace",
+      "Avg (%)": "67.07%",
+      "Total Shot Distance": "207,456.7",
+      "Total Distance": "309,308"
+    },
+    {
+      "rank": 105,
+      "player": "Lanto Griffin",
+      "Avg (%)": "67.03%",
+      "Total Shot Distance": "135,616.4",
+      "Total Distance": "202,326"
+    },
+    {
+      "rank": 105,
+      "player": "Andrew Landry",
+      "Avg (%)": "67.03%",
+      "Total Shot Distance": "191,851.8",
+      "Total Distance": "286,233"
+    },
+    {
+      "rank": 107,
+      "player": "Xander Schauffele",
+      "Avg (%)": "67.01%",
+      "Total Shot Distance": "198,631.7",
+      "Total Distance": "296,435"
+    },
+    {
+      "rank": 107,
+      "player": "Alex Smalley",
+      "Avg (%)": "67.01%",
+      "Total Shot Distance": "288,846.8",
+      "Total Distance": "431,031"
+    },
+    {
+      "rank": 109,
+      "player": "Billy Horschel",
+      "Avg (%)": "66.97%",
+      "Total Shot Distance": "170,952.6",
+      "Total Distance": "255,250"
+    },
+    {
+      "rank": 110,
+      "player": "Doug Ghim",
+      "Avg (%)": "66.96%",
+      "Total Shot Distance": "226,629.1",
+      "Total Distance": "338,478"
+    },
+    {
+      "rank": 110,
+      "player": "Troy Merritt",
+      "Avg (%)": "66.96%",
+      "Total Shot Distance": "215,496.0",
+      "Total Distance": "321,811"
+    },
+    {
+      "rank": 110,
+      "player": "Matthias Schwab",
+      "Avg (%)": "66.96%",
+      "Total Shot Distance": "249,097.3",
+      "Total Distance": "372,007"
+    },
+    {
+      "rank": 113,
+      "player": "James Hahn",
+      "Avg (%)": "66.91%",
+      "Total Shot Distance": "208,769.4",
+      "Total Distance": "312,026"
+    },
+    {
+      "rank": 113,
+      "player": "Shane Lowry",
+      "Avg (%)": "66.91%",
+      "Total Shot Distance": "178,888.0",
+      "Total Distance": "267,364"
+    },
+    {
+      "rank": 115,
+      "player": "Eric Cole",
+      "Avg (%)": "66.89%",
+      "Total Shot Distance": "340,916.1",
+      "Total Distance": "509,704"
+    },
+    {
+      "rank": 116,
+      "player": "Harry Hall",
+      "Avg (%)": "66.88%",
+      "Total Shot Distance": "227,723.6",
+      "Total Distance": "340,477"
+    },
+    {
+      "rank": 116,
+      "player": "Si Woo Kim",
+      "Avg (%)": "66.88%",
+      "Total Shot Distance": "276,072.1",
+      "Total Distance": "412,759"
+    },
+    {
+      "rank": 118,
+      "player": "Seamus Power",
+      "Avg (%)": "66.86%",
+      "Total Shot Distance": "206,749.7",
+      "Total Distance": "309,220"
+    },
+    {
+      "rank": 118,
+      "player": "Kevin Streelman",
+      "Avg (%)": "66.86%",
+      "Total Shot Distance": "257,909.1",
+      "Total Distance": "385,769"
+    },
+    {
+      "rank": 120,
+      "player": "Richy Werenski",
+      "Avg (%)": "66.85%",
+      "Total Shot Distance": "219,401.9",
+      "Total Distance": "328,201"
+    },
+    {
+      "rank": 121,
+      "player": "Rickie Fowler",
+      "Avg (%)": "66.84%",
+      "Total Shot Distance": "254,299.4",
+      "Total Distance": "380,437"
+    },
+    {
+      "rank": 121,
+      "player": "Tom Kim",
+      "Avg (%)": "66.84%",
+      "Total Shot Distance": "242,697.4",
+      "Total Distance": "363,119"
+    },
+    {
+      "rank": 123,
+      "player": "Harrison Endycott",
+      "Avg (%)": "66.83%",
+      "Total Shot Distance": "208,007.1",
+      "Total Distance": "311,259"
+    },
+    {
+      "rank": 123,
+      "player": "J.T. Poston",
+      "Avg (%)": "66.83%",
+      "Total Shot Distance": "275,917.9",
+      "Total Distance": "412,856"
+    },
+    {
+      "rank": 125,
+      "player": "Brandon Wu",
+      "Avg (%)": "66.82%",
+      "Total Shot Distance": "264,174.1",
+      "Total Distance": "395,342"
+    },
+    {
+      "rank": 126,
+      "player": "Alex Noren",
+      "Avg (%)": "66.75%",
+      "Total Shot Distance": "223,258.3",
+      "Total Distance": "334,459"
+    },
+    {
+      "rank": 127,
+      "player": "Nico Echavarria",
+      "Avg (%)": "66.69%",
+      "Total Shot Distance": "168,151.2",
+      "Total Distance": "252,149"
+    },
+    {
+      "rank": 127,
+      "player": "Kramer Hickok",
+      "Avg (%)": "66.69%",
+      "Total Shot Distance": "239,754.6",
+      "Total Distance": "359,515"
+    },
+    {
+      "rank": 129,
+      "player": "Nick Taylor",
+      "Avg (%)": "66.68%",
+      "Total Shot Distance": "233,971.2",
+      "Total Distance": "350,865"
+    },
+    {
+      "rank": 129,
+      "player": "Dylan Wu",
+      "Avg (%)": "66.68%",
+      "Total Shot Distance": "239,828.1",
+      "Total Distance": "359,658"
+    },
+    {
+      "rank": 131,
+      "player": "Tom Hoge",
+      "Avg (%)": "66.67%",
+      "Total Shot Distance": "266,965.8",
+      "Total Distance": "400,458"
+    },
+    {
+      "rank": 131,
+      "player": "Chris Kirk",
+      "Avg (%)": "66.67%",
+      "Total Shot Distance": "240,650.3",
+      "Total Distance": "360,948"
+    },
+    {
+      "rank": 131,
+      "player": "Nate Lashley",
+      "Avg (%)": "66.67%",
+      "Total Shot Distance": "257,798.1",
+      "Total Distance": "386,657"
+    },
+    {
+      "rank": 134,
+      "player": "Emiliano Grillo",
+      "Avg (%)": "66.66%",
+      "Total Shot Distance": "275,380.7",
+      "Total Distance": "413,117"
+    },
+    {
+      "rank": 135,
+      "player": "Lee Hodges",
+      "Avg (%)": "66.65%",
+      "Total Shot Distance": "275,946.8",
+      "Total Distance": "414,042"
+    },
+    {
+      "rank": 135,
+      "player": "Maverick McNealy",
+      "Avg (%)": "66.65%",
+      "Total Shot Distance": "151,118.9",
+      "Total Distance": "226,737"
+    },
+    {
+      "rank": 137,
+      "player": "Hideki Matsuyama",
+      "Avg (%)": "66.63%",
+      "Total Shot Distance": "220,257.5",
+      "Total Distance": "330,559"
+    },
+    {
+      "rank": 138,
+      "player": "Ryan Gerard",
+      "Avg (%)": "66.61%",
+      "Total Shot Distance": "148,300.6",
+      "Total Distance": "222,650"
+    },
+    {
+      "rank": 139,
+      "player": "Sepp Straka",
+      "Avg (%)": "66.60%",
+      "Total Shot Distance": "245,446.5",
+      "Total Distance": "368,539"
+    },
+    {
+      "rank": 140,
+      "player": "Sam Ryder",
+      "Avg (%)": "66.58%",
+      "Total Shot Distance": "269,042.7",
+      "Total Distance": "404,100"
+    },
+    {
+      "rank": 141,
+      "player": "Adam Svensson",
+      "Avg (%)": "66.49%",
+      "Total Shot Distance": "324,538.1",
+      "Total Distance": "488,091"
+    },
+    {
+      "rank": 142,
+      "player": "C.T. Pan",
+      "Avg (%)": "66.48%",
+      "Total Shot Distance": "119,651.1",
+      "Total Distance": "179,977"
+    },
+    {
+      "rank": 143,
+      "player": "Tommy Fleetwood",
+      "Avg (%)": "66.46%",
+      "Total Shot Distance": "197,593.1",
+      "Total Distance": "297,327"
+    },
+    {
+      "rank": 143,
+      "player": "Doc Redman",
+      "Avg (%)": "66.46%",
+      "Total Shot Distance": "204,411.9",
+      "Total Distance": "307,588"
+    },
+    {
+      "rank": 145,
+      "player": "Cameron Percy",
+      "Avg (%)": "66.45%",
+      "Total Shot Distance": "134,809.2",
+      "Total Distance": "202,879"
+    },
+    {
+      "rank": 146,
+      "player": "Webb Simpson",
+      "Avg (%)": "66.44%",
+      "Total Shot Distance": "165,377.3",
+      "Total Distance": "248,916"
+    },
+    {
+      "rank": 147,
+      "player": "Justin Lower",
+      "Avg (%)": "66.39%",
+      "Total Shot Distance": "240,948.9",
+      "Total Distance": "362,946"
+    },
+    {
+      "rank": 148,
+      "player": "Carson Young",
+      "Avg (%)": "66.36%",
+      "Total Shot Distance": "230,695.4",
+      "Total Distance": "347,628"
+    },
+    {
+      "rank": 149,
+      "player": "Ben Martin",
+      "Avg (%)": "66.32%",
+      "Total Shot Distance": "241,771.1",
+      "Total Distance": "364,576"
+    },
+    {
+      "rank": 149,
+      "player": "Collin Morikawa",
+      "Avg (%)": "66.32%",
+      "Total Shot Distance": "198,087.9",
+      "Total Distance": "298,688"
+    },
+    {
+      "rank": 151,
+      "player": "Matt Kuchar",
+      "Avg (%)": "66.28%",
+      "Total Shot Distance": "249,778.4",
+      "Total Distance": "376,878"
+    },
+    {
+      "rank": 152,
+      "player": "Matt NeSmith",
+      "Avg (%)": "66.27%",
+      "Total Shot Distance": "260,093.2",
+      "Total Distance": "392,492"
+    },
+    {
+      "rank": 153,
+      "player": "Justin Suh",
+      "Avg (%)": "66.22%",
+      "Total Shot Distance": "299,454.3",
+      "Total Distance": "452,221"
+    },
+    {
+      "rank": 154,
+      "player": "Sung Kang",
+      "Avg (%)": "66.20%",
+      "Total Shot Distance": "92,525.6",
+      "Total Distance": "139,776"
+    },
+    {
+      "rank": 155,
+      "player": "Hank Lebioda",
+      "Avg (%)": "66.15%",
+      "Total Shot Distance": "122,335.3",
+      "Total Distance": "184,925"
+    },
+    {
+      "rank": 156,
+      "player": "Sean O'Hair",
+      "Avg (%)": "66.10%",
+      "Total Shot Distance": "91,631.8",
+      "Total Distance": "138,633"
+    },
+    {
+      "rank": 157,
+      "player": "Danny Willett",
+      "Avg (%)": "66.07%",
+      "Total Shot Distance": "161,988.5",
+      "Total Distance": "245,181"
+    },
+    {
+      "rank": 158,
+      "player": "Aaron Rai",
+      "Avg (%)": "66.05%",
+      "Total Shot Distance": "269,344.9",
+      "Total Distance": "407,765"
+    },
+    {
+      "rank": 159,
+      "player": "Adam Hadwin",
+      "Avg (%)": "66.03%",
+      "Total Shot Distance": "251,525.5",
+      "Total Distance": "380,898"
+    },
+    {
+      "rank": 160,
+      "player": "Denny McCarthy",
+      "Avg (%)": "65.98%",
+      "Total Shot Distance": "274,325.9",
+      "Total Distance": "415,787"
+    },
+    {
+      "rank": 161,
+      "player": "Henrik Norlander",
+      "Avg (%)": "65.93%",
+      "Total Shot Distance": "203,500.0",
+      "Total Distance": "308,651"
+    },
+    {
+      "rank": 162,
+      "player": "Mark Hubbard",
+      "Avg (%)": "65.90%",
+      "Total Shot Distance": "271,644.8",
+      "Total Distance": "412,199"
+    },
+    {
+      "rank": 163,
+      "player": "Robby Shelton",
+      "Avg (%)": "65.89%",
+      "Total Shot Distance": "248,666.3",
+      "Total Distance": "377,370"
+    },
+    {
+      "rank": 164,
+      "player": "Christiaan Bezuidenhout",
+      "Avg (%)": "65.83%",
+      "Total Shot Distance": "242,034.0",
+      "Total Distance": "367,648"
+    },
+    {
+      "rank": 165,
+      "player": "Max McGreevy",
+      "Avg (%)": "65.81%",
+      "Total Shot Distance": "193,313.5",
+      "Total Distance": "293,727"
+    },
+    {
+      "rank": 166,
+      "player": "Lucas Glover",
+      "Avg (%)": "65.80%",
+      "Total Shot Distance": "246,147.8",
+      "Total Distance": "374,096"
+    },
+    {
+      "rank": 167,
+      "player": "Chris Stroud",
+      "Avg (%)": "65.73%",
+      "Total Shot Distance": "121,569.6",
+      "Total Distance": "184,964"
+    },
+    {
+      "rank": 168,
+      "player": "Brice Garnett",
+      "Avg (%)": "65.71%",
+      "Total Shot Distance": "187,799.3",
+      "Total Distance": "285,816"
+    },
+    {
+      "rank": 169,
+      "player": "Martin Laird",
+      "Avg (%)": "65.68%",
+      "Total Shot Distance": "202,079.0",
+      "Total Distance": "307,684"
+    },
+    {
+      "rank": 170,
+      "player": "David Lipsky",
+      "Avg (%)": "65.59%",
+      "Total Shot Distance": "242,936.2",
+      "Total Distance": "370,379"
+    },
+    {
+      "rank": 170,
+      "player": "Ryan Moore",
+      "Avg (%)": "65.59%",
+      "Total Shot Distance": "191,047.8",
+      "Total Distance": "291,258"
+    },
+    {
+      "rank": 172,
+      "player": "Russell Henley",
+      "Avg (%)": "65.58%",
+      "Total Shot Distance": "231,985.0",
+      "Total Distance": "353,731"
+    },
+    {
+      "rank": 173,
+      "player": "Russell Knox",
+      "Avg (%)": "65.53%",
+      "Total Shot Distance": "252,980.8",
+      "Total Distance": "386,079"
+    },
+    {
+      "rank": 174,
+      "player": "Jim Herman",
+      "Avg (%)": "65.51%",
+      "Total Shot Distance": "190,650.7",
+      "Total Distance": "291,008"
+    },
+    {
+      "rank": 175,
+      "player": "Adam Long",
+      "Avg (%)": "65.43%",
+      "Total Shot Distance": "257,380.2",
+      "Total Distance": "393,353"
+    },
+    {
+      "rank": 176,
+      "player": "Nick Watney",
+      "Avg (%)": "65.42%",
+      "Total Shot Distance": "162,382.1",
+      "Total Distance": "248,202"
+    },
+    {
+      "rank": 177,
+      "player": "Jonathan Byrd",
+      "Avg (%)": "65.36%",
+      "Total Shot Distance": "111,137.8",
+      "Total Distance": "170,027"
+    },
+    {
+      "rank": 178,
+      "player": "Justin Rose",
+      "Avg (%)": "65.25%",
+      "Total Shot Distance": "165,564.7",
+      "Total Distance": "253,758"
+    },
+    {
+      "rank": 179,
+      "player": "Satoshi Kodaira",
+      "Avg (%)": "65.23%",
+      "Total Shot Distance": "125,377.0",
+      "Total Distance": "192,203"
+    },
+    {
+      "rank": 180,
+      "player": "Kelly Kraft",
+      "Avg (%)": "65.10%",
+      "Total Shot Distance": "220,605.8",
+      "Total Distance": "338,893"
+    },
+    {
+      "rank": 181,
+      "player": "Chez Reavie",
+      "Avg (%)": "65.03%",
+      "Total Shot Distance": "256,562.5",
+      "Total Distance": "394,557"
+    },
+    {
+      "rank": 182,
+      "player": "Paul Haley II",
+      "Avg (%)": "65.02%",
+      "Total Shot Distance": "204,588.5",
+      "Total Distance": "314,644"
+    },
+    {
+      "rank": 183,
+      "player": "Harris English",
+      "Avg (%)": "65.00%",
+      "Total Shot Distance": "255,672.0",
+      "Total Distance": "393,333"
+    },
+    {
+      "rank": 184,
+      "player": "Zach Johnson",
+      "Avg (%)": "64.93%",
+      "Total Shot Distance": "172,366.7",
+      "Total Distance": "265,466"
+    },
+    {
+      "rank": 185,
+      "player": "Zac Blair",
+      "Avg (%)": "64.86%",
+      "Total Shot Distance": "188,581.5",
+      "Total Distance": "290,757"
+    },
+    {
+      "rank": 186,
+      "player": "William McGirt",
+      "Avg (%)": "64.79%",
+      "Total Shot Distance": "108,548.5",
+      "Total Distance": "167,534"
+    },
+    {
+      "rank": 187,
+      "player": "Aaron Baddeley",
+      "Avg (%)": "64.55%",
+      "Total Shot Distance": "176,027.6",
+      "Total Distance": "272,719"
+    },
+    {
+      "rank": 188,
+      "player": "Brendon Todd",
+      "Avg (%)": "64.38%",
+      "Total Shot Distance": "261,132.7",
+      "Total Distance": "405,605"
+    },
+    {
+      "rank": 189,
+      "player": "Austin Cook",
+      "Avg (%)": "64.33%",
+      "Total Shot Distance": "161,856.4",
+      "Total Distance": "251,605"
+    },
+    {
+      "rank": 190,
+      "player": "Ryan Armour",
+      "Avg (%)": "64.17%",
+      "Total Shot Distance": "195,067.9",
+      "Total Distance": "303,981"
+    },
+    {
+      "rank": 191,
+      "player": "Andrew Putnam",
+      "Avg (%)": "63.74%",
+      "Total Shot Distance": "267,000.1",
+      "Total Distance": "418,891"
+    },
+    {
+      "rank": 192,
+      "player": "David Lingmerth",
+      "Avg (%)": "63.43%",
+      "Total Shot Distance": "172,208.1",
+      "Total Distance": "271,483"
+    },
+    {
+      "rank": 193,
+      "player": "Brian Stuard",
+      "Avg (%)": "63.19%",
+      "Total Shot Distance": "142,550.6",
+      "Total Distance": "225,582"
+    }
+  ]
+}

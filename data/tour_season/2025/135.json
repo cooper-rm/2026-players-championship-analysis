@@ -1,0 +1,908 @@
+{
+  "stat_id": "135",
+  "year": 2025,
+  "category": "Putting",
+  "stat_title": "Putts made Distance",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Garrick Higgo",
+      "Distance in Inches": "59"
+    },
+    {
+      "rank": 2,
+      "player": "Rikuya Hoshino",
+      "Distance in Inches": "56"
+    },
+    {
+      "rank": 2,
+      "player": "Taylor Montgomery",
+      "Distance in Inches": "56"
+    },
+    {
+      "rank": 2,
+      "player": "Danny Walker",
+      "Distance in Inches": "56"
+    },
+    {
+      "rank": 5,
+      "player": "Jacob Bridgeman",
+      "Distance in Inches": "55"
+    },
+    {
+      "rank": 5,
+      "player": "Cameron Young",
+      "Distance in Inches": "55"
+    },
+    {
+      "rank": 7,
+      "player": "Brian Campbell",
+      "Distance in Inches": "54"
+    },
+    {
+      "rank": 7,
+      "player": "Harry Hall",
+      "Distance in Inches": "54"
+    },
+    {
+      "rank": 7,
+      "player": "Zach Johnson",
+      "Distance in Inches": "54"
+    },
+    {
+      "rank": 7,
+      "player": "Denny McCarthy",
+      "Distance in Inches": "54"
+    },
+    {
+      "rank": 7,
+      "player": "Sam Ryder",
+      "Distance in Inches": "54"
+    },
+    {
+      "rank": 12,
+      "player": "Christiaan Bezuidenhout",
+      "Distance in Inches": "53"
+    },
+    {
+      "rank": 12,
+      "player": "Sam Burns",
+      "Distance in Inches": "53"
+    },
+    {
+      "rank": 12,
+      "player": "Eric Cole",
+      "Distance in Inches": "53"
+    },
+    {
+      "rank": 12,
+      "player": "Nico Echavarria",
+      "Distance in Inches": "53"
+    },
+    {
+      "rank": 12,
+      "player": "Rory McIlroy",
+      "Distance in Inches": "53"
+    },
+    {
+      "rank": 17,
+      "player": "Mason Andersen",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Frankie Capan III",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Luke Clanton",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Corey Conners",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Cam Davis",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Nick Dunlap",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Tommy Fleetwood",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Brice Garnett",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Jake Knapp",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Thorbj\u00f8rn Olesen",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Justin Rose",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Isaiah Salinda",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Ben Silverman",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Brandt Snedeker",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Hayden Springer",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Sepp Straka",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Jackson Suber",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Sami Valimaki",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 17,
+      "player": "Kris Ventura",
+      "Distance in Inches": "52"
+    },
+    {
+      "rank": 36,
+      "player": "Ludvig \u00c5berg",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Akshay Bhatia",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Patrick Cantlay",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Patrick Fishburn",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Max Greyserman",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Russell Henley",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Max Homa",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Takumi Kanaya",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Justin Lower",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Peter Malnati",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Matt McCarty",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Maverick McNealy",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Keith Mitchell",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Matthieu Pavon",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Paul Peterson",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Andrew Putnam",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Kevin Roy",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Matti Schmid",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Alex Smalley",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Jesper Svensson",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Nick Taylor",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 36,
+      "player": "Justin Thomas",
+      "Distance in Inches": "51"
+    },
+    {
+      "rank": 58,
+      "player": "Zac Blair",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Quade Cummins",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Joel Dahmen",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Tony Finau",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Ryan Fox",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Lanto Griffin",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Nick Hardy",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Harry Higgs",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Rasmus H\u00f8jgaard",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Sungjae Im",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Stephan Jaeger",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Chan Kim",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Robert MacIntyre",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Max McGreevy",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "William Mouw",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Niklas Norgaard",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Kaito Onishi",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Davis Riley",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Patrick Rodgers",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "David Skinns",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Jordan Spieth",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 58,
+      "player": "Sahith Theegala",
+      "Distance in Inches": "50"
+    },
+    {
+      "rank": 80,
+      "player": "Rafael Campos",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Bud Cauley",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Jason Day",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Cristobal Del Solar",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Harris English",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Matt Fitzpatrick",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Ben Griffin",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Emiliano Grillo",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Adam Hadwin",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Nicolai H\u00f8jgaard",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Viktor Hovland",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Min Woo Lee",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Ben Martin",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Hideki Matsuyama",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Andrew Novak",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Jeremy Paul",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Chandler Phillips",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "J.T. Poston",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Matthew Riedel",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Scottie Scheffler",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Adam Schenk",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Sam Stevens",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Braden Thornberry",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Erik van Rooyen",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Karl Vilips",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Camilo Villegas",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Matt Wallace",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Tim Widing",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Gary Woodland",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Carson Young",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 80,
+      "player": "Kevin Yu",
+      "Distance in Inches": "49"
+    },
+    {
+      "rank": 111,
+      "player": "Ricky Castillo",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Wyndham Clark",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Austin Eckroat",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Ryan Gerard",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Lucas Glover",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Ryo Hisatsune",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Mark Hubbard",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Chris Kirk",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Ben Kohles",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Matt Kuchar",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "David Lipsky",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Shane Lowry",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Trey Mullinax",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Taylor Pendrith",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Aldrich Potgieter",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Chad Ramey",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 111,
+      "player": "Vince Whaley",
+      "Distance in Inches": "48"
+    },
+    {
+      "rank": 128,
+      "player": "Keegan Bradley",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Thomas Detry",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Taylor Dickson",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Steven Fisk",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Rickie Fowler",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Noah Goodwin",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Will Gordon",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Chris Gotterup",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Brian Harman",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Joe Highsmith",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Tom Hoge",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Beau Hossler",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Mackenzie Hughes",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Kurt Kitayama",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Patton Kizzire",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Nate Lashley",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Mac Meissner",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Taylor Moore",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Collin Morikawa",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Henrik Norlander",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Victor Perez",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Aaron Rai",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Thomas Rosenmueller",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Antoine Rozner",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Adam Scott",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Michael Thorbjornsen",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 128,
+      "player": "Jhonattan Vegas",
+      "Distance in Inches": "47"
+    },
+    {
+      "rank": 155,
+      "player": "Daniel Berger",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 155,
+      "player": "Hayden Buckley",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 155,
+      "player": "Pierceson Coody",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 155,
+      "player": "Lee Hodges",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 155,
+      "player": "Tom Kim",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 155,
+      "player": "Seamus Power",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 155,
+      "player": "J.J. Spaun",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 155,
+      "player": "Davis Thompson",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 155,
+      "player": "Kevin Velo",
+      "Distance in Inches": "46"
+    },
+    {
+      "rank": 164,
+      "player": "Joseph Bramlett",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Will Chandler",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Trevor Cone",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Rico Hoey",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Michael Kim",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Thriston Lawrence",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Luke List",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Matteo Manassero",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Ryan Palmer",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Xander Schauffele",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Adam Svensson",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 164,
+      "player": "Alejandro Tosti",
+      "Distance in Inches": "45"
+    },
+    {
+      "rank": 176,
+      "player": "Byeong Hun An",
+      "Distance in Inches": "44"
+    },
+    {
+      "rank": 176,
+      "player": "Doug Ghim",
+      "Distance in Inches": "44"
+    },
+    {
+      "rank": 176,
+      "player": "Greyson Sigg",
+      "Distance in Inches": "44"
+    },
+    {
+      "rank": 179,
+      "player": "Si Woo Kim",
+      "Distance in Inches": "43"
+    },
+    {
+      "rank": 180,
+      "player": "John Pak",
+      "Distance in Inches": "42"
+    }
+  ]
+}

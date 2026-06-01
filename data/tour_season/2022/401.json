@@ -1,0 +1,596 @@
+{
+  "stat_id": "401",
+  "year": 2022,
+  "category": "Putting",
+  "stat_title": "3+ Putts per Round",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Cameron Champ",
+      "Avg": ".07",
+      "Total 3+ Putts": "4",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 1,
+      "player": "Cameron Percy",
+      "Avg": ".07",
+      "Total 3+ Putts": "3",
+      "Total Rounds": "44"
+    },
+    {
+      "rank": 3,
+      "player": "Cam Davis",
+      "Avg": ".04",
+      "Total 3+ Putts": "3",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 3,
+      "player": "Jason Dufner",
+      "Avg": ".04",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "50"
+    },
+    {
+      "rank": 5,
+      "player": "Keegan Bradley",
+      "Avg": ".03",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 5,
+      "player": "Talor Gooch",
+      "Avg": ".03",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 5,
+      "player": "Lanto Griffin",
+      "Avg": ".03",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 5,
+      "player": "Russell Henley",
+      "Avg": ".03",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 5,
+      "player": "Martin Laird",
+      "Avg": ".03",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "66"
+    },
+    {
+      "rank": 5,
+      "player": "Callum Tarren",
+      "Avg": ".03",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 5,
+      "player": "Harold Varner III",
+      "Avg": ".03",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 5,
+      "player": "Richy Werenski",
+      "Avg": ".03",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "63"
+    },
+    {
+      "rank": 13,
+      "player": "Kiradech Aphibarnrat",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "53"
+    },
+    {
+      "rank": 13,
+      "player": "Kevin Chappell",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "55"
+    },
+    {
+      "rank": 13,
+      "player": "Wyndham Clark",
+      "Avg": ".02",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "97"
+    },
+    {
+      "rank": 13,
+      "player": "Jason Day",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "57"
+    },
+    {
+      "rank": 13,
+      "player": "Lucas Glover",
+      "Avg": ".02",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 13,
+      "player": "Nick Hardy",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 13,
+      "player": "Tyrrell Hatton",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 13,
+      "player": "Garrick Higgo",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 13,
+      "player": "Satoshi Kodaira",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 13,
+      "player": "Ben Kohles",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "63"
+    },
+    {
+      "rank": 13,
+      "player": "Keith Mitchell",
+      "Avg": ".02",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "86"
+    },
+    {
+      "rank": 13,
+      "player": "Francesco Molinari",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "53"
+    },
+    {
+      "rank": 13,
+      "player": "Collin Morikawa",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "60"
+    },
+    {
+      "rank": 13,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": ".02",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "83"
+    },
+    {
+      "rank": 13,
+      "player": "Ian Poulter",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "44"
+    },
+    {
+      "rank": 13,
+      "player": "Scottie Scheffler",
+      "Avg": ".02",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 13,
+      "player": "David Skinns",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "66"
+    },
+    {
+      "rank": 13,
+      "player": "Hudson Swafford",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 13,
+      "player": "Nick Taylor",
+      "Avg": ".02",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 13,
+      "player": "Sahith Theegala",
+      "Avg": ".02",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "113"
+    },
+    {
+      "rank": 13,
+      "player": "Cameron Tringale",
+      "Avg": ".02",
+      "Total 3+ Putts": "2",
+      "Total Rounds": "92"
+    },
+    {
+      "rank": 13,
+      "player": "Matt Wallace",
+      "Avg": ".02",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 35,
+      "player": "Paul Barjon",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 35,
+      "player": "Joseph Bramlett",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "81"
+    },
+    {
+      "rank": 35,
+      "player": "Hayden Buckley",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 35,
+      "player": "Stewart Cink",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 35,
+      "player": "Corey Conners",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "87"
+    },
+    {
+      "rank": 35,
+      "player": "Austin Cook",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 35,
+      "player": "Joel Dahmen",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 35,
+      "player": "Matt Fitzpatrick",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 35,
+      "player": "Rickie Fowler",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 35,
+      "player": "Dylan Frittelli",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 35,
+      "player": "Michael Gligic",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 35,
+      "player": "Emiliano Grillo",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 35,
+      "player": "Bill Haas",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 35,
+      "player": "Adam Hadwin",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 35,
+      "player": "Brandon Hagy",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 35,
+      "player": "Lee Hodges",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 35,
+      "player": "Charley Hoffman",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 35,
+      "player": "Tom Hoge",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "96"
+    },
+    {
+      "rank": 35,
+      "player": "John Huh",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "74"
+    },
+    {
+      "rank": 35,
+      "player": "Sungjae Im",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 35,
+      "player": "Stephan Jaeger",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 35,
+      "player": "Kurt Kitayama",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 35,
+      "player": "Patton Kizzire",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 35,
+      "player": "Matt Kuchar",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 35,
+      "player": "Nate Lashley",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 35,
+      "player": "Hank Lebioda",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 35,
+      "player": "Luke List",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 35,
+      "player": "Justin Lower",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 35,
+      "player": "Hideki Matsuyama",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 35,
+      "player": "Denny McCarthy",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "100"
+    },
+    {
+      "rank": 35,
+      "player": "Max McGreevy",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 35,
+      "player": "Matthew NeSmith",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "92"
+    },
+    {
+      "rank": 35,
+      "player": "Henrik Norlander",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 35,
+      "player": "C.T. Pan",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 35,
+      "player": "Mito Pereira",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 35,
+      "player": "Doc Redman",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "79"
+    },
+    {
+      "rank": 35,
+      "player": "Patrick Reed",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 35,
+      "player": "Seth Reeves",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 35,
+      "player": "Davis Riley",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "94"
+    },
+    {
+      "rank": 35,
+      "player": "Patrick Rodgers",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 35,
+      "player": "Sam Ryder",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 35,
+      "player": "Xander Schauffele",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 35,
+      "player": "Roger Sloan",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "73"
+    },
+    {
+      "rank": 35,
+      "player": "Alex Smalley",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 35,
+      "player": "J.J. Spaun",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "95"
+    },
+    {
+      "rank": 35,
+      "player": "Brendan Steele",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "73"
+    },
+    {
+      "rank": 35,
+      "player": "Justin Thomas",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 35,
+      "player": "Camilo Villegas",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 35,
+      "player": "Nick Watney",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 35,
+      "player": "Will Zalatoris",
+      "Avg": ".01",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "76"
+    }
+  ]
+}

@@ -1,0 +1,1359 @@
+{
+  "stat_id": "02568",
+  "year": 2022,
+  "category": "Strokes Gained",
+  "stat_title": "SG: Approach the Green",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Will Zalatoris",
+      "Avg": "1.063",
+      "Total SG:APP": "60.590",
+      "Measured Rounds": "57"
+    },
+    {
+      "rank": 2,
+      "player": "Russell Henley",
+      "Avg": ".969",
+      "Total SG:APP": "61.050",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 3,
+      "player": "Collin Morikawa",
+      "Avg": ".854",
+      "Total SG:APP": "41.009",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 4,
+      "player": "Scottie Scheffler",
+      "Avg": ".819",
+      "Total SG:APP": "54.035",
+      "Measured Rounds": "66"
+    },
+    {
+      "rank": 5,
+      "player": "Cameron Smith",
+      "Avg": ".771",
+      "Total SG:APP": "37.772",
+      "Measured Rounds": "49"
+    },
+    {
+      "rank": 6,
+      "player": "Hideki Matsuyama",
+      "Avg": ".711",
+      "Total SG:APP": "40.499",
+      "Measured Rounds": "57"
+    },
+    {
+      "rank": 7,
+      "player": "Xander Schauffele",
+      "Avg": ".701",
+      "Total SG:APP": "39.958",
+      "Measured Rounds": "57"
+    },
+    {
+      "rank": 8,
+      "player": "Justin Thomas",
+      "Avg": ".696",
+      "Total SG:APP": "42.441",
+      "Measured Rounds": "61"
+    },
+    {
+      "rank": 9,
+      "player": "Shane Lowry",
+      "Avg": ".679",
+      "Total SG:APP": "32.579",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 9,
+      "player": "Mito Pereira",
+      "Avg": ".679",
+      "Total SG:APP": "50.933",
+      "Measured Rounds": "75"
+    },
+    {
+      "rank": 11,
+      "player": "Tom Hoge",
+      "Avg": ".664",
+      "Total SG:APP": "49.105",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 12,
+      "player": "Tony Finau",
+      "Avg": ".659",
+      "Total SG:APP": "46.796",
+      "Measured Rounds": "71"
+    },
+    {
+      "rank": 13,
+      "player": "Talor Gooch",
+      "Avg": ".653",
+      "Total SG:APP": "35.904",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 14,
+      "player": "Rory McIlroy",
+      "Avg": ".626",
+      "Total SG:APP": "32.565",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 15,
+      "player": "Viktor Hovland",
+      "Avg": ".606",
+      "Total SG:APP": "33.938",
+      "Measured Rounds": "56"
+    },
+    {
+      "rank": 16,
+      "player": "Corey Conners",
+      "Avg": ".601",
+      "Total SG:APP": "42.698",
+      "Measured Rounds": "71"
+    },
+    {
+      "rank": 17,
+      "player": "Luke List",
+      "Avg": ".594",
+      "Total SG:APP": "38.039",
+      "Measured Rounds": "64"
+    },
+    {
+      "rank": 18,
+      "player": "Sam Burns",
+      "Avg": ".554",
+      "Total SG:APP": "38.220",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 19,
+      "player": "Joaquin Niemann",
+      "Avg": ".527",
+      "Total SG:APP": "30.584",
+      "Measured Rounds": "58"
+    },
+    {
+      "rank": 20,
+      "player": "Mark Hubbard",
+      "Avg": ".494",
+      "Total SG:APP": "27.158",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 21,
+      "player": "Aaron Wise",
+      "Avg": ".489",
+      "Total SG:APP": "37.617",
+      "Measured Rounds": "77"
+    },
+    {
+      "rank": 22,
+      "player": "Chez Reavie",
+      "Avg": ".467",
+      "Total SG:APP": "35.008",
+      "Measured Rounds": "75"
+    },
+    {
+      "rank": 23,
+      "player": "Harold Varner III",
+      "Avg": ".458",
+      "Total SG:APP": "26.096",
+      "Measured Rounds": "57"
+    },
+    {
+      "rank": 24,
+      "player": "Luke Donald",
+      "Avg": ".451",
+      "Total SG:APP": "23.454",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 25,
+      "player": "Russell Knox",
+      "Avg": ".450",
+      "Total SG:APP": "33.334",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 26,
+      "player": "Martin Laird",
+      "Avg": ".444",
+      "Total SG:APP": "27.106",
+      "Measured Rounds": "61"
+    },
+    {
+      "rank": 27,
+      "player": "Lanto Griffin",
+      "Avg": ".438",
+      "Total SG:APP": "29.790",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 27,
+      "player": "Hudson Swafford",
+      "Avg": ".438",
+      "Total SG:APP": "21.042",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 29,
+      "player": "Keegan Bradley",
+      "Avg": ".437",
+      "Total SG:APP": "28.854",
+      "Measured Rounds": "66"
+    },
+    {
+      "rank": 30,
+      "player": "Matthew NeSmith",
+      "Avg": ".417",
+      "Total SG:APP": "32.552",
+      "Measured Rounds": "78"
+    },
+    {
+      "rank": 31,
+      "player": "Jordan Spieth",
+      "Avg": ".416",
+      "Total SG:APP": "25.355",
+      "Measured Rounds": "61"
+    },
+    {
+      "rank": 32,
+      "player": "Austin Smotherman",
+      "Avg": ".412",
+      "Total SG:APP": "25.934",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 33,
+      "player": "Erik van Rooyen",
+      "Avg": ".411",
+      "Total SG:APP": "16.420",
+      "Measured Rounds": "40"
+    },
+    {
+      "rank": 34,
+      "player": "Jhonattan Vegas",
+      "Avg": ".396",
+      "Total SG:APP": "23.350",
+      "Measured Rounds": "59"
+    },
+    {
+      "rank": 35,
+      "player": "Vaughn Taylor",
+      "Avg": ".386",
+      "Total SG:APP": "15.452",
+      "Measured Rounds": "40"
+    },
+    {
+      "rank": 36,
+      "player": "Max Homa",
+      "Avg": ".384",
+      "Total SG:APP": "26.879",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 37,
+      "player": "Lucas Glover",
+      "Avg": ".368",
+      "Total SG:APP": "30.159",
+      "Measured Rounds": "82"
+    },
+    {
+      "rank": 38,
+      "player": "Patrick Cantlay",
+      "Avg": ".363",
+      "Total SG:APP": "18.882",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 38,
+      "player": "Jon Rahm",
+      "Avg": ".363",
+      "Total SG:APP": "19.948",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 40,
+      "player": "David Lipsky",
+      "Avg": ".354",
+      "Total SG:APP": "25.519",
+      "Measured Rounds": "72"
+    },
+    {
+      "rank": 41,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": ".331",
+      "Total SG:APP": "22.854",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 41,
+      "player": "Adam Svensson",
+      "Avg": ".331",
+      "Total SG:APP": "27.816",
+      "Measured Rounds": "84"
+    },
+    {
+      "rank": 43,
+      "player": "Brendan Steele",
+      "Avg": ".325",
+      "Total SG:APP": "20.166",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 44,
+      "player": "Gary Woodland",
+      "Avg": ".318",
+      "Total SG:APP": "17.787",
+      "Measured Rounds": "56"
+    },
+    {
+      "rank": 45,
+      "player": "Sungjae Im",
+      "Avg": ".308",
+      "Total SG:APP": "23.105",
+      "Measured Rounds": "75"
+    },
+    {
+      "rank": 46,
+      "player": "Aaron Rai",
+      "Avg": ".301",
+      "Total SG:APP": "20.773",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 47,
+      "player": "Cameron Tringale",
+      "Avg": ".294",
+      "Total SG:APP": "21.445",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 48,
+      "player": "Matt Fitzpatrick",
+      "Avg": ".280",
+      "Total SG:APP": "13.433",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 49,
+      "player": "Adam Hadwin",
+      "Avg": ".274",
+      "Total SG:APP": "20.825",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 50,
+      "player": "Cam Davis",
+      "Avg": ".269",
+      "Total SG:APP": "20.467",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 51,
+      "player": "Scott Gutschewski",
+      "Avg": ".264",
+      "Total SG:APP": "10.022",
+      "Measured Rounds": "38"
+    },
+    {
+      "rank": 52,
+      "player": "Alex Smalley",
+      "Avg": ".260",
+      "Total SG:APP": "19.522",
+      "Measured Rounds": "75"
+    },
+    {
+      "rank": 53,
+      "player": "Lee Hodges",
+      "Avg": ".256",
+      "Total SG:APP": "21.210",
+      "Measured Rounds": "83"
+    },
+    {
+      "rank": 53,
+      "player": "Chris Kirk",
+      "Avg": ".256",
+      "Total SG:APP": "16.139",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 53,
+      "player": "Adam Scott",
+      "Avg": ".256",
+      "Total SG:APP": "16.147",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 56,
+      "player": "Patton Kizzire",
+      "Avg": ".213",
+      "Total SG:APP": "17.468",
+      "Measured Rounds": "82"
+    },
+    {
+      "rank": 57,
+      "player": "C.T. Pan",
+      "Avg": ".200",
+      "Total SG:APP": "14.228",
+      "Measured Rounds": "71"
+    },
+    {
+      "rank": 58,
+      "player": "Pat Perez",
+      "Avg": ".199",
+      "Total SG:APP": "10.152",
+      "Measured Rounds": "51"
+    },
+    {
+      "rank": 59,
+      "player": "Callum Tarren",
+      "Avg": ".197",
+      "Total SG:APP": "10.615",
+      "Measured Rounds": "54"
+    },
+    {
+      "rank": 60,
+      "player": "Joel Dahmen",
+      "Avg": ".195",
+      "Total SG:APP": "14.393",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 61,
+      "player": "Scott Stallings",
+      "Avg": ".191",
+      "Total SG:APP": "16.012",
+      "Measured Rounds": "84"
+    },
+    {
+      "rank": 62,
+      "player": "Chase Seiffert",
+      "Avg": ".186",
+      "Total SG:APP": "6.878",
+      "Measured Rounds": "37"
+    },
+    {
+      "rank": 63,
+      "player": "Sahith Theegala",
+      "Avg": ".185",
+      "Total SG:APP": "17.548",
+      "Measured Rounds": "95"
+    },
+    {
+      "rank": 64,
+      "player": "Tommy Fleetwood",
+      "Avg": ".181",
+      "Total SG:APP": "7.231",
+      "Measured Rounds": "40"
+    },
+    {
+      "rank": 65,
+      "player": "Matthias Schwab",
+      "Avg": ".180",
+      "Total SG:APP": "9.894",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 66,
+      "player": "Brian Harman",
+      "Avg": ".177",
+      "Total SG:APP": "13.423",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 66,
+      "player": "Stephan Jaeger",
+      "Avg": ".177",
+      "Total SG:APP": "12.934",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 68,
+      "player": "John Huh",
+      "Avg": ".171",
+      "Total SG:APP": "10.446",
+      "Measured Rounds": "61"
+    },
+    {
+      "rank": 69,
+      "player": "Marc Leishman",
+      "Avg": ".166",
+      "Total SG:APP": "10.452",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 70,
+      "player": "Andrew Novak",
+      "Avg": ".164",
+      "Total SG:APP": "8.863",
+      "Measured Rounds": "54"
+    },
+    {
+      "rank": 71,
+      "player": "Wesley Bryan",
+      "Avg": ".161",
+      "Total SG:APP": "6.295",
+      "Measured Rounds": "39"
+    },
+    {
+      "rank": 71,
+      "player": "Davis Riley",
+      "Avg": ".161",
+      "Total SG:APP": "13.230",
+      "Measured Rounds": "82"
+    },
+    {
+      "rank": 73,
+      "player": "Doug Ghim",
+      "Avg": ".158",
+      "Total SG:APP": "10.747",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 73,
+      "player": "Henrik Norlander",
+      "Avg": ".158",
+      "Total SG:APP": "9.503",
+      "Measured Rounds": "60"
+    },
+    {
+      "rank": 75,
+      "player": "Tyrrell Hatton",
+      "Avg": ".153",
+      "Total SG:APP": "7.326",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 76,
+      "player": "Adam Schenk",
+      "Avg": ".152",
+      "Total SG:APP": "11.710",
+      "Measured Rounds": "77"
+    },
+    {
+      "rank": 77,
+      "player": "Kurt Kitayama",
+      "Avg": ".149",
+      "Total SG:APP": "6.842",
+      "Measured Rounds": "46"
+    },
+    {
+      "rank": 78,
+      "player": "S.Y. Noh",
+      "Avg": ".147",
+      "Total SG:APP": "6.785",
+      "Measured Rounds": "46"
+    },
+    {
+      "rank": 79,
+      "player": "Doc Redman",
+      "Avg": ".146",
+      "Total SG:APP": "9.174",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 80,
+      "player": "Webb Simpson",
+      "Avg": ".143",
+      "Total SG:APP": "7.426",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 81,
+      "player": "Tyler Duncan",
+      "Avg": ".133",
+      "Total SG:APP": "8.643",
+      "Measured Rounds": "65"
+    },
+    {
+      "rank": 82,
+      "player": "Nick Watney",
+      "Avg": ".131",
+      "Total SG:APP": "8.140",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 83,
+      "player": "Ben Kohles",
+      "Avg": ".130",
+      "Total SG:APP": "5.842",
+      "Measured Rounds": "45"
+    },
+    {
+      "rank": 84,
+      "player": "J.J. Spaun",
+      "Avg": ".127",
+      "Total SG:APP": "9.294",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 85,
+      "player": "Joseph Bramlett",
+      "Avg": ".125",
+      "Total SG:APP": "8.395",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 86,
+      "player": "Ryan Armour",
+      "Avg": ".122",
+      "Total SG:APP": "4.255",
+      "Measured Rounds": "35"
+    },
+    {
+      "rank": 87,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": ".120",
+      "Total SG:APP": "6.627",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 88,
+      "player": "Satoshi Kodaira",
+      "Avg": ".118",
+      "Total SG:APP": "4.833",
+      "Measured Rounds": "41"
+    },
+    {
+      "rank": 89,
+      "player": "Taylor Pendrith",
+      "Avg": ".115",
+      "Total SG:APP": "6.811",
+      "Measured Rounds": "59"
+    },
+    {
+      "rank": 90,
+      "player": "Matt Jones",
+      "Avg": ".107",
+      "Total SG:APP": "5.460",
+      "Measured Rounds": "51"
+    },
+    {
+      "rank": 91,
+      "player": "Cameron Young",
+      "Avg": ".098",
+      "Total SG:APP": "6.851",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 92,
+      "player": "Nate Lashley",
+      "Avg": ".093",
+      "Total SG:APP": "5.684",
+      "Measured Rounds": "61"
+    },
+    {
+      "rank": 92,
+      "player": "Justin Lower",
+      "Avg": ".093",
+      "Total SG:APP": "5.006",
+      "Measured Rounds": "54"
+    },
+    {
+      "rank": 94,
+      "player": "Patrick Rodgers",
+      "Avg": ".091",
+      "Total SG:APP": "6.283",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 95,
+      "player": "Hayden Buckley",
+      "Avg": ".086",
+      "Total SG:APP": "6.624",
+      "Measured Rounds": "77"
+    },
+    {
+      "rank": 96,
+      "player": "Hank Lebioda",
+      "Avg": ".085",
+      "Total SG:APP": "5.801",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 97,
+      "player": "Si Woo Kim",
+      "Avg": ".072",
+      "Total SG:APP": "5.864",
+      "Measured Rounds": "81"
+    },
+    {
+      "rank": 98,
+      "player": "Justin Rose",
+      "Avg": ".065",
+      "Total SG:APP": "2.476",
+      "Measured Rounds": "38"
+    },
+    {
+      "rank": 99,
+      "player": "Charles Howell III",
+      "Avg": ".064",
+      "Total SG:APP": "3.018",
+      "Measured Rounds": "47"
+    },
+    {
+      "rank": 100,
+      "player": "Adam Long",
+      "Avg": ".062",
+      "Total SG:APP": "4.730",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 100,
+      "player": "Sam Ryder",
+      "Avg": ".062",
+      "Total SG:APP": "4.818",
+      "Measured Rounds": "78"
+    },
+    {
+      "rank": 102,
+      "player": "Greyson Sigg",
+      "Avg": ".056",
+      "Total SG:APP": "4.021",
+      "Measured Rounds": "72"
+    },
+    {
+      "rank": 103,
+      "player": "Kevin Streelman",
+      "Avg": ".054",
+      "Total SG:APP": "4.340",
+      "Measured Rounds": "80"
+    },
+    {
+      "rank": 104,
+      "player": "Chad Ramey",
+      "Avg": ".053",
+      "Total SG:APP": "2.941",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 105,
+      "player": "Troy Merritt",
+      "Avg": ".046",
+      "Total SG:APP": "3.413",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 106,
+      "player": "Emiliano Grillo",
+      "Avg": ".043",
+      "Total SG:APP": "3.020",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 107,
+      "player": "Kramer Hickok",
+      "Avg": ".041",
+      "Total SG:APP": "3.014",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 108,
+      "player": "Andrew Putnam",
+      "Avg": ".032",
+      "Total SG:APP": "2.566",
+      "Measured Rounds": "81"
+    },
+    {
+      "rank": 109,
+      "player": "Abraham Ancer",
+      "Avg": ".026",
+      "Total SG:APP": "1.186",
+      "Measured Rounds": "46"
+    },
+    {
+      "rank": 109,
+      "player": "Jason Kokrak",
+      "Avg": ".026",
+      "Total SG:APP": "1.303",
+      "Measured Rounds": "51"
+    },
+    {
+      "rank": 111,
+      "player": "Keith Mitchell",
+      "Avg": ".024",
+      "Total SG:APP": "1.747",
+      "Measured Rounds": "72"
+    },
+    {
+      "rank": 112,
+      "player": "Trey Mullinax",
+      "Avg": ".021",
+      "Total SG:APP": "1.398",
+      "Measured Rounds": "66"
+    },
+    {
+      "rank": 112,
+      "player": "Brian Stuard",
+      "Avg": ".021",
+      "Total SG:APP": "1.472",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 114,
+      "player": "J.T. Poston",
+      "Avg": ".018",
+      "Total SG:APP": "1.474",
+      "Measured Rounds": "80"
+    },
+    {
+      "rank": 115,
+      "player": "Camilo Villegas",
+      "Avg": ".017",
+      "Total SG:APP": ".883",
+      "Measured Rounds": "51"
+    },
+    {
+      "rank": 116,
+      "player": "Nick Taylor",
+      "Avg": ".015",
+      "Total SG:APP": "1.050",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 117,
+      "player": "James Hahn",
+      "Avg": ".013",
+      "Total SG:APP": ".761",
+      "Measured Rounds": "60"
+    },
+    {
+      "rank": 117,
+      "player": "Seamus Power",
+      "Avg": ".013",
+      "Total SG:APP": ".753",
+      "Measured Rounds": "59"
+    },
+    {
+      "rank": 119,
+      "player": "Alex Noren",
+      "Avg": ".002",
+      "Total SG:APP": ".089",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 120,
+      "player": "Jonathan Byrd",
+      "Avg": "-.003",
+      "Total SG:APP": "-.119",
+      "Measured Rounds": "43"
+    },
+    {
+      "rank": 120,
+      "player": "Chesson Hadley",
+      "Avg": "-.003",
+      "Total SG:APP": "-.223",
+      "Measured Rounds": "64"
+    },
+    {
+      "rank": 122,
+      "player": "Maverick McNealy",
+      "Avg": "-.004",
+      "Total SG:APP": "-.264",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 123,
+      "player": "Dylan Frittelli",
+      "Avg": "-.007",
+      "Total SG:APP": "-.477",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 124,
+      "player": "K.H. Lee",
+      "Avg": "-.009",
+      "Total SG:APP": "-.786",
+      "Measured Rounds": "86"
+    },
+    {
+      "rank": 125,
+      "player": "Stewart Cink",
+      "Avg": "-.013",
+      "Total SG:APP": "-.868",
+      "Measured Rounds": "66"
+    },
+    {
+      "rank": 126,
+      "player": "Brandon Wu",
+      "Avg": "-.019",
+      "Total SG:APP": "-.964",
+      "Measured Rounds": "50"
+    },
+    {
+      "rank": 127,
+      "player": "Peter Malnati",
+      "Avg": "-.023",
+      "Total SG:APP": "-2.038",
+      "Measured Rounds": "87"
+    },
+    {
+      "rank": 128,
+      "player": "Matt Kuchar",
+      "Avg": "-.035",
+      "Total SG:APP": "-2.117",
+      "Measured Rounds": "60"
+    },
+    {
+      "rank": 129,
+      "player": "Robert Streb",
+      "Avg": "-.042",
+      "Total SG:APP": "-3.038",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 130,
+      "player": "Ryan Palmer",
+      "Avg": "-.056",
+      "Total SG:APP": "-2.809",
+      "Measured Rounds": "50"
+    },
+    {
+      "rank": 131,
+      "player": "Denny McCarthy",
+      "Avg": "-.059",
+      "Total SG:APP": "-5.166",
+      "Measured Rounds": "87"
+    },
+    {
+      "rank": 132,
+      "player": "Brooks Koepka",
+      "Avg": "-.064",
+      "Total SG:APP": "-2.503",
+      "Measured Rounds": "39"
+    },
+    {
+      "rank": 133,
+      "player": "Brendon Todd",
+      "Avg": "-.065",
+      "Total SG:APP": "-4.564",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 134,
+      "player": "Billy Horschel",
+      "Avg": "-.067",
+      "Total SG:APP": "-3.699",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 135,
+      "player": "Cameron Percy",
+      "Avg": "-.078",
+      "Total SG:APP": "-2.481",
+      "Measured Rounds": "32"
+    },
+    {
+      "rank": 136,
+      "player": "Brandt Snedeker",
+      "Avg": "-.081",
+      "Total SG:APP": "-3.983",
+      "Measured Rounds": "49"
+    },
+    {
+      "rank": 137,
+      "player": "Jason Dufner",
+      "Avg": "-.085",
+      "Total SG:APP": "-3.309",
+      "Measured Rounds": "39"
+    },
+    {
+      "rank": 137,
+      "player": "Danny Lee",
+      "Avg": "-.085",
+      "Total SG:APP": "-3.414",
+      "Measured Rounds": "40"
+    },
+    {
+      "rank": 139,
+      "player": "Michael Gligic",
+      "Avg": "-.087",
+      "Total SG:APP": "-4.975",
+      "Measured Rounds": "57"
+    },
+    {
+      "rank": 140,
+      "player": "David Skinns",
+      "Avg": "-.090",
+      "Total SG:APP": "-4.698",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 141,
+      "player": "Charley Hoffman",
+      "Avg": "-.107",
+      "Total SG:APP": "-6.182",
+      "Measured Rounds": "58"
+    },
+    {
+      "rank": 142,
+      "player": "Matt Wallace",
+      "Avg": "-.109",
+      "Total SG:APP": "-5.336",
+      "Measured Rounds": "49"
+    },
+    {
+      "rank": 143,
+      "player": "Michael Thompson",
+      "Avg": "-.133",
+      "Total SG:APP": "-9.865",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 144,
+      "player": "Nick Hardy",
+      "Avg": "-.134",
+      "Total SG:APP": "-6.044",
+      "Measured Rounds": "45"
+    },
+    {
+      "rank": 145,
+      "player": "Jason Day",
+      "Avg": "-.137",
+      "Total SG:APP": "-6.974",
+      "Measured Rounds": "51"
+    },
+    {
+      "rank": 146,
+      "player": "Carlos Ortiz",
+      "Avg": "-.141",
+      "Total SG:APP": "-7.356",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 147,
+      "player": "Francesco Molinari",
+      "Avg": "-.142",
+      "Total SG:APP": "-5.689",
+      "Measured Rounds": "40"
+    },
+    {
+      "rank": 148,
+      "player": "Garrick Higgo",
+      "Avg": "-.155",
+      "Total SG:APP": "-5.895",
+      "Measured Rounds": "38"
+    },
+    {
+      "rank": 149,
+      "player": "Zach Johnson",
+      "Avg": "-.159",
+      "Total SG:APP": "-8.769",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 150,
+      "player": "Rickie Fowler",
+      "Avg": "-.161",
+      "Total SG:APP": "-8.989",
+      "Measured Rounds": "56"
+    },
+    {
+      "rank": 151,
+      "player": "Kevin Kisner",
+      "Avg": "-.171",
+      "Total SG:APP": "-9.380",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 152,
+      "player": "Cameron Champ",
+      "Avg": "-.178",
+      "Total SG:APP": "-8.353",
+      "Measured Rounds": "47"
+    },
+    {
+      "rank": 153,
+      "player": "Anirban Lahiri",
+      "Avg": "-.180",
+      "Total SG:APP": "-10.815",
+      "Measured Rounds": "60"
+    },
+    {
+      "rank": 154,
+      "player": "Jared Wolfe",
+      "Avg": "-.189",
+      "Total SG:APP": "-8.899",
+      "Measured Rounds": "47"
+    },
+    {
+      "rank": 155,
+      "player": "Taylor Moore",
+      "Avg": "-.196",
+      "Total SG:APP": "-15.312",
+      "Measured Rounds": "78"
+    },
+    {
+      "rank": 156,
+      "player": "Dylan Wu",
+      "Avg": "-.204",
+      "Total SG:APP": "-10.414",
+      "Measured Rounds": "51"
+    },
+    {
+      "rank": 157,
+      "player": "Mackenzie Hughes",
+      "Avg": "-.206",
+      "Total SG:APP": "-13.611",
+      "Measured Rounds": "66"
+    },
+    {
+      "rank": 158,
+      "player": "Scott Piercy",
+      "Avg": "-.217",
+      "Total SG:APP": "-14.531",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 158,
+      "player": "Ian Poulter",
+      "Avg": "-.217",
+      "Total SG:APP": "-7.818",
+      "Measured Rounds": "36"
+    },
+    {
+      "rank": 160,
+      "player": "Max McGreevy",
+      "Avg": "-.225",
+      "Total SG:APP": "-12.626",
+      "Measured Rounds": "56"
+    },
+    {
+      "rank": 161,
+      "player": "Dawie van der Walt",
+      "Avg": "-.240",
+      "Total SG:APP": "-11.500",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 162,
+      "player": "Roger Sloan",
+      "Avg": "-.241",
+      "Total SG:APP": "-14.962",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 163,
+      "player": "Paul Barjon",
+      "Avg": "-.245",
+      "Total SG:APP": "-15.455",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 164,
+      "player": "Sepp Straka",
+      "Avg": "-.247",
+      "Total SG:APP": "-18.253",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 165,
+      "player": "Jim Herman",
+      "Avg": "-.259",
+      "Total SG:APP": "-11.143",
+      "Measured Rounds": "43"
+    },
+    {
+      "rank": 166,
+      "player": "Brice Garnett",
+      "Avg": "-.266",
+      "Total SG:APP": "-16.234",
+      "Measured Rounds": "61"
+    },
+    {
+      "rank": 167,
+      "player": "Austin Cook",
+      "Avg": "-.272",
+      "Total SG:APP": "-14.430",
+      "Measured Rounds": "53"
+    },
+    {
+      "rank": 168,
+      "player": "Bo Hoag",
+      "Avg": "-.306",
+      "Total SG:APP": "-11.321",
+      "Measured Rounds": "37"
+    },
+    {
+      "rank": 169,
+      "player": "Patrick Reed",
+      "Avg": "-.317",
+      "Total SG:APP": "-16.186",
+      "Measured Rounds": "51"
+    },
+    {
+      "rank": 170,
+      "player": "Branden Grace",
+      "Avg": "-.318",
+      "Total SG:APP": "-13.675",
+      "Measured Rounds": "43"
+    },
+    {
+      "rank": 171,
+      "player": "Kelly Kraft",
+      "Avg": "-.323",
+      "Total SG:APP": "-18.408",
+      "Measured Rounds": "57"
+    },
+    {
+      "rank": 172,
+      "player": "Rory Sabbatini",
+      "Avg": "-.337",
+      "Total SG:APP": "-16.833",
+      "Measured Rounds": "50"
+    },
+    {
+      "rank": 173,
+      "player": "Wyndham Clark",
+      "Avg": "-.375",
+      "Total SG:APP": "-28.115",
+      "Measured Rounds": "75"
+    },
+    {
+      "rank": 174,
+      "player": "Kiradech Aphibarnrat",
+      "Avg": "-.409",
+      "Total SG:APP": "-14.711",
+      "Measured Rounds": "36"
+    },
+    {
+      "rank": 174,
+      "player": "Joshua Creel",
+      "Avg": "-.409",
+      "Total SG:APP": "-15.131",
+      "Measured Rounds": "37"
+    },
+    {
+      "rank": 176,
+      "player": "Danny Willett",
+      "Avg": "-.458",
+      "Total SG:APP": "-19.251",
+      "Measured Rounds": "42"
+    },
+    {
+      "rank": 177,
+      "player": "Vince Whaley",
+      "Avg": "-.466",
+      "Total SG:APP": "-31.232",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 178,
+      "player": "Brett Drewitt",
+      "Avg": "-.482",
+      "Total SG:APP": "-20.262",
+      "Measured Rounds": "42"
+    },
+    {
+      "rank": 179,
+      "player": "Sung Kang",
+      "Avg": "-.488",
+      "Total SG:APP": "-30.284",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 180,
+      "player": "Curtis Thompson",
+      "Avg": "-.505",
+      "Total SG:APP": "-22.201",
+      "Measured Rounds": "44"
+    },
+    {
+      "rank": 181,
+      "player": "Bill Haas",
+      "Avg": "-.513",
+      "Total SG:APP": "-34.895",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 181,
+      "player": "Richy Werenski",
+      "Avg": "-.513",
+      "Total SG:APP": "-26.155",
+      "Measured Rounds": "51"
+    },
+    {
+      "rank": 183,
+      "player": "Seth Reeves",
+      "Avg": "-.533",
+      "Total SG:APP": "-26.141",
+      "Measured Rounds": "49"
+    },
+    {
+      "rank": 184,
+      "player": "Brandon Hagy",
+      "Avg": "-.539",
+      "Total SG:APP": "-32.320",
+      "Measured Rounds": "60"
+    },
+    {
+      "rank": 185,
+      "player": "Jim Knous",
+      "Avg": "-.555",
+      "Total SG:APP": "-19.991",
+      "Measured Rounds": "36"
+    },
+    {
+      "rank": 186,
+      "player": "Kevin Chappell",
+      "Avg": "-.590",
+      "Total SG:APP": "-25.971",
+      "Measured Rounds": "44"
+    },
+    {
+      "rank": 187,
+      "player": "Harry Higgs",
+      "Avg": "-.600",
+      "Total SG:APP": "-40.807",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 188,
+      "player": "Matthew Wolff",
+      "Avg": "-.632",
+      "Total SG:APP": "-24.009",
+      "Measured Rounds": "38"
+    },
+    {
+      "rank": 189,
+      "player": "Kevin Tway",
+      "Avg": "-.654",
+      "Total SG:APP": "-43.788",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 190,
+      "player": "Beau Hossler",
+      "Avg": "-.666",
+      "Total SG:APP": "-43.294",
+      "Measured Rounds": "65"
+    },
+    {
+      "rank": 191,
+      "player": "Martin Trainer",
+      "Avg": "-.938",
+      "Total SG:APP": "-58.174",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 192,
+      "player": "Lucas Herbert",
+      "Avg": "-.979",
+      "Total SG:APP": "-39.172",
+      "Measured Rounds": "40"
+    },
+    {
+      "rank": 193,
+      "player": "Jonas Blixt",
+      "Avg": "-1.352",
+      "Total SG:APP": "-56.764",
+      "Measured Rounds": "42"
+    }
+  ]
+}

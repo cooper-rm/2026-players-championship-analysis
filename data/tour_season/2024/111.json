@@ -1,0 +1,1480 @@
+{
+  "stat_id": "111",
+  "year": 2024,
+  "category": "Around the Green",
+  "stat_title": "Sand Save Percentage",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Carl Yuan",
+      "%": "68.67%",
+      "# Saves": "57",
+      "# Bunkers": "83",
+      "Total O/U Par": "+16.00"
+    },
+    {
+      "rank": 2,
+      "player": "Aaron Baddeley",
+      "%": "68.57%",
+      "# Saves": "72",
+      "# Bunkers": "105",
+      "Total O/U Par": "+22.00"
+    },
+    {
+      "rank": 3,
+      "player": "Russell Henley",
+      "%": "67.97%",
+      "# Saves": "87",
+      "# Bunkers": "128",
+      "Total O/U Par": "+17.00"
+    },
+    {
+      "rank": 4,
+      "player": "Justin Rose",
+      "%": "66.04%",
+      "# Saves": "70",
+      "# Bunkers": "106",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 5,
+      "player": "Andrew Novak",
+      "%": "65.18%",
+      "# Saves": "73",
+      "# Bunkers": "112",
+      "Total O/U Par": "+12.00"
+    },
+    {
+      "rank": 6,
+      "player": "Billy Horschel",
+      "%": "64.80%",
+      "# Saves": "81",
+      "# Bunkers": "125",
+      "Total O/U Par": "+25.00"
+    },
+    {
+      "rank": 7,
+      "player": "Hayden Springer",
+      "%": "64.52%",
+      "# Saves": "60",
+      "# Bunkers": "93",
+      "Total O/U Par": "+10.00"
+    },
+    {
+      "rank": 8,
+      "player": "Ben Silverman",
+      "%": "64.42%",
+      "# Saves": "67",
+      "# Bunkers": "104",
+      "Total O/U Par": "+19.00"
+    },
+    {
+      "rank": 9,
+      "player": "Beau Hossler",
+      "%": "63.93%",
+      "# Saves": "78",
+      "# Bunkers": "122",
+      "Total O/U Par": "+14.00"
+    },
+    {
+      "rank": 10,
+      "player": "Chez Reavie",
+      "%": "63.53%",
+      "# Saves": "54",
+      "# Bunkers": "85",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 11,
+      "player": "S.H. Kim",
+      "%": "63.49%",
+      "# Saves": "120",
+      "# Bunkers": "189",
+      "Total O/U Par": "+36.00"
+    },
+    {
+      "rank": 12,
+      "player": "Robert MacIntyre",
+      "%": "63.41%",
+      "# Saves": "78",
+      "# Bunkers": "123",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 13,
+      "player": "Alex Noren",
+      "%": "63.39%",
+      "# Saves": "71",
+      "# Bunkers": "112",
+      "Total O/U Par": "+17.00"
+    },
+    {
+      "rank": 14,
+      "player": "Matt Fitzpatrick",
+      "%": "63.28%",
+      "# Saves": "81",
+      "# Bunkers": "128",
+      "Total O/U Par": "+35.00"
+    },
+    {
+      "rank": 15,
+      "player": "Sam Burns",
+      "%": "63.20%",
+      "# Saves": "79",
+      "# Bunkers": "125",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 16,
+      "player": "Sungjae Im",
+      "%": "63.01%",
+      "# Saves": "92",
+      "# Bunkers": "146",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 17,
+      "player": "Denny McCarthy",
+      "%": "62.60%",
+      "# Saves": "82",
+      "# Bunkers": "131",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 18,
+      "player": "Patrick Cantlay",
+      "%": "62.14%",
+      "# Saves": "64",
+      "# Bunkers": "103",
+      "Total O/U Par": "+12.00"
+    },
+    {
+      "rank": 19,
+      "player": "Martin Laird",
+      "%": "62.07%",
+      "# Saves": "54",
+      "# Bunkers": "87",
+      "Total O/U Par": "+13.00"
+    },
+    {
+      "rank": 20,
+      "player": "Byeong Hun An",
+      "%": "62.04%",
+      "# Saves": "67",
+      "# Bunkers": "108",
+      "Total O/U Par": "+25.00"
+    },
+    {
+      "rank": 21,
+      "player": "Raul Pereda",
+      "%": "61.97%",
+      "# Saves": "44",
+      "# Bunkers": "71",
+      "Total O/U Par": "+28.00"
+    },
+    {
+      "rank": 22,
+      "player": "Harry Hall",
+      "%": "61.96%",
+      "# Saves": "57",
+      "# Bunkers": "92",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 23,
+      "player": "Max Homa",
+      "%": "61.90%",
+      "# Saves": "91",
+      "# Bunkers": "147",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 24,
+      "player": "Jason Day",
+      "%": "61.54%",
+      "# Saves": "72",
+      "# Bunkers": "117",
+      "Total O/U Par": "+23.00"
+    },
+    {
+      "rank": 25,
+      "player": "Patton Kizzire",
+      "%": "61.45%",
+      "# Saves": "51",
+      "# Bunkers": "83",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 26,
+      "player": "Wyndham Clark",
+      "%": "61.40%",
+      "# Saves": "70",
+      "# Bunkers": "114",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 27,
+      "player": "Hideki Matsuyama",
+      "%": "60.94%",
+      "# Saves": "78",
+      "# Bunkers": "128",
+      "Total O/U Par": "+21.00"
+    },
+    {
+      "rank": 28,
+      "player": "Seamus Power",
+      "%": "60.90%",
+      "# Saves": "81",
+      "# Bunkers": "133",
+      "Total O/U Par": "+33.00"
+    },
+    {
+      "rank": 29,
+      "player": "Robby Shelton",
+      "%": "60.87%",
+      "# Saves": "70",
+      "# Bunkers": "115",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 30,
+      "player": "Lee Hodges",
+      "%": "60.80%",
+      "# Saves": "76",
+      "# Bunkers": "125",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 31,
+      "player": "Rory McIlroy",
+      "%": "60.71%",
+      "# Saves": "68",
+      "# Bunkers": "112",
+      "Total O/U Par": "+28.00"
+    },
+    {
+      "rank": 32,
+      "player": "Ryan Palmer",
+      "%": "60.61%",
+      "# Saves": "40",
+      "# Bunkers": "66",
+      "Total O/U Par": "+11.00"
+    },
+    {
+      "rank": 33,
+      "player": "Matti Schmid",
+      "%": "60.44%",
+      "# Saves": "55",
+      "# Bunkers": "91",
+      "Total O/U Par": "+11.00"
+    },
+    {
+      "rank": 34,
+      "player": "Dylan Wu",
+      "%": "60.40%",
+      "# Saves": "61",
+      "# Bunkers": "101",
+      "Total O/U Par": "+15.00"
+    },
+    {
+      "rank": 35,
+      "player": "Patrick Rodgers",
+      "%": "60.36%",
+      "# Saves": "102",
+      "# Bunkers": "169",
+      "Total O/U Par": "+34.00"
+    },
+    {
+      "rank": 36,
+      "player": "Bud Cauley",
+      "%": "60.32%",
+      "# Saves": "38",
+      "# Bunkers": "63",
+      "Total O/U Par": "+14.00"
+    },
+    {
+      "rank": 37,
+      "player": "Michael Kim",
+      "%": "60.19%",
+      "# Saves": "62",
+      "# Bunkers": "103",
+      "Total O/U Par": "+16.00"
+    },
+    {
+      "rank": 38,
+      "player": "Rickie Fowler",
+      "%": "60.16%",
+      "# Saves": "74",
+      "# Bunkers": "123",
+      "Total O/U Par": "+34.00"
+    },
+    {
+      "rank": 39,
+      "player": "Eric Cole",
+      "%": "60.13%",
+      "# Saves": "92",
+      "# Bunkers": "153",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 40,
+      "player": "Kevin Tway",
+      "%": "60.00%",
+      "# Saves": "39",
+      "# Bunkers": "65",
+      "Total O/U Par": "+12.00"
+    },
+    {
+      "rank": 41,
+      "player": "Martin Trainer",
+      "%": "59.65%",
+      "# Saves": "34",
+      "# Bunkers": "57",
+      "Total O/U Par": "+19.00"
+    },
+    {
+      "rank": 42,
+      "player": "Lucas Glover",
+      "%": "59.57%",
+      "# Saves": "84",
+      "# Bunkers": "141",
+      "Total O/U Par": "+45.00"
+    },
+    {
+      "rank": 43,
+      "player": "Kevin Streelman",
+      "%": "59.55%",
+      "# Saves": "53",
+      "# Bunkers": "89",
+      "Total O/U Par": "+17.00"
+    },
+    {
+      "rank": 44,
+      "player": "Xander Schauffele",
+      "%": "59.52%",
+      "# Saves": "75",
+      "# Bunkers": "126",
+      "Total O/U Par": "+13.00"
+    },
+    {
+      "rank": 45,
+      "player": "Sam Stevens",
+      "%": "59.41%",
+      "# Saves": "60",
+      "# Bunkers": "101",
+      "Total O/U Par": "+14.00"
+    },
+    {
+      "rank": 46,
+      "player": "Davis Thompson",
+      "%": "59.40%",
+      "# Saves": "79",
+      "# Bunkers": "133",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 47,
+      "player": "Henrik Norlander",
+      "%": "59.38%",
+      "# Saves": "38",
+      "# Bunkers": "64",
+      "Total O/U Par": "+11.00"
+    },
+    {
+      "rank": 48,
+      "player": "Mac Meissner",
+      "%": "59.34%",
+      "# Saves": "54",
+      "# Bunkers": "91",
+      "Total O/U Par": "+16.00"
+    },
+    {
+      "rank": 49,
+      "player": "Kevin Chappell",
+      "%": "59.26%",
+      "# Saves": "32",
+      "# Bunkers": "54",
+      "Total O/U Par": "+14.00"
+    },
+    {
+      "rank": 50,
+      "player": "Si Woo Kim",
+      "%": "59.09%",
+      "# Saves": "78",
+      "# Bunkers": "132",
+      "Total O/U Par": "+34.00"
+    },
+    {
+      "rank": 50,
+      "player": "Matt Kuchar",
+      "%": "59.09%",
+      "# Saves": "65",
+      "# Bunkers": "110",
+      "Total O/U Par": "+28.00"
+    },
+    {
+      "rank": 52,
+      "player": "Tony Finau",
+      "%": "59.00%",
+      "# Saves": "59",
+      "# Bunkers": "100",
+      "Total O/U Par": "+32.00"
+    },
+    {
+      "rank": 53,
+      "player": "Tommy Fleetwood",
+      "%": "58.93%",
+      "# Saves": "66",
+      "# Bunkers": "112",
+      "Total O/U Par": "+25.00"
+    },
+    {
+      "rank": 54,
+      "player": "Brendon Todd",
+      "%": "58.65%",
+      "# Saves": "78",
+      "# Bunkers": "133",
+      "Total O/U Par": "+41.00"
+    },
+    {
+      "rank": 55,
+      "player": "Thorbj\u00f8rn Olesen",
+      "%": "58.57%",
+      "# Saves": "41",
+      "# Bunkers": "70",
+      "Total O/U Par": "+19.00"
+    },
+    {
+      "rank": 56,
+      "player": "Jake Knapp",
+      "%": "58.56%",
+      "# Saves": "65",
+      "# Bunkers": "111",
+      "Total O/U Par": "+34.00"
+    },
+    {
+      "rank": 57,
+      "player": "Chesson Hadley",
+      "%": "58.54%",
+      "# Saves": "48",
+      "# Bunkers": "82",
+      "Total O/U Par": "+20.00"
+    },
+    {
+      "rank": 58,
+      "player": "Nico Echavarria",
+      "%": "58.46%",
+      "# Saves": "76",
+      "# Bunkers": "130",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 59,
+      "player": "Doug Ghim",
+      "%": "58.25%",
+      "# Saves": "60",
+      "# Bunkers": "103",
+      "Total O/U Par": "+16.00"
+    },
+    {
+      "rank": 59,
+      "player": "Justin Thomas",
+      "%": "58.25%",
+      "# Saves": "60",
+      "# Bunkers": "103",
+      "Total O/U Par": "+25.00"
+    },
+    {
+      "rank": 61,
+      "player": "Matt Wallace",
+      "%": "58.11%",
+      "# Saves": "43",
+      "# Bunkers": "74",
+      "Total O/U Par": "+15.00"
+    },
+    {
+      "rank": 62,
+      "player": "Webb Simpson",
+      "%": "58.00%",
+      "# Saves": "58",
+      "# Bunkers": "100",
+      "Total O/U Par": "+32.00"
+    },
+    {
+      "rank": 63,
+      "player": "Akshay Bhatia",
+      "%": "57.86%",
+      "# Saves": "81",
+      "# Bunkers": "140",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 64,
+      "player": "Harris English",
+      "%": "57.81%",
+      "# Saves": "74",
+      "# Bunkers": "128",
+      "Total O/U Par": "+32.00"
+    },
+    {
+      "rank": 65,
+      "player": "Chad Ramey",
+      "%": "57.76%",
+      "# Saves": "67",
+      "# Bunkers": "116",
+      "Total O/U Par": "+39.00"
+    },
+    {
+      "rank": 66,
+      "player": "Christiaan Bezuidenhout",
+      "%": "57.72%",
+      "# Saves": "71",
+      "# Bunkers": "123",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 66,
+      "player": "Keegan Bradley",
+      "%": "57.72%",
+      "# Saves": "71",
+      "# Bunkers": "123",
+      "Total O/U Par": "+42.00"
+    },
+    {
+      "rank": 68,
+      "player": "Peter Malnati",
+      "%": "57.58%",
+      "# Saves": "76",
+      "# Bunkers": "132",
+      "Total O/U Par": "+38.00"
+    },
+    {
+      "rank": 69,
+      "player": "Justin Lower",
+      "%": "57.48%",
+      "# Saves": "73",
+      "# Bunkers": "127",
+      "Total O/U Par": "+36.00"
+    },
+    {
+      "rank": 70,
+      "player": "Davis Riley",
+      "%": "57.43%",
+      "# Saves": "58",
+      "# Bunkers": "101",
+      "Total O/U Par": "+40.00"
+    },
+    {
+      "rank": 70,
+      "player": "Scottie Scheffler",
+      "%": "57.43%",
+      "# Saves": "58",
+      "# Bunkers": "101",
+      "Total O/U Par": "+8.00"
+    },
+    {
+      "rank": 72,
+      "player": "Adam Svensson",
+      "%": "57.33%",
+      "# Saves": "86",
+      "# Bunkers": "150",
+      "Total O/U Par": "+37.00"
+    },
+    {
+      "rank": 73,
+      "player": "Carson Young",
+      "%": "57.29%",
+      "# Saves": "55",
+      "# Bunkers": "96",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 74,
+      "player": "Vince Whaley",
+      "%": "57.27%",
+      "# Saves": "63",
+      "# Bunkers": "110",
+      "Total O/U Par": "+28.00"
+    },
+    {
+      "rank": 75,
+      "player": "Cam Davis",
+      "%": "57.14%",
+      "# Saves": "76",
+      "# Bunkers": "133",
+      "Total O/U Par": "+52.00"
+    },
+    {
+      "rank": 76,
+      "player": "Adam Scott",
+      "%": "57.02%",
+      "# Saves": "69",
+      "# Bunkers": "121",
+      "Total O/U Par": "+24.00"
+    },
+    {
+      "rank": 77,
+      "player": "Will Zalatoris",
+      "%": "56.91%",
+      "# Saves": "70",
+      "# Bunkers": "123",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 78,
+      "player": "Joe Highsmith",
+      "%": "56.90%",
+      "# Saves": "66",
+      "# Bunkers": "116",
+      "Total O/U Par": "+25.00"
+    },
+    {
+      "rank": 79,
+      "player": "Andrew Putnam",
+      "%": "56.82%",
+      "# Saves": "75",
+      "# Bunkers": "132",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 80,
+      "player": "J.J. Spaun",
+      "%": "56.76%",
+      "# Saves": "63",
+      "# Bunkers": "111",
+      "Total O/U Par": "+21.00"
+    },
+    {
+      "rank": 81,
+      "player": "Shane Lowry",
+      "%": "56.73%",
+      "# Saves": "59",
+      "# Bunkers": "104",
+      "Total O/U Par": "+40.00"
+    },
+    {
+      "rank": 82,
+      "player": "Jacob Bridgeman",
+      "%": "56.60%",
+      "# Saves": "60",
+      "# Bunkers": "106",
+      "Total O/U Par": "+36.00"
+    },
+    {
+      "rank": 83,
+      "player": "Jordan Spieth",
+      "%": "56.49%",
+      "# Saves": "74",
+      "# Bunkers": "131",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 84,
+      "player": "Justin Suh",
+      "%": "56.47%",
+      "# Saves": "48",
+      "# Bunkers": "85",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 85,
+      "player": "K.H. Lee",
+      "%": "56.41%",
+      "# Saves": "66",
+      "# Bunkers": "117",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 86,
+      "player": "Rafael Campos",
+      "%": "56.34%",
+      "# Saves": "40",
+      "# Bunkers": "71",
+      "Total O/U Par": "+6.00"
+    },
+    {
+      "rank": 87,
+      "player": "Taylor Moore",
+      "%": "56.29%",
+      "# Saves": "85",
+      "# Bunkers": "151",
+      "Total O/U Par": "+49.00"
+    },
+    {
+      "rank": 88,
+      "player": "Brandon Wu",
+      "%": "56.25%",
+      "# Saves": "54",
+      "# Bunkers": "96",
+      "Total O/U Par": "+38.00"
+    },
+    {
+      "rank": 89,
+      "player": "Collin Morikawa",
+      "%": "56.15%",
+      "# Saves": "73",
+      "# Bunkers": "130",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 90,
+      "player": "Matt NeSmith",
+      "%": "56.12%",
+      "# Saves": "55",
+      "# Bunkers": "98",
+      "Total O/U Par": "+28.00"
+    },
+    {
+      "rank": 91,
+      "player": "Erik van Rooyen",
+      "%": "56.04%",
+      "# Saves": "51",
+      "# Bunkers": "91",
+      "Total O/U Par": "+28.00"
+    },
+    {
+      "rank": 92,
+      "player": "J.T. Poston",
+      "%": "56.03%",
+      "# Saves": "79",
+      "# Bunkers": "141",
+      "Total O/U Par": "+50.00"
+    },
+    {
+      "rank": 93,
+      "player": "Hayden Buckley",
+      "%": "56.00%",
+      "# Saves": "56",
+      "# Bunkers": "100",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 93,
+      "player": "Zach Johnson",
+      "%": "56.00%",
+      "# Saves": "42",
+      "# Bunkers": "75",
+      "Total O/U Par": "+25.00"
+    },
+    {
+      "rank": 95,
+      "player": "Sam Ryder",
+      "%": "55.96%",
+      "# Saves": "61",
+      "# Bunkers": "109",
+      "Total O/U Par": "+33.00"
+    },
+    {
+      "rank": 96,
+      "player": "Thomas Detry",
+      "%": "55.56%",
+      "# Saves": "65",
+      "# Bunkers": "117",
+      "Total O/U Par": "+31.00"
+    },
+    {
+      "rank": 97,
+      "player": "Chan Kim",
+      "%": "55.45%",
+      "# Saves": "61",
+      "# Bunkers": "110",
+      "Total O/U Par": "+21.00"
+    },
+    {
+      "rank": 98,
+      "player": "Ben Griffin",
+      "%": "55.32%",
+      "# Saves": "78",
+      "# Bunkers": "141",
+      "Total O/U Par": "+32.00"
+    },
+    {
+      "rank": 99,
+      "player": "Charley Hoffman",
+      "%": "55.28%",
+      "# Saves": "68",
+      "# Bunkers": "123",
+      "Total O/U Par": "+39.00"
+    },
+    {
+      "rank": 100,
+      "player": "Max Greyserman",
+      "%": "55.21%",
+      "# Saves": "53",
+      "# Bunkers": "96",
+      "Total O/U Par": "+32.00"
+    },
+    {
+      "rank": 101,
+      "player": "Emiliano Grillo",
+      "%": "55.17%",
+      "# Saves": "64",
+      "# Bunkers": "116",
+      "Total O/U Par": "+46.00"
+    },
+    {
+      "rank": 102,
+      "player": "Keith Mitchell",
+      "%": "54.87%",
+      "# Saves": "62",
+      "# Bunkers": "113",
+      "Total O/U Par": "+37.00"
+    },
+    {
+      "rank": 103,
+      "player": "Mark Hubbard",
+      "%": "54.79%",
+      "# Saves": "80",
+      "# Bunkers": "146",
+      "Total O/U Par": "+44.00"
+    },
+    {
+      "rank": 104,
+      "player": "Tom Kim",
+      "%": "54.61%",
+      "# Saves": "77",
+      "# Bunkers": "141",
+      "Total O/U Par": "+45.00"
+    },
+    {
+      "rank": 105,
+      "player": "Mackenzie Hughes",
+      "%": "54.48%",
+      "# Saves": "79",
+      "# Bunkers": "145",
+      "Total O/U Par": "+48.00"
+    },
+    {
+      "rank": 106,
+      "player": "Adam Schenk",
+      "%": "54.41%",
+      "# Saves": "74",
+      "# Bunkers": "136",
+      "Total O/U Par": "+49.00"
+    },
+    {
+      "rank": 107,
+      "player": "Roger Sloan",
+      "%": "54.35%",
+      "# Saves": "50",
+      "# Bunkers": "92",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 108,
+      "player": "Taylor Montgomery",
+      "%": "54.05%",
+      "# Saves": "40",
+      "# Bunkers": "74",
+      "Total O/U Par": "+32.00"
+    },
+    {
+      "rank": 109,
+      "player": "Austin Eckroat",
+      "%": "53.95%",
+      "# Saves": "82",
+      "# Bunkers": "152",
+      "Total O/U Par": "+50.00"
+    },
+    {
+      "rank": 110,
+      "player": "Paul Barjon",
+      "%": "53.85%",
+      "# Saves": "42",
+      "# Bunkers": "78",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 111,
+      "player": "Sahith Theegala",
+      "%": "53.79%",
+      "# Saves": "78",
+      "# Bunkers": "145",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 112,
+      "player": "Nate Lashley",
+      "%": "53.76%",
+      "# Saves": "50",
+      "# Bunkers": "93",
+      "Total O/U Par": "+13.00"
+    },
+    {
+      "rank": 113,
+      "player": "Kurt Kitayama",
+      "%": "53.57%",
+      "# Saves": "60",
+      "# Bunkers": "112",
+      "Total O/U Par": "+32.00"
+    },
+    {
+      "rank": 114,
+      "player": "Nick Taylor",
+      "%": "53.54%",
+      "# Saves": "68",
+      "# Bunkers": "127",
+      "Total O/U Par": "+41.00"
+    },
+    {
+      "rank": 115,
+      "player": "Ludvig \u00c5berg",
+      "%": "53.47%",
+      "# Saves": "54",
+      "# Bunkers": "101",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 116,
+      "player": "Sami Valimaki",
+      "%": "53.41%",
+      "# Saves": "47",
+      "# Bunkers": "88",
+      "Total O/U Par": "+31.00"
+    },
+    {
+      "rank": 117,
+      "player": "Cameron Young",
+      "%": "53.24%",
+      "# Saves": "74",
+      "# Bunkers": "139",
+      "Total O/U Par": "+38.00"
+    },
+    {
+      "rank": 118,
+      "player": "Tom Hoge",
+      "%": "53.22%",
+      "# Saves": "91",
+      "# Bunkers": "171",
+      "Total O/U Par": "+53.00"
+    },
+    {
+      "rank": 119,
+      "player": "Ben Taylor",
+      "%": "53.19%",
+      "# Saves": "50",
+      "# Bunkers": "94",
+      "Total O/U Par": "+36.00"
+    },
+    {
+      "rank": 120,
+      "player": "Camilo Villegas",
+      "%": "53.13%",
+      "# Saves": "51",
+      "# Bunkers": "96",
+      "Total O/U Par": "+43.00"
+    },
+    {
+      "rank": 121,
+      "player": "Joseph Bramlett",
+      "%": "52.94%",
+      "# Saves": "63",
+      "# Bunkers": "119",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 122,
+      "player": "Ryan Brehm",
+      "%": "52.81%",
+      "# Saves": "47",
+      "# Bunkers": "89",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 123,
+      "player": "Brice Garnett",
+      "%": "52.73%",
+      "# Saves": "29",
+      "# Bunkers": "55",
+      "Total O/U Par": "+15.00"
+    },
+    {
+      "rank": 124,
+      "player": "Maverick McNealy",
+      "%": "52.54%",
+      "# Saves": "62",
+      "# Bunkers": "118",
+      "Total O/U Par": "+37.00"
+    },
+    {
+      "rank": 125,
+      "player": "Zac Blair",
+      "%": "52.42%",
+      "# Saves": "65",
+      "# Bunkers": "124",
+      "Total O/U Par": "+38.00"
+    },
+    {
+      "rank": 126,
+      "player": "Josh Teater",
+      "%": "52.38%",
+      "# Saves": "33",
+      "# Bunkers": "63",
+      "Total O/U Par": "+28.00"
+    },
+    {
+      "rank": 127,
+      "player": "Min Woo Lee",
+      "%": "52.25%",
+      "# Saves": "58",
+      "# Bunkers": "111",
+      "Total O/U Par": "+35.00"
+    },
+    {
+      "rank": 127,
+      "player": "Taylor Pendrith",
+      "%": "52.25%",
+      "# Saves": "58",
+      "# Bunkers": "111",
+      "Total O/U Par": "+39.00"
+    },
+    {
+      "rank": 129,
+      "player": "Adam Hadwin",
+      "%": "52.21%",
+      "# Saves": "71",
+      "# Bunkers": "136",
+      "Total O/U Par": "+45.00"
+    },
+    {
+      "rank": 130,
+      "player": "Pierceson Coody",
+      "%": "52.13%",
+      "# Saves": "49",
+      "# Bunkers": "94",
+      "Total O/U Par": "+33.00"
+    },
+    {
+      "rank": 130,
+      "player": "Tyler Duncan",
+      "%": "52.13%",
+      "# Saves": "49",
+      "# Bunkers": "94",
+      "Total O/U Par": "+34.00"
+    },
+    {
+      "rank": 132,
+      "player": "Greyson Sigg",
+      "%": "51.72%",
+      "# Saves": "60",
+      "# Bunkers": "116",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 133,
+      "player": "Brandt Snedeker",
+      "%": "51.69%",
+      "# Saves": "46",
+      "# Bunkers": "89",
+      "Total O/U Par": "+37.00"
+    },
+    {
+      "rank": 134,
+      "player": "Ryan Fox",
+      "%": "51.67%",
+      "# Saves": "62",
+      "# Bunkers": "120",
+      "Total O/U Par": "+35.00"
+    },
+    {
+      "rank": 135,
+      "player": "Ryo Hisatsune",
+      "%": "51.52%",
+      "# Saves": "51",
+      "# Bunkers": "99",
+      "Total O/U Par": "+18.00"
+    },
+    {
+      "rank": 136,
+      "player": "Erik Barnes",
+      "%": "51.47%",
+      "# Saves": "35",
+      "# Bunkers": "68",
+      "Total O/U Par": "+31.00"
+    },
+    {
+      "rank": 137,
+      "player": "C.T. Pan",
+      "%": "51.39%",
+      "# Saves": "37",
+      "# Bunkers": "72",
+      "Total O/U Par": "+28.00"
+    },
+    {
+      "rank": 138,
+      "player": "Victor Perez",
+      "%": "51.14%",
+      "# Saves": "45",
+      "# Bunkers": "88",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 139,
+      "player": "Chandler Phillips",
+      "%": "50.94%",
+      "# Saves": "54",
+      "# Bunkers": "106",
+      "Total O/U Par": "+31.00"
+    },
+    {
+      "rank": 140,
+      "player": "Austin Smotherman",
+      "%": "50.88%",
+      "# Saves": "29",
+      "# Bunkers": "57",
+      "Total O/U Par": "+18.00"
+    },
+    {
+      "rank": 141,
+      "player": "Nick Hardy",
+      "%": "50.85%",
+      "# Saves": "60",
+      "# Bunkers": "118",
+      "Total O/U Par": "+35.00"
+    },
+    {
+      "rank": 141,
+      "player": "Ben Kohles",
+      "%": "50.85%",
+      "# Saves": "60",
+      "# Bunkers": "118",
+      "Total O/U Par": "+49.00"
+    },
+    {
+      "rank": 143,
+      "player": "Chris Kirk",
+      "%": "50.74%",
+      "# Saves": "69",
+      "# Bunkers": "136",
+      "Total O/U Par": "+47.00"
+    },
+    {
+      "rank": 144,
+      "player": "Kevin Kisner",
+      "%": "50.59%",
+      "# Saves": "43",
+      "# Bunkers": "85",
+      "Total O/U Par": "+36.00"
+    },
+    {
+      "rank": 145,
+      "player": "Joel Dahmen",
+      "%": "50.45%",
+      "# Saves": "56",
+      "# Bunkers": "111",
+      "Total O/U Par": "+36.00"
+    },
+    {
+      "rank": 146,
+      "player": "Tyson Alexander",
+      "%": "50.43%",
+      "# Saves": "59",
+      "# Bunkers": "117",
+      "Total O/U Par": "+39.00"
+    },
+    {
+      "rank": 147,
+      "player": "Nick Dunlap",
+      "%": "50.00%",
+      "# Saves": "46",
+      "# Bunkers": "92",
+      "Total O/U Par": "+37.00"
+    },
+    {
+      "rank": 147,
+      "player": "Troy Merritt",
+      "%": "50.00%",
+      "# Saves": "47",
+      "# Bunkers": "94",
+      "Total O/U Par": "+39.00"
+    },
+    {
+      "rank": 147,
+      "player": "Matthieu Pavon",
+      "%": "50.00%",
+      "# Saves": "46",
+      "# Bunkers": "92",
+      "Total O/U Par": "+43.00"
+    },
+    {
+      "rank": 147,
+      "player": "Aaron Rai",
+      "%": "50.00%",
+      "# Saves": "51",
+      "# Bunkers": "102",
+      "Total O/U Par": "+31.00"
+    },
+    {
+      "rank": 147,
+      "player": "Alex Smalley",
+      "%": "50.00%",
+      "# Saves": "47",
+      "# Bunkers": "94",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 147,
+      "player": "Callum Tarren",
+      "%": "50.00%",
+      "# Saves": "43",
+      "# Bunkers": "86",
+      "Total O/U Par": "+27.00"
+    },
+    {
+      "rank": 147,
+      "player": "Tom Whitney",
+      "%": "50.00%",
+      "# Saves": "48",
+      "# Bunkers": "96",
+      "Total O/U Par": "+39.00"
+    },
+    {
+      "rank": 154,
+      "player": "Garrick Higgo",
+      "%": "49.46%",
+      "# Saves": "46",
+      "# Bunkers": "93",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 155,
+      "player": "Brian Harman",
+      "%": "49.32%",
+      "# Saves": "72",
+      "# Bunkers": "146",
+      "Total O/U Par": "+57.00"
+    },
+    {
+      "rank": 156,
+      "player": "Corey Conners",
+      "%": "49.30%",
+      "# Saves": "70",
+      "# Bunkers": "142",
+      "Total O/U Par": "+46.00"
+    },
+    {
+      "rank": 157,
+      "player": "Sepp Straka",
+      "%": "49.11%",
+      "# Saves": "55",
+      "# Bunkers": "112",
+      "Total O/U Par": "+50.00"
+    },
+    {
+      "rank": 158,
+      "player": "Kevin Yu",
+      "%": "48.94%",
+      "# Saves": "46",
+      "# Bunkers": "94",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 159,
+      "player": "Ryan McCormick",
+      "%": "48.81%",
+      "# Saves": "41",
+      "# Bunkers": "84",
+      "Total O/U Par": "+41.00"
+    },
+    {
+      "rank": 160,
+      "player": "Adrien Dumont de Chassart",
+      "%": "48.45%",
+      "# Saves": "47",
+      "# Bunkers": "97",
+      "Total O/U Par": "+42.00"
+    },
+    {
+      "rank": 161,
+      "player": "Stephan Jaeger",
+      "%": "48.09%",
+      "# Saves": "63",
+      "# Bunkers": "131",
+      "Total O/U Par": "+40.00"
+    },
+    {
+      "rank": 162,
+      "player": "Nicolai H\u00f8jgaard",
+      "%": "47.83%",
+      "# Saves": "33",
+      "# Bunkers": "69",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 162,
+      "player": "David Skinns",
+      "%": "47.83%",
+      "# Saves": "55",
+      "# Bunkers": "115",
+      "Total O/U Par": "+39.00"
+    },
+    {
+      "rank": 164,
+      "player": "Parker Coody",
+      "%": "47.56%",
+      "# Saves": "39",
+      "# Bunkers": "82",
+      "Total O/U Par": "+32.00"
+    },
+    {
+      "rank": 165,
+      "player": "Patrick Fishburn",
+      "%": "46.67%",
+      "# Saves": "35",
+      "# Bunkers": "75",
+      "Total O/U Par": "+13.00"
+    },
+    {
+      "rank": 166,
+      "player": "Viktor Hovland",
+      "%": "46.59%",
+      "# Saves": "41",
+      "# Bunkers": "88",
+      "Total O/U Par": "+34.00"
+    },
+    {
+      "rank": 167,
+      "player": "Chris Gotterup",
+      "%": "46.46%",
+      "# Saves": "46",
+      "# Bunkers": "99",
+      "Total O/U Par": "+26.00"
+    },
+    {
+      "rank": 168,
+      "player": "Wesley Bryan",
+      "%": "46.30%",
+      "# Saves": "25",
+      "# Bunkers": "54",
+      "Total O/U Par": "+19.00"
+    },
+    {
+      "rank": 169,
+      "player": "Rico Hoey",
+      "%": "46.15%",
+      "# Saves": "48",
+      "# Bunkers": "104",
+      "Total O/U Par": "+30.00"
+    },
+    {
+      "rank": 170,
+      "player": "Daniel Berger",
+      "%": "46.08%",
+      "# Saves": "47",
+      "# Bunkers": "102",
+      "Total O/U Par": "+23.00"
+    },
+    {
+      "rank": 171,
+      "player": "David Lipsky",
+      "%": "46.07%",
+      "# Saves": "41",
+      "# Bunkers": "89",
+      "Total O/U Par": "+37.00"
+    },
+    {
+      "rank": 172,
+      "player": "Wilson Furr",
+      "%": "45.90%",
+      "# Saves": "28",
+      "# Bunkers": "61",
+      "Total O/U Par": "+20.00"
+    },
+    {
+      "rank": 173,
+      "player": "Alejandro Tosti",
+      "%": "45.28%",
+      "# Saves": "48",
+      "# Bunkers": "106",
+      "Total O/U Par": "+55.00"
+    },
+    {
+      "rank": 174,
+      "player": "Cameron Champ",
+      "%": "44.94%",
+      "# Saves": "40",
+      "# Bunkers": "89",
+      "Total O/U Par": "+35.00"
+    },
+    {
+      "rank": 175,
+      "player": "Gary Woodland",
+      "%": "44.79%",
+      "# Saves": "43",
+      "# Bunkers": "96",
+      "Total O/U Par": "+52.00"
+    },
+    {
+      "rank": 176,
+      "player": "Kevin Dougherty",
+      "%": "44.57%",
+      "# Saves": "41",
+      "# Bunkers": "92",
+      "Total O/U Par": "+36.00"
+    },
+    {
+      "rank": 177,
+      "player": "Jhonattan Vegas",
+      "%": "44.19%",
+      "# Saves": "38",
+      "# Bunkers": "86",
+      "Total O/U Par": "+22.00"
+    },
+    {
+      "rank": 178,
+      "player": "Ryan Moore",
+      "%": "43.82%",
+      "# Saves": "39",
+      "# Bunkers": "89",
+      "Total O/U Par": "+33.00"
+    },
+    {
+      "rank": 179,
+      "player": "Luke List",
+      "%": "43.40%",
+      "# Saves": "46",
+      "# Bunkers": "106",
+      "Total O/U Par": "+44.00"
+    },
+    {
+      "rank": 180,
+      "player": "Jorge Campillo",
+      "%": "41.89%",
+      "# Saves": "31",
+      "# Bunkers": "74",
+      "Total O/U Par": "+29.00"
+    },
+    {
+      "rank": 181,
+      "player": "Blaine Hale, Jr.",
+      "%": "41.82%",
+      "# Saves": "23",
+      "# Bunkers": "55",
+      "Total O/U Par": "+23.00"
+    },
+    {
+      "rank": 182,
+      "player": "Trace Crowe",
+      "%": "39.51%",
+      "# Saves": "32",
+      "# Bunkers": "81",
+      "Total O/U Par": "+40.00"
+    },
+    {
+      "rank": 183,
+      "player": "Lanto Griffin",
+      "%": "34.38%",
+      "# Saves": "33",
+      "# Bunkers": "96",
+      "Total O/U Par": "+52.00"
+    },
+    {
+      "rank": 184,
+      "player": "Vincent Norrman",
+      "%": "30.88%",
+      "# Saves": "21",
+      "# Bunkers": "68",
+      "Total O/U Par": "+29.00"
+    }
+  ]
+}

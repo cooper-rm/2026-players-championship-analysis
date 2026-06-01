@@ -1,0 +1,956 @@
+{
+  "stat_id": "02396",
+  "year": 2025,
+  "category": "Money/Finishes",
+  "stat_title": "FedExCup Bonus Money",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tommy Fleetwood"
+    },
+    {
+      "rank": 2,
+      "player": "Patrick Cantlay"
+    },
+    {
+      "rank": 2,
+      "player": "Russell Henley"
+    },
+    {
+      "rank": 4,
+      "player": "Corey Conners"
+    },
+    {
+      "rank": 4,
+      "player": "Scottie Scheffler"
+    },
+    {
+      "rank": 4,
+      "player": "Cameron Young"
+    },
+    {
+      "rank": 7,
+      "player": "Keegan Bradley"
+    },
+    {
+      "rank": 7,
+      "player": "Sam Burns"
+    },
+    {
+      "rank": 7,
+      "player": "Justin Thomas"
+    },
+    {
+      "rank": 10,
+      "player": "Chris Gotterup"
+    },
+    {
+      "rank": 10,
+      "player": "Ben Griffin"
+    },
+    {
+      "rank": 12,
+      "player": "Viktor Hovland"
+    },
+    {
+      "rank": 13,
+      "player": "Akshay Bhatia"
+    },
+    {
+      "rank": 13,
+      "player": "Harris English"
+    },
+    {
+      "rank": 13,
+      "player": "Brian Harman"
+    },
+    {
+      "rank": 13,
+      "player": "Shane Lowry"
+    },
+    {
+      "rank": 17,
+      "player": "Harry Hall"
+    },
+    {
+      "rank": 17,
+      "player": "Robert MacIntyre"
+    },
+    {
+      "rank": 19,
+      "player": "Collin Morikawa"
+    },
+    {
+      "rank": 19,
+      "player": "Nick Taylor"
+    },
+    {
+      "rank": 21,
+      "player": "Ludvig \u00c5berg"
+    },
+    {
+      "rank": 21,
+      "player": "Justin Rose"
+    },
+    {
+      "rank": 23,
+      "player": "Rory McIlroy"
+    },
+    {
+      "rank": 23,
+      "player": "Maverick McNealy"
+    },
+    {
+      "rank": 25,
+      "player": "Andrew Novak"
+    },
+    {
+      "rank": 25,
+      "player": "J.J. Spaun"
+    },
+    {
+      "rank": 27,
+      "player": "Jacob Bridgeman"
+    },
+    {
+      "rank": 27,
+      "player": "Sungjae Im"
+    },
+    {
+      "rank": 29,
+      "player": "Hideki Matsuyama"
+    },
+    {
+      "rank": 30,
+      "player": "Sepp Straka"
+    },
+    {
+      "rank": 31,
+      "player": "Michael Kim"
+    },
+    {
+      "rank": 32,
+      "player": "Rickie Fowler"
+    },
+    {
+      "rank": 33,
+      "player": "Taylor Pendrith"
+    },
+    {
+      "rank": 34,
+      "player": "Matt Fitzpatrick"
+    },
+    {
+      "rank": 35,
+      "player": "Kurt Kitayama"
+    },
+    {
+      "rank": 36,
+      "player": "Lucas Glover"
+    },
+    {
+      "rank": 37,
+      "player": "Si Woo Kim"
+    },
+    {
+      "rank": 38,
+      "player": "Sam Stevens"
+    },
+    {
+      "rank": 39,
+      "player": "Ryan Gerard"
+    },
+    {
+      "rank": 40,
+      "player": "Denny McCarthy"
+    },
+    {
+      "rank": 41,
+      "player": "Jason Day"
+    },
+    {
+      "rank": 42,
+      "player": "Xander Schauffele"
+    },
+    {
+      "rank": 43,
+      "player": "Ryan Fox"
+    },
+    {
+      "rank": 44,
+      "player": "Thomas Detry"
+    },
+    {
+      "rank": 45,
+      "player": "Daniel Berger"
+    },
+    {
+      "rank": 46,
+      "player": "Brian Campbell"
+    },
+    {
+      "rank": 47,
+      "player": "Bud Cauley"
+    },
+    {
+      "rank": 48,
+      "player": "Tom Hoge"
+    },
+    {
+      "rank": 49,
+      "player": "J.T. Poston"
+    },
+    {
+      "rank": 50,
+      "player": "Jhonattan Vegas"
+    },
+    {
+      "rank": 51,
+      "player": "Chris Kirk"
+    },
+    {
+      "rank": 52,
+      "player": "Aldrich Potgieter"
+    },
+    {
+      "rank": 53,
+      "player": "Aaron Rai"
+    },
+    {
+      "rank": 54,
+      "player": "Jordan Spieth"
+    },
+    {
+      "rank": 55,
+      "player": "Jake Knapp"
+    },
+    {
+      "rank": 56,
+      "player": "Wyndham Clark"
+    },
+    {
+      "rank": 57,
+      "player": "Min Woo Lee"
+    },
+    {
+      "rank": 58,
+      "player": "Max Greyserman"
+    },
+    {
+      "rank": 59,
+      "player": "Joe Highsmith"
+    },
+    {
+      "rank": 60,
+      "player": "Stephan Jaeger"
+    },
+    {
+      "rank": 61,
+      "player": "Davis Riley"
+    },
+    {
+      "rank": 62,
+      "player": "Nico Echavarria"
+    },
+    {
+      "rank": 63,
+      "player": "Kevin Yu"
+    },
+    {
+      "rank": 64,
+      "player": "Patrick Rodgers"
+    },
+    {
+      "rank": 65,
+      "player": "Mackenzie Hughes"
+    },
+    {
+      "rank": 66,
+      "player": "Tony Finau"
+    },
+    {
+      "rank": 67,
+      "player": "Matti Schmid"
+    },
+    {
+      "rank": 68,
+      "player": "Emiliano Grillo"
+    },
+    {
+      "rank": 69,
+      "player": "Cam Davis"
+    },
+    {
+      "rank": 70,
+      "player": "Erik van Rooyen"
+    },
+    {
+      "rank": 71,
+      "player": "Davis Thompson"
+    },
+    {
+      "rank": 72,
+      "player": "Gary Woodland"
+    },
+    {
+      "rank": 73,
+      "player": "Nicolai H\u00f8jgaard"
+    },
+    {
+      "rank": 74,
+      "player": "Byeong Hun An"
+    },
+    {
+      "rank": 75,
+      "player": "Keith Mitchell"
+    },
+    {
+      "rank": 76,
+      "player": "Christiaan Bezuidenhout"
+    },
+    {
+      "rank": 77,
+      "player": "Mark Hubbard"
+    },
+    {
+      "rank": 78,
+      "player": "Kevin Roy"
+    },
+    {
+      "rank": 79,
+      "player": "Alex Smalley"
+    },
+    {
+      "rank": 80,
+      "player": "Eric Cole"
+    },
+    {
+      "rank": 81,
+      "player": "William Mouw"
+    },
+    {
+      "rank": 82,
+      "player": "Matt McCarty"
+    },
+    {
+      "rank": 83,
+      "player": "Karl Vilips"
+    },
+    {
+      "rank": 84,
+      "player": "Ryo Hisatsune"
+    },
+    {
+      "rank": 85,
+      "player": "Rasmus H\u00f8jgaard"
+    },
+    {
+      "rank": 86,
+      "player": "Mac Meissner"
+    },
+    {
+      "rank": 87,
+      "player": "Sami Valimaki"
+    },
+    {
+      "rank": 88,
+      "player": "Michael Thorbjornsen"
+    },
+    {
+      "rank": 89,
+      "player": "Beau Hossler"
+    },
+    {
+      "rank": 90,
+      "player": "Adam Scott"
+    },
+    {
+      "rank": 91,
+      "player": "David Lipsky"
+    },
+    {
+      "rank": 92,
+      "player": "Matt Wallace"
+    },
+    {
+      "rank": 93,
+      "player": "Joel Dahmen"
+    },
+    {
+      "rank": 94,
+      "player": "Tom Kim"
+    },
+    {
+      "rank": 95,
+      "player": "Patrick Fishburn"
+    },
+    {
+      "rank": 96,
+      "player": "Andrew Putnam"
+    },
+    {
+      "rank": 97,
+      "player": "Max McGreevy"
+    },
+    {
+      "rank": 98,
+      "player": "Danny Walker"
+    },
+    {
+      "rank": 99,
+      "player": "Garrick Higgo"
+    },
+    {
+      "rank": 100,
+      "player": "Taylor Moore"
+    },
+    {
+      "rank": 101,
+      "player": "Vince Whaley"
+    },
+    {
+      "rank": 102,
+      "player": "Billy Horschel"
+    },
+    {
+      "rank": 103,
+      "player": "Lee Hodges"
+    },
+    {
+      "rank": 104,
+      "player": "Isaiah Salinda"
+    },
+    {
+      "rank": 105,
+      "player": "Alex Noren"
+    },
+    {
+      "rank": 106,
+      "player": "Rico Hoey"
+    },
+    {
+      "rank": 107,
+      "player": "Austin Eckroat"
+    },
+    {
+      "rank": 108,
+      "player": "Sam Ryder"
+    },
+    {
+      "rank": 109,
+      "player": "Victor Perez"
+    },
+    {
+      "rank": 110,
+      "player": "Jesper Svensson"
+    },
+    {
+      "rank": 111,
+      "player": "Max Homa"
+    },
+    {
+      "rank": 112,
+      "player": "Harry Higgs"
+    },
+    {
+      "rank": 113,
+      "player": "Chan Kim"
+    },
+    {
+      "rank": 114,
+      "player": "Alejandro Tosti"
+    },
+    {
+      "rank": 115,
+      "player": "Henrik Norlander"
+    },
+    {
+      "rank": 116,
+      "player": "Ricky Castillo"
+    },
+    {
+      "rank": 117,
+      "player": "Jackson Suber"
+    },
+    {
+      "rank": 118,
+      "player": "Chad Ramey"
+    },
+    {
+      "rank": 119,
+      "player": "Justin Lower"
+    },
+    {
+      "rank": 120,
+      "player": "Thorbj\u00f8rn Olesen"
+    },
+    {
+      "rank": 121,
+      "player": "Kris Ventura"
+    },
+    {
+      "rank": 122,
+      "player": "Hayden Springer"
+    },
+    {
+      "rank": 123,
+      "player": "Zach Johnson"
+    },
+    {
+      "rank": 124,
+      "player": "Chandler Phillips"
+    },
+    {
+      "rank": 125,
+      "player": "Paul Peterson"
+    },
+    {
+      "rank": 126,
+      "player": "Doug Ghim"
+    },
+    {
+      "rank": 127,
+      "player": "Matt Kuchar"
+    },
+    {
+      "rank": 128,
+      "player": "Carson Young"
+    },
+    {
+      "rank": 129,
+      "player": "Brandt Snedeker"
+    },
+    {
+      "rank": 130,
+      "player": "Seamus Power"
+    },
+    {
+      "rank": 131,
+      "player": "Jeremy Paul"
+    },
+    {
+      "rank": 132,
+      "player": "Cameron Champ"
+    },
+    {
+      "rank": 133,
+      "player": "Adam Schenk"
+    },
+    {
+      "rank": 134,
+      "player": "Takumi Kanaya"
+    },
+    {
+      "rank": 135,
+      "player": "Nick Dunlap"
+    },
+    {
+      "rank": 136,
+      "player": "Adam Hadwin"
+    },
+    {
+      "rank": 137,
+      "player": "David Skinns"
+    },
+    {
+      "rank": 138,
+      "player": "Will Zalatoris"
+    },
+    {
+      "rank": 139,
+      "player": "Pierceson Coody"
+    },
+    {
+      "rank": 140,
+      "player": "Steven Fisk"
+    },
+    {
+      "rank": 141,
+      "player": "Will Gordon"
+    },
+    {
+      "rank": 142,
+      "player": "Lanto Griffin"
+    },
+    {
+      "rank": 143,
+      "player": "Charley Hoffman"
+    },
+    {
+      "rank": 144,
+      "player": "Noah Goodwin"
+    },
+    {
+      "rank": 145,
+      "player": "Quade Cummins"
+    },
+    {
+      "rank": 146,
+      "player": "Nate Lashley"
+    },
+    {
+      "rank": 147,
+      "player": "Sahith Theegala"
+    },
+    {
+      "rank": 148,
+      "player": "Antoine Rozner"
+    },
+    {
+      "rank": 149,
+      "player": "Thriston Lawrence"
+    },
+    {
+      "rank": 150,
+      "player": "Matteo Manassero"
+    },
+    {
+      "rank": 151,
+      "player": "Brice Garnett"
+    },
+    {
+      "rank": 152,
+      "player": "Taylor Montgomery"
+    },
+    {
+      "rank": 153,
+      "player": "Ben Kohles"
+    },
+    {
+      "rank": 154,
+      "player": "Frankie Capan III"
+    },
+    {
+      "rank": 155,
+      "player": "Joseph Bramlett"
+    },
+    {
+      "rank": 156,
+      "player": "Trey Mullinax"
+    },
+    {
+      "rank": 157,
+      "player": "Luke List"
+    },
+    {
+      "rank": 158,
+      "player": "Danny Willett"
+    },
+    {
+      "rank": 159,
+      "player": "Will Chandler"
+    },
+    {
+      "rank": 160,
+      "player": "Greyson Sigg"
+    },
+    {
+      "rank": 161,
+      "player": "Niklas Norgaard"
+    },
+    {
+      "rank": 162,
+      "player": "Adam Svensson"
+    },
+    {
+      "rank": 163,
+      "player": "Ben Silverman"
+    },
+    {
+      "rank": 164,
+      "player": "Camilo Villegas"
+    },
+    {
+      "rank": 165,
+      "player": "Nick Hardy"
+    },
+    {
+      "rank": 166,
+      "player": "Matthieu Pavon"
+    },
+    {
+      "rank": 167,
+      "player": "Thomas Rosenmueller"
+    },
+    {
+      "rank": 168,
+      "player": "Taylor Dickson"
+    },
+    {
+      "rank": 169,
+      "player": "Webb Simpson"
+    },
+    {
+      "rank": 170,
+      "player": "Dylan Wu"
+    },
+    {
+      "rank": 171,
+      "player": "John Pak"
+    },
+    {
+      "rank": 172,
+      "player": "Zac Blair"
+    },
+    {
+      "rank": 173,
+      "player": "Hayden Buckley"
+    },
+    {
+      "rank": 174,
+      "player": "Ben Martin"
+    },
+    {
+      "rank": 175,
+      "player": "Trace Crowe"
+    },
+    {
+      "rank": 176,
+      "player": "Cristobal Del Solar"
+    },
+    {
+      "rank": 177,
+      "player": "Matthew Riedel"
+    },
+    {
+      "rank": 178,
+      "player": "Trevor Cone"
+    },
+    {
+      "rank": 179,
+      "player": "Peter Malnati"
+    },
+    {
+      "rank": 180,
+      "player": "Patton Kizzire"
+    },
+    {
+      "rank": 181,
+      "player": "K.H. Lee"
+    },
+    {
+      "rank": 182,
+      "player": "Norman Xiong"
+    },
+    {
+      "rank": 183,
+      "player": "Rikuya Hoshino"
+    },
+    {
+      "rank": 184,
+      "player": "Kevin Velo"
+    },
+    {
+      "rank": 185,
+      "player": "Kevin Kisner"
+    },
+    {
+      "rank": 186,
+      "player": "Aaron Baddeley"
+    },
+    {
+      "rank": 187,
+      "player": "Philip Knowles"
+    },
+    {
+      "rank": 188,
+      "player": "Rafael Campos"
+    },
+    {
+      "rank": 189,
+      "player": "Vincent Norrman"
+    },
+    {
+      "rank": 190,
+      "player": "Braden Thornberry"
+    },
+    {
+      "rank": 191,
+      "player": "Matt NeSmith"
+    },
+    {
+      "rank": 192,
+      "player": "C.T. Pan"
+    },
+    {
+      "rank": 193,
+      "player": "Kevin Streelman"
+    },
+    {
+      "rank": 194,
+      "player": "Scott Piercy"
+    },
+    {
+      "rank": 195,
+      "player": "Chesson Hadley"
+    },
+    {
+      "rank": 196,
+      "player": "Martin Laird"
+    },
+    {
+      "rank": 197,
+      "player": "Mason Andersen"
+    },
+    {
+      "rank": 198,
+      "player": "Kaito Onishi"
+    },
+    {
+      "rank": 199,
+      "player": "Luke Clanton"
+    },
+    {
+      "rank": 200,
+      "player": "James Hahn"
+    },
+    {
+      "rank": 201,
+      "player": "Francesco Molinari"
+    },
+    {
+      "rank": 202,
+      "player": "Austin Cook"
+    },
+    {
+      "rank": 203,
+      "player": "Jonathan Byrd"
+    },
+    {
+      "rank": 204,
+      "player": "Wesley Bryan"
+    },
+    {
+      "rank": 205,
+      "player": "Gordon Sargent"
+    },
+    {
+      "rank": 206,
+      "player": "Ryan Palmer"
+    },
+    {
+      "rank": 207,
+      "player": "Nick Watney"
+    },
+    {
+      "rank": 208,
+      "player": "Robby Shelton"
+    },
+    {
+      "rank": 209,
+      "player": "Troy Merritt"
+    },
+    {
+      "rank": 210,
+      "player": "Tim Widing"
+    },
+    {
+      "rank": 211,
+      "player": "Adrien Dumont de Chassart"
+    },
+    {
+      "rank": 211,
+      "player": "Tyler Duncan"
+    },
+    {
+      "rank": 213,
+      "player": "Dylan Frittelli"
+    },
+    {
+      "rank": 214,
+      "player": "S.H. Kim"
+    },
+    {
+      "rank": 215,
+      "player": "Kevin Tway"
+    },
+    {
+      "rank": 216,
+      "player": "Tom McKibbin"
+    },
+    {
+      "rank": 217,
+      "player": "George McNeill"
+    },
+    {
+      "rank": 218,
+      "player": "Chez Reavie"
+    },
+    {
+      "rank": 219,
+      "player": "Anders Albertson"
+    },
+    {
+      "rank": 220,
+      "player": "Justin Leonard"
+    },
+    {
+      "rank": 221,
+      "player": "Paul Waring"
+    },
+    {
+      "rank": 222,
+      "player": "Tommy Gainey"
+    },
+    {
+      "rank": 223,
+      "player": "Luke Donald"
+    },
+    {
+      "rank": 224,
+      "player": "Aaron Wise"
+    },
+    {
+      "rank": 225,
+      "player": "Carl Yuan"
+    },
+    {
+      "rank": 226,
+      "player": "Brendon Todd"
+    },
+    {
+      "rank": 227,
+      "player": "Vince Covello"
+    },
+    {
+      "rank": 228,
+      "player": "Kevin Chappell"
+    },
+    {
+      "rank": 228,
+      "player": "Padraig Harrington"
+    },
+    {
+      "rank": 230,
+      "player": "Brandon Wu"
+    },
+    {
+      "rank": 231,
+      "player": "Cody Gribble"
+    },
+    {
+      "rank": 232,
+      "player": "David Ford"
+    },
+    {
+      "rank": 233,
+      "player": "Bill Haas"
+    },
+    {
+      "rank": 234,
+      "player": "Russell Knox"
+    },
+    {
+      "rank": 235,
+      "player": "Brian Stuard"
+    },
+    {
+      "rank": 236,
+      "player": "Harrison Endycott"
+    },
+    {
+      "rank": 237,
+      "player": "Jason Dufner"
+    }
+  ]
+}

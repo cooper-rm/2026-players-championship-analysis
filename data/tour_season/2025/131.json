@@ -1,0 +1,883 @@
+{
+  "stat_id": "131",
+  "year": 2025,
+  "category": "Points/Rankings",
+  "stat_title": "Ryder Cup Points",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Scottie Scheffler",
+      "Points": "37,180.332"
+    },
+    {
+      "rank": 2,
+      "player": "J.J. Spaun",
+      "Points": "14,851.913"
+    },
+    {
+      "rank": 3,
+      "player": "Xander Schauffele",
+      "Points": "13,733.519"
+    },
+    {
+      "rank": 4,
+      "player": "Russell Henley",
+      "Points": "12,276.822"
+    },
+    {
+      "rank": 5,
+      "player": "Harris English",
+      "Points": "10,880.550"
+    },
+    {
+      "rank": 6,
+      "player": "Bryson DeChambeau",
+      "Points": "10,774.975"
+    },
+    {
+      "rank": 7,
+      "player": "Justin Thomas",
+      "Points": "10,467.256"
+    },
+    {
+      "rank": 8,
+      "player": "Collin Morikawa",
+      "Points": "10,049.441"
+    },
+    {
+      "rank": 9,
+      "player": "Ben Griffin",
+      "Points": "9,745.759"
+    },
+    {
+      "rank": 10,
+      "player": "Maverick McNealy",
+      "Points": "8,913.649"
+    },
+    {
+      "rank": 11,
+      "player": "Keegan Bradley",
+      "Points": "8,434.996"
+    },
+    {
+      "rank": 12,
+      "player": "Brian Harman",
+      "Points": "7,466.906"
+    },
+    {
+      "rank": 13,
+      "player": "Andrew Novak",
+      "Points": "7,300.479"
+    },
+    {
+      "rank": 14,
+      "player": "Cameron Young",
+      "Points": "7,209.640"
+    },
+    {
+      "rank": 15,
+      "player": "Patrick Cantlay",
+      "Points": "6,716.393"
+    },
+    {
+      "rank": 16,
+      "player": "Sam Burns",
+      "Points": "6,688.286"
+    },
+    {
+      "rank": 17,
+      "player": "Wyndham Clark",
+      "Points": "5,216.866"
+    },
+    {
+      "rank": 18,
+      "player": "Lucas Glover",
+      "Points": "4,803.443"
+    },
+    {
+      "rank": 19,
+      "player": "Akshay Bhatia",
+      "Points": "4,647.130"
+    },
+    {
+      "rank": 20,
+      "player": "Chris Gotterup",
+      "Points": "4,570.103"
+    },
+    {
+      "rank": 21,
+      "player": "Tom Hoge",
+      "Points": "4,554.361"
+    },
+    {
+      "rank": 22,
+      "player": "Daniel Berger",
+      "Points": "4,533.212"
+    },
+    {
+      "rank": 23,
+      "player": "Denny McCarthy",
+      "Points": "4,463.784"
+    },
+    {
+      "rank": 24,
+      "player": "Tony Finau",
+      "Points": "4,290.562"
+    },
+    {
+      "rank": 25,
+      "player": "Sam Stevens",
+      "Points": "4,283.537"
+    },
+    {
+      "rank": 26,
+      "player": "Michael Kim",
+      "Points": "4,208.579"
+    },
+    {
+      "rank": 27,
+      "player": "Jacob Bridgeman",
+      "Points": "4,053.423"
+    },
+    {
+      "rank": 28,
+      "player": "Chris Kirk",
+      "Points": "3,869.740"
+    },
+    {
+      "rank": 29,
+      "player": "Kurt Kitayama",
+      "Points": "3,859.704"
+    },
+    {
+      "rank": 30,
+      "player": "Rickie Fowler",
+      "Points": "3,802.256"
+    },
+    {
+      "rank": 31,
+      "player": "J.T. Poston",
+      "Points": "3,777.767"
+    },
+    {
+      "rank": 32,
+      "player": "Jordan Spieth",
+      "Points": "3,688.465"
+    },
+    {
+      "rank": 33,
+      "player": "Billy Horschel",
+      "Points": "3,370.776"
+    },
+    {
+      "rank": 34,
+      "player": "Brian Campbell",
+      "Points": "3,366.097"
+    },
+    {
+      "rank": 35,
+      "player": "Max Greyserman",
+      "Points": "3,310.642"
+    },
+    {
+      "rank": 36,
+      "player": "Bud Cauley",
+      "Points": "3,296.337"
+    },
+    {
+      "rank": 37,
+      "player": "Ryan Gerard",
+      "Points": "3,287.516"
+    },
+    {
+      "rank": 38,
+      "player": "Davis Riley",
+      "Points": "3,140.941"
+    },
+    {
+      "rank": 39,
+      "player": "Jake Knapp",
+      "Points": "3,128.464"
+    },
+    {
+      "rank": 40,
+      "player": "Joe Highsmith",
+      "Points": "3,034.009"
+    },
+    {
+      "rank": 41,
+      "player": "Davis Thompson",
+      "Points": "2,831.620"
+    },
+    {
+      "rank": 42,
+      "player": "Patrick Reed",
+      "Points": "2,821.821"
+    },
+    {
+      "rank": 43,
+      "player": "Max Homa",
+      "Points": "2,740.722"
+    },
+    {
+      "rank": 44,
+      "player": "Patrick Rodgers",
+      "Points": "2,359.002"
+    },
+    {
+      "rank": 45,
+      "player": "Taylor Moore",
+      "Points": "2,160.021"
+    },
+    {
+      "rank": 46,
+      "player": "Sahith Theegala",
+      "Points": "2,138.347"
+    },
+    {
+      "rank": 47,
+      "player": "Eric Cole",
+      "Points": "2,088.341"
+    },
+    {
+      "rank": 48,
+      "player": "Gary Woodland",
+      "Points": "2,079.525"
+    },
+    {
+      "rank": 49,
+      "player": "Matt McCarty",
+      "Points": "2,055.582"
+    },
+    {
+      "rank": 50,
+      "player": "Austin Eckroat",
+      "Points": "1,855.315"
+    },
+    {
+      "rank": 51,
+      "player": "Mark Hubbard",
+      "Points": "1,756.608"
+    },
+    {
+      "rank": 52,
+      "player": "Lee Hodges",
+      "Points": "1,711.568"
+    },
+    {
+      "rank": 53,
+      "player": "Alex Smalley",
+      "Points": "1,640.543"
+    },
+    {
+      "rank": 54,
+      "player": "Will Zalatoris",
+      "Points": "1,589.972"
+    },
+    {
+      "rank": 55,
+      "player": "Adam Schenk",
+      "Points": "1,516.991"
+    },
+    {
+      "rank": 56,
+      "player": "Keith Mitchell",
+      "Points": "1,502.135"
+    },
+    {
+      "rank": 57,
+      "player": "Joel Dahmen",
+      "Points": "1,496.462"
+    },
+    {
+      "rank": 58,
+      "player": "Mac Meissner",
+      "Points": "1,434.940"
+    },
+    {
+      "rank": 59,
+      "player": "Sam Ryder",
+      "Points": "1,426.483"
+    },
+    {
+      "rank": 60,
+      "player": "Kevin Roy",
+      "Points": "1,382.724"
+    },
+    {
+      "rank": 61,
+      "player": "David Lipsky",
+      "Points": "1,323.252"
+    },
+    {
+      "rank": 62,
+      "player": "Beau Hossler",
+      "Points": "1,241.850"
+    },
+    {
+      "rank": 63,
+      "player": "Andrew Putnam",
+      "Points": "1,231.655"
+    },
+    {
+      "rank": 64,
+      "player": "Doug Ghim",
+      "Points": "1,214.244"
+    },
+    {
+      "rank": 65,
+      "player": "Isaiah Salinda",
+      "Points": "1,213.336"
+    },
+    {
+      "rank": 66,
+      "player": "Zach Johnson",
+      "Points": "1,176.445"
+    },
+    {
+      "rank": 67,
+      "player": "Danny Walker",
+      "Points": "1,163.318"
+    },
+    {
+      "rank": 68,
+      "player": "Patrick Fishburn",
+      "Points": "1,111.708"
+    },
+    {
+      "rank": 69,
+      "player": "Max McGreevy",
+      "Points": "1,103.762"
+    },
+    {
+      "rank": 70,
+      "player": "Michael Thorbjornsen",
+      "Points": "1,087.577"
+    },
+    {
+      "rank": 71,
+      "player": "Taylor Montgomery",
+      "Points": "1,048.619"
+    },
+    {
+      "rank": 72,
+      "player": "Justin Lower",
+      "Points": "1,047.547"
+    },
+    {
+      "rank": 73,
+      "player": "Nate Lashley",
+      "Points": "1,015.745"
+    },
+    {
+      "rank": 74,
+      "player": "Matt Kuchar",
+      "Points": "989.695"
+    },
+    {
+      "rank": 75,
+      "player": "Nick Dunlap",
+      "Points": "969.325"
+    },
+    {
+      "rank": 76,
+      "player": "Brooks Koepka",
+      "Points": "906.255"
+    },
+    {
+      "rank": 77,
+      "player": "Jackson Suber",
+      "Points": "883.760"
+    },
+    {
+      "rank": 78,
+      "player": "Ricky Castillo",
+      "Points": "824.257"
+    },
+    {
+      "rank": 79,
+      "player": "Chandler Phillips",
+      "Points": "821.398"
+    },
+    {
+      "rank": 80,
+      "player": "Brandt Snedeker",
+      "Points": "799.476"
+    },
+    {
+      "rank": 81,
+      "player": "Hayden Springer",
+      "Points": "758.393"
+    },
+    {
+      "rank": 82,
+      "player": "Chan Kim",
+      "Points": "716.778"
+    },
+    {
+      "rank": 83,
+      "player": "Brice Garnett",
+      "Points": "706.221"
+    },
+    {
+      "rank": 84,
+      "player": "Frankie Capan III",
+      "Points": "677.432"
+    },
+    {
+      "rank": 85,
+      "player": "Will Gordon",
+      "Points": "668.539"
+    },
+    {
+      "rank": 86,
+      "player": "Vince Whaley",
+      "Points": "665.557"
+    },
+    {
+      "rank": 87,
+      "player": "Chad Ramey",
+      "Points": "665.005"
+    },
+    {
+      "rank": 88,
+      "player": "Pierceson Coody",
+      "Points": "651.899"
+    },
+    {
+      "rank": 89,
+      "player": "Cameron Champ",
+      "Points": "626.384"
+    },
+    {
+      "rank": 90,
+      "player": "Charley Hoffman",
+      "Points": "606.102"
+    },
+    {
+      "rank": 91,
+      "player": "Dylan Wu",
+      "Points": "588.714"
+    },
+    {
+      "rank": 92,
+      "player": "Carson Young",
+      "Points": "566.956"
+    },
+    {
+      "rank": 93,
+      "player": "Lanto Griffin",
+      "Points": "533.966"
+    },
+    {
+      "rank": 94,
+      "player": "Noah Goodwin",
+      "Points": "521.108"
+    },
+    {
+      "rank": 95,
+      "player": "Luke List",
+      "Points": "504.728"
+    },
+    {
+      "rank": 96,
+      "player": "Bubba Watson",
+      "Points": "504.000"
+    },
+    {
+      "rank": 97,
+      "player": "Greyson Sigg",
+      "Points": "496.282"
+    },
+    {
+      "rank": 98,
+      "player": "Ben Kohles",
+      "Points": "483.555"
+    },
+    {
+      "rank": 99,
+      "player": "William Mouw",
+      "Points": "483.424"
+    },
+    {
+      "rank": 100,
+      "player": "Harry Higgs",
+      "Points": "429.576"
+    },
+    {
+      "rank": 101,
+      "player": "Trey Mullinax",
+      "Points": "426.295"
+    },
+    {
+      "rank": 102,
+      "player": "Taylor Dickson",
+      "Points": "415.916"
+    },
+    {
+      "rank": 103,
+      "player": "Will Chandler",
+      "Points": "401.518"
+    },
+    {
+      "rank": 104,
+      "player": "Zac Blair",
+      "Points": "388.198"
+    },
+    {
+      "rank": 105,
+      "player": "Dustin Johnson",
+      "Points": "346.249"
+    },
+    {
+      "rank": 106,
+      "player": "Quade Cummins",
+      "Points": "340.984"
+    },
+    {
+      "rank": 107,
+      "player": "Steven Fisk",
+      "Points": "340.569"
+    },
+    {
+      "rank": 108,
+      "player": "Webb Simpson",
+      "Points": "331.880"
+    },
+    {
+      "rank": 109,
+      "player": "John Pak",
+      "Points": "328.269"
+    },
+    {
+      "rank": 110,
+      "player": "Nick Hardy",
+      "Points": "296.303"
+    },
+    {
+      "rank": 111,
+      "player": "Paul Peterson",
+      "Points": "278.969"
+    },
+    {
+      "rank": 112,
+      "player": "Ben Martin",
+      "Points": "272.209"
+    },
+    {
+      "rank": 113,
+      "player": "Peter Malnati",
+      "Points": "256.853"
+    },
+    {
+      "rank": 114,
+      "player": "Trace Crowe",
+      "Points": "242.075"
+    },
+    {
+      "rank": 115,
+      "player": "John Catlin",
+      "Points": "202.700"
+    },
+    {
+      "rank": 116,
+      "player": "Trevor Cone",
+      "Points": "197.284"
+    },
+    {
+      "rank": 117,
+      "player": "Kevin Velo",
+      "Points": "192.569"
+    },
+    {
+      "rank": 118,
+      "player": "Matthew Riedel",
+      "Points": "191.602"
+    },
+    {
+      "rank": 119,
+      "player": "Matt NeSmith",
+      "Points": "186.250"
+    },
+    {
+      "rank": 120,
+      "player": "Brendon Todd",
+      "Points": "185.889"
+    },
+    {
+      "rank": 121,
+      "player": "Luke Clanton",
+      "Points": "185.190"
+    },
+    {
+      "rank": 122,
+      "player": "Phil Mickelson",
+      "Points": "176.825"
+    },
+    {
+      "rank": 123,
+      "player": "Kevin Streelman",
+      "Points": "171.703"
+    },
+    {
+      "rank": 124,
+      "player": "Patton Kizzire",
+      "Points": "170.944"
+    },
+    {
+      "rank": 125,
+      "player": "Braden Thornberry",
+      "Points": "134.874"
+    },
+    {
+      "rank": 126,
+      "player": "Brendan Valdes",
+      "Points": "130.368"
+    },
+    {
+      "rank": 127,
+      "player": "Jimmy Stanger",
+      "Points": "119.286"
+    },
+    {
+      "rank": 128,
+      "player": "Hayden Buckley",
+      "Points": "117.300"
+    },
+    {
+      "rank": 129,
+      "player": "Philip Knowles",
+      "Points": "103.216"
+    },
+    {
+      "rank": 130,
+      "player": "Jason Kokrak",
+      "Points": "102.510"
+    },
+    {
+      "rank": 131,
+      "player": "Ross Steelman",
+      "Points": "79.448"
+    },
+    {
+      "rank": 132,
+      "player": "Wesley Bryan",
+      "Points": "74.068"
+    },
+    {
+      "rank": 133,
+      "player": "Ryan McCormick",
+      "Points": "72.311"
+    },
+    {
+      "rank": 134,
+      "player": "Mason Andersen",
+      "Points": "70.559"
+    },
+    {
+      "rank": 135,
+      "player": "Ryan Moore",
+      "Points": "70.063"
+    },
+    {
+      "rank": 136,
+      "player": "Kevin Kisner",
+      "Points": "68.165"
+    },
+    {
+      "rank": 137,
+      "player": "Johnny Keefer",
+      "Points": "65.316"
+    },
+    {
+      "rank": 137,
+      "player": "James Nicholas",
+      "Points": "65.316"
+    },
+    {
+      "rank": 139,
+      "player": "Joseph Bramlett",
+      "Points": "64.791"
+    },
+    {
+      "rank": 140,
+      "player": "Philip Barbaree, Jr.",
+      "Points": "62.678"
+    },
+    {
+      "rank": 141,
+      "player": "Justin Leonard",
+      "Points": "62.325"
+    },
+    {
+      "rank": 142,
+      "player": "Ryggs Johnston",
+      "Points": "60.420"
+    },
+    {
+      "rank": 143,
+      "player": "Ryan Palmer",
+      "Points": "59.665"
+    },
+    {
+      "rank": 144,
+      "player": "James Hahn",
+      "Points": "55.539"
+    },
+    {
+      "rank": 145,
+      "player": "Tyler Duncan",
+      "Points": "53.500"
+    },
+    {
+      "rank": 146,
+      "player": "Charles Reiter",
+      "Points": "51.911"
+    },
+    {
+      "rank": 147,
+      "player": "Sean Crocker",
+      "Points": "45.238"
+    },
+    {
+      "rank": 148,
+      "player": "Tiger Woods",
+      "Points": "44.400"
+    },
+    {
+      "rank": 149,
+      "player": "Kevin Tway",
+      "Points": "43.346"
+    },
+    {
+      "rank": 150,
+      "player": "Norman Xiong",
+      "Points": "41.385"
+    },
+    {
+      "rank": 151,
+      "player": "Brandon Wu",
+      "Points": "39.982"
+    },
+    {
+      "rank": 152,
+      "player": "Sam Bennett",
+      "Points": "39.548"
+    },
+    {
+      "rank": 153,
+      "player": "Robby Shelton",
+      "Points": "38.755"
+    },
+    {
+      "rank": 154,
+      "player": "Gordon Sargent",
+      "Points": "38.508"
+    },
+    {
+      "rank": 155,
+      "player": "Andy Ogletree",
+      "Points": "38.275"
+    },
+    {
+      "rank": 156,
+      "player": "Chesson Hadley",
+      "Points": "36.490"
+    },
+    {
+      "rank": 157,
+      "player": "Chez Reavie",
+      "Points": "36.356"
+    },
+    {
+      "rank": 158,
+      "player": "Blades Brown",
+      "Points": "35.159"
+    },
+    {
+      "rank": 159,
+      "player": "Talor Gooch",
+      "Points": "27.017"
+    },
+    {
+      "rank": 160,
+      "player": "Bronson Burgoon",
+      "Points": "24.965"
+    },
+    {
+      "rank": 161,
+      "player": "Troy Merritt",
+      "Points": "24.696"
+    },
+    {
+      "rank": 162,
+      "player": "Neal Shipley",
+      "Points": "23.701"
+    },
+    {
+      "rank": 163,
+      "player": "Braden Shattuck",
+      "Points": "22.830"
+    },
+    {
+      "rank": 164,
+      "player": "Aaron Wise",
+      "Points": "22.709"
+    },
+    {
+      "rank": 165,
+      "player": "Jeremy Wells",
+      "Points": "22.140"
+    },
+    {
+      "rank": 166,
+      "player": "Anders Albertson",
+      "Points": "21.942"
+    },
+    {
+      "rank": 167,
+      "player": "Brandon Matthews",
+      "Points": "21.483"
+    },
+    {
+      "rank": 168,
+      "player": "Ben Polland",
+      "Points": "20.424"
+    },
+    {
+      "rank": 169,
+      "player": "Brett White",
+      "Points": "19.776"
+    },
+    {
+      "rank": 170,
+      "player": "James Piot",
+      "Points": "18.720"
+    },
+    {
+      "rank": 171,
+      "player": "Jonathan Byrd",
+      "Points": "18.573"
+    },
+    {
+      "rank": 172,
+      "player": "Kevin Chappell",
+      "Points": "18.124"
+    },
+    {
+      "rank": 173,
+      "player": "Scott Piercy",
+      "Points": "16.555"
+    },
+    {
+      "rank": 174,
+      "player": "David Ford",
+      "Points": "16.548"
+    },
+    {
+      "rank": 175,
+      "player": "Riley Lewis",
+      "Points": "13.720"
+    }
+  ]
+}

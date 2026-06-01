@@ -1,0 +1,1359 @@
+{
+  "stat_id": "02564",
+  "year": 2023,
+  "category": "Strokes Gained",
+  "stat_title": "SG: Putting",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Maverick McNealy",
+      "Avg": "0.956",
+      "Total SG:Putting": "46.822",
+      "Measured Rounds": "49"
+    },
+    {
+      "rank": 2,
+      "player": "Taylor Montgomery",
+      "Avg": "0.919",
+      "Total SG:Putting": "78.103",
+      "Measured Rounds": "85"
+    },
+    {
+      "rank": 3,
+      "player": "Denny McCarthy",
+      "Avg": "0.724",
+      "Total SG:Putting": "63.682",
+      "Measured Rounds": "88"
+    },
+    {
+      "rank": 4,
+      "player": "Harry Hall",
+      "Avg": "0.698",
+      "Total SG:Putting": "51.660",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 5,
+      "player": "Xander Schauffele",
+      "Avg": "0.667",
+      "Total SG:Putting": "41.383",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 6,
+      "player": "Max Homa",
+      "Avg": "0.612",
+      "Total SG:Putting": "47.109",
+      "Measured Rounds": "77"
+    },
+    {
+      "rank": 7,
+      "player": "Tyrrell Hatton",
+      "Avg": "0.597",
+      "Total SG:Putting": "39.413",
+      "Measured Rounds": "66"
+    },
+    {
+      "rank": 8,
+      "player": "Sam Burns",
+      "Avg": "0.584",
+      "Total SG:Putting": "42.609",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 9,
+      "player": "Peter Kuest",
+      "Avg": "0.575",
+      "Total SG:Putting": "22.427",
+      "Measured Rounds": "39"
+    },
+    {
+      "rank": 10,
+      "player": "Justin Suh",
+      "Avg": "0.529",
+      "Total SG:Putting": "51.322",
+      "Measured Rounds": "97"
+    },
+    {
+      "rank": 11,
+      "player": "Matt Fitzpatrick",
+      "Avg": "0.525",
+      "Total SG:Putting": "33.066",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 12,
+      "player": "Andrew Putnam",
+      "Avg": "0.513",
+      "Total SG:Putting": "46.204",
+      "Measured Rounds": "90"
+    },
+    {
+      "rank": 13,
+      "player": "Eric Cole",
+      "Avg": "0.505",
+      "Total SG:Putting": "55.055",
+      "Measured Rounds": "109"
+    },
+    {
+      "rank": 14,
+      "player": "Tommy Fleetwood",
+      "Avg": "0.493",
+      "Total SG:Putting": "30.574",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 14,
+      "player": "Sam Ryder",
+      "Avg": "0.493",
+      "Total SG:Putting": "43.354",
+      "Measured Rounds": "88"
+    },
+    {
+      "rank": 16,
+      "player": "Harris English",
+      "Avg": "0.488",
+      "Total SG:Putting": "40.020",
+      "Measured Rounds": "82"
+    },
+    {
+      "rank": 17,
+      "player": "Sahith Theegala",
+      "Avg": "0.485",
+      "Total SG:Putting": "41.668",
+      "Measured Rounds": "86"
+    },
+    {
+      "rank": 18,
+      "player": "Alex Noren",
+      "Avg": "0.475",
+      "Total SG:Putting": "34.672",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 19,
+      "player": "Adam Scott",
+      "Avg": "0.462",
+      "Total SG:Putting": "24.009",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 20,
+      "player": "Keegan Bradley",
+      "Avg": "0.447",
+      "Total SG:Putting": "29.951",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 21,
+      "player": "Adam Hadwin",
+      "Avg": "0.445",
+      "Total SG:Putting": "36.022",
+      "Measured Rounds": "81"
+    },
+    {
+      "rank": 22,
+      "player": "Brendon Todd",
+      "Avg": "0.441",
+      "Total SG:Putting": "37.936",
+      "Measured Rounds": "86"
+    },
+    {
+      "rank": 23,
+      "player": "Peter Malnati",
+      "Avg": "0.436",
+      "Total SG:Putting": "33.158",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 24,
+      "player": "Nicolai Hojgaard",
+      "Avg": "0.415",
+      "Total SG:Putting": "14.113",
+      "Measured Rounds": "34"
+    },
+    {
+      "rank": 25,
+      "player": "Taylor Moore",
+      "Avg": "0.414",
+      "Total SG:Putting": "33.527",
+      "Measured Rounds": "81"
+    },
+    {
+      "rank": 26,
+      "player": "Justin Rose",
+      "Avg": "0.404",
+      "Total SG:Putting": "21.837",
+      "Measured Rounds": "54"
+    },
+    {
+      "rank": 27,
+      "player": "Brian Harman",
+      "Avg": "0.399",
+      "Total SG:Putting": "31.522",
+      "Measured Rounds": "79"
+    },
+    {
+      "rank": 28,
+      "player": "Lucas Herbert",
+      "Avg": "0.398",
+      "Total SG:Putting": "19.106",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 29,
+      "player": "J.T. Poston",
+      "Avg": "0.395",
+      "Total SG:Putting": "33.958",
+      "Measured Rounds": "86"
+    },
+    {
+      "rank": 30,
+      "player": "Chesson Hadley",
+      "Avg": "0.389",
+      "Total SG:Putting": "30.353",
+      "Measured Rounds": "78"
+    },
+    {
+      "rank": 31,
+      "player": "Aaron Baddeley",
+      "Avg": "0.384",
+      "Total SG:Putting": "22.630",
+      "Measured Rounds": "59"
+    },
+    {
+      "rank": 32,
+      "player": "Ben Taylor",
+      "Avg": "0.381",
+      "Total SG:Putting": "32.380",
+      "Measured Rounds": "85"
+    },
+    {
+      "rank": 33,
+      "player": "Wyndham Clark",
+      "Avg": "0.370",
+      "Total SG:Putting": "31.843",
+      "Measured Rounds": "86"
+    },
+    {
+      "rank": 34,
+      "player": "Mackenzie Hughes",
+      "Avg": "0.367",
+      "Total SG:Putting": "26.088",
+      "Measured Rounds": "71"
+    },
+    {
+      "rank": 35,
+      "player": "Justin Lower",
+      "Avg": "0.354",
+      "Total SG:Putting": "28.339",
+      "Measured Rounds": "80"
+    },
+    {
+      "rank": 36,
+      "player": "Adam Schenk",
+      "Avg": "0.344",
+      "Total SG:Putting": "33.673",
+      "Measured Rounds": "98"
+    },
+    {
+      "rank": 37,
+      "player": "Jason Day",
+      "Avg": "0.336",
+      "Total SG:Putting": "21.522",
+      "Measured Rounds": "64"
+    },
+    {
+      "rank": 37,
+      "player": "Jon Rahm",
+      "Avg": "0.336",
+      "Total SG:Putting": "20.184",
+      "Measured Rounds": "60"
+    },
+    {
+      "rank": 39,
+      "player": "Ben Griffin",
+      "Avg": "0.334",
+      "Total SG:Putting": "30.031",
+      "Measured Rounds": "90"
+    },
+    {
+      "rank": 40,
+      "player": "Dylan Wu",
+      "Avg": "0.330",
+      "Total SG:Putting": "26.037",
+      "Measured Rounds": "79"
+    },
+    {
+      "rank": 41,
+      "player": "Billy Horschel",
+      "Avg": "0.326",
+      "Total SG:Putting": "17.256",
+      "Measured Rounds": "53"
+    },
+    {
+      "rank": 42,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "0.322",
+      "Total SG:Putting": "14.495",
+      "Measured Rounds": "45"
+    },
+    {
+      "rank": 43,
+      "player": "Adam Long",
+      "Avg": "0.320",
+      "Total SG:Putting": "27.531",
+      "Measured Rounds": "86"
+    },
+    {
+      "rank": 44,
+      "player": "Chad Ramey",
+      "Avg": "0.316",
+      "Total SG:Putting": "28.162",
+      "Measured Rounds": "89"
+    },
+    {
+      "rank": 44,
+      "player": "Richy Werenski",
+      "Avg": "0.316",
+      "Total SG:Putting": "22.785",
+      "Measured Rounds": "72"
+    },
+    {
+      "rank": 46,
+      "player": "Kelly Kraft",
+      "Avg": "0.308",
+      "Total SG:Putting": "22.519",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 47,
+      "player": "Patrick Cantlay",
+      "Avg": "0.305",
+      "Total SG:Putting": "18.884",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 48,
+      "player": "Rickie Fowler",
+      "Avg": "0.290",
+      "Total SG:Putting": "23.514",
+      "Measured Rounds": "81"
+    },
+    {
+      "rank": 49,
+      "player": "S.H. Kim",
+      "Avg": "0.278",
+      "Total SG:Putting": "26.992",
+      "Measured Rounds": "97"
+    },
+    {
+      "rank": 50,
+      "player": "Thomas Detry",
+      "Avg": "0.259",
+      "Total SG:Putting": "17.346",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 51,
+      "player": "William McGirt",
+      "Avg": "0.255",
+      "Total SG:Putting": "9.417",
+      "Measured Rounds": "37"
+    },
+    {
+      "rank": 52,
+      "player": "Nick Taylor",
+      "Avg": "0.241",
+      "Total SG:Putting": "18.099",
+      "Measured Rounds": "75"
+    },
+    {
+      "rank": 53,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "0.239",
+      "Total SG:Putting": "18.856",
+      "Measured Rounds": "79"
+    },
+    {
+      "rank": 54,
+      "player": "Viktor Hovland",
+      "Avg": "0.236",
+      "Total SG:Putting": "16.527",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 54,
+      "player": "Brian Stuard",
+      "Avg": "0.236",
+      "Total SG:Putting": "11.776",
+      "Measured Rounds": "50"
+    },
+    {
+      "rank": 56,
+      "player": "Beau Hossler",
+      "Avg": "0.224",
+      "Total SG:Putting": "19.713",
+      "Measured Rounds": "88"
+    },
+    {
+      "rank": 56,
+      "player": "S.Y. Noh",
+      "Avg": "0.224",
+      "Total SG:Putting": "10.314",
+      "Measured Rounds": "46"
+    },
+    {
+      "rank": 58,
+      "player": "Harry Higgs",
+      "Avg": "0.218",
+      "Total SG:Putting": "12.846",
+      "Measured Rounds": "59"
+    },
+    {
+      "rank": 59,
+      "player": "Adam Svensson",
+      "Avg": "0.217",
+      "Total SG:Putting": "22.347",
+      "Measured Rounds": "103"
+    },
+    {
+      "rank": 60,
+      "player": "Sepp Straka",
+      "Avg": "0.216",
+      "Total SG:Putting": "16.629",
+      "Measured Rounds": "77"
+    },
+    {
+      "rank": 61,
+      "player": "Ryan Brehm",
+      "Avg": "0.212",
+      "Total SG:Putting": "14.181",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 62,
+      "player": "Sungjae Im",
+      "Avg": "0.207",
+      "Total SG:Putting": "17.606",
+      "Measured Rounds": "85"
+    },
+    {
+      "rank": 63,
+      "player": "Seamus Power",
+      "Avg": "0.202",
+      "Total SG:Putting": "13.135",
+      "Measured Rounds": "65"
+    },
+    {
+      "rank": 64,
+      "player": "Lee Hodges",
+      "Avg": "0.165",
+      "Total SG:Putting": "14.677",
+      "Measured Rounds": "89"
+    },
+    {
+      "rank": 65,
+      "player": "Rory McIlroy",
+      "Avg": "0.164",
+      "Total SG:Putting": "9.520",
+      "Measured Rounds": "58"
+    },
+    {
+      "rank": 66,
+      "player": "Tom Hoge",
+      "Avg": "0.162",
+      "Total SG:Putting": "13.749",
+      "Measured Rounds": "85"
+    },
+    {
+      "rank": 67,
+      "player": "Patrick Rodgers",
+      "Avg": "0.161",
+      "Total SG:Putting": "13.559",
+      "Measured Rounds": "84"
+    },
+    {
+      "rank": 68,
+      "player": "Matt Kuchar",
+      "Avg": "0.145",
+      "Total SG:Putting": "11.463",
+      "Measured Rounds": "79"
+    },
+    {
+      "rank": 69,
+      "player": "Brice Garnett",
+      "Avg": "0.136",
+      "Total SG:Putting": "8.594",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 70,
+      "player": "Chris Kirk",
+      "Avg": "0.134",
+      "Total SG:Putting": "10.165",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 71,
+      "player": "Carson Young",
+      "Avg": "0.124",
+      "Total SG:Putting": "9.310",
+      "Measured Rounds": "75"
+    },
+    {
+      "rank": 72,
+      "player": "Andrew Novak",
+      "Avg": "0.116",
+      "Total SG:Putting": "7.868",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 73,
+      "player": "Tom Kim",
+      "Avg": "0.115",
+      "Total SG:Putting": "8.732",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 73,
+      "player": "Danny Willett",
+      "Avg": "0.115",
+      "Total SG:Putting": "6.093",
+      "Measured Rounds": "53"
+    },
+    {
+      "rank": 75,
+      "player": "Zach Johnson",
+      "Avg": "0.109",
+      "Total SG:Putting": "6.092",
+      "Measured Rounds": "56"
+    },
+    {
+      "rank": 76,
+      "player": "Austin Eckroat",
+      "Avg": "0.103",
+      "Total SG:Putting": "7.424",
+      "Measured Rounds": "72"
+    },
+    {
+      "rank": 77,
+      "player": "Garrick Higgo",
+      "Avg": "0.101",
+      "Total SG:Putting": "9.094",
+      "Measured Rounds": "90"
+    },
+    {
+      "rank": 78,
+      "player": "Michael Kim",
+      "Avg": "0.094",
+      "Total SG:Putting": "6.507",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 79,
+      "player": "Jordan Spieth",
+      "Avg": "0.086",
+      "Total SG:Putting": "5.302",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 80,
+      "player": "Andrew Landry",
+      "Avg": "0.075",
+      "Total SG:Putting": "4.755",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 81,
+      "player": "Nate Lashley",
+      "Avg": "0.074",
+      "Total SG:Putting": "6.245",
+      "Measured Rounds": "84"
+    },
+    {
+      "rank": 82,
+      "player": "Matti Schmid",
+      "Avg": "0.071",
+      "Total SG:Putting": "3.698",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 83,
+      "player": "David Lingmerth",
+      "Avg": "0.060",
+      "Total SG:Putting": "3.553",
+      "Measured Rounds": "59"
+    },
+    {
+      "rank": 84,
+      "player": "Emiliano Grillo",
+      "Avg": "0.055",
+      "Total SG:Putting": "4.853",
+      "Measured Rounds": "88"
+    },
+    {
+      "rank": 85,
+      "player": "Keith Mitchell",
+      "Avg": "0.054",
+      "Total SG:Putting": "3.976",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 86,
+      "player": "Hayden Buckley",
+      "Avg": "0.051",
+      "Total SG:Putting": "3.326",
+      "Measured Rounds": "65"
+    },
+    {
+      "rank": 87,
+      "player": "Nick Hardy",
+      "Avg": "0.048",
+      "Total SG:Putting": "4.236",
+      "Measured Rounds": "89"
+    },
+    {
+      "rank": 87,
+      "player": "Chris Stroud",
+      "Avg": "0.048",
+      "Total SG:Putting": "1.960",
+      "Measured Rounds": "41"
+    },
+    {
+      "rank": 89,
+      "player": "Dylan Frittelli",
+      "Avg": "0.041",
+      "Total SG:Putting": "2.413",
+      "Measured Rounds": "59"
+    },
+    {
+      "rank": 89,
+      "player": "Lanto Griffin",
+      "Avg": "0.041",
+      "Total SG:Putting": "1.855",
+      "Measured Rounds": "45"
+    },
+    {
+      "rank": 91,
+      "player": "Ben Martin",
+      "Avg": "0.028",
+      "Total SG:Putting": "2.256",
+      "Measured Rounds": "80"
+    },
+    {
+      "rank": 92,
+      "player": "Jimmy Walker",
+      "Avg": "0.022",
+      "Total SG:Putting": "1.673",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 93,
+      "player": "Mark Hubbard",
+      "Avg": "0.020",
+      "Total SG:Putting": "1.784",
+      "Measured Rounds": "89"
+    },
+    {
+      "rank": 93,
+      "player": "Doc Redman",
+      "Avg": "0.020",
+      "Total SG:Putting": "1.329",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 95,
+      "player": "Kevin Tway",
+      "Avg": "0.019",
+      "Total SG:Putting": "1.494",
+      "Measured Rounds": "80"
+    },
+    {
+      "rank": 96,
+      "player": "Greyson Sigg",
+      "Avg": "0.018",
+      "Total SG:Putting": "1.570",
+      "Measured Rounds": "89"
+    },
+    {
+      "rank": 97,
+      "player": "Zac Blair",
+      "Avg": "0.004",
+      "Total SG:Putting": "0.245",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 98,
+      "player": "Austin Smotherman",
+      "Avg": "-0.004",
+      "Total SG:Putting": "-0.343",
+      "Measured Rounds": "81"
+    },
+    {
+      "rank": 99,
+      "player": "Hank Lebioda",
+      "Avg": "-0.008",
+      "Total SG:Putting": "-0.349",
+      "Measured Rounds": "42"
+    },
+    {
+      "rank": 100,
+      "player": "Scott Piercy",
+      "Avg": "-0.009",
+      "Total SG:Putting": "-0.632",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 101,
+      "player": "K.H. Lee",
+      "Avg": "-0.010",
+      "Total SG:Putting": "-0.813",
+      "Measured Rounds": "82"
+    },
+    {
+      "rank": 102,
+      "player": "Taylor Pendrith",
+      "Avg": "-0.026",
+      "Total SG:Putting": "-2.085",
+      "Measured Rounds": "80"
+    },
+    {
+      "rank": 103,
+      "player": "Ryan Moore",
+      "Avg": "-0.029",
+      "Total SG:Putting": "-1.852",
+      "Measured Rounds": "64"
+    },
+    {
+      "rank": 104,
+      "player": "Matt Wallace",
+      "Avg": "-0.030",
+      "Total SG:Putting": "-1.987",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 105,
+      "player": "Webb Simpson",
+      "Avg": "-0.036",
+      "Total SG:Putting": "-1.912",
+      "Measured Rounds": "53"
+    },
+    {
+      "rank": 106,
+      "player": "Kevin Chappell",
+      "Avg": "-0.040",
+      "Total SG:Putting": "-1.452",
+      "Measured Rounds": "36"
+    },
+    {
+      "rank": 107,
+      "player": "Martin Laird",
+      "Avg": "-0.050",
+      "Total SG:Putting": "-3.387",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 108,
+      "player": "Martin Trainer",
+      "Avg": "-0.053",
+      "Total SG:Putting": "-2.023",
+      "Measured Rounds": "38"
+    },
+    {
+      "rank": 109,
+      "player": "Stewart Cink",
+      "Avg": "-0.084",
+      "Total SG:Putting": "-5.553",
+      "Measured Rounds": "66"
+    },
+    {
+      "rank": 110,
+      "player": "Stephan Jaeger",
+      "Avg": "-0.090",
+      "Total SG:Putting": "-9.606",
+      "Measured Rounds": "107"
+    },
+    {
+      "rank": 110,
+      "player": "C.T. Pan",
+      "Avg": "-0.090",
+      "Total SG:Putting": "-3.497",
+      "Measured Rounds": "39"
+    },
+    {
+      "rank": 112,
+      "player": "Sung Kang",
+      "Avg": "-0.097",
+      "Total SG:Putting": "-3.004",
+      "Measured Rounds": "31"
+    },
+    {
+      "rank": 113,
+      "player": "Tyler Duncan",
+      "Avg": "-0.104",
+      "Total SG:Putting": "-8.239",
+      "Measured Rounds": "79"
+    },
+    {
+      "rank": 114,
+      "player": "Collin Morikawa",
+      "Avg": "-0.109",
+      "Total SG:Putting": "-6.736",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 115,
+      "player": "Harrison Endycott",
+      "Avg": "-0.113",
+      "Total SG:Putting": "-7.672",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 116,
+      "player": "Shane Lowry",
+      "Avg": "-0.114",
+      "Total SG:Putting": "-6.400",
+      "Measured Rounds": "56"
+    },
+    {
+      "rank": 117,
+      "player": "Patton Kizzire",
+      "Avg": "-0.116",
+      "Total SG:Putting": "-9.638",
+      "Measured Rounds": "83"
+    },
+    {
+      "rank": 118,
+      "player": "Kevin Streelman",
+      "Avg": "-0.118",
+      "Total SG:Putting": "-10.039",
+      "Measured Rounds": "85"
+    },
+    {
+      "rank": 119,
+      "player": "Hideki Matsuyama",
+      "Avg": "-0.119",
+      "Total SG:Putting": "-8.302",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 120,
+      "player": "Russell Henley",
+      "Avg": "-0.121",
+      "Total SG:Putting": "-8.849",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 121,
+      "player": "Robby Shelton",
+      "Avg": "-0.123",
+      "Total SG:Putting": "-10.245",
+      "Measured Rounds": "83"
+    },
+    {
+      "rank": 122,
+      "player": "Chez Reavie",
+      "Avg": "-0.124",
+      "Total SG:Putting": "-10.556",
+      "Measured Rounds": "85"
+    },
+    {
+      "rank": 123,
+      "player": "Cam Davis",
+      "Avg": "-0.127",
+      "Total SG:Putting": "-10.173",
+      "Measured Rounds": "80"
+    },
+    {
+      "rank": 124,
+      "player": "Matt NeSmith",
+      "Avg": "-0.130",
+      "Total SG:Putting": "-10.947",
+      "Measured Rounds": "84"
+    },
+    {
+      "rank": 125,
+      "player": "Tony Finau",
+      "Avg": "-0.133",
+      "Total SG:Putting": "-9.718",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 125,
+      "player": "Davis Riley",
+      "Avg": "-0.133",
+      "Total SG:Putting": "-10.145",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 127,
+      "player": "Austin Cook",
+      "Avg": "-0.135",
+      "Total SG:Putting": "-7.537",
+      "Measured Rounds": "56"
+    },
+    {
+      "rank": 128,
+      "player": "Corey Conners",
+      "Avg": "-0.136",
+      "Total SG:Putting": "-10.226",
+      "Measured Rounds": "75"
+    },
+    {
+      "rank": 128,
+      "player": "Tano Goya",
+      "Avg": "-0.136",
+      "Total SG:Putting": "-8.864",
+      "Measured Rounds": "65"
+    },
+    {
+      "rank": 130,
+      "player": "Sean O'Hair",
+      "Avg": "-0.139",
+      "Total SG:Putting": "-4.313",
+      "Measured Rounds": "31"
+    },
+    {
+      "rank": 131,
+      "player": "Cameron Percy",
+      "Avg": "-0.147",
+      "Total SG:Putting": "-6.619",
+      "Measured Rounds": "45"
+    },
+    {
+      "rank": 132,
+      "player": "Carl Yuan",
+      "Avg": "-0.148",
+      "Total SG:Putting": "-10.191",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 133,
+      "player": "Kurt Kitayama",
+      "Avg": "-0.149",
+      "Total SG:Putting": "-8.209",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 134,
+      "player": "Davis Thompson",
+      "Avg": "-0.152",
+      "Total SG:Putting": "-13.243",
+      "Measured Rounds": "87"
+    },
+    {
+      "rank": 135,
+      "player": "Justin Thomas",
+      "Avg": "-0.161",
+      "Total SG:Putting": "-10.816",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 135,
+      "player": "Brandon Wu",
+      "Avg": "-0.161",
+      "Total SG:Putting": "-13.710",
+      "Measured Rounds": "85"
+    },
+    {
+      "rank": 137,
+      "player": "Nico Echavarria",
+      "Avg": "-0.165",
+      "Total SG:Putting": "-9.092",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 138,
+      "player": "Erik van Rooyen",
+      "Avg": "-0.168",
+      "Total SG:Putting": "-9.432",
+      "Measured Rounds": "56"
+    },
+    {
+      "rank": 139,
+      "player": "Will Gordon",
+      "Avg": "-0.169",
+      "Total SG:Putting": "-15.047",
+      "Measured Rounds": "89"
+    },
+    {
+      "rank": 140,
+      "player": "Trevor Werbylo",
+      "Avg": "-0.185",
+      "Total SG:Putting": "-10.725",
+      "Measured Rounds": "58"
+    },
+    {
+      "rank": 141,
+      "player": "Callum Tarren",
+      "Avg": "-0.188",
+      "Total SG:Putting": "-15.387",
+      "Measured Rounds": "82"
+    },
+    {
+      "rank": 142,
+      "player": "Kramer Hickok",
+      "Avg": "-0.191",
+      "Total SG:Putting": "-14.894",
+      "Measured Rounds": "78"
+    },
+    {
+      "rank": 143,
+      "player": "Nick Watney",
+      "Avg": "-0.193",
+      "Total SG:Putting": "-10.633",
+      "Measured Rounds": "55"
+    },
+    {
+      "rank": 144,
+      "player": "Byeong Hun An",
+      "Avg": "-0.194",
+      "Total SG:Putting": "-17.247",
+      "Measured Rounds": "89"
+    },
+    {
+      "rank": 145,
+      "player": "Trevor Cone",
+      "Avg": "-0.197",
+      "Total SG:Putting": "-12.418",
+      "Measured Rounds": "63"
+    },
+    {
+      "rank": 146,
+      "player": "James Hahn",
+      "Avg": "-0.204",
+      "Total SG:Putting": "-14.068",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 147,
+      "player": "Ryan Armour",
+      "Avg": "-0.208",
+      "Total SG:Putting": "-13.905",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 148,
+      "player": "MJ Daffue",
+      "Avg": "-0.209",
+      "Total SG:Putting": "-15.494",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 149,
+      "player": "J.J. Spaun",
+      "Avg": "-0.212",
+      "Total SG:Putting": "-17.628",
+      "Measured Rounds": "83"
+    },
+    {
+      "rank": 150,
+      "player": "Doug Ghim",
+      "Avg": "-0.218",
+      "Total SG:Putting": "-16.141",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 151,
+      "player": "Paul Haley II",
+      "Avg": "-0.238",
+      "Total SG:Putting": "-16.453",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 152,
+      "player": "Aaron Rai",
+      "Avg": "-0.262",
+      "Total SG:Putting": "-22.794",
+      "Measured Rounds": "87"
+    },
+    {
+      "rank": 153,
+      "player": "Scott Stallings",
+      "Avg": "-0.272",
+      "Total SG:Putting": "-18.213",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 154,
+      "player": "Russell Knox",
+      "Avg": "-0.277",
+      "Total SG:Putting": "-23.273",
+      "Measured Rounds": "84"
+    },
+    {
+      "rank": 155,
+      "player": "Henrik Norlander",
+      "Avg": "-0.279",
+      "Total SG:Putting": "-18.982",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 156,
+      "player": "Michael Gligic",
+      "Avg": "-0.281",
+      "Total SG:Putting": "-14.630",
+      "Measured Rounds": "52"
+    },
+    {
+      "rank": 157,
+      "player": "Vincent Norrman",
+      "Avg": "-0.283",
+      "Total SG:Putting": "-18.384",
+      "Measured Rounds": "65"
+    },
+    {
+      "rank": 158,
+      "player": "Cameron Young",
+      "Avg": "-0.287",
+      "Total SG:Putting": "-19.232",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 159,
+      "player": "Tyson Alexander",
+      "Avg": "-0.293",
+      "Total SG:Putting": "-20.488",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 160,
+      "player": "Joseph Bramlett",
+      "Avg": "-0.297",
+      "Total SG:Putting": "-20.182",
+      "Measured Rounds": "68"
+    },
+    {
+      "rank": 161,
+      "player": "Alex Smalley",
+      "Avg": "-0.299",
+      "Total SG:Putting": "-27.795",
+      "Measured Rounds": "93"
+    },
+    {
+      "rank": 162,
+      "player": "Scottie Scheffler",
+      "Avg": "-0.301",
+      "Total SG:Putting": "-22.286",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 163,
+      "player": "Si Woo Kim",
+      "Avg": "-0.308",
+      "Total SG:Putting": "-26.492",
+      "Measured Rounds": "86"
+    },
+    {
+      "rank": 164,
+      "player": "Cody Gribble",
+      "Avg": "-0.309",
+      "Total SG:Putting": "-15.454",
+      "Measured Rounds": "50"
+    },
+    {
+      "rank": 165,
+      "player": "Cameron Champ",
+      "Avg": "-0.312",
+      "Total SG:Putting": "-18.386",
+      "Measured Rounds": "59"
+    },
+    {
+      "rank": 166,
+      "player": "Sam Stevens",
+      "Avg": "-0.314",
+      "Total SG:Putting": "-26.056",
+      "Measured Rounds": "83"
+    },
+    {
+      "rank": 167,
+      "player": "Trey Mullinax",
+      "Avg": "-0.328",
+      "Total SG:Putting": "-21.948",
+      "Measured Rounds": "67"
+    },
+    {
+      "rank": 168,
+      "player": "Ryan Palmer",
+      "Avg": "-0.343",
+      "Total SG:Putting": "-22.283",
+      "Measured Rounds": "65"
+    },
+    {
+      "rank": 169,
+      "player": "Lucas Glover",
+      "Avg": "-0.344",
+      "Total SG:Putting": "-27.489",
+      "Measured Rounds": "80"
+    },
+    {
+      "rank": 170,
+      "player": "Matthias Schwab",
+      "Avg": "-0.374",
+      "Total SG:Putting": "-30.307",
+      "Measured Rounds": "81"
+    },
+    {
+      "rank": 171,
+      "player": "Satoshi Kodaira",
+      "Avg": "-0.401",
+      "Total SG:Putting": "-17.227",
+      "Measured Rounds": "43"
+    },
+    {
+      "rank": 172,
+      "player": "Troy Merritt",
+      "Avg": "-0.429",
+      "Total SG:Putting": "-30.047",
+      "Measured Rounds": "70"
+    },
+    {
+      "rank": 173,
+      "player": "Kyle Westmoreland",
+      "Avg": "-0.431",
+      "Total SG:Putting": "-25.018",
+      "Measured Rounds": "58"
+    },
+    {
+      "rank": 174,
+      "player": "Zecheng Dou",
+      "Avg": "-0.440",
+      "Total SG:Putting": "-33.414",
+      "Measured Rounds": "76"
+    },
+    {
+      "rank": 175,
+      "player": "Scott Harrington",
+      "Avg": "-0.441",
+      "Total SG:Putting": "-25.155",
+      "Measured Rounds": "57"
+    },
+    {
+      "rank": 175,
+      "player": "Robert Streb",
+      "Avg": "-0.441",
+      "Total SG:Putting": "-27.327",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 177,
+      "player": "Ryan Gerard",
+      "Avg": "-0.443",
+      "Total SG:Putting": "-21.710",
+      "Measured Rounds": "49"
+    },
+    {
+      "rank": 178,
+      "player": "Jonathan Byrd",
+      "Avg": "-0.454",
+      "Total SG:Putting": "-16.782",
+      "Measured Rounds": "37"
+    },
+    {
+      "rank": 179,
+      "player": "David Lipsky",
+      "Avg": "-0.466",
+      "Total SG:Putting": "-37.775",
+      "Measured Rounds": "81"
+    },
+    {
+      "rank": 180,
+      "player": "Wesley Bryan",
+      "Avg": "-0.483",
+      "Total SG:Putting": "-14.976",
+      "Measured Rounds": "31"
+    },
+    {
+      "rank": 181,
+      "player": "Charley Hoffman",
+      "Avg": "-0.485",
+      "Total SG:Putting": "-28.124",
+      "Measured Rounds": "58"
+    },
+    {
+      "rank": 182,
+      "player": "Jim Herman",
+      "Avg": "-0.497",
+      "Total SG:Putting": "-30.789",
+      "Measured Rounds": "62"
+    },
+    {
+      "rank": 183,
+      "player": "Akshay Bhatia",
+      "Avg": "-0.505",
+      "Total SG:Putting": "-29.283",
+      "Measured Rounds": "58"
+    },
+    {
+      "rank": 184,
+      "player": "Augusto N\u00fa\u00f1ez",
+      "Avg": "-0.522",
+      "Total SG:Putting": "-30.257",
+      "Measured Rounds": "58"
+    },
+    {
+      "rank": 185,
+      "player": "Max McGreevy",
+      "Avg": "-0.527",
+      "Total SG:Putting": "-33.741",
+      "Measured Rounds": "64"
+    },
+    {
+      "rank": 186,
+      "player": "Gary Woodland",
+      "Avg": "-0.568",
+      "Total SG:Putting": "-42.014",
+      "Measured Rounds": "74"
+    },
+    {
+      "rank": 187,
+      "player": "Kevin Roy",
+      "Avg": "-0.581",
+      "Total SG:Putting": "-30.776",
+      "Measured Rounds": "53"
+    },
+    {
+      "rank": 188,
+      "player": "Joel Dahmen",
+      "Avg": "-0.603",
+      "Total SG:Putting": "-44.051",
+      "Measured Rounds": "73"
+    },
+    {
+      "rank": 189,
+      "player": "Luke List",
+      "Avg": "-0.623",
+      "Total SG:Putting": "-51.694",
+      "Measured Rounds": "83"
+    },
+    {
+      "rank": 190,
+      "player": "Jason Dufner",
+      "Avg": "-0.697",
+      "Total SG:Putting": "-48.105",
+      "Measured Rounds": "69"
+    },
+    {
+      "rank": 191,
+      "player": "Kevin Yu",
+      "Avg": "-0.804",
+      "Total SG:Putting": "-38.575",
+      "Measured Rounds": "48"
+    },
+    {
+      "rank": 192,
+      "player": "Brandon Matthews",
+      "Avg": "-1.072",
+      "Total SG:Putting": "-45.008",
+      "Measured Rounds": "42"
+    },
+    {
+      "rank": 193,
+      "player": "Brent Grant",
+      "Avg": "-1.081",
+      "Total SG:Putting": "-61.634",
+      "Measured Rounds": "57"
+    }
+  ]
+}

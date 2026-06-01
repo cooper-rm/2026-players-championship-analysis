@@ -1,0 +1,998 @@
+{
+  "stat_id": "139",
+  "year": 2022,
+  "category": "Money/Finishes",
+  "stat_title": "Non-member Earnings",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Dustin Johnson",
+      "Money": "$1,617,749",
+      "Total": "2302749"
+    },
+    {
+      "rank": 2,
+      "player": "Patrick Reed",
+      "Money": "$1,463,374",
+      "Total": "1560485"
+    },
+    {
+      "rank": 3,
+      "player": "Kevin Na",
+      "Money": "$935,513",
+      "Total": "1155513"
+    },
+    {
+      "rank": 4,
+      "player": "Sergio Garcia",
+      "Money": "$799,231",
+      "Total": "896343"
+    },
+    {
+      "rank": 5,
+      "player": "Branden Grace",
+      "Money": "$791,112",
+      "Total": "791112"
+    },
+    {
+      "rank": 6,
+      "player": "Charl Schwartzel",
+      "Money": "$772,030",
+      "Total": "772030"
+    },
+    {
+      "rank": 7,
+      "player": "Graeme McDowell",
+      "Money": "$527,904",
+      "Total": "527904"
+    },
+    {
+      "rank": 8,
+      "player": "Bubba Watson",
+      "Money": "$513,538",
+      "Total": "610649"
+    },
+    {
+      "rank": 9,
+      "player": "Chris Gotterup",
+      "Money": "$502,471",
+      "Total": "502471"
+    },
+    {
+      "rank": 10,
+      "player": "Min Woo Lee",
+      "Money": "$472,621",
+      "Total": "569732"
+    },
+    {
+      "rank": 11,
+      "player": "Robert MacIntyre",
+      "Money": "$461,631",
+      "Total": "519870"
+    },
+    {
+      "rank": 12,
+      "player": "Louis Oosthuizen",
+      "Money": "$443,897",
+      "Total": "502136"
+    },
+    {
+      "rank": 13,
+      "player": "Rasmus Hojgaard",
+      "Money": "$413,120",
+      "Total": "413120"
+    },
+    {
+      "rank": 14,
+      "player": "Thomas Detry",
+      "Money": "$409,974",
+      "Total": "409974"
+    },
+    {
+      "rank": 15,
+      "player": "Dean Burmester",
+      "Money": "$388,800",
+      "Total": "388800"
+    },
+    {
+      "rank": 16,
+      "player": "Patrick Flavin",
+      "Money": "$361,749",
+      "Total": "361749"
+    },
+    {
+      "rank": 17,
+      "player": "Ben Griffin",
+      "Money": "$357,700",
+      "Total": "357700"
+    },
+    {
+      "rank": 18,
+      "player": "Lee Westwood",
+      "Money": "$346,559",
+      "Total": "404798"
+    },
+    {
+      "rank": 19,
+      "player": "Thomas Pieters",
+      "Money": "$309,169",
+      "Total": "406280"
+    },
+    {
+      "rank": 20,
+      "player": "Hurly Long",
+      "Money": "$306,175",
+      "Total": "306175"
+    },
+    {
+      "rank": 21,
+      "player": "Chan Kim",
+      "Money": "$273,271",
+      "Total": "273271"
+    },
+    {
+      "rank": 22,
+      "player": "Guido Migliozzi",
+      "Money": "$272,827",
+      "Total": "272827"
+    },
+    {
+      "rank": 23,
+      "player": "Takumi Kanaya",
+      "Money": "$259,322",
+      "Total": "479322"
+    },
+    {
+      "rank": 24,
+      "player": "Jamie Donaldson",
+      "Money": "$243,700",
+      "Total": "243700"
+    },
+    {
+      "rank": 25,
+      "player": "Jason Scrivener",
+      "Money": "$238,842",
+      "Total": "238842"
+    },
+    {
+      "rank": 26,
+      "player": "Sadom Kaewkanjana",
+      "Money": "$231,000",
+      "Total": "231000"
+    },
+    {
+      "rank": 27,
+      "player": "John Augenstein",
+      "Money": "$220,850",
+      "Total": "220850"
+    },
+    {
+      "rank": 28,
+      "player": "Harry Hall",
+      "Money": "$204,750",
+      "Total": "204750"
+    },
+    {
+      "rank": 29,
+      "player": "Taylor Montgomery",
+      "Money": "$180,180",
+      "Total": "180180"
+    },
+    {
+      "rank": 30,
+      "player": "Marcus Helligkilde",
+      "Money": "$173,283",
+      "Total": "173283"
+    },
+    {
+      "rank": 31,
+      "player": "Haotong Li",
+      "Money": "$172,155",
+      "Total": "172155"
+    },
+    {
+      "rank": 32,
+      "player": "Anthony Quayle",
+      "Money": "$165,583",
+      "Total": "165583"
+    },
+    {
+      "rank": 33,
+      "player": "Chris Naegel",
+      "Money": "$153,450",
+      "Total": "153450"
+    },
+    {
+      "rank": 34,
+      "player": "Kevin Yu",
+      "Money": "$144,300",
+      "Total": "144300"
+    },
+    {
+      "rank": 35,
+      "player": "Adri Arnaus",
+      "Money": "$143,413",
+      "Total": "143413"
+    },
+    {
+      "rank": 36,
+      "player": "Yannik Paul",
+      "Money": "$126,528",
+      "Total": "126528"
+    },
+    {
+      "rank": 37,
+      "player": "Bernd Wiesberger",
+      "Money": "$125,350",
+      "Total": "125350"
+    },
+    {
+      "rank": 38,
+      "player": "Thriston Lawrence",
+      "Money": "$124,400",
+      "Total": "124400"
+    },
+    {
+      "rank": 39,
+      "player": "Espen Kofstad",
+      "Money": "$122,629",
+      "Total": "122629"
+    },
+    {
+      "rank": 40,
+      "player": "Shugo Imahira",
+      "Money": "$118,718",
+      "Total": "118718"
+    },
+    {
+      "rank": 40,
+      "player": "Hiroshi Iwata",
+      "Money": "$118,718",
+      "Total": "118718"
+    },
+    {
+      "rank": 42,
+      "player": "Matti Schmid",
+      "Money": "$118,400",
+      "Total": "118400"
+    },
+    {
+      "rank": 43,
+      "player": "MJ Daffue",
+      "Money": "$116,531",
+      "Total": "116531"
+    },
+    {
+      "rank": 44,
+      "player": "Rick Lamb",
+      "Money": "$116,358",
+      "Total": "116358"
+    },
+    {
+      "rank": 45,
+      "player": "Richard Bland",
+      "Money": "$114,444",
+      "Total": "334444"
+    },
+    {
+      "rank": 46,
+      "player": "Jordan L Smith",
+      "Money": "$114,000",
+      "Total": "114000"
+    },
+    {
+      "rank": 47,
+      "player": "Bryson Nimmer",
+      "Money": "$112,131",
+      "Total": "112131"
+    },
+    {
+      "rank": 48,
+      "player": "Rafa Cabrera Bello",
+      "Money": "$107,888",
+      "Total": "107888"
+    },
+    {
+      "rank": 49,
+      "player": "Martin Contini",
+      "Money": "$106,533",
+      "Total": "106533"
+    },
+    {
+      "rank": 50,
+      "player": "Ricardo Gouveia",
+      "Money": "$100,825",
+      "Total": "100825"
+    },
+    {
+      "rank": 51,
+      "player": "Todd Sinnott",
+      "Money": "$100,331",
+      "Total": "100331"
+    },
+    {
+      "rank": 52,
+      "player": "Austin Eckroat",
+      "Money": "$92,818",
+      "Total": "92818"
+    },
+    {
+      "rank": 53,
+      "player": "Sean Crocker",
+      "Money": "$89,898",
+      "Total": "89898"
+    },
+    {
+      "rank": 54,
+      "player": "Grant Hirschman",
+      "Money": "$86,683",
+      "Total": "86683"
+    },
+    {
+      "rank": 55,
+      "player": "Victor Perez",
+      "Money": "$77,564",
+      "Total": "77564"
+    },
+    {
+      "rank": 56,
+      "player": "Conrad Shindler",
+      "Money": "$76,231",
+      "Total": "76231"
+    },
+    {
+      "rank": 57,
+      "player": "Byeong Hun An",
+      "Money": "$74,259",
+      "Total": "74259"
+    },
+    {
+      "rank": 58,
+      "player": "James Morrison",
+      "Money": "$73,598",
+      "Total": "73598"
+    },
+    {
+      "rank": 59,
+      "player": "Sami Valimaki",
+      "Money": "$73,400",
+      "Total": "73400"
+    },
+    {
+      "rank": 60,
+      "player": "Davis Thompson",
+      "Money": "$73,077",
+      "Total": "73077"
+    },
+    {
+      "rank": 61,
+      "player": "Turk Pettit",
+      "Money": "$72,368",
+      "Total": "72368"
+    },
+    {
+      "rank": 62,
+      "player": "Sebastian Soderberg",
+      "Money": "$68,780",
+      "Total": "68780"
+    },
+    {
+      "rank": 63,
+      "player": "Matthieu Pavon",
+      "Money": "$67,203",
+      "Total": "67203"
+    },
+    {
+      "rank": 64,
+      "player": "Rikuya Hoshino",
+      "Money": "$66,522",
+      "Total": "66522"
+    },
+    {
+      "rank": 65,
+      "player": "Shaun Norris",
+      "Money": "$64,647",
+      "Total": "64647"
+    },
+    {
+      "rank": 66,
+      "player": "Naoto Nakanishi",
+      "Money": "$63,780",
+      "Total": "63780"
+    },
+    {
+      "rank": 67,
+      "player": "Laurie Canter",
+      "Money": "$63,471",
+      "Total": "63471"
+    },
+    {
+      "rank": 68,
+      "player": "Stephen Stallings Jr.",
+      "Money": "$62,874",
+      "Total": "62874"
+    },
+    {
+      "rank": 69,
+      "player": "Sam Stevens",
+      "Money": "$62,198",
+      "Total": "62198"
+    },
+    {
+      "rank": 70,
+      "player": "David Law",
+      "Money": "$60,163",
+      "Total": "60163"
+    },
+    {
+      "rank": 71,
+      "player": "Spencer Ralston",
+      "Money": "$58,275",
+      "Total": "58275"
+    },
+    {
+      "rank": 72,
+      "player": "Maximilian Kieffer",
+      "Money": "$58,100",
+      "Total": "58100"
+    },
+    {
+      "rank": 72,
+      "player": "Mikko Korhonen",
+      "Money": "$58,100",
+      "Total": "58100"
+    },
+    {
+      "rank": 72,
+      "player": "Thorbj\u00f8rn Olesen",
+      "Money": "$58,100",
+      "Total": "58100"
+    },
+    {
+      "rank": 75,
+      "player": "Ryan Fox",
+      "Money": "$57,400",
+      "Total": "57400"
+    },
+    {
+      "rank": 76,
+      "player": "Marcus Armitage",
+      "Money": "$51,923",
+      "Total": "51923"
+    },
+    {
+      "rank": 77,
+      "player": "S.H. Kim",
+      "Money": "$51,610",
+      "Total": "51610"
+    },
+    {
+      "rank": 78,
+      "player": "Adrian Meronk",
+      "Money": "$51,000",
+      "Total": "51000"
+    },
+    {
+      "rank": 79,
+      "player": "Yuki Inamori",
+      "Money": "$50,098",
+      "Total": "50098"
+    },
+    {
+      "rank": 79,
+      "player": "Jinichiro Kozuma",
+      "Money": "$50,098",
+      "Total": "50098"
+    },
+    {
+      "rank": 79,
+      "player": "Tomoharu Otsuki",
+      "Money": "$50,098",
+      "Total": "50098"
+    },
+    {
+      "rank": 82,
+      "player": "Ryan Blaum",
+      "Money": "$48,910",
+      "Total": "48910"
+    },
+    {
+      "rank": 83,
+      "player": "Nino Bertasio",
+      "Money": "$47,175",
+      "Total": "47175"
+    },
+    {
+      "rank": 84,
+      "player": "Aaron Cockerill",
+      "Money": "$46,174",
+      "Total": "46174"
+    },
+    {
+      "rank": 85,
+      "player": "Fabrizio Zanotti",
+      "Money": "$46,033",
+      "Total": "46033"
+    },
+    {
+      "rank": 86,
+      "player": "Scott Jamieson",
+      "Money": "$45,769",
+      "Total": "45769"
+    },
+    {
+      "rank": 87,
+      "player": "Josh Teater",
+      "Money": "$45,263",
+      "Total": "45263"
+    },
+    {
+      "rank": 88,
+      "player": "Andrew Kozan",
+      "Money": "$43,133",
+      "Total": "43133"
+    },
+    {
+      "rank": 89,
+      "player": "Justin Harding",
+      "Money": "$41,690",
+      "Total": "41690"
+    },
+    {
+      "rank": 90,
+      "player": "Yuto Katsuragawa",
+      "Money": "$40,600",
+      "Total": "40600"
+    },
+    {
+      "rank": 91,
+      "player": "Ryutaro Nagano",
+      "Money": "$40,397",
+      "Total": "40397"
+    },
+    {
+      "rank": 92,
+      "player": "Sam Horsfield",
+      "Money": "$40,048",
+      "Total": "40048"
+    },
+    {
+      "rank": 93,
+      "player": "Wil Besseling",
+      "Money": "$38,511",
+      "Total": "38511"
+    },
+    {
+      "rank": 94,
+      "player": "Brandon Matthews",
+      "Money": "$37,589",
+      "Total": "37589"
+    },
+    {
+      "rank": 95,
+      "player": "Alexander Bj\u00f6rk",
+      "Money": "$37,200",
+      "Total": "37200"
+    },
+    {
+      "rank": 95,
+      "player": "Adrian Otaegui",
+      "Money": "$37,200",
+      "Total": "37200"
+    },
+    {
+      "rank": 95,
+      "player": "Connor Syme",
+      "Money": "$37,200",
+      "Total": "37200"
+    },
+    {
+      "rank": 98,
+      "player": "Robert Dinwiddie",
+      "Money": "$35,656",
+      "Total": "35656"
+    },
+    {
+      "rank": 98,
+      "player": "Nicolai Hojgaard",
+      "Money": "$35,656",
+      "Total": "35656"
+    },
+    {
+      "rank": 98,
+      "player": "Brad Kennedy",
+      "Money": "$35,656",
+      "Total": "35656"
+    },
+    {
+      "rank": 98,
+      "player": "Lars Van Meijel",
+      "Money": "$35,656",
+      "Total": "35656"
+    },
+    {
+      "rank": 102,
+      "player": "Kyle Reifers",
+      "Money": "$35,613",
+      "Total": "35613"
+    },
+    {
+      "rank": 103,
+      "player": "Ashun Wu",
+      "Money": "$35,305",
+      "Total": "35305"
+    },
+    {
+      "rank": 104,
+      "player": "Morgan Hoffmann",
+      "Money": "$34,393",
+      "Total": "34393"
+    },
+    {
+      "rank": 105,
+      "player": "David Carey",
+      "Money": "$33,625",
+      "Total": "33625"
+    },
+    {
+      "rank": 105,
+      "player": "John Parry",
+      "Money": "$33,625",
+      "Total": "33625"
+    },
+    {
+      "rank": 107,
+      "player": "Richard Mansell",
+      "Money": "$32,525",
+      "Total": "32525"
+    },
+    {
+      "rank": 108,
+      "player": "Rafael Campos",
+      "Money": "$32,185",
+      "Total": "32185"
+    },
+    {
+      "rank": 109,
+      "player": "Justin De Los Santos",
+      "Money": "$31,763",
+      "Total": "31763"
+    },
+    {
+      "rank": 110,
+      "player": "Ryuichi Oiwa",
+      "Money": "$31,442",
+      "Total": "31442"
+    },
+    {
+      "rank": 111,
+      "player": "Jamie Rutherford",
+      "Money": "$31,075",
+      "Total": "31075"
+    },
+    {
+      "rank": 112,
+      "player": "Kyle Wilshire",
+      "Money": "$30,927",
+      "Total": "30927"
+    },
+    {
+      "rank": 113,
+      "player": "Lucas Bjerregaard",
+      "Money": "$30,308",
+      "Total": "30308"
+    },
+    {
+      "rank": 114,
+      "player": "Mark Baldwin",
+      "Money": "$30,198",
+      "Total": "30198"
+    },
+    {
+      "rank": 115,
+      "player": "John Pak",
+      "Money": "$28,170",
+      "Total": "28170"
+    },
+    {
+      "rank": 116,
+      "player": "Rikard Karlberg",
+      "Money": "$28,150",
+      "Total": "28150"
+    },
+    {
+      "rank": 117,
+      "player": "Julian Suri",
+      "Money": "$27,565",
+      "Total": "27565"
+    },
+    {
+      "rank": 118,
+      "player": "KK Limbhasut",
+      "Money": "$26,527",
+      "Total": "26527"
+    },
+    {
+      "rank": 119,
+      "player": "Preston Stanley",
+      "Money": "$24,391",
+      "Total": "24391"
+    },
+    {
+      "rank": 120,
+      "player": "Ben Silverman",
+      "Money": "$23,679",
+      "Total": "23679"
+    },
+    {
+      "rank": 121,
+      "player": "Alvaro Ortiz",
+      "Money": "$23,287",
+      "Total": "23287"
+    },
+    {
+      "rank": 122,
+      "player": "Julien Brun",
+      "Money": "$21,909",
+      "Total": "21909"
+    },
+    {
+      "rank": 122,
+      "player": "Hugo Le\u00f3n",
+      "Money": "$21,909",
+      "Total": "21909"
+    },
+    {
+      "rank": 122,
+      "player": "Niklas Norgaard Moller",
+      "Money": "$21,909",
+      "Total": "21909"
+    },
+    {
+      "rank": 122,
+      "player": "Robin Roussel",
+      "Money": "$21,909",
+      "Total": "21909"
+    },
+    {
+      "rank": 126,
+      "player": "Matthew Jordan",
+      "Money": "$21,840",
+      "Total": "21840"
+    },
+    {
+      "rank": 127,
+      "player": "Ryo Hisatsune",
+      "Money": "$21,791",
+      "Total": "21791"
+    },
+    {
+      "rank": 128,
+      "player": "Nacho Elvira",
+      "Money": "$20,160",
+      "Total": "20160"
+    },
+    {
+      "rank": 128,
+      "player": "Ewen Ferguson",
+      "Money": "$20,160",
+      "Total": "20160"
+    },
+    {
+      "rank": 128,
+      "player": "Marc Warren",
+      "Money": "$20,160",
+      "Total": "20160"
+    },
+    {
+      "rank": 131,
+      "player": "Kazuki Higa",
+      "Money": "$19,900",
+      "Total": "19900"
+    },
+    {
+      "rank": 131,
+      "player": "Tomoyasu Sugiyama",
+      "Money": "$19,900",
+      "Total": "19900"
+    },
+    {
+      "rank": 133,
+      "player": "Mickey DeMorat",
+      "Money": "$19,728",
+      "Total": "19728"
+    },
+    {
+      "rank": 134,
+      "player": "Minkyu Kim",
+      "Money": "$19,598",
+      "Total": "19598"
+    },
+    {
+      "rank": 135,
+      "player": "Sebastian Garcia Rodriguez",
+      "Money": "$19,573",
+      "Total": "19573"
+    },
+    {
+      "rank": 136,
+      "player": "Martin Kaymer",
+      "Money": "$19,439",
+      "Total": "19439"
+    },
+    {
+      "rank": 137,
+      "player": "Roberto D\u00edaz",
+      "Money": "$19,342",
+      "Total": "19342"
+    },
+    {
+      "rank": 138,
+      "player": "Naoyuki Kataoka",
+      "Money": "$18,109",
+      "Total": "18109"
+    },
+    {
+      "rank": 138,
+      "player": "Ryosuke Kinoshita",
+      "Money": "$18,109",
+      "Total": "18109"
+    },
+    {
+      "rank": 138,
+      "player": "Scott Vincent",
+      "Money": "$18,109",
+      "Total": "18109"
+    },
+    {
+      "rank": 141,
+      "player": "Sanghun Shin",
+      "Money": "$18,038",
+      "Total": "18038"
+    },
+    {
+      "rank": 142,
+      "player": "Jaekyeong Lee",
+      "Money": "$17,258",
+      "Total": "17258"
+    },
+    {
+      "rank": 143,
+      "player": "Andy Ogletree",
+      "Money": "$17,234",
+      "Total": "17234"
+    },
+    {
+      "rank": 144,
+      "player": "Yoseop Seo",
+      "Money": "$16,575",
+      "Total": "16575"
+    },
+    {
+      "rank": 145,
+      "player": "Hanbyeol Kim",
+      "Money": "$16,185",
+      "Total": "16185"
+    },
+    {
+      "rank": 146,
+      "player": "Quade Cummins",
+      "Money": "$15,680",
+      "Total": "15680"
+    },
+    {
+      "rank": 146,
+      "player": "Justin Suh",
+      "Money": "$15,680",
+      "Total": "15680"
+    },
+    {
+      "rank": 148,
+      "player": "Blake Kennedy",
+      "Money": "$15,678",
+      "Total": "15678"
+    },
+    {
+      "rank": 149,
+      "player": "Francesco Laporta",
+      "Money": "$15,355",
+      "Total": "15355"
+    },
+    {
+      "rank": 150,
+      "player": "Blake McShea",
+      "Money": "$14,016",
+      "Total": "14016"
+    },
+    {
+      "rank": 151,
+      "player": "Lukas Nemecz",
+      "Money": "$13,505",
+      "Total": "13505"
+    },
+    {
+      "rank": 152,
+      "player": "Alfredo Garcia-Heredia",
+      "Money": "$10,348",
+      "Total": "10348"
+    },
+    {
+      "rank": 152,
+      "player": "Gunner Wiebe",
+      "Money": "$10,348",
+      "Total": "10348"
+    },
+    {
+      "rank": 154,
+      "player": "Pep Angles",
+      "Money": "$10,064",
+      "Total": "10064"
+    },
+    {
+      "rank": 155,
+      "player": "Josh Geary",
+      "Money": "$9,195",
+      "Total": "9195"
+    },
+    {
+      "rank": 155,
+      "player": "Tom Lewis",
+      "Money": "$9,195",
+      "Total": "9195"
+    },
+    {
+      "rank": 157,
+      "player": "Michael Lorenzo-Vera",
+      "Money": "$9,109",
+      "Total": "9109"
+    },
+    {
+      "rank": 158,
+      "player": "Carlos Pigem",
+      "Money": "$8,584",
+      "Total": "8584"
+    },
+    {
+      "rank": 159,
+      "player": "Santiago Tarrio",
+      "Money": "$8,251",
+      "Total": "8251"
+    },
+    {
+      "rank": 160,
+      "player": "Justin Walters",
+      "Money": "$7,955",
+      "Total": "7955"
+    },
+    {
+      "rank": 161,
+      "player": "Trevor Werbylo",
+      "Money": "$7,807",
+      "Total": "7807"
+    },
+    {
+      "rank": 162,
+      "player": "Chase Hanna",
+      "Money": "$7,548",
+      "Total": "7548"
+    },
+    {
+      "rank": 163,
+      "player": "S\u00f8ren Kjeldsen",
+      "Money": "$7,215",
+      "Total": "7215"
+    },
+    {
+      "rank": 164,
+      "player": "Jacob Bridgeman",
+      "Money": "$6,919",
+      "Total": "6919"
+    },
+    {
+      "rank": 165,
+      "player": "Marcel Siem",
+      "Money": "$6,697",
+      "Total": "6697"
+    }
+  ]
+}

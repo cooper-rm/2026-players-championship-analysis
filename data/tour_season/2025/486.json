@@ -1,0 +1,1628 @@
+{
+  "stat_id": "486",
+  "year": 2025,
+  "category": "Approach the Green",
+  "stat_title": "Going for the Green - Hit Green Pct.",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Adam Schenk",
+      "%": "35.88%",
+      "Successes": "47",
+      "Attempts": "131",
+      "RTP-Successes": "-47",
+      "RTP-Not going for the grn": "-12.00"
+    },
+    {
+      "rank": 2,
+      "player": "Rico Hoey",
+      "%": "35.08%",
+      "Successes": "67",
+      "Attempts": "191",
+      "RTP-Successes": "-67",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 3,
+      "player": "Rasmus H\u00f8jgaard",
+      "%": "34.87%",
+      "Successes": "53",
+      "Attempts": "152",
+      "RTP-Successes": "-55",
+      "RTP-Not going for the grn": "+8.00"
+    },
+    {
+      "rank": 4,
+      "player": "Matti Schmid",
+      "%": "33.79%",
+      "Successes": "49",
+      "Attempts": "145",
+      "RTP-Successes": "-48",
+      "RTP-Not going for the grn": "+6.00"
+    },
+    {
+      "rank": 5,
+      "player": "Joel Dahmen",
+      "%": "33.04%",
+      "Successes": "37",
+      "Attempts": "112",
+      "RTP-Successes": "-36",
+      "RTP-Not going for the grn": "-14.00"
+    },
+    {
+      "rank": 6,
+      "player": "Pierceson Coody",
+      "%": "32.99%",
+      "Successes": "32",
+      "Attempts": "97",
+      "RTP-Successes": "-34",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 7,
+      "player": "Thorbj\u00f8rn Olesen",
+      "%": "32.69%",
+      "Successes": "51",
+      "Attempts": "156",
+      "RTP-Successes": "-58",
+      "RTP-Not going for the grn": "-17.00"
+    },
+    {
+      "rank": 8,
+      "player": "Seamus Power",
+      "%": "32.12%",
+      "Successes": "44",
+      "Attempts": "137",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-16.00"
+    },
+    {
+      "rank": 9,
+      "player": "Austin Eckroat",
+      "%": "31.82%",
+      "Successes": "56",
+      "Attempts": "176",
+      "RTP-Successes": "-53",
+      "RTP-Not going for the grn": "-3.00"
+    },
+    {
+      "rank": 10,
+      "player": "Jake Knapp",
+      "%": "31.53%",
+      "Successes": "64",
+      "Attempts": "203",
+      "RTP-Successes": "-68",
+      "RTP-Not going for the grn": "-11.00"
+    },
+    {
+      "rank": 11,
+      "player": "Steven Fisk",
+      "%": "31.13%",
+      "Successes": "47",
+      "Attempts": "151",
+      "RTP-Successes": "-49",
+      "RTP-Not going for the grn": "-5.00"
+    },
+    {
+      "rank": 12,
+      "player": "Hayden Buckley",
+      "%": "30.68%",
+      "Successes": "27",
+      "Attempts": "88",
+      "RTP-Successes": "-25",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 13,
+      "player": "Taylor Pendrith",
+      "%": "30.41%",
+      "Successes": "59",
+      "Attempts": "194",
+      "RTP-Successes": "-62",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 14,
+      "player": "Adam Scott",
+      "%": "30.37%",
+      "Successes": "41",
+      "Attempts": "135",
+      "RTP-Successes": "-39",
+      "RTP-Not going for the grn": "-11.00"
+    },
+    {
+      "rank": 15,
+      "player": "Kevin Roy",
+      "%": "30.26%",
+      "Successes": "46",
+      "Attempts": "152",
+      "RTP-Successes": "-50",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 16,
+      "player": "Alejandro Tosti",
+      "%": "30.17%",
+      "Successes": "35",
+      "Attempts": "116",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-1.00"
+    },
+    {
+      "rank": 17,
+      "player": "Xander Schauffele",
+      "%": "29.81%",
+      "Successes": "48",
+      "Attempts": "161",
+      "RTP-Successes": "-52",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 18,
+      "player": "Nate Lashley",
+      "%": "29.47%",
+      "Successes": "28",
+      "Attempts": "95",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "-4.00"
+    },
+    {
+      "rank": 19,
+      "player": "Michael Thorbjornsen",
+      "%": "29.44%",
+      "Successes": "53",
+      "Attempts": "180",
+      "RTP-Successes": "-57",
+      "RTP-Not going for the grn": "+6.00"
+    },
+    {
+      "rank": 20,
+      "player": "Mark Hubbard",
+      "%": "29.21%",
+      "Successes": "52",
+      "Attempts": "178",
+      "RTP-Successes": "-51",
+      "RTP-Not going for the grn": "-1.00"
+    },
+    {
+      "rank": 21,
+      "player": "Nick Taylor",
+      "%": "29.17%",
+      "Successes": "42",
+      "Attempts": "144",
+      "RTP-Successes": "-41",
+      "RTP-Not going for the grn": "-11.00"
+    },
+    {
+      "rank": 22,
+      "player": "Kurt Kitayama",
+      "%": "28.99%",
+      "Successes": "49",
+      "Attempts": "169",
+      "RTP-Successes": "-51",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 23,
+      "player": "Alex Smalley",
+      "%": "28.96%",
+      "Successes": "53",
+      "Attempts": "183",
+      "RTP-Successes": "-58",
+      "RTP-Not going for the grn": "-3.00"
+    },
+    {
+      "rank": 24,
+      "player": "Kevin Yu",
+      "%": "28.82%",
+      "Successes": "66",
+      "Attempts": "229",
+      "RTP-Successes": "-71",
+      "RTP-Not going for the grn": "-4.00"
+    },
+    {
+      "rank": 25,
+      "player": "Antoine Rozner",
+      "%": "28.78%",
+      "Successes": "40",
+      "Attempts": "139",
+      "RTP-Successes": "-43",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 26,
+      "player": "Maverick McNealy",
+      "%": "28.72%",
+      "Successes": "56",
+      "Attempts": "195",
+      "RTP-Successes": "-56",
+      "RTP-Not going for the grn": "-10.00"
+    },
+    {
+      "rank": 27,
+      "player": "Will Gordon",
+      "%": "28.57%",
+      "Successes": "32",
+      "Attempts": "112",
+      "RTP-Successes": "-33",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 27,
+      "player": "Kevin Velo",
+      "%": "28.57%",
+      "Successes": "28",
+      "Attempts": "98",
+      "RTP-Successes": "-26",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 29,
+      "player": "Taylor Moore",
+      "%": "28.49%",
+      "Successes": "49",
+      "Attempts": "172",
+      "RTP-Successes": "-54",
+      "RTP-Not going for the grn": "-10.00"
+    },
+    {
+      "rank": 30,
+      "player": "Greyson Sigg",
+      "%": "28.46%",
+      "Successes": "35",
+      "Attempts": "123",
+      "RTP-Successes": "-34",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 31,
+      "player": "Hideki Matsuyama",
+      "%": "28.38%",
+      "Successes": "42",
+      "Attempts": "148",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "+4.00"
+    },
+    {
+      "rank": 32,
+      "player": "Adam Svensson",
+      "%": "28.26%",
+      "Successes": "39",
+      "Attempts": "138",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-5.00"
+    },
+    {
+      "rank": 33,
+      "player": "Chan Kim",
+      "%": "28.19%",
+      "Successes": "42",
+      "Attempts": "149",
+      "RTP-Successes": "-46",
+      "RTP-Not going for the grn": "+5.00"
+    },
+    {
+      "rank": 34,
+      "player": "Joseph Bramlett",
+      "%": "27.91%",
+      "Successes": "24",
+      "Attempts": "86",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "+1.00"
+    },
+    {
+      "rank": 35,
+      "player": "Karl Vilips",
+      "%": "27.83%",
+      "Successes": "32",
+      "Attempts": "115",
+      "RTP-Successes": "-40",
+      "RTP-Not going for the grn": "+4.00"
+    },
+    {
+      "rank": 36,
+      "player": "Niklas Norgaard",
+      "%": "27.64%",
+      "Successes": "34",
+      "Attempts": "123",
+      "RTP-Successes": "-34",
+      "RTP-Not going for the grn": "-4.00"
+    },
+    {
+      "rank": 37,
+      "player": "Rickie Fowler",
+      "%": "27.56%",
+      "Successes": "43",
+      "Attempts": "156",
+      "RTP-Successes": "-42",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 38,
+      "player": "Nico Echavarria",
+      "%": "27.40%",
+      "Successes": "40",
+      "Attempts": "146",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-10.00"
+    },
+    {
+      "rank": 39,
+      "player": "Adam Hadwin",
+      "%": "27.33%",
+      "Successes": "44",
+      "Attempts": "161",
+      "RTP-Successes": "-47",
+      "RTP-Not going for the grn": "+10.00"
+    },
+    {
+      "rank": 40,
+      "player": "Henrik Norlander",
+      "%": "27.27%",
+      "Successes": "42",
+      "Attempts": "154",
+      "RTP-Successes": "-46",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 41,
+      "player": "Sami Valimaki",
+      "%": "27.15%",
+      "Successes": "41",
+      "Attempts": "151",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-17.00"
+    },
+    {
+      "rank": 42,
+      "player": "Hayden Springer",
+      "%": "27.14%",
+      "Successes": "38",
+      "Attempts": "140",
+      "RTP-Successes": "-41",
+      "RTP-Not going for the grn": "-21.00"
+    },
+    {
+      "rank": 43,
+      "player": "Wyndham Clark",
+      "%": "26.75%",
+      "Successes": "42",
+      "Attempts": "157",
+      "RTP-Successes": "-45",
+      "RTP-Not going for the grn": "+1.00"
+    },
+    {
+      "rank": 44,
+      "player": "Trevor Cone",
+      "%": "26.72%",
+      "Successes": "35",
+      "Attempts": "131",
+      "RTP-Successes": "-37",
+      "RTP-Not going for the grn": "+10.00"
+    },
+    {
+      "rank": 45,
+      "player": "Ricky Castillo",
+      "%": "26.71%",
+      "Successes": "39",
+      "Attempts": "146",
+      "RTP-Successes": "-39",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 46,
+      "player": "Patrick Fishburn",
+      "%": "26.63%",
+      "Successes": "45",
+      "Attempts": "169",
+      "RTP-Successes": "-47",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 47,
+      "player": "Jesper Svensson",
+      "%": "26.57%",
+      "Successes": "55",
+      "Attempts": "207",
+      "RTP-Successes": "-61",
+      "RTP-Not going for the grn": "-3.00"
+    },
+    {
+      "rank": 48,
+      "player": "Joe Highsmith",
+      "%": "26.45%",
+      "Successes": "41",
+      "Attempts": "155",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 49,
+      "player": "Thomas Detry",
+      "%": "26.32%",
+      "Successes": "40",
+      "Attempts": "152",
+      "RTP-Successes": "-42",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 50,
+      "player": "Camilo Villegas",
+      "%": "26.26%",
+      "Successes": "26",
+      "Attempts": "99",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "-3.00"
+    },
+    {
+      "rank": 51,
+      "player": "Keith Mitchell",
+      "%": "26.23%",
+      "Successes": "48",
+      "Attempts": "183",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-15.00"
+    },
+    {
+      "rank": 52,
+      "player": "Justin Lower",
+      "%": "25.98%",
+      "Successes": "33",
+      "Attempts": "127",
+      "RTP-Successes": "-38",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 53,
+      "player": "Max McGreevy",
+      "%": "25.97%",
+      "Successes": "47",
+      "Attempts": "181",
+      "RTP-Successes": "-51",
+      "RTP-Not going for the grn": "-10.00"
+    },
+    {
+      "rank": 54,
+      "player": "Nicolai H\u00f8jgaard",
+      "%": "25.95%",
+      "Successes": "34",
+      "Attempts": "131",
+      "RTP-Successes": "-37",
+      "RTP-Not going for the grn": "+8.00"
+    },
+    {
+      "rank": 55,
+      "player": "Denny McCarthy",
+      "%": "25.86%",
+      "Successes": "45",
+      "Attempts": "174",
+      "RTP-Successes": "-46",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 56,
+      "player": "Harry Higgs",
+      "%": "25.73%",
+      "Successes": "44",
+      "Attempts": "171",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 57,
+      "player": "Jackson Suber",
+      "%": "25.69%",
+      "Successes": "37",
+      "Attempts": "144",
+      "RTP-Successes": "-42",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 58,
+      "player": "Luke Clanton",
+      "%": "25.56%",
+      "Successes": "34",
+      "Attempts": "133",
+      "RTP-Successes": "-34",
+      "RTP-Not going for the grn": "-4.00"
+    },
+    {
+      "rank": 58,
+      "player": "Ryan Palmer",
+      "%": "25.56%",
+      "Successes": "23",
+      "Attempts": "90",
+      "RTP-Successes": "-20",
+      "RTP-Not going for the grn": "-2.00"
+    },
+    {
+      "rank": 60,
+      "player": "Davis Thompson",
+      "%": "25.49%",
+      "Successes": "52",
+      "Attempts": "204",
+      "RTP-Successes": "-58",
+      "RTP-Not going for the grn": "+8.00"
+    },
+    {
+      "rank": 61,
+      "player": "Taylor Dickson",
+      "%": "25.26%",
+      "Successes": "24",
+      "Attempts": "95",
+      "RTP-Successes": "-26",
+      "RTP-Not going for the grn": "+4.00"
+    },
+    {
+      "rank": 62,
+      "player": "William Mouw",
+      "%": "25.20%",
+      "Successes": "31",
+      "Attempts": "123",
+      "RTP-Successes": "-29",
+      "RTP-Not going for the grn": "+3.00"
+    },
+    {
+      "rank": 63,
+      "player": "Zac Blair",
+      "%": "25.00%",
+      "Successes": "18",
+      "Attempts": "72",
+      "RTP-Successes": "-20",
+      "RTP-Not going for the grn": "-11.00"
+    },
+    {
+      "rank": 63,
+      "player": "Matt Fitzpatrick",
+      "%": "25.00%",
+      "Successes": "39",
+      "Attempts": "156",
+      "RTP-Successes": "-41",
+      "RTP-Not going for the grn": "+3.00"
+    },
+    {
+      "rank": 63,
+      "player": "Zach Johnson",
+      "%": "25.00%",
+      "Successes": "12",
+      "Attempts": "48",
+      "RTP-Successes": "-11",
+      "RTP-Not going for the grn": "-11.00"
+    },
+    {
+      "rank": 63,
+      "player": "Sepp Straka",
+      "%": "25.00%",
+      "Successes": "43",
+      "Attempts": "172",
+      "RTP-Successes": "-48",
+      "RTP-Not going for the grn": "-8.00"
+    },
+    {
+      "rank": 67,
+      "player": "Brian Harman",
+      "%": "24.84%",
+      "Successes": "39",
+      "Attempts": "157",
+      "RTP-Successes": "-36",
+      "RTP-Not going for the grn": "-20.00"
+    },
+    {
+      "rank": 67,
+      "player": "Luke List",
+      "%": "24.84%",
+      "Successes": "40",
+      "Attempts": "161",
+      "RTP-Successes": "-41",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 69,
+      "player": "Ben Martin",
+      "%": "24.74%",
+      "Successes": "24",
+      "Attempts": "97",
+      "RTP-Successes": "-26",
+      "RTP-Not going for the grn": "-12.00"
+    },
+    {
+      "rank": 70,
+      "player": "Aaron Rai",
+      "%": "24.66%",
+      "Successes": "36",
+      "Attempts": "146",
+      "RTP-Successes": "-39",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 71,
+      "player": "Ben Kohles",
+      "%": "24.63%",
+      "Successes": "33",
+      "Attempts": "134",
+      "RTP-Successes": "-30",
+      "RTP-Not going for the grn": "-13.00"
+    },
+    {
+      "rank": 71,
+      "player": "David Skinns",
+      "%": "24.63%",
+      "Successes": "33",
+      "Attempts": "134",
+      "RTP-Successes": "-36",
+      "RTP-Not going for the grn": "+6.00"
+    },
+    {
+      "rank": 73,
+      "player": "Max Greyserman",
+      "%": "24.60%",
+      "Successes": "46",
+      "Attempts": "187",
+      "RTP-Successes": "-52",
+      "RTP-Not going for the grn": "+1.00"
+    },
+    {
+      "rank": 73,
+      "player": "Ben Silverman",
+      "%": "24.60%",
+      "Successes": "31",
+      "Attempts": "126",
+      "RTP-Successes": "-29",
+      "RTP-Not going for the grn": "-13.00"
+    },
+    {
+      "rank": 75,
+      "player": "Ludvig \u00c5berg",
+      "%": "24.48%",
+      "Successes": "35",
+      "Attempts": "143",
+      "RTP-Successes": "-39",
+      "RTP-Not going for the grn": "-2.00"
+    },
+    {
+      "rank": 76,
+      "player": "Isaiah Salinda",
+      "%": "24.42%",
+      "Successes": "42",
+      "Attempts": "172",
+      "RTP-Successes": "-45",
+      "RTP-Not going for the grn": "+1.00"
+    },
+    {
+      "rank": 77,
+      "player": "Sam Stevens",
+      "%": "24.31%",
+      "Successes": "53",
+      "Attempts": "218",
+      "RTP-Successes": "-57",
+      "RTP-Not going for the grn": "+5.00"
+    },
+    {
+      "rank": 78,
+      "player": "Michael Kim",
+      "%": "24.28%",
+      "Successes": "42",
+      "Attempts": "173",
+      "RTP-Successes": "-38",
+      "RTP-Not going for the grn": "-14.00"
+    },
+    {
+      "rank": 79,
+      "player": "Viktor Hovland",
+      "%": "24.24%",
+      "Successes": "32",
+      "Attempts": "132",
+      "RTP-Successes": "-32",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 80,
+      "player": "Matt Wallace",
+      "%": "24.22%",
+      "Successes": "31",
+      "Attempts": "128",
+      "RTP-Successes": "-29",
+      "RTP-Not going for the grn": "-8.00"
+    },
+    {
+      "rank": 81,
+      "player": "Scottie Scheffler",
+      "%": "24.19%",
+      "Successes": "45",
+      "Attempts": "186",
+      "RTP-Successes": "-52",
+      "RTP-Not going for the grn": "-17.00"
+    },
+    {
+      "rank": 82,
+      "player": "Robert MacIntyre",
+      "%": "24.02%",
+      "Successes": "43",
+      "Attempts": "179",
+      "RTP-Successes": "-42",
+      "RTP-Not going for the grn": "-13.00"
+    },
+    {
+      "rank": 83,
+      "player": "Ryo Hisatsune",
+      "%": "23.98%",
+      "Successes": "41",
+      "Attempts": "171",
+      "RTP-Successes": "-40",
+      "RTP-Not going for the grn": "-10.00"
+    },
+    {
+      "rank": 84,
+      "player": "Erik van Rooyen",
+      "%": "23.81%",
+      "Successes": "35",
+      "Attempts": "147",
+      "RTP-Successes": "-38",
+      "RTP-Not going for the grn": "+4.00"
+    },
+    {
+      "rank": 85,
+      "player": "Corey Conners",
+      "%": "23.78%",
+      "Successes": "39",
+      "Attempts": "164",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-13.00"
+    },
+    {
+      "rank": 86,
+      "player": "Matthew Riedel",
+      "%": "23.58%",
+      "Successes": "25",
+      "Attempts": "106",
+      "RTP-Successes": "-23",
+      "RTP-Not going for the grn": "-2.00"
+    },
+    {
+      "rank": 87,
+      "player": "Akshay Bhatia",
+      "%": "23.50%",
+      "Successes": "43",
+      "Attempts": "183",
+      "RTP-Successes": "-47",
+      "RTP-Not going for the grn": "+3.00"
+    },
+    {
+      "rank": 88,
+      "player": "Chris Kirk",
+      "%": "23.46%",
+      "Successes": "38",
+      "Attempts": "162",
+      "RTP-Successes": "-40",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 88,
+      "player": "Victor Perez",
+      "%": "23.46%",
+      "Successes": "42",
+      "Attempts": "179",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-14.00"
+    },
+    {
+      "rank": 90,
+      "player": "Gary Woodland",
+      "%": "23.35%",
+      "Successes": "39",
+      "Attempts": "167",
+      "RTP-Successes": "-36",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 91,
+      "player": "Cristobal Del Solar",
+      "%": "23.30%",
+      "Successes": "24",
+      "Attempts": "103",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "+10.00"
+    },
+    {
+      "rank": 92,
+      "player": "Mac Meissner",
+      "%": "23.27%",
+      "Successes": "37",
+      "Attempts": "159",
+      "RTP-Successes": "-36",
+      "RTP-Not going for the grn": "+4.00"
+    },
+    {
+      "rank": 93,
+      "player": "Thomas Rosenmueller",
+      "%": "23.24%",
+      "Successes": "33",
+      "Attempts": "142",
+      "RTP-Successes": "-31",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 93,
+      "player": "Kris Ventura",
+      "%": "23.24%",
+      "Successes": "33",
+      "Attempts": "142",
+      "RTP-Successes": "-35",
+      "RTP-Not going for the grn": "-12.00"
+    },
+    {
+      "rank": 95,
+      "player": "Trey Mullinax",
+      "%": "23.13%",
+      "Successes": "34",
+      "Attempts": "147",
+      "RTP-Successes": "-31",
+      "RTP-Not going for the grn": "-4.00"
+    },
+    {
+      "rank": 96,
+      "player": "John Pak",
+      "%": "22.86%",
+      "Successes": "24",
+      "Attempts": "105",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 97,
+      "player": "Jhonattan Vegas",
+      "%": "22.84%",
+      "Successes": "37",
+      "Attempts": "162",
+      "RTP-Successes": "-38",
+      "RTP-Not going for the grn": "+3.00"
+    },
+    {
+      "rank": 98,
+      "player": "Andrew Novak",
+      "%": "22.81%",
+      "Successes": "39",
+      "Attempts": "171",
+      "RTP-Successes": "-45",
+      "RTP-Not going for the grn": "-4.00"
+    },
+    {
+      "rank": 99,
+      "player": "Matthieu Pavon",
+      "%": "22.70%",
+      "Successes": "37",
+      "Attempts": "163",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "+4.00"
+    },
+    {
+      "rank": 100,
+      "player": "Sam Ryder",
+      "%": "22.67%",
+      "Successes": "39",
+      "Attempts": "172",
+      "RTP-Successes": "-39",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 101,
+      "player": "Nick Dunlap",
+      "%": "22.63%",
+      "Successes": "31",
+      "Attempts": "137",
+      "RTP-Successes": "-30",
+      "RTP-Not going for the grn": "+13.00"
+    },
+    {
+      "rank": 102,
+      "player": "Doug Ghim",
+      "%": "22.60%",
+      "Successes": "40",
+      "Attempts": "177",
+      "RTP-Successes": "-40",
+      "RTP-Not going for the grn": "-10.00"
+    },
+    {
+      "rank": 103,
+      "player": "Aldrich Potgieter",
+      "%": "22.48%",
+      "Successes": "29",
+      "Attempts": "129",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 104,
+      "player": "Thriston Lawrence",
+      "%": "22.33%",
+      "Successes": "23",
+      "Attempts": "103",
+      "RTP-Successes": "-22",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 105,
+      "player": "Danny Walker",
+      "%": "22.31%",
+      "Successes": "29",
+      "Attempts": "130",
+      "RTP-Successes": "-31",
+      "RTP-Not going for the grn": "-4.00"
+    },
+    {
+      "rank": 106,
+      "player": "Cam Davis",
+      "%": "22.22%",
+      "Successes": "32",
+      "Attempts": "144",
+      "RTP-Successes": "-34",
+      "RTP-Not going for the grn": "+6.00"
+    },
+    {
+      "rank": 106,
+      "player": "Chris Gotterup",
+      "%": "22.22%",
+      "Successes": "42",
+      "Attempts": "189",
+      "RTP-Successes": "-40",
+      "RTP-Not going for the grn": "+4.00"
+    },
+    {
+      "rank": 108,
+      "player": "Min Woo Lee",
+      "%": "22.13%",
+      "Successes": "27",
+      "Attempts": "122",
+      "RTP-Successes": "-26",
+      "RTP-Not going for the grn": "-5.00"
+    },
+    {
+      "rank": 109,
+      "player": "Justin Rose",
+      "%": "22.12%",
+      "Successes": "23",
+      "Attempts": "104",
+      "RTP-Successes": "-22",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 110,
+      "player": "J.T. Poston",
+      "%": "22.03%",
+      "Successes": "39",
+      "Attempts": "177",
+      "RTP-Successes": "-36",
+      "RTP-Not going for the grn": "-8.00"
+    },
+    {
+      "rank": 111,
+      "player": "Lanto Griffin",
+      "%": "21.95%",
+      "Successes": "27",
+      "Attempts": "123",
+      "RTP-Successes": "-28",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 112,
+      "player": "Stephan Jaeger",
+      "%": "21.94%",
+      "Successes": "43",
+      "Attempts": "196",
+      "RTP-Successes": "-50",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 113,
+      "player": "Lee Hodges",
+      "%": "21.71%",
+      "Successes": "33",
+      "Attempts": "152",
+      "RTP-Successes": "-36",
+      "RTP-Not going for the grn": "-12.00"
+    },
+    {
+      "rank": 114,
+      "player": "Bud Cauley",
+      "%": "21.64%",
+      "Successes": "29",
+      "Attempts": "134",
+      "RTP-Successes": "-32",
+      "RTP-Not going for the grn": "-10.00"
+    },
+    {
+      "rank": 115,
+      "player": "Justin Thomas",
+      "%": "21.62%",
+      "Successes": "40",
+      "Attempts": "185",
+      "RTP-Successes": "-40",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 116,
+      "player": "Brice Garnett",
+      "%": "21.50%",
+      "Successes": "23",
+      "Attempts": "107",
+      "RTP-Successes": "-22",
+      "RTP-Not going for the grn": "-11.00"
+    },
+    {
+      "rank": 117,
+      "player": "Emiliano Grillo",
+      "%": "21.47%",
+      "Successes": "35",
+      "Attempts": "163",
+      "RTP-Successes": "-37",
+      "RTP-Not going for the grn": "-12.00"
+    },
+    {
+      "rank": 118,
+      "player": "Ben Griffin",
+      "%": "21.43%",
+      "Successes": "51",
+      "Attempts": "238",
+      "RTP-Successes": "-58",
+      "RTP-Not going for the grn": "-12.00"
+    },
+    {
+      "rank": 119,
+      "player": "Mackenzie Hughes",
+      "%": "21.39%",
+      "Successes": "37",
+      "Attempts": "173",
+      "RTP-Successes": "-36",
+      "RTP-Not going for the grn": "-10.00"
+    },
+    {
+      "rank": 120,
+      "player": "Kaito Onishi",
+      "%": "21.25%",
+      "Successes": "17",
+      "Attempts": "80",
+      "RTP-Successes": "-18",
+      "RTP-Not going for the grn": "+5.00"
+    },
+    {
+      "rank": 121,
+      "player": "Daniel Berger",
+      "%": "21.19%",
+      "Successes": "32",
+      "Attempts": "151",
+      "RTP-Successes": "-32",
+      "RTP-Not going for the grn": "-1.00"
+    },
+    {
+      "rank": 122,
+      "player": "Quade Cummins",
+      "%": "21.09%",
+      "Successes": "31",
+      "Attempts": "147",
+      "RTP-Successes": "-34",
+      "RTP-Not going for the grn": "+3.00"
+    },
+    {
+      "rank": 123,
+      "player": "Paul Peterson",
+      "%": "21.05%",
+      "Successes": "12",
+      "Attempts": "57",
+      "RTP-Successes": "-13",
+      "RTP-Not going for the grn": "-22.00"
+    },
+    {
+      "rank": 124,
+      "player": "Ryan Gerard",
+      "%": "21.03%",
+      "Successes": "45",
+      "Attempts": "214",
+      "RTP-Successes": "-49",
+      "RTP-Not going for the grn": "+8.00"
+    },
+    {
+      "rank": 125,
+      "player": "Jeremy Paul",
+      "%": "21.01%",
+      "Successes": "25",
+      "Attempts": "119",
+      "RTP-Successes": "-25",
+      "RTP-Not going for the grn": "-2.00"
+    },
+    {
+      "rank": 126,
+      "player": "Si Woo Kim",
+      "%": "20.96%",
+      "Successes": "48",
+      "Attempts": "229",
+      "RTP-Successes": "-47",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 127,
+      "player": "Rikuya Hoshino",
+      "%": "20.90%",
+      "Successes": "14",
+      "Attempts": "67",
+      "RTP-Successes": "-16",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 128,
+      "player": "J.J. Spaun",
+      "%": "20.89%",
+      "Successes": "33",
+      "Attempts": "158",
+      "RTP-Successes": "-31",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 129,
+      "player": "Sam Burns",
+      "%": "20.87%",
+      "Successes": "43",
+      "Attempts": "206",
+      "RTP-Successes": "-46",
+      "RTP-Not going for the grn": "-15.00"
+    },
+    {
+      "rank": 130,
+      "player": "Rory McIlroy",
+      "%": "20.86%",
+      "Successes": "29",
+      "Attempts": "139",
+      "RTP-Successes": "-30",
+      "RTP-Not going for the grn": "-6.00"
+    },
+    {
+      "rank": 131,
+      "player": "Jordan Spieth",
+      "%": "20.83%",
+      "Successes": "30",
+      "Attempts": "144",
+      "RTP-Successes": "-33",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 132,
+      "player": "Sungjae Im",
+      "%": "20.81%",
+      "Successes": "41",
+      "Attempts": "197",
+      "RTP-Successes": "-44",
+      "RTP-Not going for the grn": "-5.00"
+    },
+    {
+      "rank": 133,
+      "player": "Cameron Young",
+      "%": "20.56%",
+      "Successes": "44",
+      "Attempts": "214",
+      "RTP-Successes": "-40",
+      "RTP-Not going for the grn": "-17.00"
+    },
+    {
+      "rank": 134,
+      "player": "Brandt Snedeker",
+      "%": "20.48%",
+      "Successes": "17",
+      "Attempts": "83",
+      "RTP-Successes": "-19",
+      "RTP-Not going for the grn": "-27.00"
+    },
+    {
+      "rank": 135,
+      "player": "Tony Finau",
+      "%": "20.39%",
+      "Successes": "31",
+      "Attempts": "152",
+      "RTP-Successes": "-33",
+      "RTP-Not going for the grn": "+14.00"
+    },
+    {
+      "rank": 135,
+      "player": "Russell Henley",
+      "%": "20.39%",
+      "Successes": "21",
+      "Attempts": "103",
+      "RTP-Successes": "-23",
+      "RTP-Not going for the grn": "-33.00"
+    },
+    {
+      "rank": 135,
+      "player": "Takumi Kanaya",
+      "%": "20.39%",
+      "Successes": "21",
+      "Attempts": "103",
+      "RTP-Successes": "-22",
+      "RTP-Not going for the grn": "-15.00"
+    },
+    {
+      "rank": 138,
+      "player": "Jacob Bridgeman",
+      "%": "20.35%",
+      "Successes": "35",
+      "Attempts": "172",
+      "RTP-Successes": "-28",
+      "RTP-Not going for the grn": "-13.00"
+    },
+    {
+      "rank": 139,
+      "player": "Chad Ramey",
+      "%": "20.31%",
+      "Successes": "26",
+      "Attempts": "128",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "-11.00"
+    },
+    {
+      "rank": 140,
+      "player": "Patrick Rodgers",
+      "%": "20.20%",
+      "Successes": "40",
+      "Attempts": "198",
+      "RTP-Successes": "-46",
+      "RTP-Not going for the grn": "+8.00"
+    },
+    {
+      "rank": 141,
+      "player": "Braden Thornberry",
+      "%": "20.00%",
+      "Successes": "17",
+      "Attempts": "85",
+      "RTP-Successes": "-19",
+      "RTP-Not going for the grn": "-15.00"
+    },
+    {
+      "rank": 142,
+      "player": "Nick Hardy",
+      "%": "19.63%",
+      "Successes": "21",
+      "Attempts": "107",
+      "RTP-Successes": "-20",
+      "RTP-Not going for the grn": "-4.00"
+    },
+    {
+      "rank": 143,
+      "player": "Beau Hossler",
+      "%": "19.61%",
+      "Successes": "40",
+      "Attempts": "204",
+      "RTP-Successes": "-42",
+      "RTP-Not going for the grn": "-1.00"
+    },
+    {
+      "rank": 143,
+      "player": "Tim Widing",
+      "%": "19.61%",
+      "Successes": "20",
+      "Attempts": "102",
+      "RTP-Successes": "-21",
+      "RTP-Not going for the grn": "+9.00"
+    },
+    {
+      "rank": 145,
+      "player": "Vince Whaley",
+      "%": "19.54%",
+      "Successes": "34",
+      "Attempts": "174",
+      "RTP-Successes": "-37",
+      "RTP-Not going for the grn": "-13.00"
+    },
+    {
+      "rank": 146,
+      "player": "Patrick Cantlay",
+      "%": "19.53%",
+      "Successes": "33",
+      "Attempts": "169",
+      "RTP-Successes": "-38",
+      "RTP-Not going for the grn": "-1.00"
+    },
+    {
+      "rank": 147,
+      "player": "David Lipsky",
+      "%": "19.47%",
+      "Successes": "22",
+      "Attempts": "113",
+      "RTP-Successes": "-25",
+      "RTP-Not going for the grn": "-14.00"
+    },
+    {
+      "rank": 148,
+      "player": "Noah Goodwin",
+      "%": "19.39%",
+      "Successes": "19",
+      "Attempts": "98",
+      "RTP-Successes": "-18",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 149,
+      "player": "Peter Malnati",
+      "%": "19.35%",
+      "Successes": "24",
+      "Attempts": "124",
+      "RTP-Successes": "-24",
+      "RTP-Not going for the grn": "-8.00"
+    },
+    {
+      "rank": 150,
+      "player": "Patton Kizzire",
+      "%": "19.33%",
+      "Successes": "23",
+      "Attempts": "119",
+      "RTP-Successes": "-19",
+      "RTP-Not going for the grn": "-22.00"
+    },
+    {
+      "rank": 151,
+      "player": "Garrick Higgo",
+      "%": "19.32%",
+      "Successes": "17",
+      "Attempts": "88",
+      "RTP-Successes": "-16",
+      "RTP-Not going for the grn": "+5.00"
+    },
+    {
+      "rank": 152,
+      "player": "Max Homa",
+      "%": "19.25%",
+      "Successes": "31",
+      "Attempts": "161",
+      "RTP-Successes": "-30",
+      "RTP-Not going for the grn": "+10.00"
+    },
+    {
+      "rank": 152,
+      "player": "Davis Riley",
+      "%": "19.25%",
+      "Successes": "31",
+      "Attempts": "161",
+      "RTP-Successes": "-34",
+      "RTP-Not going for the grn": "-3.00"
+    },
+    {
+      "rank": 154,
+      "player": "Tom Kim",
+      "%": "19.23%",
+      "Successes": "30",
+      "Attempts": "156",
+      "RTP-Successes": "-30",
+      "RTP-Not going for the grn": "-12.00"
+    },
+    {
+      "rank": 155,
+      "player": "Tom Hoge",
+      "%": "19.11%",
+      "Successes": "30",
+      "Attempts": "157",
+      "RTP-Successes": "-31",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 156,
+      "player": "Harry Hall",
+      "%": "18.82%",
+      "Successes": "35",
+      "Attempts": "186",
+      "RTP-Successes": "-41",
+      "RTP-Not going for the grn": "-26.00"
+    },
+    {
+      "rank": 157,
+      "player": "Shane Lowry",
+      "%": "18.80%",
+      "Successes": "22",
+      "Attempts": "117",
+      "RTP-Successes": "-26",
+      "RTP-Not going for the grn": "-3.00"
+    },
+    {
+      "rank": 158,
+      "player": "Byeong Hun An",
+      "%": "18.54%",
+      "Successes": "38",
+      "Attempts": "205",
+      "RTP-Successes": "-38",
+      "RTP-Not going for the grn": "+2.00"
+    },
+    {
+      "rank": 159,
+      "player": "Tommy Fleetwood",
+      "%": "18.49%",
+      "Successes": "27",
+      "Attempts": "146",
+      "RTP-Successes": "-29",
+      "RTP-Not going for the grn": "-13.00"
+    },
+    {
+      "rank": 160,
+      "player": "Matt McCarty",
+      "%": "18.34%",
+      "Successes": "31",
+      "Attempts": "169",
+      "RTP-Successes": "-32",
+      "RTP-Not going for the grn": "-20.00"
+    },
+    {
+      "rank": 161,
+      "player": "Chandler Phillips",
+      "%": "18.24%",
+      "Successes": "27",
+      "Attempts": "148",
+      "RTP-Successes": "-26",
+      "RTP-Not going for the grn": "-13.00"
+    },
+    {
+      "rank": 162,
+      "player": "Collin Morikawa",
+      "%": "17.93%",
+      "Successes": "26",
+      "Attempts": "145",
+      "RTP-Successes": "-29",
+      "RTP-Not going for the grn": "-19.00"
+    },
+    {
+      "rank": 163,
+      "player": "Ryan Fox",
+      "%": "17.61%",
+      "Successes": "25",
+      "Attempts": "142",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "-7.00"
+    },
+    {
+      "rank": 164,
+      "player": "Frankie Capan III",
+      "%": "17.43%",
+      "Successes": "19",
+      "Attempts": "109",
+      "RTP-Successes": "-19",
+      "RTP-Not going for the grn": "-2.00"
+    },
+    {
+      "rank": 165,
+      "player": "Carson Young",
+      "%": "17.32%",
+      "Successes": "22",
+      "Attempts": "127",
+      "RTP-Successes": "-21",
+      "RTP-Not going for the grn": "+5.00"
+    },
+    {
+      "rank": 166,
+      "player": "Brian Campbell",
+      "%": "17.19%",
+      "Successes": "11",
+      "Attempts": "64",
+      "RTP-Successes": "-10",
+      "RTP-Not going for the grn": "-16.00"
+    },
+    {
+      "rank": 167,
+      "player": "Harris English",
+      "%": "17.18%",
+      "Successes": "28",
+      "Attempts": "163",
+      "RTP-Successes": "-29",
+      "RTP-Not going for the grn": "-9.00"
+    },
+    {
+      "rank": 168,
+      "player": "Jason Day",
+      "%": "17.14%",
+      "Successes": "24",
+      "Attempts": "140",
+      "RTP-Successes": "-27",
+      "RTP-Not going for the grn": "-1.00"
+    },
+    {
+      "rank": 169,
+      "player": "Keegan Bradley",
+      "%": "16.98%",
+      "Successes": "27",
+      "Attempts": "159",
+      "RTP-Successes": "-32",
+      "RTP-Not going for the grn": "-16.00"
+    },
+    {
+      "rank": 170,
+      "player": "Eric Cole",
+      "%": "15.90%",
+      "Successes": "31",
+      "Attempts": "195",
+      "RTP-Successes": "-32",
+      "RTP-Not going for the grn": "-2.00"
+    },
+    {
+      "rank": 171,
+      "player": "Andrew Putnam",
+      "%": "15.79%",
+      "Successes": "15",
+      "Attempts": "95",
+      "RTP-Successes": "-15",
+      "RTP-Not going for the grn": "-23.00"
+    },
+    {
+      "rank": 172,
+      "player": "Will Chandler",
+      "%": "15.32%",
+      "Successes": "19",
+      "Attempts": "124",
+      "RTP-Successes": "-20",
+      "RTP-Not going for the grn": "+4.00"
+    },
+    {
+      "rank": 173,
+      "player": "Christiaan Bezuidenhout",
+      "%": "15.25%",
+      "Successes": "18",
+      "Attempts": "118",
+      "RTP-Successes": "-21",
+      "RTP-Not going for the grn": "-24.00"
+    },
+    {
+      "rank": 174,
+      "player": "Rafael Campos",
+      "%": "14.94%",
+      "Successes": "23",
+      "Attempts": "154",
+      "RTP-Successes": "-24",
+      "RTP-Not going for the grn": "-1.00"
+    },
+    {
+      "rank": 175,
+      "player": "Taylor Montgomery",
+      "%": "14.68%",
+      "Successes": "16",
+      "Attempts": "109",
+      "RTP-Successes": "-17",
+      "RTP-Not going for the grn": "-19.00"
+    },
+    {
+      "rank": 176,
+      "player": "Lucas Glover",
+      "%": "14.55%",
+      "Successes": "16",
+      "Attempts": "110",
+      "RTP-Successes": "-14",
+      "RTP-Not going for the grn": "-14.00"
+    },
+    {
+      "rank": 177,
+      "player": "Sahith Theegala",
+      "%": "14.47%",
+      "Successes": "22",
+      "Attempts": "152",
+      "RTP-Successes": "-23",
+      "RTP-Not going for the grn": "+12.00"
+    },
+    {
+      "rank": 178,
+      "player": "Matt Kuchar",
+      "%": "12.50%",
+      "Successes": "10",
+      "Attempts": "80",
+      "RTP-Successes": "-10",
+      "RTP-Not going for the grn": "-21.00"
+    },
+    {
+      "rank": 179,
+      "player": "Matteo Manassero",
+      "%": "10.94%",
+      "Successes": "7",
+      "Attempts": "64",
+      "RTP-Successes": "-7",
+      "RTP-Not going for the grn": "-8.00"
+    },
+    {
+      "rank": 180,
+      "player": "Mason Andersen",
+      "%": "9.41%",
+      "Successes": "8",
+      "Attempts": "85",
+      "RTP-Successes": "-7",
+      "RTP-Not going for the grn": "-6.00"
+    }
+  ]
+}

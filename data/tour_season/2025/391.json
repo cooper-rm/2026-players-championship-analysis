@@ -1,0 +1,1268 @@
+{
+  "stat_id": "391",
+  "year": 2025,
+  "category": "Putting",
+  "stat_title": "Average Putting Distance - GIR 3 Putts",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Maverick McNealy",
+      "Avg": "51' 6\"",
+      "Distance (feet)": "1,648.583",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 2,
+      "player": "Takumi Kanaya",
+      "Avg": "51' 5\"",
+      "Distance (feet)": "1,286.167",
+      "Total Putts": "25"
+    },
+    {
+      "rank": 3,
+      "player": "Bud Cauley",
+      "Avg": "51' 1\"",
+      "Distance (feet)": "1,635.750",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 4,
+      "player": "Rory McIlroy",
+      "Avg": "50' 4\"",
+      "Distance (feet)": "1,359.083",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 5,
+      "player": "Mackenzie Hughes",
+      "Avg": "50' 1\"",
+      "Distance (feet)": "1,902.167",
+      "Total Putts": "38"
+    },
+    {
+      "rank": 6,
+      "player": "Russell Henley",
+      "Avg": "50' 0\"",
+      "Distance (feet)": "1,398.833",
+      "Total Putts": "28"
+    },
+    {
+      "rank": 7,
+      "player": "Matt Fitzpatrick",
+      "Avg": "49' 10\"",
+      "Distance (feet)": "1,345.167",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 8,
+      "player": "Jake Knapp",
+      "Avg": "49' 5\"",
+      "Distance (feet)": "1,383.167",
+      "Total Putts": "28"
+    },
+    {
+      "rank": 9,
+      "player": "Si Woo Kim",
+      "Avg": "49' 4\"",
+      "Distance (feet)": "1,923.833",
+      "Total Putts": "39"
+    },
+    {
+      "rank": 10,
+      "player": "Daniel Berger",
+      "Avg": "49' 3\"",
+      "Distance (feet)": "1,969.000",
+      "Total Putts": "40"
+    },
+    {
+      "rank": 10,
+      "player": "Matt Wallace",
+      "Avg": "49' 3\"",
+      "Distance (feet)": "1,675.167",
+      "Total Putts": "34"
+    },
+    {
+      "rank": 12,
+      "player": "Jason Day",
+      "Avg": "48' 11\"",
+      "Distance (feet)": "979.083",
+      "Total Putts": "20"
+    },
+    {
+      "rank": 13,
+      "player": "Brice Garnett",
+      "Avg": "48' 10\"",
+      "Distance (feet)": "1,269.250",
+      "Total Putts": "26"
+    },
+    {
+      "rank": 14,
+      "player": "Tom Kim",
+      "Avg": "48' 8\"",
+      "Distance (feet)": "2,045.167",
+      "Total Putts": "42"
+    },
+    {
+      "rank": 15,
+      "player": "Adam Scott",
+      "Avg": "48' 7\"",
+      "Distance (feet)": "1,262.417",
+      "Total Putts": "26"
+    },
+    {
+      "rank": 16,
+      "player": "Aaron Rai",
+      "Avg": "48' 6\"",
+      "Distance (feet)": "1,601.250",
+      "Total Putts": "33"
+    },
+    {
+      "rank": 17,
+      "player": "Byeong Hun An",
+      "Avg": "48' 5\"",
+      "Distance (feet)": "1,500.417",
+      "Total Putts": "31"
+    },
+    {
+      "rank": 17,
+      "player": "Rickie Fowler",
+      "Avg": "48' 5\"",
+      "Distance (feet)": "871.583",
+      "Total Putts": "18"
+    },
+    {
+      "rank": 17,
+      "player": "Taylor Montgomery",
+      "Avg": "48' 5\"",
+      "Distance (feet)": "968.833",
+      "Total Putts": "20"
+    },
+    {
+      "rank": 17,
+      "player": "Nick Taylor",
+      "Avg": "48' 5\"",
+      "Distance (feet)": "1,840.667",
+      "Total Putts": "38"
+    },
+    {
+      "rank": 21,
+      "player": "Mark Hubbard",
+      "Avg": "48' 2\"",
+      "Distance (feet)": "1,349.667",
+      "Total Putts": "28"
+    },
+    {
+      "rank": 22,
+      "player": "Austin Eckroat",
+      "Avg": "48' 0\"",
+      "Distance (feet)": "1,824.667",
+      "Total Putts": "38"
+    },
+    {
+      "rank": 22,
+      "player": "Niklas Norgaard",
+      "Avg": "48' 0\"",
+      "Distance (feet)": "1,488.833",
+      "Total Putts": "31"
+    },
+    {
+      "rank": 24,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "47' 11\"",
+      "Distance (feet)": "1,294.667",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 25,
+      "player": "Matteo Manassero",
+      "Avg": "47' 8\"",
+      "Distance (feet)": "1,095.583",
+      "Total Putts": "23"
+    },
+    {
+      "rank": 26,
+      "player": "Patrick Fishburn",
+      "Avg": "47' 6\"",
+      "Distance (feet)": "1,282.333",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 26,
+      "player": "Matt McCarty",
+      "Avg": "47' 6\"",
+      "Distance (feet)": "1,567.000",
+      "Total Putts": "33"
+    },
+    {
+      "rank": 28,
+      "player": "Cameron Young",
+      "Avg": "47' 3\"",
+      "Distance (feet)": "1,511.000",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 29,
+      "player": "Adam Hadwin",
+      "Avg": "47' 0\"",
+      "Distance (feet)": "1,269.333",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 30,
+      "player": "J.J. Spaun",
+      "Avg": "46' 11\"",
+      "Distance (feet)": "1,173.250",
+      "Total Putts": "25"
+    },
+    {
+      "rank": 31,
+      "player": "Brandt Snedeker",
+      "Avg": "46' 8\"",
+      "Distance (feet)": "840.667",
+      "Total Putts": "18"
+    },
+    {
+      "rank": 32,
+      "player": "Thomas Detry",
+      "Avg": "46' 7\"",
+      "Distance (feet)": "1,770.917",
+      "Total Putts": "38"
+    },
+    {
+      "rank": 32,
+      "player": "Chris Gotterup",
+      "Avg": "46' 7\"",
+      "Distance (feet)": "1,863.000",
+      "Total Putts": "40"
+    },
+    {
+      "rank": 32,
+      "player": "Joe Highsmith",
+      "Avg": "46' 7\"",
+      "Distance (feet)": "1,584.250",
+      "Total Putts": "34"
+    },
+    {
+      "rank": 35,
+      "player": "Ricky Castillo",
+      "Avg": "46' 5\"",
+      "Distance (feet)": "1,578.333",
+      "Total Putts": "34"
+    },
+    {
+      "rank": 35,
+      "player": "Matt Kuchar",
+      "Avg": "46' 5\"",
+      "Distance (feet)": "788.667",
+      "Total Putts": "17"
+    },
+    {
+      "rank": 37,
+      "player": "Harris English",
+      "Avg": "46' 4\"",
+      "Distance (feet)": "1,159.250",
+      "Total Putts": "25"
+    },
+    {
+      "rank": 37,
+      "player": "Michael Kim",
+      "Avg": "46' 4\"",
+      "Distance (feet)": "1,483.500",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 37,
+      "player": "Kevin Velo",
+      "Avg": "46' 4\"",
+      "Distance (feet)": "1,064.917",
+      "Total Putts": "23"
+    },
+    {
+      "rank": 37,
+      "player": "Kevin Yu",
+      "Avg": "46' 4\"",
+      "Distance (feet)": "1,620.250",
+      "Total Putts": "35"
+    },
+    {
+      "rank": 41,
+      "player": "Jhonattan Vegas",
+      "Avg": "46' 2\"",
+      "Distance (feet)": "1,615.667",
+      "Total Putts": "35"
+    },
+    {
+      "rank": 42,
+      "player": "Nico Echavarria",
+      "Avg": "46' 0\"",
+      "Distance (feet)": "1,243.000",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 42,
+      "player": "Rasmus H\u00f8jgaard",
+      "Avg": "46' 0\"",
+      "Distance (feet)": "1,518.417",
+      "Total Putts": "33"
+    },
+    {
+      "rank": 44,
+      "player": "Min Woo Lee",
+      "Avg": "45' 11\"",
+      "Distance (feet)": "1,010.667",
+      "Total Putts": "22"
+    },
+    {
+      "rank": 44,
+      "player": "Matthew Riedel",
+      "Avg": "45' 11\"",
+      "Distance (feet)": "1,470.333",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 46,
+      "player": "Kurt Kitayama",
+      "Avg": "45' 10\"",
+      "Distance (feet)": "1,236.917",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 47,
+      "player": "Cristobal Del Solar",
+      "Avg": "45' 9\"",
+      "Distance (feet)": "777.667",
+      "Total Putts": "17"
+    },
+    {
+      "rank": 48,
+      "player": "Matthieu Pavon",
+      "Avg": "45' 8\"",
+      "Distance (feet)": "1,598.833",
+      "Total Putts": "35"
+    },
+    {
+      "rank": 48,
+      "player": "Thomas Rosenmueller",
+      "Avg": "45' 8\"",
+      "Distance (feet)": "1,506.250",
+      "Total Putts": "33"
+    },
+    {
+      "rank": 50,
+      "player": "Sungjae Im",
+      "Avg": "45' 7\"",
+      "Distance (feet)": "1,733.667",
+      "Total Putts": "38"
+    },
+    {
+      "rank": 51,
+      "player": "Taylor Pendrith",
+      "Avg": "45' 5\"",
+      "Distance (feet)": "1,861.083",
+      "Total Putts": "41"
+    },
+    {
+      "rank": 52,
+      "player": "Jacob Bridgeman",
+      "Avg": "45' 3\"",
+      "Distance (feet)": "2,126.250",
+      "Total Putts": "47"
+    },
+    {
+      "rank": 52,
+      "player": "Luke List",
+      "Avg": "45' 3\"",
+      "Distance (feet)": "1,312.333",
+      "Total Putts": "29"
+    },
+    {
+      "rank": 54,
+      "player": "Corey Conners",
+      "Avg": "45' 2\"",
+      "Distance (feet)": "1,625.083",
+      "Total Putts": "36"
+    },
+    {
+      "rank": 54,
+      "player": "Nicolai H\u00f8jgaard",
+      "Avg": "45' 2\"",
+      "Distance (feet)": "677.417",
+      "Total Putts": "15"
+    },
+    {
+      "rank": 54,
+      "player": "Zach Johnson",
+      "Avg": "45' 2\"",
+      "Distance (feet)": "451.833",
+      "Total Putts": "10"
+    },
+    {
+      "rank": 54,
+      "player": "Henrik Norlander",
+      "Avg": "45' 2\"",
+      "Distance (feet)": "1,354.167",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 54,
+      "player": "Seamus Power",
+      "Avg": "45' 2\"",
+      "Distance (feet)": "1,535.500",
+      "Total Putts": "34"
+    },
+    {
+      "rank": 59,
+      "player": "Lee Hodges",
+      "Avg": "45' 1\"",
+      "Distance (feet)": "1,217.583",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 60,
+      "player": "Brian Harman",
+      "Avg": "45' 0\"",
+      "Distance (feet)": "1,214.833",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 61,
+      "player": "Lanto Griffin",
+      "Avg": "44' 11\"",
+      "Distance (feet)": "1,301.750",
+      "Total Putts": "29"
+    },
+    {
+      "rank": 61,
+      "player": "William Mouw",
+      "Avg": "44' 11\"",
+      "Distance (feet)": "1,167.667",
+      "Total Putts": "26"
+    },
+    {
+      "rank": 63,
+      "player": "Joel Dahmen",
+      "Avg": "44' 10\"",
+      "Distance (feet)": "1,659.750",
+      "Total Putts": "37"
+    },
+    {
+      "rank": 64,
+      "player": "Frankie Capan III",
+      "Avg": "44' 9\"",
+      "Distance (feet)": "1,029.083",
+      "Total Putts": "23"
+    },
+    {
+      "rank": 64,
+      "player": "Trey Mullinax",
+      "Avg": "44' 9\"",
+      "Distance (feet)": "1,029.167",
+      "Total Putts": "23"
+    },
+    {
+      "rank": 64,
+      "player": "Andrew Novak",
+      "Avg": "44' 9\"",
+      "Distance (feet)": "1,119.333",
+      "Total Putts": "25"
+    },
+    {
+      "rank": 64,
+      "player": "Chandler Phillips",
+      "Avg": "44' 9\"",
+      "Distance (feet)": "1,117.833",
+      "Total Putts": "25"
+    },
+    {
+      "rank": 68,
+      "player": "Tony Finau",
+      "Avg": "44' 8\"",
+      "Distance (feet)": "1,609.167",
+      "Total Putts": "36"
+    },
+    {
+      "rank": 68,
+      "player": "Jeremy Paul",
+      "Avg": "44' 8\"",
+      "Distance (feet)": "758.667",
+      "Total Putts": "17"
+    },
+    {
+      "rank": 70,
+      "player": "Ben Silverman",
+      "Avg": "44' 7\"",
+      "Distance (feet)": "1,204.583",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 71,
+      "player": "Emiliano Grillo",
+      "Avg": "44' 6\"",
+      "Distance (feet)": "889.667",
+      "Total Putts": "20"
+    },
+    {
+      "rank": 72,
+      "player": "Braden Thornberry",
+      "Avg": "44' 5\"",
+      "Distance (feet)": "532.583",
+      "Total Putts": "12"
+    },
+    {
+      "rank": 73,
+      "player": "Sam Burns",
+      "Avg": "44' 4\"",
+      "Distance (feet)": "1,063.333",
+      "Total Putts": "24"
+    },
+    {
+      "rank": 73,
+      "player": "Denny McCarthy",
+      "Avg": "44' 4\"",
+      "Distance (feet)": "1,241.917",
+      "Total Putts": "28"
+    },
+    {
+      "rank": 73,
+      "player": "Victor Perez",
+      "Avg": "44' 4\"",
+      "Distance (feet)": "1,462.333",
+      "Total Putts": "33"
+    },
+    {
+      "rank": 76,
+      "player": "Nick Dunlap",
+      "Avg": "44' 3\"",
+      "Distance (feet)": "1,459.500",
+      "Total Putts": "33"
+    },
+    {
+      "rank": 76,
+      "player": "Kevin Roy",
+      "Avg": "44' 3\"",
+      "Distance (feet)": "840.417",
+      "Total Putts": "19"
+    },
+    {
+      "rank": 78,
+      "player": "Doug Ghim",
+      "Avg": "44' 1\"",
+      "Distance (feet)": "1,806.167",
+      "Total Putts": "41"
+    },
+    {
+      "rank": 78,
+      "player": "Erik van Rooyen",
+      "Avg": "44' 1\"",
+      "Distance (feet)": "1,323.583",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 80,
+      "player": "Will Chandler",
+      "Avg": "43' 9\"",
+      "Distance (feet)": "1,182.250",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 80,
+      "player": "Noah Goodwin",
+      "Avg": "43' 9\"",
+      "Distance (feet)": "919.333",
+      "Total Putts": "21"
+    },
+    {
+      "rank": 80,
+      "player": "Viktor Hovland",
+      "Avg": "43' 9\"",
+      "Distance (feet)": "1,356.750",
+      "Total Putts": "31"
+    },
+    {
+      "rank": 80,
+      "player": "Patton Kizzire",
+      "Avg": "43' 9\"",
+      "Distance (feet)": "1,486.500",
+      "Total Putts": "34"
+    },
+    {
+      "rank": 80,
+      "player": "Peter Malnati",
+      "Avg": "43' 9\"",
+      "Distance (feet)": "961.750",
+      "Total Putts": "22"
+    },
+    {
+      "rank": 85,
+      "player": "Keegan Bradley",
+      "Avg": "43' 7\"",
+      "Distance (feet)": "1,133.250",
+      "Total Putts": "26"
+    },
+    {
+      "rank": 85,
+      "player": "Joseph Bramlett",
+      "Avg": "43' 7\"",
+      "Distance (feet)": "1,088.667",
+      "Total Putts": "25"
+    },
+    {
+      "rank": 87,
+      "player": "Akshay Bhatia",
+      "Avg": "43' 6\"",
+      "Distance (feet)": "1,305.167",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 88,
+      "player": "Nick Hardy",
+      "Avg": "43' 5\"",
+      "Distance (feet)": "955.250",
+      "Total Putts": "22"
+    },
+    {
+      "rank": 89,
+      "player": "Patrick Cantlay",
+      "Avg": "43' 4\"",
+      "Distance (feet)": "1,255.833",
+      "Total Putts": "29"
+    },
+    {
+      "rank": 89,
+      "player": "John Pak",
+      "Avg": "43' 4\"",
+      "Distance (feet)": "1,127.333",
+      "Total Putts": "26"
+    },
+    {
+      "rank": 91,
+      "player": "Garrick Higgo",
+      "Avg": "43' 3\"",
+      "Distance (feet)": "734.667",
+      "Total Putts": "17"
+    },
+    {
+      "rank": 91,
+      "player": "Beau Hossler",
+      "Avg": "43' 3\"",
+      "Distance (feet)": "1,253.833",
+      "Total Putts": "29"
+    },
+    {
+      "rank": 93,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "43' 2\"",
+      "Distance (feet)": "1,208.417",
+      "Total Putts": "28"
+    },
+    {
+      "rank": 93,
+      "player": "Harry Hall",
+      "Avg": "43' 2\"",
+      "Distance (feet)": "1,035.000",
+      "Total Putts": "24"
+    },
+    {
+      "rank": 93,
+      "player": "Mac Meissner",
+      "Avg": "43' 2\"",
+      "Distance (feet)": "1,294.750",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 93,
+      "player": "Justin Rose",
+      "Avg": "43' 2\"",
+      "Distance (feet)": "992.500",
+      "Total Putts": "23"
+    },
+    {
+      "rank": 93,
+      "player": "Greyson Sigg",
+      "Avg": "43' 2\"",
+      "Distance (feet)": "1,337.083",
+      "Total Putts": "31"
+    },
+    {
+      "rank": 98,
+      "player": "J.T. Poston",
+      "Avg": "43' 1\"",
+      "Distance (feet)": "1,679.000",
+      "Total Putts": "39"
+    },
+    {
+      "rank": 99,
+      "player": "Sam Ryder",
+      "Avg": "43' 0\"",
+      "Distance (feet)": "859.667",
+      "Total Putts": "20"
+    },
+    {
+      "rank": 100,
+      "player": "Hayden Buckley",
+      "Avg": "42' 11\"",
+      "Distance (feet)": "815.000",
+      "Total Putts": "19"
+    },
+    {
+      "rank": 100,
+      "player": "Max Homa",
+      "Avg": "42' 11\"",
+      "Distance (feet)": "1,373.833",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 100,
+      "player": "Ben Martin",
+      "Avg": "42' 11\"",
+      "Distance (feet)": "901.417",
+      "Total Putts": "21"
+    },
+    {
+      "rank": 100,
+      "player": "Adam Schenk",
+      "Avg": "42' 11\"",
+      "Distance (feet)": "1,158.667",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 104,
+      "player": "Taylor Dickson",
+      "Avg": "42' 10\"",
+      "Distance (feet)": "1,284.417",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 104,
+      "player": "Camilo Villegas",
+      "Avg": "42' 10\"",
+      "Distance (feet)": "770.500",
+      "Total Putts": "18"
+    },
+    {
+      "rank": 106,
+      "player": "Quade Cummins",
+      "Avg": "42' 9\"",
+      "Distance (feet)": "940.083",
+      "Total Putts": "22"
+    },
+    {
+      "rank": 106,
+      "player": "Ben Kohles",
+      "Avg": "42' 9\"",
+      "Distance (feet)": "1,581.167",
+      "Total Putts": "37"
+    },
+    {
+      "rank": 106,
+      "player": "Davis Riley",
+      "Avg": "42' 9\"",
+      "Distance (feet)": "854.250",
+      "Total Putts": "20"
+    },
+    {
+      "rank": 106,
+      "player": "Davis Thompson",
+      "Avg": "42' 9\"",
+      "Distance (feet)": "2,051.667",
+      "Total Putts": "48"
+    },
+    {
+      "rank": 106,
+      "player": "Michael Thorbjornsen",
+      "Avg": "42' 9\"",
+      "Distance (feet)": "1,626.000",
+      "Total Putts": "38"
+    },
+    {
+      "rank": 111,
+      "player": "Rafael Campos",
+      "Avg": "42' 8\"",
+      "Distance (feet)": "1,451.500",
+      "Total Putts": "34"
+    },
+    {
+      "rank": 111,
+      "player": "Will Gordon",
+      "Avg": "42' 8\"",
+      "Distance (feet)": "1,322.250",
+      "Total Putts": "31"
+    },
+    {
+      "rank": 111,
+      "player": "Hideki Matsuyama",
+      "Avg": "42' 8\"",
+      "Distance (feet)": "1,833.250",
+      "Total Putts": "43"
+    },
+    {
+      "rank": 114,
+      "player": "Aldrich Potgieter",
+      "Avg": "42' 4\"",
+      "Distance (feet)": "719.833",
+      "Total Putts": "17"
+    },
+    {
+      "rank": 114,
+      "player": "Sam Stevens",
+      "Avg": "42' 4\"",
+      "Distance (feet)": "1,821.750",
+      "Total Putts": "43"
+    },
+    {
+      "rank": 116,
+      "player": "Max Greyserman",
+      "Avg": "42' 3\"",
+      "Distance (feet)": "1,309.417",
+      "Total Putts": "31"
+    },
+    {
+      "rank": 116,
+      "player": "David Lipsky",
+      "Avg": "42' 3\"",
+      "Distance (feet)": "1,352.917",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 116,
+      "player": "Collin Morikawa",
+      "Avg": "42' 3\"",
+      "Distance (feet)": "1,478.500",
+      "Total Putts": "35"
+    },
+    {
+      "rank": 119,
+      "player": "Tommy Fleetwood",
+      "Avg": "42' 1\"",
+      "Distance (feet)": "1,094.333",
+      "Total Putts": "26"
+    },
+    {
+      "rank": 120,
+      "player": "Thorbj\u00f8rn Olesen",
+      "Avg": "41' 11\"",
+      "Distance (feet)": "1,089.667",
+      "Total Putts": "26"
+    },
+    {
+      "rank": 120,
+      "player": "Andrew Putnam",
+      "Avg": "41' 11\"",
+      "Distance (feet)": "796.667",
+      "Total Putts": "19"
+    },
+    {
+      "rank": 122,
+      "player": "Steven Fisk",
+      "Avg": "41' 10\"",
+      "Distance (feet)": "1,756.083",
+      "Total Putts": "42"
+    },
+    {
+      "rank": 122,
+      "player": "Ryo Hisatsune",
+      "Avg": "41' 10\"",
+      "Distance (feet)": "1,296.083",
+      "Total Putts": "31"
+    },
+    {
+      "rank": 122,
+      "player": "Carson Young",
+      "Avg": "41' 10\"",
+      "Distance (feet)": "1,379.500",
+      "Total Putts": "33"
+    },
+    {
+      "rank": 125,
+      "player": "Cam Davis",
+      "Avg": "41' 9\"",
+      "Distance (feet)": "1,168.333",
+      "Total Putts": "28"
+    },
+    {
+      "rank": 125,
+      "player": "Tom Hoge",
+      "Avg": "41' 9\"",
+      "Distance (feet)": "1,627.917",
+      "Total Putts": "39"
+    },
+    {
+      "rank": 125,
+      "player": "Max McGreevy",
+      "Avg": "41' 9\"",
+      "Distance (feet)": "1,336.583",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 128,
+      "player": "Brian Campbell",
+      "Avg": "41' 8\"",
+      "Distance (feet)": "1,041.333",
+      "Total Putts": "25"
+    },
+    {
+      "rank": 128,
+      "player": "Isaiah Salinda",
+      "Avg": "41' 8\"",
+      "Distance (feet)": "2,081.250",
+      "Total Putts": "50"
+    },
+    {
+      "rank": 128,
+      "player": "Matti Schmid",
+      "Avg": "41' 8\"",
+      "Distance (feet)": "1,126.083",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 131,
+      "player": "Shane Lowry",
+      "Avg": "41' 7\"",
+      "Distance (feet)": "998.083",
+      "Total Putts": "24"
+    },
+    {
+      "rank": 132,
+      "player": "Keith Mitchell",
+      "Avg": "41' 6\"",
+      "Distance (feet)": "1,865.917",
+      "Total Putts": "45"
+    },
+    {
+      "rank": 133,
+      "player": "Wyndham Clark",
+      "Avg": "41' 2\"",
+      "Distance (feet)": "947.417",
+      "Total Putts": "23"
+    },
+    {
+      "rank": 133,
+      "player": "Nate Lashley",
+      "Avg": "41' 2\"",
+      "Distance (feet)": "699.250",
+      "Total Putts": "17"
+    },
+    {
+      "rank": 133,
+      "player": "Kris Ventura",
+      "Avg": "41' 2\"",
+      "Distance (feet)": "988.750",
+      "Total Putts": "24"
+    },
+    {
+      "rank": 136,
+      "player": "Lucas Glover",
+      "Avg": "41' 1\"",
+      "Distance (feet)": "1,562.417",
+      "Total Putts": "38"
+    },
+    {
+      "rank": 136,
+      "player": "Justin Thomas",
+      "Avg": "41' 1\"",
+      "Distance (feet)": "699.000",
+      "Total Putts": "17"
+    },
+    {
+      "rank": 138,
+      "player": "Rico Hoey",
+      "Avg": "41' 0\"",
+      "Distance (feet)": "2,336.917",
+      "Total Putts": "57"
+    },
+    {
+      "rank": 138,
+      "player": "Jackson Suber",
+      "Avg": "41' 0\"",
+      "Distance (feet)": "1,600.583",
+      "Total Putts": "39"
+    },
+    {
+      "rank": 140,
+      "player": "Kaito Onishi",
+      "Avg": "40' 11\"",
+      "Distance (feet)": "982.667",
+      "Total Putts": "24"
+    },
+    {
+      "rank": 140,
+      "player": "Antoine Rozner",
+      "Avg": "40' 11\"",
+      "Distance (feet)": "1,391.833",
+      "Total Putts": "34"
+    },
+    {
+      "rank": 142,
+      "player": "Robert MacIntyre",
+      "Avg": "40' 10\"",
+      "Distance (feet)": "1,469.250",
+      "Total Putts": "36"
+    },
+    {
+      "rank": 142,
+      "player": "Gary Woodland",
+      "Avg": "40' 10\"",
+      "Distance (feet)": "1,144.417",
+      "Total Putts": "28"
+    },
+    {
+      "rank": 144,
+      "player": "Taylor Moore",
+      "Avg": "40' 9\"",
+      "Distance (feet)": "1,182.833",
+      "Total Putts": "29"
+    },
+    {
+      "rank": 144,
+      "player": "Ryan Palmer",
+      "Avg": "40' 9\"",
+      "Distance (feet)": "1,303.750",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 144,
+      "player": "Sami Valimaki",
+      "Avg": "40' 9\"",
+      "Distance (feet)": "1,223.333",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 147,
+      "player": "Chris Kirk",
+      "Avg": "40' 8\"",
+      "Distance (feet)": "1,219.750",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 148,
+      "player": "Thriston Lawrence",
+      "Avg": "40' 6\"",
+      "Distance (feet)": "1,214.667",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 149,
+      "player": "Ryan Gerard",
+      "Avg": "40' 5\"",
+      "Distance (feet)": "1,779.167",
+      "Total Putts": "44"
+    },
+    {
+      "rank": 150,
+      "player": "Eric Cole",
+      "Avg": "40' 4\"",
+      "Distance (feet)": "1,452.750",
+      "Total Putts": "36"
+    },
+    {
+      "rank": 150,
+      "player": "Harry Higgs",
+      "Avg": "40' 4\"",
+      "Distance (feet)": "1,128.750",
+      "Total Putts": "28"
+    },
+    {
+      "rank": 150,
+      "player": "Patrick Rodgers",
+      "Avg": "40' 4\"",
+      "Distance (feet)": "1,531.583",
+      "Total Putts": "38"
+    },
+    {
+      "rank": 153,
+      "player": "Alex Smalley",
+      "Avg": "40' 2\"",
+      "Distance (feet)": "1,244.917",
+      "Total Putts": "31"
+    },
+    {
+      "rank": 154,
+      "player": "Zac Blair",
+      "Avg": "40' 1\"",
+      "Distance (feet)": "841.750",
+      "Total Putts": "21"
+    },
+    {
+      "rank": 155,
+      "player": "Adam Svensson",
+      "Avg": "40' 0\"",
+      "Distance (feet)": "1,200.417",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 156,
+      "player": "Chad Ramey",
+      "Avg": "39' 10\"",
+      "Distance (feet)": "756.083",
+      "Total Putts": "19"
+    },
+    {
+      "rank": 156,
+      "player": "Sepp Straka",
+      "Avg": "39' 10\"",
+      "Distance (feet)": "876.417",
+      "Total Putts": "22"
+    },
+    {
+      "rank": 158,
+      "player": "Ben Griffin",
+      "Avg": "39' 9\"",
+      "Distance (feet)": "1,390.167",
+      "Total Putts": "35"
+    },
+    {
+      "rank": 158,
+      "player": "Hayden Springer",
+      "Avg": "39' 9\"",
+      "Distance (feet)": "914.333",
+      "Total Putts": "23"
+    },
+    {
+      "rank": 158,
+      "player": "Danny Walker",
+      "Avg": "39' 9\"",
+      "Distance (feet)": "1,033.000",
+      "Total Putts": "26"
+    },
+    {
+      "rank": 161,
+      "player": "Vince Whaley",
+      "Avg": "39' 6\"",
+      "Distance (feet)": "830.333",
+      "Total Putts": "21"
+    },
+    {
+      "rank": 162,
+      "player": "Ryan Fox",
+      "Avg": "39' 3\"",
+      "Distance (feet)": "941.833",
+      "Total Putts": "24"
+    },
+    {
+      "rank": 162,
+      "player": "David Skinns",
+      "Avg": "39' 3\"",
+      "Distance (feet)": "1,255.667",
+      "Total Putts": "32"
+    },
+    {
+      "rank": 164,
+      "player": "Luke Clanton",
+      "Avg": "38' 9\"",
+      "Distance (feet)": "1,046.833",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 165,
+      "player": "Jordan Spieth",
+      "Avg": "38' 6\"",
+      "Distance (feet)": "809.083",
+      "Total Putts": "21"
+    },
+    {
+      "rank": 166,
+      "player": "Xander Schauffele",
+      "Avg": "38' 5\"",
+      "Distance (feet)": "730.000",
+      "Total Putts": "19"
+    },
+    {
+      "rank": 167,
+      "player": "Jesper Svensson",
+      "Avg": "38' 4\"",
+      "Distance (feet)": "1,380.417",
+      "Total Putts": "36"
+    },
+    {
+      "rank": 168,
+      "player": "Trevor Cone",
+      "Avg": "38' 3\"",
+      "Distance (feet)": "1,146.667",
+      "Total Putts": "30"
+    },
+    {
+      "rank": 169,
+      "player": "Justin Lower",
+      "Avg": "38' 1\"",
+      "Distance (feet)": "1,332.417",
+      "Total Putts": "35"
+    },
+    {
+      "rank": 170,
+      "player": "Pierceson Coody",
+      "Avg": "37' 9\"",
+      "Distance (feet)": "490.750",
+      "Total Putts": "13"
+    },
+    {
+      "rank": 170,
+      "player": "Rikuya Hoshino",
+      "Avg": "37' 9\"",
+      "Distance (feet)": "641.167",
+      "Total Putts": "17"
+    },
+    {
+      "rank": 172,
+      "player": "Tim Widing",
+      "Avg": "37' 4\"",
+      "Distance (feet)": "709.417",
+      "Total Putts": "19"
+    },
+    {
+      "rank": 173,
+      "player": "Paul Peterson",
+      "Avg": "37' 3\"",
+      "Distance (feet)": "707.667",
+      "Total Putts": "19"
+    },
+    {
+      "rank": 174,
+      "player": "Chan Kim",
+      "Avg": "37' 0\"",
+      "Distance (feet)": "814.583",
+      "Total Putts": "22"
+    },
+    {
+      "rank": 175,
+      "player": "Stephan Jaeger",
+      "Avg": "36' 9\"",
+      "Distance (feet)": "882.750",
+      "Total Putts": "24"
+    },
+    {
+      "rank": 176,
+      "player": "Sahith Theegala",
+      "Avg": "36' 6\"",
+      "Distance (feet)": "984.500",
+      "Total Putts": "27"
+    },
+    {
+      "rank": 177,
+      "player": "Mason Andersen",
+      "Avg": "36' 4\"",
+      "Distance (feet)": "654.250",
+      "Total Putts": "18"
+    },
+    {
+      "rank": 178,
+      "player": "Scottie Scheffler",
+      "Avg": "35' 1\"",
+      "Distance (feet)": "806.667",
+      "Total Putts": "23"
+    },
+    {
+      "rank": 179,
+      "player": "Karl Vilips",
+      "Avg": "34' 3\"",
+      "Distance (feet)": "650.750",
+      "Total Putts": "19"
+    },
+    {
+      "rank": 180,
+      "player": "Alejandro Tosti",
+      "Avg": "28' 0\"",
+      "Distance (feet)": "587.833",
+      "Total Putts": "21"
+    }
+  ]
+}

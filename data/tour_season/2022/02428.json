@@ -1,0 +1,973 @@
+{
+  "stat_id": "02428",
+  "year": 2022,
+  "category": "Putting",
+  "stat_title": "Total Putting",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Lucas Herbert",
+      "Total": "38.3"
+    },
+    {
+      "rank": 2,
+      "player": "Cameron Smith",
+      "Total": "61.9"
+    },
+    {
+      "rank": 3,
+      "player": "Tyrrell Hatton",
+      "Total": "70.8"
+    },
+    {
+      "rank": 4,
+      "player": "Christiaan Bezuidenhout",
+      "Total": "76.3"
+    },
+    {
+      "rank": 5,
+      "player": "Denny McCarthy",
+      "Total": "77.3"
+    },
+    {
+      "rank": 6,
+      "player": "Beau Hossler",
+      "Total": "78.5"
+    },
+    {
+      "rank": 7,
+      "player": "Wyndham Clark",
+      "Total": "82.4"
+    },
+    {
+      "rank": 8,
+      "player": "Chesson Hadley",
+      "Total": "87.6"
+    },
+    {
+      "rank": 9,
+      "player": "Sam Burns",
+      "Total": "89.4"
+    },
+    {
+      "rank": 10,
+      "player": "Xander Schauffele",
+      "Total": "90.6"
+    },
+    {
+      "rank": 11,
+      "player": "Brendon Todd",
+      "Total": "95.8"
+    },
+    {
+      "rank": 12,
+      "player": "Marc Leishman",
+      "Total": "99.3"
+    },
+    {
+      "rank": 13,
+      "player": "Kelly Kraft",
+      "Total": "106.0"
+    },
+    {
+      "rank": 14,
+      "player": "Matt Kuchar",
+      "Total": "107.9"
+    },
+    {
+      "rank": 15,
+      "player": "Adam Long",
+      "Total": "115.2"
+    },
+    {
+      "rank": 16,
+      "player": "Vince Whaley",
+      "Total": "116.2"
+    },
+    {
+      "rank": 17,
+      "player": "Adam Scott",
+      "Total": "116.3"
+    },
+    {
+      "rank": 18,
+      "player": "Justin Lower",
+      "Total": "122.2"
+    },
+    {
+      "rank": 19,
+      "player": "Austin Cook",
+      "Total": "122.5"
+    },
+    {
+      "rank": 20,
+      "player": "Nick Hardy",
+      "Total": "123.9"
+    },
+    {
+      "rank": 21,
+      "player": "Seamus Power",
+      "Total": "126.9"
+    },
+    {
+      "rank": 22,
+      "player": "Billy Horschel",
+      "Total": "127.1"
+    },
+    {
+      "rank": 23,
+      "player": "Brian Harman",
+      "Total": "128.2"
+    },
+    {
+      "rank": 24,
+      "player": "Kevin Kisner",
+      "Total": "128.9"
+    },
+    {
+      "rank": 25,
+      "player": "Viktor Hovland",
+      "Total": "131.1"
+    },
+    {
+      "rank": 26,
+      "player": "Cam Davis",
+      "Total": "134.8"
+    },
+    {
+      "rank": 27,
+      "player": "Jason Kokrak",
+      "Total": "138.4"
+    },
+    {
+      "rank": 27,
+      "player": "Nate Lashley",
+      "Total": "138.4"
+    },
+    {
+      "rank": 29,
+      "player": "Alex Noren",
+      "Total": "138.8"
+    },
+    {
+      "rank": 30,
+      "player": "Sungjae Im",
+      "Total": "139.3"
+    },
+    {
+      "rank": 31,
+      "player": "Rory Sabbatini",
+      "Total": "140.3"
+    },
+    {
+      "rank": 32,
+      "player": "Matthew Wolff",
+      "Total": "140.5"
+    },
+    {
+      "rank": 33,
+      "player": "Matt Fitzpatrick",
+      "Total": "142.8"
+    },
+    {
+      "rank": 34,
+      "player": "Sepp Straka",
+      "Total": "143.8"
+    },
+    {
+      "rank": 35,
+      "player": "Harry Higgs",
+      "Total": "146.4"
+    },
+    {
+      "rank": 36,
+      "player": "Max Homa",
+      "Total": "146.8"
+    },
+    {
+      "rank": 37,
+      "player": "Cameron Tringale",
+      "Total": "148.8"
+    },
+    {
+      "rank": 38,
+      "player": "Martin Trainer",
+      "Total": "149.5"
+    },
+    {
+      "rank": 39,
+      "player": "Justin Rose",
+      "Total": "151.2"
+    },
+    {
+      "rank": 40,
+      "player": "Jon Rahm",
+      "Total": "151.5"
+    },
+    {
+      "rank": 41,
+      "player": "Patrick Cantlay",
+      "Total": "153.1"
+    },
+    {
+      "rank": 42,
+      "player": "Maverick McNealy",
+      "Total": "154.3"
+    },
+    {
+      "rank": 43,
+      "player": "Ian Poulter",
+      "Total": "155.3"
+    },
+    {
+      "rank": 44,
+      "player": "Lanto Griffin",
+      "Total": "156.7"
+    },
+    {
+      "rank": 45,
+      "player": "Mackenzie Hughes",
+      "Total": "157.6"
+    },
+    {
+      "rank": 46,
+      "player": "Doc Redman",
+      "Total": "157.9"
+    },
+    {
+      "rank": 47,
+      "player": "Justin Thomas",
+      "Total": "159.7"
+    },
+    {
+      "rank": 48,
+      "player": "Davis Riley",
+      "Total": "160.7"
+    },
+    {
+      "rank": 49,
+      "player": "Adam Schenk",
+      "Total": "160.9"
+    },
+    {
+      "rank": 50,
+      "player": "Zach Johnson",
+      "Total": "161.9"
+    },
+    {
+      "rank": 51,
+      "player": "David Skinns",
+      "Total": "163.7"
+    },
+    {
+      "rank": 52,
+      "player": "Abraham Ancer",
+      "Total": "165.3"
+    },
+    {
+      "rank": 53,
+      "player": "Emiliano Grillo",
+      "Total": "165.4"
+    },
+    {
+      "rank": 54,
+      "player": "Patrick Reed",
+      "Total": "166.8"
+    },
+    {
+      "rank": 55,
+      "player": "Richy Werenski",
+      "Total": "168.2"
+    },
+    {
+      "rank": 56,
+      "player": "Wesley Bryan",
+      "Total": "169.3"
+    },
+    {
+      "rank": 57,
+      "player": "Michael Thompson",
+      "Total": "170.8"
+    },
+    {
+      "rank": 58,
+      "player": "J.J. Spaun",
+      "Total": "173.1"
+    },
+    {
+      "rank": 59,
+      "player": "Sam Ryder",
+      "Total": "173.2"
+    },
+    {
+      "rank": 60,
+      "player": "Rory McIlroy",
+      "Total": "173.3"
+    },
+    {
+      "rank": 60,
+      "player": "Andrew Putnam",
+      "Total": "173.3"
+    },
+    {
+      "rank": 60,
+      "player": "Gary Woodland",
+      "Total": "173.3"
+    },
+    {
+      "rank": 63,
+      "player": "Satoshi Kodaira",
+      "Total": "174.1"
+    },
+    {
+      "rank": 64,
+      "player": "Jonas Blixt",
+      "Total": "175.5"
+    },
+    {
+      "rank": 65,
+      "player": "Peter Malnati",
+      "Total": "176.8"
+    },
+    {
+      "rank": 66,
+      "player": "J.T. Poston",
+      "Total": "178.7"
+    },
+    {
+      "rank": 67,
+      "player": "Matt Wallace",
+      "Total": "179.4"
+    },
+    {
+      "rank": 68,
+      "player": "Brooks Koepka",
+      "Total": "180.5"
+    },
+    {
+      "rank": 69,
+      "player": "Jim Knous",
+      "Total": "180.8"
+    },
+    {
+      "rank": 70,
+      "player": "Webb Simpson",
+      "Total": "180.9"
+    },
+    {
+      "rank": 71,
+      "player": "Aaron Wise",
+      "Total": "181.2"
+    },
+    {
+      "rank": 72,
+      "player": "Scott Stallings",
+      "Total": "182.9"
+    },
+    {
+      "rank": 73,
+      "player": "Adam Hadwin",
+      "Total": "183.0"
+    },
+    {
+      "rank": 74,
+      "player": "Sahith Theegala",
+      "Total": "183.2"
+    },
+    {
+      "rank": 75,
+      "player": "Kiradech Aphibarnrat",
+      "Total": "185.4"
+    },
+    {
+      "rank": 76,
+      "player": "Talor Gooch",
+      "Total": "185.7"
+    },
+    {
+      "rank": 77,
+      "player": "Patrick Rodgers",
+      "Total": "186.9"
+    },
+    {
+      "rank": 78,
+      "player": "K.H. Lee",
+      "Total": "188.8"
+    },
+    {
+      "rank": 79,
+      "player": "Jonathan Byrd",
+      "Total": "189.3"
+    },
+    {
+      "rank": 80,
+      "player": "Jason Day",
+      "Total": "190.1"
+    },
+    {
+      "rank": 81,
+      "player": "Corey Conners",
+      "Total": "190.5"
+    },
+    {
+      "rank": 82,
+      "player": "Hank Lebioda",
+      "Total": "193.1"
+    },
+    {
+      "rank": 83,
+      "player": "Adam Svensson",
+      "Total": "193.4"
+    },
+    {
+      "rank": 84,
+      "player": "Matthias Schwab",
+      "Total": "193.6"
+    },
+    {
+      "rank": 85,
+      "player": "Mark Hubbard",
+      "Total": "194.6"
+    },
+    {
+      "rank": 86,
+      "player": "Ryan Armour",
+      "Total": "196.3"
+    },
+    {
+      "rank": 87,
+      "player": "Kevin Chappell",
+      "Total": "197.4"
+    },
+    {
+      "rank": 88,
+      "player": "Michael Gligic",
+      "Total": "199.6"
+    },
+    {
+      "rank": 89,
+      "player": "Chris Kirk",
+      "Total": "201.6"
+    },
+    {
+      "rank": 89,
+      "player": "Brandon Wu",
+      "Total": "201.6"
+    },
+    {
+      "rank": 91,
+      "player": "Hideki Matsuyama",
+      "Total": "201.8"
+    },
+    {
+      "rank": 91,
+      "player": "Kevin Streelman",
+      "Total": "201.8"
+    },
+    {
+      "rank": 93,
+      "player": "Keegan Bradley",
+      "Total": "202.3"
+    },
+    {
+      "rank": 93,
+      "player": "Keith Mitchell",
+      "Total": "202.3"
+    },
+    {
+      "rank": 93,
+      "player": "Scott Piercy",
+      "Total": "202.3"
+    },
+    {
+      "rank": 96,
+      "player": "S.Y. Noh",
+      "Total": "203.4"
+    },
+    {
+      "rank": 97,
+      "player": "Jared Wolfe",
+      "Total": "205.9"
+    },
+    {
+      "rank": 98,
+      "player": "John Huh",
+      "Total": "208.9"
+    },
+    {
+      "rank": 99,
+      "player": "Francesco Molinari",
+      "Total": "210.1"
+    },
+    {
+      "rank": 100,
+      "player": "Sung Kang",
+      "Total": "212.0"
+    },
+    {
+      "rank": 101,
+      "player": "Mito Pereira",
+      "Total": "212.4"
+    },
+    {
+      "rank": 102,
+      "player": "Collin Morikawa",
+      "Total": "213.3"
+    },
+    {
+      "rank": 103,
+      "player": "Aaron Rai",
+      "Total": "213.4"
+    },
+    {
+      "rank": 104,
+      "player": "Tommy Fleetwood",
+      "Total": "214.9"
+    },
+    {
+      "rank": 105,
+      "player": "Anirban Lahiri",
+      "Total": "216.5"
+    },
+    {
+      "rank": 106,
+      "player": "Joaquin Niemann",
+      "Total": "216.8"
+    },
+    {
+      "rank": 107,
+      "player": "Bill Haas",
+      "Total": "218.9"
+    },
+    {
+      "rank": 108,
+      "player": "Troy Merritt",
+      "Total": "219.0"
+    },
+    {
+      "rank": 109,
+      "player": "Cameron Young",
+      "Total": "219.1"
+    },
+    {
+      "rank": 110,
+      "player": "Joshua Creel",
+      "Total": "219.8"
+    },
+    {
+      "rank": 111,
+      "player": "Stephan Jaeger",
+      "Total": "221.4"
+    },
+    {
+      "rank": 112,
+      "player": "Tyler Duncan",
+      "Total": "221.6"
+    },
+    {
+      "rank": 113,
+      "player": "Brandt Snedeker",
+      "Total": "222.3"
+    },
+    {
+      "rank": 114,
+      "player": "Kevin Tway",
+      "Total": "223.6"
+    },
+    {
+      "rank": 115,
+      "player": "Max McGreevy",
+      "Total": "224.8"
+    },
+    {
+      "rank": 116,
+      "player": "Shane Lowry",
+      "Total": "226.9"
+    },
+    {
+      "rank": 117,
+      "player": "Matthew NeSmith",
+      "Total": "227.3"
+    },
+    {
+      "rank": 118,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Total": "227.5"
+    },
+    {
+      "rank": 119,
+      "player": "Bo Hoag",
+      "Total": "228.6"
+    },
+    {
+      "rank": 120,
+      "player": "Scottie Scheffler",
+      "Total": "229.5"
+    },
+    {
+      "rank": 121,
+      "player": "Greyson Sigg",
+      "Total": "232.2"
+    },
+    {
+      "rank": 122,
+      "player": "Danny Willett",
+      "Total": "233.0"
+    },
+    {
+      "rank": 123,
+      "player": "Ben Kohles",
+      "Total": "234.0"
+    },
+    {
+      "rank": 124,
+      "player": "Luke Donald",
+      "Total": "234.3"
+    },
+    {
+      "rank": 125,
+      "player": "Pat Perez",
+      "Total": "237.0"
+    },
+    {
+      "rank": 126,
+      "player": "Brice Garnett",
+      "Total": "238.2"
+    },
+    {
+      "rank": 127,
+      "player": "Danny Lee",
+      "Total": "240.3"
+    },
+    {
+      "rank": 128,
+      "player": "Rickie Fowler",
+      "Total": "240.4"
+    },
+    {
+      "rank": 128,
+      "player": "Carlos Ortiz",
+      "Total": "240.4"
+    },
+    {
+      "rank": 130,
+      "player": "Tom Hoge",
+      "Total": "240.9"
+    },
+    {
+      "rank": 131,
+      "player": "C.T. Pan",
+      "Total": "242.0"
+    },
+    {
+      "rank": 132,
+      "player": "Cameron Champ",
+      "Total": "242.3"
+    },
+    {
+      "rank": 133,
+      "player": "Hudson Swafford",
+      "Total": "242.7"
+    },
+    {
+      "rank": 134,
+      "player": "Stewart Cink",
+      "Total": "245.3"
+    },
+    {
+      "rank": 135,
+      "player": "Tony Finau",
+      "Total": "246.8"
+    },
+    {
+      "rank": 136,
+      "player": "James Hahn",
+      "Total": "247.0"
+    },
+    {
+      "rank": 137,
+      "player": "Will Zalatoris",
+      "Total": "247.9"
+    },
+    {
+      "rank": 138,
+      "player": "Robert Streb",
+      "Total": "249.4"
+    },
+    {
+      "rank": 139,
+      "player": "Dylan Frittelli",
+      "Total": "249.5"
+    },
+    {
+      "rank": 140,
+      "player": "Joel Dahmen",
+      "Total": "252.0"
+    },
+    {
+      "rank": 141,
+      "player": "Jordan Spieth",
+      "Total": "252.8"
+    },
+    {
+      "rank": 142,
+      "player": "David Lipsky",
+      "Total": "253.1"
+    },
+    {
+      "rank": 143,
+      "player": "Dylan Wu",
+      "Total": "253.2"
+    },
+    {
+      "rank": 144,
+      "player": "Cameron Percy",
+      "Total": "253.5"
+    },
+    {
+      "rank": 145,
+      "player": "Patton Kizzire",
+      "Total": "256.0"
+    },
+    {
+      "rank": 146,
+      "player": "Kurt Kitayama",
+      "Total": "258.8"
+    },
+    {
+      "rank": 147,
+      "player": "Hayden Buckley",
+      "Total": "259.6"
+    },
+    {
+      "rank": 148,
+      "player": "Paul Barjon",
+      "Total": "263.4"
+    },
+    {
+      "rank": 149,
+      "player": "Ryan Palmer",
+      "Total": "267.0"
+    },
+    {
+      "rank": 150,
+      "player": "Si Woo Kim",
+      "Total": "268.4"
+    },
+    {
+      "rank": 151,
+      "player": "Nick Taylor",
+      "Total": "269.5"
+    },
+    {
+      "rank": 152,
+      "player": "Russell Henley",
+      "Total": "269.6"
+    },
+    {
+      "rank": 153,
+      "player": "Trey Mullinax",
+      "Total": "270.1"
+    },
+    {
+      "rank": 154,
+      "player": "Dawie van der Walt",
+      "Total": "272.1"
+    },
+    {
+      "rank": 155,
+      "player": "Chad Ramey",
+      "Total": "273.3"
+    },
+    {
+      "rank": 156,
+      "player": "Roger Sloan",
+      "Total": "275.8"
+    },
+    {
+      "rank": 157,
+      "player": "Harold Varner III",
+      "Total": "275.9"
+    },
+    {
+      "rank": 158,
+      "player": "Alex Smalley",
+      "Total": "276.1"
+    },
+    {
+      "rank": 159,
+      "player": "Callum Tarren",
+      "Total": "278.8"
+    },
+    {
+      "rank": 160,
+      "player": "Charles Howell III",
+      "Total": "279.4"
+    },
+    {
+      "rank": 161,
+      "player": "Taylor Pendrith",
+      "Total": "282.5"
+    },
+    {
+      "rank": 162,
+      "player": "Taylor Moore",
+      "Total": "286.3"
+    },
+    {
+      "rank": 163,
+      "player": "Austin Smotherman",
+      "Total": "286.4"
+    },
+    {
+      "rank": 164,
+      "player": "Lee Hodges",
+      "Total": "287.6"
+    },
+    {
+      "rank": 165,
+      "player": "Nick Watney",
+      "Total": "289.1"
+    },
+    {
+      "rank": 166,
+      "player": "Kramer Hickok",
+      "Total": "289.5"
+    },
+    {
+      "rank": 166,
+      "player": "Camilo Villegas",
+      "Total": "289.5"
+    },
+    {
+      "rank": 168,
+      "player": "Brett Drewitt",
+      "Total": "289.8"
+    },
+    {
+      "rank": 168,
+      "player": "Chez Reavie",
+      "Total": "289.8"
+    },
+    {
+      "rank": 170,
+      "player": "Erik van Rooyen",
+      "Total": "291.2"
+    },
+    {
+      "rank": 171,
+      "player": "Doug Ghim",
+      "Total": "293.8"
+    },
+    {
+      "rank": 172,
+      "player": "Brian Stuard",
+      "Total": "294.9"
+    },
+    {
+      "rank": 173,
+      "player": "Curtis Thompson",
+      "Total": "295.2"
+    },
+    {
+      "rank": 174,
+      "player": "Jhonattan Vegas",
+      "Total": "297.5"
+    },
+    {
+      "rank": 175,
+      "player": "Lucas Glover",
+      "Total": "302.8"
+    },
+    {
+      "rank": 176,
+      "player": "Charley Hoffman",
+      "Total": "304.9"
+    },
+    {
+      "rank": 177,
+      "player": "Brandon Hagy",
+      "Total": "306.1"
+    },
+    {
+      "rank": 178,
+      "player": "Seth Reeves",
+      "Total": "310.2"
+    },
+    {
+      "rank": 179,
+      "player": "Branden Grace",
+      "Total": "311.3"
+    },
+    {
+      "rank": 180,
+      "player": "Russell Knox",
+      "Total": "320.5"
+    },
+    {
+      "rank": 181,
+      "player": "Vaughn Taylor",
+      "Total": "320.8"
+    },
+    {
+      "rank": 182,
+      "player": "Brendan Steele",
+      "Total": "322.3"
+    },
+    {
+      "rank": 183,
+      "player": "Matt Jones",
+      "Total": "323.5"
+    },
+    {
+      "rank": 184,
+      "player": "Chase Seiffert",
+      "Total": "330.6"
+    },
+    {
+      "rank": 185,
+      "player": "Jim Herman",
+      "Total": "331.0"
+    },
+    {
+      "rank": 186,
+      "player": "Scott Gutschewski",
+      "Total": "337.1"
+    },
+    {
+      "rank": 187,
+      "player": "Martin Laird",
+      "Total": "341.0"
+    },
+    {
+      "rank": 188,
+      "player": "Jason Dufner",
+      "Total": "342.7"
+    },
+    {
+      "rank": 189,
+      "player": "Garrick Higgo",
+      "Total": "345.3"
+    },
+    {
+      "rank": 190,
+      "player": "Andrew Novak",
+      "Total": "349.6"
+    },
+    {
+      "rank": 191,
+      "player": "Luke List",
+      "Total": "353.4"
+    },
+    {
+      "rank": 192,
+      "player": "Henrik Norlander",
+      "Total": "354.9"
+    },
+    {
+      "rank": 193,
+      "player": "Joseph Bramlett",
+      "Total": "366.8"
+    }
+  ]
+}

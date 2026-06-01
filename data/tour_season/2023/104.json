@@ -1,0 +1,1552 @@
+{
+  "stat_id": "104",
+  "year": 2023,
+  "category": "Putting",
+  "stat_title": "Putting Average",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Taylor Montgomery",
+      "Avg": "1.667",
+      "GIR Putts": "1,927",
+      "Greens Hit": "1,156",
+      "Birdie Conversion": "38.21%"
+    },
+    {
+      "rank": 2,
+      "player": "Eric Cole",
+      "Avg": "1.691",
+      "GIR Putts": "2,528",
+      "Greens Hit": "1,495",
+      "Birdie Conversion": "35.72%"
+    },
+    {
+      "rank": 3,
+      "player": "Max Homa",
+      "Avg": "1.699",
+      "GIR Putts": "1,758",
+      "Greens Hit": "1,035",
+      "Birdie Conversion": "35.47%"
+    },
+    {
+      "rank": 4,
+      "player": "Sam Ryder",
+      "Avg": "1.705",
+      "GIR Putts": "2,275",
+      "Greens Hit": "1,334",
+      "Birdie Conversion": "34.19%"
+    },
+    {
+      "rank": 5,
+      "player": "Sahith Theegala",
+      "Avg": "1.708",
+      "GIR Putts": "2,116",
+      "Greens Hit": "1,239",
+      "Birdie Conversion": "34.14%"
+    },
+    {
+      "rank": 6,
+      "player": "Jon Rahm",
+      "Avg": "1.711",
+      "GIR Putts": "1,542",
+      "Greens Hit": "901",
+      "Birdie Conversion": "35.83%"
+    },
+    {
+      "rank": 7,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "1.712",
+      "GIR Putts": "1,130",
+      "Greens Hit": "660",
+      "Birdie Conversion": "35.87%"
+    },
+    {
+      "rank": 8,
+      "player": "Tommy Fleetwood",
+      "Avg": "1.713",
+      "GIR Putts": "1,473",
+      "Greens Hit": "860",
+      "Birdie Conversion": "33.64%"
+    },
+    {
+      "rank": 9,
+      "player": "Adam Scott",
+      "Avg": "1.714",
+      "GIR Putts": "1,380",
+      "Greens Hit": "805",
+      "Birdie Conversion": "35.16%"
+    },
+    {
+      "rank": 10,
+      "player": "Nicolai Hojgaard",
+      "Avg": "1.716",
+      "GIR Putts": "980",
+      "Greens Hit": "571",
+      "Birdie Conversion": "33.63%"
+    },
+    {
+      "rank": 10,
+      "player": "Viktor Hovland",
+      "Avg": "1.716",
+      "GIR Putts": "1,853",
+      "Greens Hit": "1,080",
+      "Birdie Conversion": "34.98%"
+    },
+    {
+      "rank": 12,
+      "player": "Xander Schauffele",
+      "Avg": "1.717",
+      "GIR Putts": "1,714",
+      "Greens Hit": "998",
+      "Birdie Conversion": "34.21%"
+    },
+    {
+      "rank": 12,
+      "player": "Nick Taylor",
+      "Avg": "1.717",
+      "GIR Putts": "1,885",
+      "Greens Hit": "1,098",
+      "Birdie Conversion": "32.60%"
+    },
+    {
+      "rank": 14,
+      "player": "Brendon Todd",
+      "Avg": "1.718",
+      "GIR Putts": "2,128",
+      "Greens Hit": "1,239",
+      "Birdie Conversion": "32.45%"
+    },
+    {
+      "rank": 15,
+      "player": "Tyrrell Hatton",
+      "Avg": "1.719",
+      "GIR Putts": "1,602",
+      "Greens Hit": "932",
+      "Birdie Conversion": "33.83%"
+    },
+    {
+      "rank": 16,
+      "player": "Patrick Cantlay",
+      "Avg": "1.723",
+      "GIR Putts": "1,558",
+      "Greens Hit": "904",
+      "Birdie Conversion": "35.14%"
+    },
+    {
+      "rank": 17,
+      "player": "Sam Burns",
+      "Avg": "1.724",
+      "GIR Putts": "1,600",
+      "Greens Hit": "928",
+      "Birdie Conversion": "33.62%"
+    },
+    {
+      "rank": 17,
+      "player": "Lucas Herbert",
+      "Avg": "1.724",
+      "GIR Putts": "1,195",
+      "Greens Hit": "693",
+      "Birdie Conversion": "34.10%"
+    },
+    {
+      "rank": 19,
+      "player": "Aaron Baddeley",
+      "Avg": "1.725",
+      "GIR Putts": "1,634",
+      "Greens Hit": "947",
+      "Birdie Conversion": "30.33%"
+    },
+    {
+      "rank": 19,
+      "player": "Rickie Fowler",
+      "Avg": "1.725",
+      "GIR Putts": "2,030",
+      "Greens Hit": "1,177",
+      "Birdie Conversion": "33.11%"
+    },
+    {
+      "rank": 19,
+      "player": "Tom Kim",
+      "Avg": "1.725",
+      "GIR Putts": "1,942",
+      "Greens Hit": "1,126",
+      "Birdie Conversion": "33.78%"
+    },
+    {
+      "rank": 22,
+      "player": "Byeong Hun An",
+      "Avg": "1.726",
+      "GIR Putts": "2,092",
+      "Greens Hit": "1,212",
+      "Birdie Conversion": "33.31%"
+    },
+    {
+      "rank": 22,
+      "player": "Harry Hall",
+      "Avg": "1.726",
+      "GIR Putts": "2,104",
+      "Greens Hit": "1,219",
+      "Birdie Conversion": "33.50%"
+    },
+    {
+      "rank": 22,
+      "player": "Justin Suh",
+      "Avg": "1.726",
+      "GIR Putts": "2,349",
+      "Greens Hit": "1,361",
+      "Birdie Conversion": "33.68%"
+    },
+    {
+      "rank": 25,
+      "player": "Wyndham Clark",
+      "Avg": "1.727",
+      "GIR Putts": "2,148",
+      "Greens Hit": "1,244",
+      "Birdie Conversion": "33.60%"
+    },
+    {
+      "rank": 26,
+      "player": "Harry Higgs",
+      "Avg": "1.728",
+      "GIR Putts": "1,690",
+      "Greens Hit": "978",
+      "Birdie Conversion": "31.93%"
+    },
+    {
+      "rank": 26,
+      "player": "Justin Rose",
+      "Avg": "1.728",
+      "GIR Putts": "1,393",
+      "Greens Hit": "806",
+      "Birdie Conversion": "32.79%"
+    },
+    {
+      "rank": 28,
+      "player": "Tom Hoge",
+      "Avg": "1.729",
+      "GIR Putts": "2,180",
+      "Greens Hit": "1,261",
+      "Birdie Conversion": "33.17%"
+    },
+    {
+      "rank": 28,
+      "player": "Seamus Power",
+      "Avg": "1.729",
+      "GIR Putts": "1,670",
+      "Greens Hit": "966",
+      "Birdie Conversion": "31.78%"
+    },
+    {
+      "rank": 30,
+      "player": "Rory McIlroy",
+      "Avg": "1.730",
+      "GIR Putts": "1,353",
+      "Greens Hit": "782",
+      "Birdie Conversion": "34.27%"
+    },
+    {
+      "rank": 31,
+      "player": "Richy Werenski",
+      "Avg": "1.731",
+      "GIR Putts": "1,937",
+      "Greens Hit": "1,119",
+      "Birdie Conversion": "32.89%"
+    },
+    {
+      "rank": 32,
+      "player": "Keegan Bradley",
+      "Avg": "1.732",
+      "GIR Putts": "1,715",
+      "Greens Hit": "990",
+      "Birdie Conversion": "33.20%"
+    },
+    {
+      "rank": 32,
+      "player": "Denny McCarthy",
+      "Avg": "1.732",
+      "GIR Putts": "2,087",
+      "Greens Hit": "1,205",
+      "Birdie Conversion": "31.87%"
+    },
+    {
+      "rank": 32,
+      "player": "Maverick McNealy",
+      "Avg": "1.732",
+      "GIR Putts": "1,240",
+      "Greens Hit": "716",
+      "Birdie Conversion": "31.70%"
+    },
+    {
+      "rank": 35,
+      "player": "Ben Griffin",
+      "Avg": "1.733",
+      "GIR Putts": "2,484",
+      "Greens Hit": "1,433",
+      "Birdie Conversion": "32.35%"
+    },
+    {
+      "rank": 35,
+      "player": "Beau Hossler",
+      "Avg": "1.733",
+      "GIR Putts": "2,295",
+      "Greens Hit": "1,324",
+      "Birdie Conversion": "31.92%"
+    },
+    {
+      "rank": 37,
+      "player": "S.Y. Noh",
+      "Avg": "1.734",
+      "GIR Putts": "1,415",
+      "Greens Hit": "816",
+      "Birdie Conversion": "31.94%"
+    },
+    {
+      "rank": 38,
+      "player": "Thomas Detry",
+      "Avg": "1.735",
+      "GIR Putts": "2,016",
+      "Greens Hit": "1,162",
+      "Birdie Conversion": "33.13%"
+    },
+    {
+      "rank": 38,
+      "player": "J.T. Poston",
+      "Avg": "1.735",
+      "GIR Putts": "2,150",
+      "Greens Hit": "1,239",
+      "Birdie Conversion": "32.36%"
+    },
+    {
+      "rank": 38,
+      "player": "Scottie Scheffler",
+      "Avg": "1.735",
+      "GIR Putts": "2,046",
+      "Greens Hit": "1,179",
+      "Birdie Conversion": "32.59%"
+    },
+    {
+      "rank": 41,
+      "player": "Jason Day",
+      "Avg": "1.736",
+      "GIR Putts": "1,668",
+      "Greens Hit": "961",
+      "Birdie Conversion": "32.78%"
+    },
+    {
+      "rank": 41,
+      "player": "Brandon Wu",
+      "Avg": "1.736",
+      "GIR Putts": "2,467",
+      "Greens Hit": "1,421",
+      "Birdie Conversion": "31.83%"
+    },
+    {
+      "rank": 43,
+      "player": "Brian Stuard",
+      "Avg": "1.737",
+      "GIR Putts": "1,424",
+      "Greens Hit": "820",
+      "Birdie Conversion": "29.71%"
+    },
+    {
+      "rank": 44,
+      "player": "Mackenzie Hughes",
+      "Avg": "1.738",
+      "GIR Putts": "1,827",
+      "Greens Hit": "1,051",
+      "Birdie Conversion": "31.52%"
+    },
+    {
+      "rank": 44,
+      "player": "Scott Piercy",
+      "Avg": "1.738",
+      "GIR Putts": "2,018",
+      "Greens Hit": "1,161",
+      "Birdie Conversion": "33.19%"
+    },
+    {
+      "rank": 46,
+      "player": "Adam Hadwin",
+      "Avg": "1.739",
+      "GIR Putts": "1,862",
+      "Greens Hit": "1,071",
+      "Birdie Conversion": "31.55%"
+    },
+    {
+      "rank": 46,
+      "player": "S.H. Kim",
+      "Avg": "1.739",
+      "GIR Putts": "2,201",
+      "Greens Hit": "1,266",
+      "Birdie Conversion": "32.73%"
+    },
+    {
+      "rank": 48,
+      "player": "Chesson Hadley",
+      "Avg": "1.740",
+      "GIR Putts": "2,039",
+      "Greens Hit": "1,172",
+      "Birdie Conversion": "32.28%"
+    },
+    {
+      "rank": 48,
+      "player": "Sungjae Im",
+      "Avg": "1.740",
+      "GIR Putts": "2,164",
+      "Greens Hit": "1,244",
+      "Birdie Conversion": "33.98%"
+    },
+    {
+      "rank": 48,
+      "player": "Justin Lower",
+      "Avg": "1.740",
+      "GIR Putts": "2,272",
+      "Greens Hit": "1,306",
+      "Birdie Conversion": "32.29%"
+    },
+    {
+      "rank": 51,
+      "player": "Matt Fitzpatrick",
+      "Avg": "1.741",
+      "GIR Putts": "1,490",
+      "Greens Hit": "856",
+      "Birdie Conversion": "30.95%"
+    },
+    {
+      "rank": 51,
+      "player": "Peter Kuest",
+      "Avg": "1.741",
+      "GIR Putts": "1,064",
+      "Greens Hit": "611",
+      "Birdie Conversion": "33.39%"
+    },
+    {
+      "rank": 51,
+      "player": "Adam Long",
+      "Avg": "1.741",
+      "GIR Putts": "2,349",
+      "Greens Hit": "1,349",
+      "Birdie Conversion": "30.63%"
+    },
+    {
+      "rank": 54,
+      "player": "Nate Lashley",
+      "Avg": "1.742",
+      "GIR Putts": "2,340",
+      "Greens Hit": "1,343",
+      "Birdie Conversion": "31.32%"
+    },
+    {
+      "rank": 54,
+      "player": "Collin Morikawa",
+      "Avg": "1.742",
+      "GIR Putts": "1,803",
+      "Greens Hit": "1,035",
+      "Birdie Conversion": "32.53%"
+    },
+    {
+      "rank": 54,
+      "player": "Webb Simpson",
+      "Avg": "1.742",
+      "GIR Putts": "1,134",
+      "Greens Hit": "651",
+      "Birdie Conversion": "30.82%"
+    },
+    {
+      "rank": 54,
+      "player": "Jordan Spieth",
+      "Avg": "1.742",
+      "GIR Putts": "1,446",
+      "Greens Hit": "830",
+      "Birdie Conversion": "32.41%"
+    },
+    {
+      "rank": 58,
+      "player": "Brian Harman",
+      "Avg": "1.743",
+      "GIR Putts": "1,973",
+      "Greens Hit": "1,132",
+      "Birdie Conversion": "31.56%"
+    },
+    {
+      "rank": 58,
+      "player": "Chris Kirk",
+      "Avg": "1.743",
+      "GIR Putts": "1,924",
+      "Greens Hit": "1,104",
+      "Birdie Conversion": "30.71%"
+    },
+    {
+      "rank": 58,
+      "player": "Ben Martin",
+      "Avg": "1.743",
+      "GIR Putts": "2,205",
+      "Greens Hit": "1,265",
+      "Birdie Conversion": "31.88%"
+    },
+    {
+      "rank": 58,
+      "player": "Sepp Straka",
+      "Avg": "1.743",
+      "GIR Putts": "1,970",
+      "Greens Hit": "1,130",
+      "Birdie Conversion": "31.08%"
+    },
+    {
+      "rank": 58,
+      "player": "Erik van Rooyen",
+      "Avg": "1.743",
+      "GIR Putts": "1,673",
+      "Greens Hit": "960",
+      "Birdie Conversion": "32.85%"
+    },
+    {
+      "rank": 63,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "1.744",
+      "GIR Putts": "1,819",
+      "Greens Hit": "1,043",
+      "Birdie Conversion": "29.29%"
+    },
+    {
+      "rank": 64,
+      "player": "David Lingmerth",
+      "Avg": "1.745",
+      "GIR Putts": "1,687",
+      "Greens Hit": "967",
+      "Birdie Conversion": "30.43%"
+    },
+    {
+      "rank": 65,
+      "player": "Peter Malnati",
+      "Avg": "1.747",
+      "GIR Putts": "1,876",
+      "Greens Hit": "1,074",
+      "Birdie Conversion": "32.12%"
+    },
+    {
+      "rank": 66,
+      "player": "Matt Kuchar",
+      "Avg": "1.748",
+      "GIR Putts": "1,944",
+      "Greens Hit": "1,112",
+      "Birdie Conversion": "30.18%"
+    },
+    {
+      "rank": 67,
+      "player": "Russell Henley",
+      "Avg": "1.749",
+      "GIR Putts": "1,838",
+      "Greens Hit": "1,051",
+      "Birdie Conversion": "30.19%"
+    },
+    {
+      "rank": 68,
+      "player": "Nick Hardy",
+      "Avg": "1.750",
+      "GIR Putts": "2,569",
+      "Greens Hit": "1,468",
+      "Birdie Conversion": "30.99%"
+    },
+    {
+      "rank": 68,
+      "player": "Si Woo Kim",
+      "Avg": "1.750",
+      "GIR Putts": "2,076",
+      "Greens Hit": "1,186",
+      "Birdie Conversion": "31.33%"
+    },
+    {
+      "rank": 68,
+      "player": "Patton Kizzire",
+      "Avg": "1.750",
+      "GIR Putts": "2,100",
+      "Greens Hit": "1,200",
+      "Birdie Conversion": "33.00%"
+    },
+    {
+      "rank": 71,
+      "player": "Ryan Gerard",
+      "Avg": "1.751",
+      "GIR Putts": "1,271",
+      "Greens Hit": "726",
+      "Birdie Conversion": "33.10%"
+    },
+    {
+      "rank": 71,
+      "player": "Emiliano Grillo",
+      "Avg": "1.751",
+      "GIR Putts": "2,422",
+      "Greens Hit": "1,383",
+      "Birdie Conversion": "30.70%"
+    },
+    {
+      "rank": 71,
+      "player": "Mark Hubbard",
+      "Avg": "1.751",
+      "GIR Putts": "2,494",
+      "Greens Hit": "1,424",
+      "Birdie Conversion": "30.56%"
+    },
+    {
+      "rank": 71,
+      "player": "Ryan Moore",
+      "Avg": "1.751",
+      "GIR Putts": "1,816",
+      "Greens Hit": "1,037",
+      "Birdie Conversion": "30.21%"
+    },
+    {
+      "rank": 75,
+      "player": "Sung Kang",
+      "Avg": "1.752",
+      "GIR Putts": "1,039",
+      "Greens Hit": "593",
+      "Birdie Conversion": "30.07%"
+    },
+    {
+      "rank": 75,
+      "player": "Kelly Kraft",
+      "Avg": "1.752",
+      "GIR Putts": "1,901",
+      "Greens Hit": "1,085",
+      "Birdie Conversion": "30.09%"
+    },
+    {
+      "rank": 75,
+      "player": "Chad Ramey",
+      "Avg": "1.752",
+      "GIR Putts": "2,129",
+      "Greens Hit": "1,215",
+      "Birdie Conversion": "31.71%"
+    },
+    {
+      "rank": 78,
+      "player": "Zac Blair",
+      "Avg": "1.753",
+      "GIR Putts": "1,636",
+      "Greens Hit": "933",
+      "Birdie Conversion": "30.08%"
+    },
+    {
+      "rank": 78,
+      "player": "Lucas Glover",
+      "Avg": "1.753",
+      "GIR Putts": "2,224",
+      "Greens Hit": "1,269",
+      "Birdie Conversion": "31.41%"
+    },
+    {
+      "rank": 78,
+      "player": "Davis Riley",
+      "Avg": "1.753",
+      "GIR Putts": "2,125",
+      "Greens Hit": "1,212",
+      "Birdie Conversion": "32.51%"
+    },
+    {
+      "rank": 78,
+      "player": "Carl Yuan",
+      "Avg": "1.753",
+      "GIR Putts": "1,783",
+      "Greens Hit": "1,017",
+      "Birdie Conversion": "32.91%"
+    },
+    {
+      "rank": 82,
+      "player": "Stewart Cink",
+      "Avg": "1.754",
+      "GIR Putts": "1,668",
+      "Greens Hit": "951",
+      "Birdie Conversion": "31.19%"
+    },
+    {
+      "rank": 82,
+      "player": "Hideki Matsuyama",
+      "Avg": "1.754",
+      "GIR Putts": "1,836",
+      "Greens Hit": "1,047",
+      "Birdie Conversion": "30.94%"
+    },
+    {
+      "rank": 82,
+      "player": "Dylan Wu",
+      "Avg": "1.754",
+      "GIR Putts": "2,355",
+      "Greens Hit": "1,343",
+      "Birdie Conversion": "31.22%"
+    },
+    {
+      "rank": 85,
+      "player": "Tony Finau",
+      "Avg": "1.755",
+      "GIR Putts": "1,834",
+      "Greens Hit": "1,045",
+      "Birdie Conversion": "32.92%"
+    },
+    {
+      "rank": 85,
+      "player": "Stephan Jaeger",
+      "Avg": "1.755",
+      "GIR Putts": "2,716",
+      "Greens Hit": "1,548",
+      "Birdie Conversion": "31.65%"
+    },
+    {
+      "rank": 85,
+      "player": "Keith Mitchell",
+      "Avg": "1.755",
+      "GIR Putts": "2,011",
+      "Greens Hit": "1,146",
+      "Birdie Conversion": "31.52%"
+    },
+    {
+      "rank": 85,
+      "player": "Patrick Rodgers",
+      "Avg": "1.755",
+      "GIR Putts": "2,115",
+      "Greens Hit": "1,205",
+      "Birdie Conversion": "30.67%"
+    },
+    {
+      "rank": 85,
+      "player": "Cameron Young",
+      "Avg": "1.755",
+      "GIR Putts": "1,874",
+      "Greens Hit": "1,068",
+      "Birdie Conversion": "34.21%"
+    },
+    {
+      "rank": 90,
+      "player": "Joseph Bramlett",
+      "Avg": "1.756",
+      "GIR Putts": "1,728",
+      "Greens Hit": "984",
+      "Birdie Conversion": "31.33%"
+    },
+    {
+      "rank": 90,
+      "player": "Garrick Higgo",
+      "Avg": "1.756",
+      "GIR Putts": "2,178",
+      "Greens Hit": "1,240",
+      "Birdie Conversion": "32.50%"
+    },
+    {
+      "rank": 90,
+      "player": "William McGirt",
+      "Avg": "1.756",
+      "GIR Putts": "1,103",
+      "Greens Hit": "628",
+      "Birdie Conversion": "29.92%"
+    },
+    {
+      "rank": 93,
+      "player": "Corey Conners",
+      "Avg": "1.757",
+      "GIR Putts": "1,910",
+      "Greens Hit": "1,087",
+      "Birdie Conversion": "31.06%"
+    },
+    {
+      "rank": 94,
+      "player": "Ryan Palmer",
+      "Avg": "1.758",
+      "GIR Putts": "1,698",
+      "Greens Hit": "966",
+      "Birdie Conversion": "31.64%"
+    },
+    {
+      "rank": 94,
+      "player": "Austin Smotherman",
+      "Avg": "1.758",
+      "GIR Putts": "2,102",
+      "Greens Hit": "1,196",
+      "Birdie Conversion": "32.38%"
+    },
+    {
+      "rank": 96,
+      "player": "Austin Cook",
+      "Avg": "1.759",
+      "GIR Putts": "1,754",
+      "Greens Hit": "997",
+      "Birdie Conversion": "29.52%"
+    },
+    {
+      "rank": 96,
+      "player": "Greyson Sigg",
+      "Avg": "1.759",
+      "GIR Putts": "2,302",
+      "Greens Hit": "1,309",
+      "Birdie Conversion": "29.56%"
+    },
+    {
+      "rank": 96,
+      "player": "Adam Svensson",
+      "Avg": "1.759",
+      "GIR Putts": "2,624",
+      "Greens Hit": "1,492",
+      "Birdie Conversion": "31.50%"
+    },
+    {
+      "rank": 99,
+      "player": "Will Gordon",
+      "Avg": "1.760",
+      "GIR Putts": "2,491",
+      "Greens Hit": "1,415",
+      "Birdie Conversion": "31.56%"
+    },
+    {
+      "rank": 99,
+      "player": "Alex Noren",
+      "Avg": "1.760",
+      "GIR Putts": "1,929",
+      "Greens Hit": "1,096",
+      "Birdie Conversion": "29.77%"
+    },
+    {
+      "rank": 99,
+      "player": "Sam Stevens",
+      "Avg": "1.760",
+      "GIR Putts": "2,265",
+      "Greens Hit": "1,287",
+      "Birdie Conversion": "30.09%"
+    },
+    {
+      "rank": 99,
+      "player": "Callum Tarren",
+      "Avg": "1.760",
+      "GIR Putts": "2,123",
+      "Greens Hit": "1,206",
+      "Birdie Conversion": "30.53%"
+    },
+    {
+      "rank": 99,
+      "player": "Davis Thompson",
+      "Avg": "1.760",
+      "GIR Putts": "2,110",
+      "Greens Hit": "1,199",
+      "Birdie Conversion": "30.67%"
+    },
+    {
+      "rank": 99,
+      "player": "Carson Young",
+      "Avg": "1.760",
+      "GIR Putts": "2,183",
+      "Greens Hit": "1,240",
+      "Birdie Conversion": "29.78%"
+    },
+    {
+      "rank": 105,
+      "player": "Akshay Bhatia",
+      "Avg": "1.761",
+      "GIR Putts": "1,881",
+      "Greens Hit": "1,068",
+      "Birdie Conversion": "31.83%"
+    },
+    {
+      "rank": 105,
+      "player": "Kevin Chappell",
+      "Avg": "1.761",
+      "GIR Putts": "1,208",
+      "Greens Hit": "686",
+      "Birdie Conversion": "29.91%"
+    },
+    {
+      "rank": 105,
+      "player": "Robby Shelton",
+      "Avg": "1.761",
+      "GIR Putts": "2,159",
+      "Greens Hit": "1,226",
+      "Birdie Conversion": "30.15%"
+    },
+    {
+      "rank": 108,
+      "player": "K.H. Lee",
+      "Avg": "1.762",
+      "GIR Putts": "2,328",
+      "Greens Hit": "1,321",
+      "Birdie Conversion": "30.33%"
+    },
+    {
+      "rank": 109,
+      "player": "Cam Davis",
+      "Avg": "1.763",
+      "GIR Putts": "1,957",
+      "Greens Hit": "1,110",
+      "Birdie Conversion": "31.40%"
+    },
+    {
+      "rank": 110,
+      "player": "Brice Garnett",
+      "Avg": "1.764",
+      "GIR Putts": "1,925",
+      "Greens Hit": "1,091",
+      "Birdie Conversion": "28.56%"
+    },
+    {
+      "rank": 110,
+      "player": "Tano Goya",
+      "Avg": "1.764",
+      "GIR Putts": "1,963",
+      "Greens Hit": "1,113",
+      "Birdie Conversion": "33.18%"
+    },
+    {
+      "rank": 110,
+      "player": "Vincent Norrman",
+      "Avg": "1.764",
+      "GIR Putts": "1,863",
+      "Greens Hit": "1,056",
+      "Birdie Conversion": "31.90%"
+    },
+    {
+      "rank": 113,
+      "player": "Zecheng Dou",
+      "Avg": "1.765",
+      "GIR Putts": "2,083",
+      "Greens Hit": "1,180",
+      "Birdie Conversion": "31.61%"
+    },
+    {
+      "rank": 113,
+      "player": "Andrew Putnam",
+      "Avg": "1.765",
+      "GIR Putts": "2,459",
+      "Greens Hit": "1,393",
+      "Birdie Conversion": "29.02%"
+    },
+    {
+      "rank": 113,
+      "player": "Martin Trainer",
+      "Avg": "1.765",
+      "GIR Putts": "1,304",
+      "Greens Hit": "739",
+      "Birdie Conversion": "33.65%"
+    },
+    {
+      "rank": 116,
+      "player": "Tyson Alexander",
+      "Avg": "1.766",
+      "GIR Putts": "1,929",
+      "Greens Hit": "1,092",
+      "Birdie Conversion": "30.31%"
+    },
+    {
+      "rank": 116,
+      "player": "Aaron Rai",
+      "Avg": "1.766",
+      "GIR Putts": "2,324",
+      "Greens Hit": "1,316",
+      "Birdie Conversion": "30.13%"
+    },
+    {
+      "rank": 116,
+      "player": "Matti Schmid",
+      "Avg": "1.766",
+      "GIR Putts": "1,722",
+      "Greens Hit": "975",
+      "Birdie Conversion": "32.82%"
+    },
+    {
+      "rank": 119,
+      "player": "Lee Hodges",
+      "Avg": "1.767",
+      "GIR Putts": "2,230",
+      "Greens Hit": "1,262",
+      "Birdie Conversion": "28.61%"
+    },
+    {
+      "rank": 119,
+      "player": "Alex Smalley",
+      "Avg": "1.767",
+      "GIR Putts": "2,470",
+      "Greens Hit": "1,398",
+      "Birdie Conversion": "30.10%"
+    },
+    {
+      "rank": 119,
+      "player": "Ben Taylor",
+      "Avg": "1.767",
+      "GIR Putts": "2,184",
+      "Greens Hit": "1,236",
+      "Birdie Conversion": "29.90%"
+    },
+    {
+      "rank": 122,
+      "player": "Dylan Frittelli",
+      "Avg": "1.768",
+      "GIR Putts": "1,480",
+      "Greens Hit": "837",
+      "Birdie Conversion": "30.22%"
+    },
+    {
+      "rank": 122,
+      "player": "Shane Lowry",
+      "Avg": "1.768",
+      "GIR Putts": "1,308",
+      "Greens Hit": "740",
+      "Birdie Conversion": "29.13%"
+    },
+    {
+      "rank": 122,
+      "player": "Justin Thomas",
+      "Avg": "1.768",
+      "GIR Putts": "1,506",
+      "Greens Hit": "852",
+      "Birdie Conversion": "33.14%"
+    },
+    {
+      "rank": 125,
+      "player": "Austin Eckroat",
+      "Avg": "1.769",
+      "GIR Putts": "2,101",
+      "Greens Hit": "1,188",
+      "Birdie Conversion": "30.30%"
+    },
+    {
+      "rank": 125,
+      "player": "Harris English",
+      "Avg": "1.769",
+      "GIR Putts": "1,995",
+      "Greens Hit": "1,128",
+      "Birdie Conversion": "29.57%"
+    },
+    {
+      "rank": 127,
+      "player": "Hayden Buckley",
+      "Avg": "1.770",
+      "GIR Putts": "1,837",
+      "Greens Hit": "1,038",
+      "Birdie Conversion": "28.42%"
+    },
+    {
+      "rank": 127,
+      "player": "Billy Horschel",
+      "Avg": "1.770",
+      "GIR Putts": "1,306",
+      "Greens Hit": "738",
+      "Birdie Conversion": "30.43%"
+    },
+    {
+      "rank": 127,
+      "player": "Taylor Moore",
+      "Avg": "1.770",
+      "GIR Putts": "2,064",
+      "Greens Hit": "1,166",
+      "Birdie Conversion": "30.67%"
+    },
+    {
+      "rank": 127,
+      "player": "Kevin Yu",
+      "Avg": "1.770",
+      "GIR Putts": "1,643",
+      "Greens Hit": "928",
+      "Birdie Conversion": "32.14%"
+    },
+    {
+      "rank": 131,
+      "player": "Kurt Kitayama",
+      "Avg": "1.771",
+      "GIR Putts": "1,452",
+      "Greens Hit": "820",
+      "Birdie Conversion": "30.68%"
+    },
+    {
+      "rank": 131,
+      "player": "David Lipsky",
+      "Avg": "1.771",
+      "GIR Putts": "2,216",
+      "Greens Hit": "1,251",
+      "Birdie Conversion": "29.76%"
+    },
+    {
+      "rank": 133,
+      "player": "Paul Haley II",
+      "Avg": "1.772",
+      "GIR Putts": "1,901",
+      "Greens Hit": "1,073",
+      "Birdie Conversion": "29.32%"
+    },
+    {
+      "rank": 133,
+      "player": "Danny Willett",
+      "Avg": "1.772",
+      "GIR Putts": "1,308",
+      "Greens Hit": "738",
+      "Birdie Conversion": "27.72%"
+    },
+    {
+      "rank": 135,
+      "player": "Scott Harrington",
+      "Avg": "1.773",
+      "GIR Putts": "1,695",
+      "Greens Hit": "956",
+      "Birdie Conversion": "31.87%"
+    },
+    {
+      "rank": 135,
+      "player": "J.J. Spaun",
+      "Avg": "1.773",
+      "GIR Putts": "2,296",
+      "Greens Hit": "1,295",
+      "Birdie Conversion": "29.60%"
+    },
+    {
+      "rank": 137,
+      "player": "Wesley Bryan",
+      "Avg": "1.774",
+      "GIR Putts": "995",
+      "Greens Hit": "561",
+      "Birdie Conversion": "31.79%"
+    },
+    {
+      "rank": 137,
+      "player": "Nico Echavarria",
+      "Avg": "1.774",
+      "GIR Putts": "1,637",
+      "Greens Hit": "923",
+      "Birdie Conversion": "28.85%"
+    },
+    {
+      "rank": 139,
+      "player": "Max McGreevy",
+      "Avg": "1.775",
+      "GIR Putts": "1,869",
+      "Greens Hit": "1,053",
+      "Birdie Conversion": "28.71%"
+    },
+    {
+      "rank": 140,
+      "player": "Ryan Armour",
+      "Avg": "1.776",
+      "GIR Putts": "2,032",
+      "Greens Hit": "1,144",
+      "Birdie Conversion": "27.63%"
+    },
+    {
+      "rank": 140,
+      "player": "Joel Dahmen",
+      "Avg": "1.776",
+      "GIR Putts": "1,973",
+      "Greens Hit": "1,111",
+      "Birdie Conversion": "28.70%"
+    },
+    {
+      "rank": 140,
+      "player": "Michael Kim",
+      "Avg": "1.776",
+      "GIR Putts": "2,113",
+      "Greens Hit": "1,190",
+      "Birdie Conversion": "28.41%"
+    },
+    {
+      "rank": 140,
+      "player": "Troy Merritt",
+      "Avg": "1.776",
+      "GIR Putts": "1,920",
+      "Greens Hit": "1,081",
+      "Birdie Conversion": "30.56%"
+    },
+    {
+      "rank": 144,
+      "player": "Tyler Duncan",
+      "Avg": "1.777",
+      "GIR Putts": "2,129",
+      "Greens Hit": "1,198",
+      "Birdie Conversion": "29.71%"
+    },
+    {
+      "rank": 144,
+      "player": "Andrew Landry",
+      "Avg": "1.777",
+      "GIR Putts": "1,638",
+      "Greens Hit": "922",
+      "Birdie Conversion": "28.32%"
+    },
+    {
+      "rank": 144,
+      "player": "Sean O'Hair",
+      "Avg": "1.777",
+      "GIR Putts": "1,107",
+      "Greens Hit": "623",
+      "Birdie Conversion": "30.11%"
+    },
+    {
+      "rank": 144,
+      "player": "Robert Streb",
+      "Avg": "1.777",
+      "GIR Putts": "1,724",
+      "Greens Hit": "970",
+      "Birdie Conversion": "27.70%"
+    },
+    {
+      "rank": 148,
+      "player": "Satoshi Kodaira",
+      "Avg": "1.778",
+      "GIR Putts": "1,394",
+      "Greens Hit": "784",
+      "Birdie Conversion": "30.74%"
+    },
+    {
+      "rank": 148,
+      "player": "Martin Laird",
+      "Avg": "1.778",
+      "GIR Putts": "1,961",
+      "Greens Hit": "1,103",
+      "Birdie Conversion": "29.75%"
+    },
+    {
+      "rank": 150,
+      "player": "MJ Daffue",
+      "Avg": "1.779",
+      "GIR Putts": "2,210",
+      "Greens Hit": "1,242",
+      "Birdie Conversion": "32.39%"
+    },
+    {
+      "rank": 150,
+      "player": "Harrison Endycott",
+      "Avg": "1.779",
+      "GIR Putts": "1,888",
+      "Greens Hit": "1,061",
+      "Birdie Conversion": "30.12%"
+    },
+    {
+      "rank": 152,
+      "player": "Cody Gribble",
+      "Avg": "1.780",
+      "GIR Putts": "1,515",
+      "Greens Hit": "851",
+      "Birdie Conversion": "30.35%"
+    },
+    {
+      "rank": 152,
+      "player": "James Hahn",
+      "Avg": "1.780",
+      "GIR Putts": "1,752",
+      "Greens Hit": "984",
+      "Birdie Conversion": "28.13%"
+    },
+    {
+      "rank": 154,
+      "player": "Doug Ghim",
+      "Avg": "1.781",
+      "GIR Putts": "2,132",
+      "Greens Hit": "1,197",
+      "Birdie Conversion": "29.37%"
+    },
+    {
+      "rank": 154,
+      "player": "Luke List",
+      "Avg": "1.781",
+      "GIR Putts": "2,269",
+      "Greens Hit": "1,274",
+      "Birdie Conversion": "30.79%"
+    },
+    {
+      "rank": 154,
+      "player": "Matt NeSmith",
+      "Avg": "1.781",
+      "GIR Putts": "2,205",
+      "Greens Hit": "1,238",
+      "Birdie Conversion": "28.56%"
+    },
+    {
+      "rank": 154,
+      "player": "Kevin Roy",
+      "Avg": "1.781",
+      "GIR Putts": "1,669",
+      "Greens Hit": "937",
+      "Birdie Conversion": "30.20%"
+    },
+    {
+      "rank": 158,
+      "player": "C.T. Pan",
+      "Avg": "1.782",
+      "GIR Putts": "1,210",
+      "Greens Hit": "679",
+      "Birdie Conversion": "28.91%"
+    },
+    {
+      "rank": 158,
+      "player": "Matthias Schwab",
+      "Avg": "1.782",
+      "GIR Putts": "2,167",
+      "Greens Hit": "1,216",
+      "Birdie Conversion": "27.79%"
+    },
+    {
+      "rank": 160,
+      "player": "Cameron Champ",
+      "Avg": "1.783",
+      "GIR Putts": "1,735",
+      "Greens Hit": "973",
+      "Birdie Conversion": "30.35%"
+    },
+    {
+      "rank": 160,
+      "player": "Andrew Novak",
+      "Avg": "1.783",
+      "GIR Putts": "2,045",
+      "Greens Hit": "1,147",
+      "Birdie Conversion": "29.21%"
+    },
+    {
+      "rank": 160,
+      "player": "Taylor Pendrith",
+      "Avg": "1.783",
+      "GIR Putts": "2,209",
+      "Greens Hit": "1,239",
+      "Birdie Conversion": "29.10%"
+    },
+    {
+      "rank": 160,
+      "player": "Matt Wallace",
+      "Avg": "1.783",
+      "GIR Putts": "1,742",
+      "Greens Hit": "977",
+      "Birdie Conversion": "29.19%"
+    },
+    {
+      "rank": 164,
+      "player": "Zach Johnson",
+      "Avg": "1.784",
+      "GIR Putts": "1,436",
+      "Greens Hit": "805",
+      "Birdie Conversion": "25.78%"
+    },
+    {
+      "rank": 165,
+      "player": "Chez Reavie",
+      "Avg": "1.786",
+      "GIR Putts": "2,115",
+      "Greens Hit": "1,184",
+      "Birdie Conversion": "27.64%"
+    },
+    {
+      "rank": 165,
+      "player": "Adam Schenk",
+      "Avg": "1.786",
+      "GIR Putts": "2,591",
+      "Greens Hit": "1,451",
+      "Birdie Conversion": "28.97%"
+    },
+    {
+      "rank": 165,
+      "player": "Jimmy Walker",
+      "Avg": "1.786",
+      "GIR Putts": "1,772",
+      "Greens Hit": "992",
+      "Birdie Conversion": "29.49%"
+    },
+    {
+      "rank": 168,
+      "player": "Kevin Tway",
+      "Avg": "1.787",
+      "GIR Putts": "2,207",
+      "Greens Hit": "1,235",
+      "Birdie Conversion": "28.61%"
+    },
+    {
+      "rank": 169,
+      "player": "Nick Watney",
+      "Avg": "1.788",
+      "GIR Putts": "1,552",
+      "Greens Hit": "868",
+      "Birdie Conversion": "27.68%"
+    },
+    {
+      "rank": 170,
+      "player": "Ryan Brehm",
+      "Avg": "1.790",
+      "GIR Putts": "1,788",
+      "Greens Hit": "999",
+      "Birdie Conversion": "29.10%"
+    },
+    {
+      "rank": 170,
+      "player": "Kramer Hickok",
+      "Avg": "1.790",
+      "GIR Putts": "2,144",
+      "Greens Hit": "1,198",
+      "Birdie Conversion": "27.89%"
+    },
+    {
+      "rank": 170,
+      "player": "Doc Redman",
+      "Avg": "1.790",
+      "GIR Putts": "1,758",
+      "Greens Hit": "982",
+      "Birdie Conversion": "28.64%"
+    },
+    {
+      "rank": 170,
+      "player": "Chris Stroud",
+      "Avg": "1.790",
+      "GIR Putts": "1,262",
+      "Greens Hit": "705",
+      "Birdie Conversion": "27.41%"
+    },
+    {
+      "rank": 174,
+      "player": "Jonathan Byrd",
+      "Avg": "1.791",
+      "GIR Putts": "1,261",
+      "Greens Hit": "704",
+      "Birdie Conversion": "28.02%"
+    },
+    {
+      "rank": 175,
+      "player": "Jason Dufner",
+      "Avg": "1.792",
+      "GIR Putts": "2,014",
+      "Greens Hit": "1,124",
+      "Birdie Conversion": "29.12%"
+    },
+    {
+      "rank": 175,
+      "player": "Kevin Streelman",
+      "Avg": "1.792",
+      "GIR Putts": "2,063",
+      "Greens Hit": "1,151",
+      "Birdie Conversion": "27.70%"
+    },
+    {
+      "rank": 175,
+      "player": "Kyle Westmoreland",
+      "Avg": "1.792",
+      "GIR Putts": "1,693",
+      "Greens Hit": "945",
+      "Birdie Conversion": "29.90%"
+    },
+    {
+      "rank": 178,
+      "player": "Trevor Werbylo",
+      "Avg": "1.794",
+      "GIR Putts": "1,719",
+      "Greens Hit": "958",
+      "Birdie Conversion": "27.93%"
+    },
+    {
+      "rank": 179,
+      "player": "Charley Hoffman",
+      "Avg": "1.797",
+      "GIR Putts": "1,792",
+      "Greens Hit": "997",
+      "Birdie Conversion": "29.25%"
+    },
+    {
+      "rank": 180,
+      "player": "Scott Stallings",
+      "Avg": "1.798",
+      "GIR Putts": "1,793",
+      "Greens Hit": "997",
+      "Birdie Conversion": "28.33%"
+    },
+    {
+      "rank": 181,
+      "player": "Russell Knox",
+      "Avg": "1.799",
+      "GIR Putts": "2,646",
+      "Greens Hit": "1,471",
+      "Birdie Conversion": "26.73%"
+    },
+    {
+      "rank": 181,
+      "player": "Trey Mullinax",
+      "Avg": "1.799",
+      "GIR Putts": "1,461",
+      "Greens Hit": "812",
+      "Birdie Conversion": "29.43%"
+    },
+    {
+      "rank": 183,
+      "player": "Brent Grant",
+      "Avg": "1.800",
+      "GIR Putts": "1,861",
+      "Greens Hit": "1,034",
+      "Birdie Conversion": "31.52%"
+    },
+    {
+      "rank": 184,
+      "player": "Lanto Griffin",
+      "Avg": "1.801",
+      "GIR Putts": "1,266",
+      "Greens Hit": "703",
+      "Birdie Conversion": "27.49%"
+    },
+    {
+      "rank": 184,
+      "player": "Henrik Norlander",
+      "Avg": "1.801",
+      "GIR Putts": "2,039",
+      "Greens Hit": "1,132",
+      "Birdie Conversion": "26.95%"
+    },
+    {
+      "rank": 186,
+      "player": "Trevor Cone",
+      "Avg": "1.802",
+      "GIR Putts": "1,852",
+      "Greens Hit": "1,028",
+      "Birdie Conversion": "29.95%"
+    },
+    {
+      "rank": 186,
+      "player": "Cameron Percy",
+      "Avg": "1.802",
+      "GIR Putts": "1,508",
+      "Greens Hit": "837",
+      "Birdie Conversion": "26.83%"
+    },
+    {
+      "rank": 188,
+      "player": "Hank Lebioda",
+      "Avg": "1.805",
+      "GIR Putts": "1,339",
+      "Greens Hit": "742",
+      "Birdie Conversion": "26.55%"
+    },
+    {
+      "rank": 188,
+      "player": "Gary Woodland",
+      "Avg": "1.805",
+      "GIR Putts": "1,832",
+      "Greens Hit": "1,015",
+      "Birdie Conversion": "29.81%"
+    },
+    {
+      "rank": 190,
+      "player": "Michael Gligic",
+      "Avg": "1.807",
+      "GIR Putts": "1,523",
+      "Greens Hit": "843",
+      "Birdie Conversion": "27.14%"
+    },
+    {
+      "rank": 191,
+      "player": "Brandon Matthews",
+      "Avg": "1.814",
+      "GIR Putts": "1,241",
+      "Greens Hit": "684",
+      "Birdie Conversion": "29.58%"
+    },
+    {
+      "rank": 192,
+      "player": "Augusto N\u00fa\u00f1ez",
+      "Avg": "1.823",
+      "GIR Putts": "1,910",
+      "Greens Hit": "1,048",
+      "Birdie Conversion": "28.30%"
+    },
+    {
+      "rank": 193,
+      "player": "Jim Herman",
+      "Avg": "1.834",
+      "GIR Putts": "1,715",
+      "Greens Hit": "935",
+      "Birdie Conversion": "25.70%"
+    }
+  ]
+}

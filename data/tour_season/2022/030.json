@@ -1,0 +1,973 @@
+{
+  "stat_id": "030",
+  "year": 2022,
+  "category": "Approach the Green",
+  "stat_title": "Approach 50-75 yards (RTP Score)",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Vaughn Taylor",
+      "Avg RTP": "-.545"
+    },
+    {
+      "rank": 2,
+      "player": "Jason Day",
+      "Avg RTP": "-.500"
+    },
+    {
+      "rank": 3,
+      "player": "Patrick Cantlay",
+      "Avg RTP": "-.455"
+    },
+    {
+      "rank": 4,
+      "player": "Will Zalatoris",
+      "Avg RTP": "-.429"
+    },
+    {
+      "rank": 5,
+      "player": "Joshua Creel",
+      "Avg RTP": "-.417"
+    },
+    {
+      "rank": 6,
+      "player": "S.Y. Noh",
+      "Avg RTP": "-.412"
+    },
+    {
+      "rank": 7,
+      "player": "Webb Simpson",
+      "Avg RTP": "-.400"
+    },
+    {
+      "rank": 8,
+      "player": "Austin Smotherman",
+      "Avg RTP": "-.381"
+    },
+    {
+      "rank": 9,
+      "player": "Branden Grace",
+      "Avg RTP": "-.375"
+    },
+    {
+      "rank": 10,
+      "player": "Jon Rahm",
+      "Avg RTP": "-.368"
+    },
+    {
+      "rank": 11,
+      "player": "Justin Lower",
+      "Avg RTP": "-.357"
+    },
+    {
+      "rank": 12,
+      "player": "Luke Donald",
+      "Avg RTP": "-.333"
+    },
+    {
+      "rank": 12,
+      "player": "Tom Hoge",
+      "Avg RTP": "-.333"
+    },
+    {
+      "rank": 12,
+      "player": "Adam Long",
+      "Avg RTP": "-.333"
+    },
+    {
+      "rank": 12,
+      "player": "Joaquin Niemann",
+      "Avg RTP": "-.333"
+    },
+    {
+      "rank": 12,
+      "player": "Scott Piercy",
+      "Avg RTP": "-.333"
+    },
+    {
+      "rank": 12,
+      "player": "Dylan Wu",
+      "Avg RTP": "-.333"
+    },
+    {
+      "rank": 18,
+      "player": "Davis Riley",
+      "Avg RTP": "-.321"
+    },
+    {
+      "rank": 19,
+      "player": "Viktor Hovland",
+      "Avg RTP": "-.316"
+    },
+    {
+      "rank": 20,
+      "player": "Adam Hadwin",
+      "Avg RTP": "-.300"
+    },
+    {
+      "rank": 20,
+      "player": "Charley Hoffman",
+      "Avg RTP": "-.300"
+    },
+    {
+      "rank": 20,
+      "player": "Brooks Koepka",
+      "Avg RTP": "-.300"
+    },
+    {
+      "rank": 20,
+      "player": "Erik van Rooyen",
+      "Avg RTP": "-.300"
+    },
+    {
+      "rank": 24,
+      "player": "James Hahn",
+      "Avg RTP": "-.294"
+    },
+    {
+      "rank": 24,
+      "player": "Doc Redman",
+      "Avg RTP": "-.294"
+    },
+    {
+      "rank": 24,
+      "player": "Robert Streb",
+      "Avg RTP": "-.294"
+    },
+    {
+      "rank": 27,
+      "player": "Brian Harman",
+      "Avg RTP": "-.286"
+    },
+    {
+      "rank": 27,
+      "player": "Alex Smalley",
+      "Avg RTP": "-.286"
+    },
+    {
+      "rank": 29,
+      "player": "David Lipsky",
+      "Avg RTP": "-.280"
+    },
+    {
+      "rank": 30,
+      "player": "Vince Whaley",
+      "Avg RTP": "-.276"
+    },
+    {
+      "rank": 31,
+      "player": "Matt Wallace",
+      "Avg RTP": "-.273"
+    },
+    {
+      "rank": 32,
+      "player": "Kelly Kraft",
+      "Avg RTP": "-.267"
+    },
+    {
+      "rank": 33,
+      "player": "Scottie Scheffler",
+      "Avg RTP": "-.261"
+    },
+    {
+      "rank": 33,
+      "player": "Scott Stallings",
+      "Avg RTP": "-.261"
+    },
+    {
+      "rank": 35,
+      "player": "Cam Davis",
+      "Avg RTP": "-.259"
+    },
+    {
+      "rank": 36,
+      "player": "Tyrrell Hatton",
+      "Avg RTP": "-.250"
+    },
+    {
+      "rank": 36,
+      "player": "Beau Hossler",
+      "Avg RTP": "-.250"
+    },
+    {
+      "rank": 36,
+      "player": "Sungjae Im",
+      "Avg RTP": "-.250"
+    },
+    {
+      "rank": 36,
+      "player": "Nate Lashley",
+      "Avg RTP": "-.250"
+    },
+    {
+      "rank": 36,
+      "player": "Cameron Young",
+      "Avg RTP": "-.250"
+    },
+    {
+      "rank": 41,
+      "player": "John Huh",
+      "Avg RTP": "-.238"
+    },
+    {
+      "rank": 42,
+      "player": "Adam Schenk",
+      "Avg RTP": "-.227"
+    },
+    {
+      "rank": 43,
+      "player": "Cameron Percy",
+      "Avg RTP": "-.222"
+    },
+    {
+      "rank": 44,
+      "player": "Henrik Norlander",
+      "Avg RTP": "-.214"
+    },
+    {
+      "rank": 44,
+      "player": "Chase Seiffert",
+      "Avg RTP": "-.214"
+    },
+    {
+      "rank": 44,
+      "player": "Cameron Smith",
+      "Avg RTP": "-.214"
+    },
+    {
+      "rank": 47,
+      "player": "Anirban Lahiri",
+      "Avg RTP": "-.200"
+    },
+    {
+      "rank": 47,
+      "player": "Rory McIlroy",
+      "Avg RTP": "-.200"
+    },
+    {
+      "rank": 47,
+      "player": "Collin Morikawa",
+      "Avg RTP": "-.200"
+    },
+    {
+      "rank": 47,
+      "player": "Adam Svensson",
+      "Avg RTP": "-.200"
+    },
+    {
+      "rank": 51,
+      "player": "Mackenzie Hughes",
+      "Avg RTP": "-.188"
+    },
+    {
+      "rank": 52,
+      "player": "Rickie Fowler",
+      "Avg RTP": "-.182"
+    },
+    {
+      "rank": 52,
+      "player": "Kevin Kisner",
+      "Avg RTP": "-.182"
+    },
+    {
+      "rank": 52,
+      "player": "Andrew Putnam",
+      "Avg RTP": "-.182"
+    },
+    {
+      "rank": 52,
+      "player": "Justin Thomas",
+      "Avg RTP": "-.182"
+    },
+    {
+      "rank": 56,
+      "player": "Bill Haas",
+      "Avg RTP": "-.176"
+    },
+    {
+      "rank": 56,
+      "player": "Luke List",
+      "Avg RTP": "-.176"
+    },
+    {
+      "rank": 56,
+      "player": "Seth Reeves",
+      "Avg RTP": "-.176"
+    },
+    {
+      "rank": 59,
+      "player": "Dylan Frittelli",
+      "Avg RTP": "-.174"
+    },
+    {
+      "rank": 59,
+      "player": "J.J. Spaun",
+      "Avg RTP": "-.174"
+    },
+    {
+      "rank": 59,
+      "player": "Jordan Spieth",
+      "Avg RTP": "-.174"
+    },
+    {
+      "rank": 62,
+      "player": "Russell Henley",
+      "Avg RTP": "-.167"
+    },
+    {
+      "rank": 62,
+      "player": "Lucas Herbert",
+      "Avg RTP": "-.167"
+    },
+    {
+      "rank": 62,
+      "player": "Si Woo Kim",
+      "Avg RTP": "-.167"
+    },
+    {
+      "rank": 62,
+      "player": "Nick Watney",
+      "Avg RTP": "-.167"
+    },
+    {
+      "rank": 66,
+      "player": "Corey Conners",
+      "Avg RTP": "-.160"
+    },
+    {
+      "rank": 67,
+      "player": "Abraham Ancer",
+      "Avg RTP": "-.158"
+    },
+    {
+      "rank": 68,
+      "player": "Max Homa",
+      "Avg RTP": "-.154"
+    },
+    {
+      "rank": 68,
+      "player": "Brandon Wu",
+      "Avg RTP": "-.154"
+    },
+    {
+      "rank": 70,
+      "player": "Christiaan Bezuidenhout",
+      "Avg RTP": "-.143"
+    },
+    {
+      "rank": 70,
+      "player": "C.T. Pan",
+      "Avg RTP": "-.143"
+    },
+    {
+      "rank": 70,
+      "player": "Rory Sabbatini",
+      "Avg RTP": "-.143"
+    },
+    {
+      "rank": 73,
+      "player": "Maverick McNealy",
+      "Avg RTP": "-.136"
+    },
+    {
+      "rank": 73,
+      "player": "Taylor Pendrith",
+      "Avg RTP": "-.136"
+    },
+    {
+      "rank": 75,
+      "player": "Paul Barjon",
+      "Avg RTP": "-.133"
+    },
+    {
+      "rank": 76,
+      "player": "Trey Mullinax",
+      "Avg RTP": "-.129"
+    },
+    {
+      "rank": 77,
+      "player": "Brett Drewitt",
+      "Avg RTP": "-.125"
+    },
+    {
+      "rank": 77,
+      "player": "Michael Gligic",
+      "Avg RTP": "-.125"
+    },
+    {
+      "rank": 77,
+      "player": "Jim Knous",
+      "Avg RTP": "-.125"
+    },
+    {
+      "rank": 77,
+      "player": "Ryan Palmer",
+      "Avg RTP": "-.125"
+    },
+    {
+      "rank": 81,
+      "player": "Joseph Bramlett",
+      "Avg RTP": "-.118"
+    },
+    {
+      "rank": 81,
+      "player": "Russell Knox",
+      "Avg RTP": "-.118"
+    },
+    {
+      "rank": 83,
+      "player": "Stewart Cink",
+      "Avg RTP": "-.115"
+    },
+    {
+      "rank": 83,
+      "player": "Tyler Duncan",
+      "Avg RTP": "-.115"
+    },
+    {
+      "rank": 85,
+      "player": "Jonas Blixt",
+      "Avg RTP": "-.111"
+    },
+    {
+      "rank": 85,
+      "player": "Mark Hubbard",
+      "Avg RTP": "-.111"
+    },
+    {
+      "rank": 85,
+      "player": "Ian Poulter",
+      "Avg RTP": "-.111"
+    },
+    {
+      "rank": 85,
+      "player": "Adam Scott",
+      "Avg RTP": "-.111"
+    },
+    {
+      "rank": 85,
+      "player": "Richy Werenski",
+      "Avg RTP": "-.111"
+    },
+    {
+      "rank": 90,
+      "player": "Patrick Reed",
+      "Avg RTP": "-.105"
+    },
+    {
+      "rank": 90,
+      "player": "Callum Tarren",
+      "Avg RTP": "-.105"
+    },
+    {
+      "rank": 92,
+      "player": "Wyndham Clark",
+      "Avg RTP": "-.103"
+    },
+    {
+      "rank": 93,
+      "player": "Garrick Higgo",
+      "Avg RTP": "-.100"
+    },
+    {
+      "rank": 93,
+      "player": "Charles Howell III",
+      "Avg RTP": "-.100"
+    },
+    {
+      "rank": 95,
+      "player": "Matt Jones",
+      "Avg RTP": "-.095"
+    },
+    {
+      "rank": 96,
+      "player": "Sam Burns",
+      "Avg RTP": "-.087"
+    },
+    {
+      "rank": 97,
+      "player": "Keegan Bradley",
+      "Avg RTP": "-.077"
+    },
+    {
+      "rank": 98,
+      "player": "Jonathan Byrd",
+      "Avg RTP": "-.071"
+    },
+    {
+      "rank": 98,
+      "player": "Denny McCarthy",
+      "Avg RTP": "-.071"
+    },
+    {
+      "rank": 98,
+      "player": "Harold Varner III",
+      "Avg RTP": "-.071"
+    },
+    {
+      "rank": 101,
+      "player": "Jared Wolfe",
+      "Avg RTP": "-.067"
+    },
+    {
+      "rank": 102,
+      "player": "Tommy Fleetwood",
+      "Avg RTP": "-.063"
+    },
+    {
+      "rank": 102,
+      "player": "Alex Noren",
+      "Avg RTP": "-.063"
+    },
+    {
+      "rank": 104,
+      "player": "Joel Dahmen",
+      "Avg RTP": "-.059"
+    },
+    {
+      "rank": 104,
+      "player": "Lanto Griffin",
+      "Avg RTP": "-.059"
+    },
+    {
+      "rank": 104,
+      "player": "J.T. Poston",
+      "Avg RTP": "-.059"
+    },
+    {
+      "rank": 107,
+      "player": "Zach Johnson",
+      "Avg RTP": "-.056"
+    },
+    {
+      "rank": 107,
+      "player": "Nick Taylor",
+      "Avg RTP": "-.056"
+    },
+    {
+      "rank": 109,
+      "player": "Kramer Hickok",
+      "Avg RTP": "-.053"
+    },
+    {
+      "rank": 109,
+      "player": "Roger Sloan",
+      "Avg RTP": "-.053"
+    },
+    {
+      "rank": 111,
+      "player": "Matthew NeSmith",
+      "Avg RTP": "-.050"
+    },
+    {
+      "rank": 112,
+      "player": "Brandon Hagy",
+      "Avg RTP": "-.045"
+    },
+    {
+      "rank": 113,
+      "player": "Matt Kuchar",
+      "Avg RTP": "-.042"
+    },
+    {
+      "rank": 114,
+      "player": "Kiradech Aphibarnrat",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Kevin Chappell",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Tony Finau",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Matt Fitzpatrick",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Scott Gutschewski",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Jim Herman",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Harry Higgs",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Sung Kang",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Satoshi Kodaira",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Jason Kokrak",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Martin Laird",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Hank Lebioda",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Danny Lee",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Hideki Matsuyama",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Max McGreevy",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Keith Mitchell",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Pat Perez",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Aaron Rai",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Chad Ramey",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Patrick Rodgers",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Justin Rose",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "David Skinns",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Sahith Theegala",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Curtis Thompson",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Martin Trainer",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Dawie van der Walt",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Camilo Villegas",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Aaron Wise",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Matthew Wolff",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 114,
+      "player": "Gary Woodland",
+      "Avg RTP": "E"
+    },
+    {
+      "rank": 145,
+      "player": "Kevin Tway",
+      "Avg RTP": "+.026"
+    },
+    {
+      "rank": 146,
+      "player": "Patton Kizzire",
+      "Avg RTP": "+.040"
+    },
+    {
+      "rank": 147,
+      "player": "Brendan Steele",
+      "Avg RTP": "+.045"
+    },
+    {
+      "rank": 148,
+      "player": "Peter Malnati",
+      "Avg RTP": "+.048"
+    },
+    {
+      "rank": 148,
+      "player": "Kevin Streelman",
+      "Avg RTP": "+.048"
+    },
+    {
+      "rank": 150,
+      "player": "Kurt Kitayama",
+      "Avg RTP": "+.053"
+    },
+    {
+      "rank": 151,
+      "player": "Jason Dufner",
+      "Avg RTP": "+.056"
+    },
+    {
+      "rank": 151,
+      "player": "Troy Merritt",
+      "Avg RTP": "+.056"
+    },
+    {
+      "rank": 153,
+      "player": "Austin Cook",
+      "Avg RTP": "+.063"
+    },
+    {
+      "rank": 153,
+      "player": "Stephan Jaeger",
+      "Avg RTP": "+.063"
+    },
+    {
+      "rank": 155,
+      "player": "Doug Ghim",
+      "Avg RTP": "+.067"
+    },
+    {
+      "rank": 155,
+      "player": "Lucas Glover",
+      "Avg RTP": "+.067"
+    },
+    {
+      "rank": 157,
+      "player": "Chesson Hadley",
+      "Avg RTP": "+.071"
+    },
+    {
+      "rank": 157,
+      "player": "Marc Leishman",
+      "Avg RTP": "+.071"
+    },
+    {
+      "rank": 159,
+      "player": "Seamus Power",
+      "Avg RTP": "+.077"
+    },
+    {
+      "rank": 159,
+      "player": "Brandt Snedeker",
+      "Avg RTP": "+.077"
+    },
+    {
+      "rank": 161,
+      "player": "Francesco Molinari",
+      "Avg RTP": "+.083"
+    },
+    {
+      "rank": 162,
+      "player": "Chris Kirk",
+      "Avg RTP": "+.091"
+    },
+    {
+      "rank": 162,
+      "player": "Danny Willett",
+      "Avg RTP": "+.091"
+    },
+    {
+      "rank": 164,
+      "player": "Hayden Buckley",
+      "Avg RTP": "+.105"
+    },
+    {
+      "rank": 165,
+      "player": "Brian Stuard",
+      "Avg RTP": "+.111"
+    },
+    {
+      "rank": 166,
+      "player": "Matthias Schwab",
+      "Avg RTP": "+.118"
+    },
+    {
+      "rank": 166,
+      "player": "Brendon Todd",
+      "Avg RTP": "+.118"
+    },
+    {
+      "rank": 168,
+      "player": "Cameron Champ",
+      "Avg RTP": "+.125"
+    },
+    {
+      "rank": 168,
+      "player": "Bo Hoag",
+      "Avg RTP": "+.125"
+    },
+    {
+      "rank": 168,
+      "player": "K.H. Lee",
+      "Avg RTP": "+.125"
+    },
+    {
+      "rank": 168,
+      "player": "Carlos Ortiz",
+      "Avg RTP": "+.125"
+    },
+    {
+      "rank": 172,
+      "player": "Nick Hardy",
+      "Avg RTP": "+.133"
+    },
+    {
+      "rank": 173,
+      "player": "Talor Gooch",
+      "Avg RTP": "+.143"
+    },
+    {
+      "rank": 173,
+      "player": "Hudson Swafford",
+      "Avg RTP": "+.143"
+    },
+    {
+      "rank": 175,
+      "player": "Wesley Bryan",
+      "Avg RTP": "+.154"
+    },
+    {
+      "rank": 176,
+      "player": "Taylor Moore",
+      "Avg RTP": "+.167"
+    },
+    {
+      "rank": 176,
+      "player": "Sepp Straka",
+      "Avg RTP": "+.167"
+    },
+    {
+      "rank": 178,
+      "player": "Sam Ryder",
+      "Avg RTP": "+.200"
+    },
+    {
+      "rank": 179,
+      "player": "Chez Reavie",
+      "Avg RTP": "+.214"
+    },
+    {
+      "rank": 180,
+      "player": "Billy Horschel",
+      "Avg RTP": "+.231"
+    },
+    {
+      "rank": 180,
+      "player": "Xander Schauffele",
+      "Avg RTP": "+.231"
+    },
+    {
+      "rank": 182,
+      "player": "Lee Hodges",
+      "Avg RTP": "+.250"
+    },
+    {
+      "rank": 182,
+      "player": "Ben Kohles",
+      "Avg RTP": "+.250"
+    },
+    {
+      "rank": 184,
+      "player": "Michael Thompson",
+      "Avg RTP": "+.263"
+    },
+    {
+      "rank": 185,
+      "player": "Cameron Tringale",
+      "Avg RTP": "+.278"
+    },
+    {
+      "rank": 186,
+      "player": "Jhonattan Vegas",
+      "Avg RTP": "+.286"
+    },
+    {
+      "rank": 187,
+      "player": "Emiliano Grillo",
+      "Avg RTP": "+.333"
+    },
+    {
+      "rank": 188,
+      "player": "Ryan Armour",
+      "Avg RTP": "+.400"
+    },
+    {
+      "rank": 188,
+      "player": "Brice Garnett",
+      "Avg RTP": "+.400"
+    },
+    {
+      "rank": 190,
+      "player": "Mito Pereira",
+      "Avg RTP": "+.429"
+    },
+    {
+      "rank": 191,
+      "player": "Andrew Novak",
+      "Avg RTP": "+.455"
+    },
+    {
+      "rank": 192,
+      "player": "Shane Lowry",
+      "Avg RTP": "+.714"
+    },
+    {
+      "rank": 193,
+      "player": "Greyson Sigg",
+      "Avg RTP": "+.750"
+    }
+  ]
+}

@@ -1,0 +1,1359 @@
+{
+  "stat_id": "156",
+  "year": 2022,
+  "category": "Scoring",
+  "stat_title": "Birdie Average",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Cameron Smith",
+      "Avg": "4.63",
+      "# of Birdies": "287",
+      "Total Rounds": "62"
+    },
+    {
+      "rank": 2,
+      "player": "Scottie Scheffler",
+      "Avg": "4.60",
+      "# of Birdies": "386",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 3,
+      "player": "Justin Thomas",
+      "Avg": "4.58",
+      "# of Birdies": "348",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 4,
+      "player": "Rory McIlroy",
+      "Avg": "4.53",
+      "# of Birdies": "272",
+      "Total Rounds": "60"
+    },
+    {
+      "rank": 5,
+      "player": "Patrick Cantlay",
+      "Avg": "4.44",
+      "# of Birdies": "302",
+      "Total Rounds": "68"
+    },
+    {
+      "rank": 6,
+      "player": "Cameron Young",
+      "Avg": "4.41",
+      "# of Birdies": "362",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 7,
+      "player": "Viktor Hovland",
+      "Avg": "4.37",
+      "# of Birdies": "306",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 8,
+      "player": "Sam Burns",
+      "Avg": "4.33",
+      "# of Birdies": "346",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 9,
+      "player": "Xander Schauffele",
+      "Avg": "4.32",
+      "# of Birdies": "311",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 9,
+      "player": "Will Zalatoris",
+      "Avg": "4.32",
+      "# of Birdies": "328",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 11,
+      "player": "Tony Finau",
+      "Avg": "4.22",
+      "# of Birdies": "363",
+      "Total Rounds": "86"
+    },
+    {
+      "rank": 12,
+      "player": "Russell Henley",
+      "Avg": "4.21",
+      "# of Birdies": "328",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 13,
+      "player": "Charles Howell III",
+      "Avg": "4.19",
+      "# of Birdies": "226",
+      "Total Rounds": "54"
+    },
+    {
+      "rank": 14,
+      "player": "Hideki Matsuyama",
+      "Avg": "4.18",
+      "# of Birdies": "301",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 15,
+      "player": "Jon Rahm",
+      "Avg": "4.17",
+      "# of Birdies": "292",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 16,
+      "player": "Joaquin Niemann",
+      "Avg": "4.15",
+      "# of Birdies": "332",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 16,
+      "player": "Davis Riley",
+      "Avg": "4.15",
+      "# of Birdies": "390",
+      "Total Rounds": "94"
+    },
+    {
+      "rank": 18,
+      "player": "Vince Whaley",
+      "Avg": "4.14",
+      "# of Birdies": "352",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 19,
+      "player": "Talor Gooch",
+      "Avg": "4.10",
+      "# of Birdies": "291",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 19,
+      "player": "Maverick McNealy",
+      "Avg": "4.10",
+      "# of Birdies": "361",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 21,
+      "player": "Jordan Spieth",
+      "Avg": "4.07",
+      "# of Birdies": "301",
+      "Total Rounds": "74"
+    },
+    {
+      "rank": 21,
+      "player": "Harold Varner III",
+      "Avg": "4.07",
+      "# of Birdies": "281",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 21,
+      "player": "Aaron Wise",
+      "Avg": "4.07",
+      "# of Birdies": "350",
+      "Total Rounds": "86"
+    },
+    {
+      "rank": 24,
+      "player": "Keith Mitchell",
+      "Avg": "4.06",
+      "# of Birdies": "349",
+      "Total Rounds": "86"
+    },
+    {
+      "rank": 25,
+      "player": "Emiliano Grillo",
+      "Avg": "4.05",
+      "# of Birdies": "340",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 26,
+      "player": "Nate Lashley",
+      "Avg": "4.04",
+      "# of Birdies": "307",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 26,
+      "player": "Trey Mullinax",
+      "Avg": "4.04",
+      "# of Birdies": "331",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 26,
+      "player": "Taylor Pendrith",
+      "Avg": "4.04",
+      "# of Birdies": "287",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 26,
+      "player": "Adam Svensson",
+      "Avg": "4.04",
+      "# of Birdies": "404",
+      "Total Rounds": "100"
+    },
+    {
+      "rank": 30,
+      "player": "Collin Morikawa",
+      "Avg": "4.03",
+      "# of Birdies": "242",
+      "Total Rounds": "60"
+    },
+    {
+      "rank": 30,
+      "player": "Hudson Swafford",
+      "Avg": "4.03",
+      "# of Birdies": "258",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 32,
+      "player": "Taylor Moore",
+      "Avg": "4.01",
+      "# of Birdies": "337",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 32,
+      "player": "Adam Scott",
+      "Avg": "4.01",
+      "# of Birdies": "289",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 34,
+      "player": "Cam Davis",
+      "Avg": "4.00",
+      "# of Birdies": "328",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 35,
+      "player": "Sungjae Im",
+      "Avg": "3.99",
+      "# of Birdies": "351",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 36,
+      "player": "John Huh",
+      "Avg": "3.97",
+      "# of Birdies": "294",
+      "Total Rounds": "74"
+    },
+    {
+      "rank": 37,
+      "player": "Marc Leishman",
+      "Avg": "3.96",
+      "# of Birdies": "285",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 38,
+      "player": "Seamus Power",
+      "Avg": "3.95",
+      "# of Birdies": "308",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 38,
+      "player": "Scott Stallings",
+      "Avg": "3.95",
+      "# of Birdies": "379",
+      "Total Rounds": "96"
+    },
+    {
+      "rank": 40,
+      "player": "Max Homa",
+      "Avg": "3.94",
+      "# of Birdies": "323",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 41,
+      "player": "Peter Malnati",
+      "Avg": "3.93",
+      "# of Birdies": "405",
+      "Total Rounds": "103"
+    },
+    {
+      "rank": 42,
+      "player": "Tom Hoge",
+      "Avg": "3.92",
+      "# of Birdies": "376",
+      "Total Rounds": "96"
+    },
+    {
+      "rank": 43,
+      "player": "Jason Day",
+      "Avg": "3.91",
+      "# of Birdies": "223",
+      "Total Rounds": "57"
+    },
+    {
+      "rank": 43,
+      "player": "Justin Rose",
+      "Avg": "3.91",
+      "# of Birdies": "211",
+      "Total Rounds": "54"
+    },
+    {
+      "rank": 45,
+      "player": "Danny Lee",
+      "Avg": "3.90",
+      "# of Birdies": "203",
+      "Total Rounds": "52"
+    },
+    {
+      "rank": 46,
+      "player": "Tyrrell Hatton",
+      "Avg": "3.88",
+      "# of Birdies": "248",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 46,
+      "player": "Justin Lower",
+      "Avg": "3.88",
+      "# of Birdies": "279",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 48,
+      "player": "S.Y. Noh",
+      "Avg": "3.87",
+      "# of Birdies": "244",
+      "Total Rounds": "63"
+    },
+    {
+      "rank": 48,
+      "player": "Seth Reeves",
+      "Avg": "3.87",
+      "# of Birdies": "259",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 50,
+      "player": "Corey Conners",
+      "Avg": "3.86",
+      "# of Birdies": "336",
+      "Total Rounds": "87"
+    },
+    {
+      "rank": 50,
+      "player": "Satoshi Kodaira",
+      "Avg": "3.86",
+      "# of Birdies": "197",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 50,
+      "player": "Ben Kohles",
+      "Avg": "3.86",
+      "# of Birdies": "243",
+      "Total Rounds": "63"
+    },
+    {
+      "rank": 53,
+      "player": "Lanto Griffin",
+      "Avg": "3.85",
+      "# of Birdies": "300",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 53,
+      "player": "Si Woo Kim",
+      "Avg": "3.85",
+      "# of Birdies": "377",
+      "Total Rounds": "98"
+    },
+    {
+      "rank": 55,
+      "player": "Abraham Ancer",
+      "Avg": "3.84",
+      "# of Birdies": "223",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 55,
+      "player": "Joel Dahmen",
+      "Avg": "3.84",
+      "# of Birdies": "326",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 55,
+      "player": "Chad Ramey",
+      "Avg": "3.84",
+      "# of Birdies": "280",
+      "Total Rounds": "73"
+    },
+    {
+      "rank": 58,
+      "player": "Kevin Kisner",
+      "Avg": "3.83",
+      "# of Birdies": "253",
+      "Total Rounds": "66"
+    },
+    {
+      "rank": 58,
+      "player": "Brooks Koepka",
+      "Avg": "3.83",
+      "# of Birdies": "176",
+      "Total Rounds": "46"
+    },
+    {
+      "rank": 58,
+      "player": "Sahith Theegala",
+      "Avg": "3.83",
+      "# of Birdies": "433",
+      "Total Rounds": "113"
+    },
+    {
+      "rank": 61,
+      "player": "Tyler Duncan",
+      "Avg": "3.82",
+      "# of Birdies": "313",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 61,
+      "player": "Adam Hadwin",
+      "Avg": "3.82",
+      "# of Birdies": "344",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 61,
+      "player": "Rory Sabbatini",
+      "Avg": "3.82",
+      "# of Birdies": "210",
+      "Total Rounds": "55"
+    },
+    {
+      "rank": 64,
+      "player": "Kurt Kitayama",
+      "Avg": "3.81",
+      "# of Birdies": "267",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 64,
+      "player": "J.J. Spaun",
+      "Avg": "3.81",
+      "# of Birdies": "362",
+      "Total Rounds": "95"
+    },
+    {
+      "rank": 64,
+      "player": "Matthew Wolff",
+      "Avg": "3.81",
+      "# of Birdies": "179",
+      "Total Rounds": "47"
+    },
+    {
+      "rank": 67,
+      "player": "Kevin Chappell",
+      "Avg": "3.80",
+      "# of Birdies": "209",
+      "Total Rounds": "55"
+    },
+    {
+      "rank": 67,
+      "player": "Nick Hardy",
+      "Avg": "3.80",
+      "# of Birdies": "224",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 67,
+      "player": "Billy Horschel",
+      "Avg": "3.80",
+      "# of Birdies": "266",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 67,
+      "player": "Cameron Percy",
+      "Avg": "3.80",
+      "# of Birdies": "167",
+      "Total Rounds": "44"
+    },
+    {
+      "rank": 71,
+      "player": "Keegan Bradley",
+      "Avg": "3.79",
+      "# of Birdies": "303",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 71,
+      "player": "Matt Jones",
+      "Avg": "3.79",
+      "# of Birdies": "231",
+      "Total Rounds": "61"
+    },
+    {
+      "rank": 73,
+      "player": "Sung Kang",
+      "Avg": "3.78",
+      "# of Birdies": "302",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 73,
+      "player": "Jim Knous",
+      "Avg": "3.78",
+      "# of Birdies": "193",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 73,
+      "player": "Webb Simpson",
+      "Avg": "3.78",
+      "# of Birdies": "223",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 73,
+      "player": "Roger Sloan",
+      "Avg": "3.78",
+      "# of Birdies": "276",
+      "Total Rounds": "73"
+    },
+    {
+      "rank": 77,
+      "player": "Tommy Fleetwood",
+      "Avg": "3.77",
+      "# of Birdies": "211",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 77,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "3.77",
+      "# of Birdies": "313",
+      "Total Rounds": "83"
+    },
+    {
+      "rank": 77,
+      "player": "Carlos Ortiz",
+      "Avg": "3.77",
+      "# of Birdies": "230",
+      "Total Rounds": "61"
+    },
+    {
+      "rank": 77,
+      "player": "Pat Perez",
+      "Avg": "3.77",
+      "# of Birdies": "234",
+      "Total Rounds": "62"
+    },
+    {
+      "rank": 77,
+      "player": "David Skinns",
+      "Avg": "3.77",
+      "# of Birdies": "249",
+      "Total Rounds": "66"
+    },
+    {
+      "rank": 77,
+      "player": "Vaughn Taylor",
+      "Avg": "3.77",
+      "# of Birdies": "200",
+      "Total Rounds": "53"
+    },
+    {
+      "rank": 83,
+      "player": "Michael Thompson",
+      "Avg": "3.76",
+      "# of Birdies": "316",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 83,
+      "player": "Brendon Todd",
+      "Avg": "3.76",
+      "# of Birdies": "312",
+      "Total Rounds": "83"
+    },
+    {
+      "rank": 83,
+      "player": "Cameron Tringale",
+      "Avg": "3.76",
+      "# of Birdies": "346",
+      "Total Rounds": "92"
+    },
+    {
+      "rank": 86,
+      "player": "Mark Hubbard",
+      "Avg": "3.75",
+      "# of Birdies": "255",
+      "Total Rounds": "68"
+    },
+    {
+      "rank": 86,
+      "player": "Mito Pereira",
+      "Avg": "3.75",
+      "# of Birdies": "334",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 86,
+      "player": "Austin Smotherman",
+      "Avg": "3.75",
+      "# of Birdies": "289",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 89,
+      "player": "Lucas Herbert",
+      "Avg": "3.74",
+      "# of Birdies": "202",
+      "Total Rounds": "54"
+    },
+    {
+      "rank": 89,
+      "player": "Stephan Jaeger",
+      "Avg": "3.74",
+      "# of Birdies": "318",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 89,
+      "player": "Sam Ryder",
+      "Avg": "3.74",
+      "# of Birdies": "329",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 89,
+      "player": "Callum Tarren",
+      "Avg": "3.74",
+      "# of Birdies": "258",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 89,
+      "player": "Brandon Wu",
+      "Avg": "3.74",
+      "# of Birdies": "277",
+      "Total Rounds": "74"
+    },
+    {
+      "rank": 94,
+      "player": "Cameron Champ",
+      "Avg": "3.73",
+      "# of Birdies": "209",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 94,
+      "player": "Wyndham Clark",
+      "Avg": "3.73",
+      "# of Birdies": "362",
+      "Total Rounds": "97"
+    },
+    {
+      "rank": 94,
+      "player": "Chesson Hadley",
+      "Avg": "3.73",
+      "# of Birdies": "298",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 94,
+      "player": "Matt Kuchar",
+      "Avg": "3.73",
+      "# of Birdies": "265",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 98,
+      "player": "Brandon Hagy",
+      "Avg": "3.72",
+      "# of Birdies": "290",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 98,
+      "player": "Patton Kizzire",
+      "Avg": "3.72",
+      "# of Birdies": "335",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 98,
+      "player": "Jason Kokrak",
+      "Avg": "3.72",
+      "# of Birdies": "227",
+      "Total Rounds": "61"
+    },
+    {
+      "rank": 98,
+      "player": "Francesco Molinari",
+      "Avg": "3.72",
+      "# of Birdies": "197",
+      "Total Rounds": "53"
+    },
+    {
+      "rank": 98,
+      "player": "J.T. Poston",
+      "Avg": "3.72",
+      "# of Birdies": "327",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 103,
+      "player": "Lucas Glover",
+      "Avg": "3.71",
+      "# of Birdies": "345",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 103,
+      "player": "Charley Hoffman",
+      "Avg": "3.71",
+      "# of Birdies": "256",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 103,
+      "player": "Alex Smalley",
+      "Avg": "3.71",
+      "# of Birdies": "345",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 106,
+      "player": "K.H. Lee",
+      "Avg": "3.70",
+      "# of Birdies": "363",
+      "Total Rounds": "98"
+    },
+    {
+      "rank": 107,
+      "player": "Matt Fitzpatrick",
+      "Avg": "3.69",
+      "# of Birdies": "258",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 107,
+      "player": "Michael Gligic",
+      "Avg": "3.69",
+      "# of Birdies": "262",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 107,
+      "player": "Shane Lowry",
+      "Avg": "3.69",
+      "# of Birdies": "214",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 107,
+      "player": "Jhonattan Vegas",
+      "Avg": "3.69",
+      "# of Birdies": "284",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 111,
+      "player": "Paul Barjon",
+      "Avg": "3.68",
+      "# of Birdies": "261",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 111,
+      "player": "Kelly Kraft",
+      "Avg": "3.68",
+      "# of Birdies": "254",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 111,
+      "player": "Scott Piercy",
+      "Avg": "3.68",
+      "# of Birdies": "283",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 114,
+      "player": "Joseph Bramlett",
+      "Avg": "3.67",
+      "# of Birdies": "297",
+      "Total Rounds": "81"
+    },
+    {
+      "rank": 114,
+      "player": "C.T. Pan",
+      "Avg": "3.67",
+      "# of Birdies": "301",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 114,
+      "player": "Greyson Sigg",
+      "Avg": "3.67",
+      "# of Birdies": "330",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 117,
+      "player": "Stewart Cink",
+      "Avg": "3.66",
+      "# of Birdies": "282",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 117,
+      "player": "Luke Donald",
+      "Avg": "3.66",
+      "# of Birdies": "245",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 117,
+      "player": "Luke List",
+      "Avg": "3.66",
+      "# of Birdies": "293",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 117,
+      "player": "Troy Merritt",
+      "Avg": "3.66",
+      "# of Birdies": "333",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 117,
+      "player": "Matthias Schwab",
+      "Avg": "3.66",
+      "# of Birdies": "256",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 122,
+      "player": "Hank Lebioda",
+      "Avg": "3.65",
+      "# of Birdies": "292",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 122,
+      "player": "David Lipsky",
+      "Avg": "3.65",
+      "# of Birdies": "321",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 122,
+      "player": "Richy Werenski",
+      "Avg": "3.65",
+      "# of Birdies": "230",
+      "Total Rounds": "63"
+    },
+    {
+      "rank": 125,
+      "player": "Kiradech Aphibarnrat",
+      "Avg": "3.64",
+      "# of Birdies": "193",
+      "Total Rounds": "53"
+    },
+    {
+      "rank": 126,
+      "player": "Adam Long",
+      "Avg": "3.63",
+      "# of Birdies": "319",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 126,
+      "player": "Max McGreevy",
+      "Avg": "3.63",
+      "# of Birdies": "261",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 126,
+      "player": "Erik van Rooyen",
+      "Avg": "3.63",
+      "# of Birdies": "174",
+      "Total Rounds": "48"
+    },
+    {
+      "rank": 129,
+      "player": "Denny McCarthy",
+      "Avg": "3.62",
+      "# of Birdies": "362",
+      "Total Rounds": "100"
+    },
+    {
+      "rank": 130,
+      "player": "Ian Poulter",
+      "Avg": "3.61",
+      "# of Birdies": "159",
+      "Total Rounds": "44"
+    },
+    {
+      "rank": 130,
+      "player": "Doc Redman",
+      "Avg": "3.61",
+      "# of Birdies": "285",
+      "Total Rounds": "79"
+    },
+    {
+      "rank": 132,
+      "player": "Mackenzie Hughes",
+      "Avg": "3.60",
+      "# of Birdies": "295",
+      "Total Rounds": "82"
+    },
+    {
+      "rank": 132,
+      "player": "Matthew NeSmith",
+      "Avg": "3.60",
+      "# of Birdies": "331",
+      "Total Rounds": "92"
+    },
+    {
+      "rank": 134,
+      "player": "Alex Noren",
+      "Avg": "3.59",
+      "# of Birdies": "230",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 134,
+      "player": "Andrew Novak",
+      "Avg": "3.59",
+      "# of Birdies": "273",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 134,
+      "player": "Patrick Reed",
+      "Avg": "3.59",
+      "# of Birdies": "251",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 137,
+      "player": "Hayden Buckley",
+      "Avg": "3.57",
+      "# of Birdies": "325",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 137,
+      "player": "Matt Wallace",
+      "Avg": "3.57",
+      "# of Birdies": "200",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 139,
+      "player": "Dylan Frittelli",
+      "Avg": "3.56",
+      "# of Birdies": "331",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 139,
+      "player": "Lee Hodges",
+      "Avg": "3.56",
+      "# of Birdies": "331",
+      "Total Rounds": "93"
+    },
+    {
+      "rank": 139,
+      "player": "Chris Kirk",
+      "Avg": "3.56",
+      "# of Birdies": "299",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 139,
+      "player": "Sepp Straka",
+      "Avg": "3.56",
+      "# of Birdies": "349",
+      "Total Rounds": "98"
+    },
+    {
+      "rank": 139,
+      "player": "Martin Trainer",
+      "Avg": "3.56",
+      "# of Birdies": "278",
+      "Total Rounds": "78"
+    },
+    {
+      "rank": 139,
+      "player": "Dawie van der Walt",
+      "Avg": "3.56",
+      "# of Birdies": "221",
+      "Total Rounds": "62"
+    },
+    {
+      "rank": 145,
+      "player": "Garrick Higgo",
+      "Avg": "3.55",
+      "# of Birdies": "206",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 146,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "3.54",
+      "# of Birdies": "283",
+      "Total Rounds": "80"
+    },
+    {
+      "rank": 146,
+      "player": "Andrew Putnam",
+      "Avg": "3.54",
+      "# of Birdies": "333",
+      "Total Rounds": "94"
+    },
+    {
+      "rank": 148,
+      "player": "Kevin Streelman",
+      "Avg": "3.53",
+      "# of Birdies": "311",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 149,
+      "player": "Scott Gutschewski",
+      "Avg": "3.52",
+      "# of Birdies": "197",
+      "Total Rounds": "56"
+    },
+    {
+      "rank": 149,
+      "player": "Brian Harman",
+      "Avg": "3.52",
+      "# of Birdies": "320",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 149,
+      "player": "Ryan Palmer",
+      "Avg": "3.52",
+      "# of Birdies": "236",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 152,
+      "player": "Aaron Rai",
+      "Avg": "3.51",
+      "# of Birdies": "312",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 153,
+      "player": "Jonathan Byrd",
+      "Avg": "3.49",
+      "# of Birdies": "199",
+      "Total Rounds": "57"
+    },
+    {
+      "rank": 153,
+      "player": "Anirban Lahiri",
+      "Avg": "3.49",
+      "# of Birdies": "251",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 153,
+      "player": "Nick Taylor",
+      "Avg": "3.49",
+      "# of Birdies": "307",
+      "Total Rounds": "88"
+    },
+    {
+      "rank": 153,
+      "player": "Jared Wolfe",
+      "Avg": "3.49",
+      "# of Birdies": "206",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 157,
+      "player": "Austin Cook",
+      "Avg": "3.48",
+      "# of Birdies": "240",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 157,
+      "player": "Camilo Villegas",
+      "Avg": "3.48",
+      "# of Birdies": "240",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 159,
+      "player": "Brice Garnett",
+      "Avg": "3.47",
+      "# of Birdies": "267",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 159,
+      "player": "Beau Hossler",
+      "Avg": "3.47",
+      "# of Birdies": "243",
+      "Total Rounds": "70"
+    },
+    {
+      "rank": 159,
+      "player": "Danny Willett",
+      "Avg": "3.47",
+      "# of Birdies": "215",
+      "Total Rounds": "62"
+    },
+    {
+      "rank": 162,
+      "player": "Wesley Bryan",
+      "Avg": "3.45",
+      "# of Birdies": "169",
+      "Total Rounds": "49"
+    },
+    {
+      "rank": 162,
+      "player": "Rickie Fowler",
+      "Avg": "3.45",
+      "# of Birdies": "245",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 162,
+      "player": "Curtis Thompson",
+      "Avg": "3.45",
+      "# of Birdies": "221",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 165,
+      "player": "Martin Laird",
+      "Avg": "3.44",
+      "# of Birdies": "227",
+      "Total Rounds": "66"
+    },
+    {
+      "rank": 165,
+      "player": "Chez Reavie",
+      "Avg": "3.44",
+      "# of Birdies": "292",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 165,
+      "player": "Brendan Steele",
+      "Avg": "3.44",
+      "# of Birdies": "251",
+      "Total Rounds": "73"
+    },
+    {
+      "rank": 168,
+      "player": "Bill Haas",
+      "Avg": "3.42",
+      "# of Birdies": "308",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 168,
+      "player": "Zach Johnson",
+      "Avg": "3.42",
+      "# of Birdies": "219",
+      "Total Rounds": "64"
+    },
+    {
+      "rank": 168,
+      "player": "Adam Schenk",
+      "Avg": "3.42",
+      "# of Birdies": "308",
+      "Total Rounds": "90"
+    },
+    {
+      "rank": 171,
+      "player": "Kevin Tway",
+      "Avg": "3.40",
+      "# of Birdies": "262",
+      "Total Rounds": "77"
+    },
+    {
+      "rank": 172,
+      "player": "James Hahn",
+      "Avg": "3.39",
+      "# of Birdies": "241",
+      "Total Rounds": "71"
+    },
+    {
+      "rank": 172,
+      "player": "Chase Seiffert",
+      "Avg": "3.39",
+      "# of Birdies": "173",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 174,
+      "player": "Jason Dufner",
+      "Avg": "3.38",
+      "# of Birdies": "169",
+      "Total Rounds": "50"
+    },
+    {
+      "rank": 174,
+      "player": "Russell Knox",
+      "Avg": "3.38",
+      "# of Birdies": "301",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 176,
+      "player": "Kramer Hickok",
+      "Avg": "3.37",
+      "# of Birdies": "307",
+      "Total Rounds": "91"
+    },
+    {
+      "rank": 177,
+      "player": "Henrik Norlander",
+      "Avg": "3.36",
+      "# of Birdies": "242",
+      "Total Rounds": "72"
+    },
+    {
+      "rank": 177,
+      "player": "Patrick Rodgers",
+      "Avg": "3.36",
+      "# of Birdies": "286",
+      "Total Rounds": "85"
+    },
+    {
+      "rank": 177,
+      "player": "Brandt Snedeker",
+      "Avg": "3.36",
+      "# of Birdies": "198",
+      "Total Rounds": "59"
+    },
+    {
+      "rank": 177,
+      "player": "Gary Woodland",
+      "Avg": "3.36",
+      "# of Birdies": "232",
+      "Total Rounds": "69"
+    },
+    {
+      "rank": 181,
+      "player": "Branden Grace",
+      "Avg": "3.35",
+      "# of Birdies": "174",
+      "Total Rounds": "52"
+    },
+    {
+      "rank": 182,
+      "player": "Dylan Wu",
+      "Avg": "3.34",
+      "# of Birdies": "224",
+      "Total Rounds": "67"
+    },
+    {
+      "rank": 183,
+      "player": "Jonas Blixt",
+      "Avg": "3.32",
+      "# of Birdies": "166",
+      "Total Rounds": "50"
+    },
+    {
+      "rank": 184,
+      "player": "Robert Streb",
+      "Avg": "3.31",
+      "# of Birdies": "275",
+      "Total Rounds": "83"
+    },
+    {
+      "rank": 185,
+      "player": "Doug Ghim",
+      "Avg": "3.29",
+      "# of Birdies": "276",
+      "Total Rounds": "84"
+    },
+    {
+      "rank": 185,
+      "player": "Brian Stuard",
+      "Avg": "3.29",
+      "# of Birdies": "293",
+      "Total Rounds": "89"
+    },
+    {
+      "rank": 187,
+      "player": "Brett Drewitt",
+      "Avg": "3.26",
+      "# of Birdies": "189",
+      "Total Rounds": "58"
+    },
+    {
+      "rank": 187,
+      "player": "Nick Watney",
+      "Avg": "3.26",
+      "# of Birdies": "248",
+      "Total Rounds": "76"
+    },
+    {
+      "rank": 189,
+      "player": "Jim Herman",
+      "Avg": "3.22",
+      "# of Birdies": "164",
+      "Total Rounds": "51"
+    },
+    {
+      "rank": 190,
+      "player": "Ryan Armour",
+      "Avg": "3.20",
+      "# of Birdies": "160",
+      "Total Rounds": "50"
+    },
+    {
+      "rank": 190,
+      "player": "Bo Hoag",
+      "Avg": "3.20",
+      "# of Birdies": "157",
+      "Total Rounds": "49"
+    },
+    {
+      "rank": 192,
+      "player": "Joshua Creel",
+      "Avg": "3.19",
+      "# of Birdies": "150",
+      "Total Rounds": "47"
+    },
+    {
+      "rank": 193,
+      "player": "Harry Higgs",
+      "Avg": "3.15",
+      "# of Birdies": "252",
+      "Total Rounds": "80"
+    }
+  ]
+}

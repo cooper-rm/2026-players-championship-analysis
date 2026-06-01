@@ -1,0 +1,1359 @@
+{
+  "stat_id": "02325",
+  "year": 2022,
+  "category": "Approach the Green",
+  "stat_title": "Average Approach Shot Distance",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Taylor Pendrith",
+      "Avg": "158.8",
+      "Total Dist of Appr Shot": "6,006,644.000",
+      "Total Holes": "1,051"
+    },
+    {
+      "rank": 2,
+      "player": "Kevin Chappell",
+      "Avg": "160.2",
+      "Total Dist of Appr Shot": "4,497,726.000",
+      "Total Holes": "780"
+    },
+    {
+      "rank": 3,
+      "player": "Cameron Percy",
+      "Avg": "160.9",
+      "Total Dist of Appr Shot": "3,296,557.000",
+      "Total Holes": "569"
+    },
+    {
+      "rank": 4,
+      "player": "Scott Gutschewski",
+      "Avg": "161.0",
+      "Total Dist of Appr Shot": "3,929,677.000",
+      "Total Holes": "678"
+    },
+    {
+      "rank": 5,
+      "player": "S.Y. Noh",
+      "Avg": "161.1",
+      "Total Dist of Appr Shot": "4,745,269.000",
+      "Total Holes": "818"
+    },
+    {
+      "rank": 6,
+      "player": "Will Zalatoris",
+      "Avg": "161.3",
+      "Total Dist of Appr Shot": "5,944,666.000",
+      "Total Holes": "1,024"
+    },
+    {
+      "rank": 7,
+      "player": "Jim Herman",
+      "Avg": "161.5",
+      "Total Dist of Appr Shot": "4,489,535.000",
+      "Total Holes": "772"
+    },
+    {
+      "rank": 7,
+      "player": "Zach Johnson",
+      "Avg": "161.5",
+      "Total Dist of Appr Shot": "5,704,300.000",
+      "Total Holes": "981"
+    },
+    {
+      "rank": 9,
+      "player": "Cameron Young",
+      "Avg": "161.6",
+      "Total Dist of Appr Shot": "7,255,577.000",
+      "Total Holes": "1,247"
+    },
+    {
+      "rank": 10,
+      "player": "Nick Watney",
+      "Avg": "161.9",
+      "Total Dist of Appr Shot": "6,433,687.000",
+      "Total Holes": "1,104"
+    },
+    {
+      "rank": 11,
+      "player": "Stewart Cink",
+      "Avg": "162.0",
+      "Total Dist of Appr Shot": "6,827,274.000",
+      "Total Holes": "1,171"
+    },
+    {
+      "rank": 12,
+      "player": "Nick Hardy",
+      "Avg": "162.4",
+      "Total Dist of Appr Shot": "4,677,828.000",
+      "Total Holes": "800"
+    },
+    {
+      "rank": 13,
+      "player": "Kevin Tway",
+      "Avg": "162.5",
+      "Total Dist of Appr Shot": "6,990,724.000",
+      "Total Holes": "1,195"
+    },
+    {
+      "rank": 14,
+      "player": "Chase Seiffert",
+      "Avg": "162.6",
+      "Total Dist of Appr Shot": "3,864,521.000",
+      "Total Holes": "660"
+    },
+    {
+      "rank": 15,
+      "player": "Jason Dufner",
+      "Avg": "162.8",
+      "Total Dist of Appr Shot": "4,084,405.000",
+      "Total Holes": "697"
+    },
+    {
+      "rank": 16,
+      "player": "Charley Hoffman",
+      "Avg": "162.9",
+      "Total Dist of Appr Shot": "6,082,025.000",
+      "Total Holes": "1,037"
+    },
+    {
+      "rank": 17,
+      "player": "Joshua Creel",
+      "Avg": "163.0",
+      "Total Dist of Appr Shot": "3,879,351.000",
+      "Total Holes": "661"
+    },
+    {
+      "rank": 17,
+      "player": "Kurt Kitayama",
+      "Avg": "163.0",
+      "Total Dist of Appr Shot": "4,805,939.000",
+      "Total Holes": "819"
+    },
+    {
+      "rank": 17,
+      "player": "Troy Merritt",
+      "Avg": "163.0",
+      "Total Dist of Appr Shot": "7,737,882.000",
+      "Total Holes": "1,319"
+    },
+    {
+      "rank": 17,
+      "player": "Matthias Schwab",
+      "Avg": "163.0",
+      "Total Dist of Appr Shot": "5,767,668.000",
+      "Total Holes": "983"
+    },
+    {
+      "rank": 21,
+      "player": "Seth Reeves",
+      "Avg": "163.2",
+      "Total Dist of Appr Shot": "5,130,610.000",
+      "Total Holes": "873"
+    },
+    {
+      "rank": 22,
+      "player": "Ryan Armour",
+      "Avg": "163.4",
+      "Total Dist of Appr Shot": "3,688,616.000",
+      "Total Holes": "627"
+    },
+    {
+      "rank": 22,
+      "player": "Austin Cook",
+      "Avg": "163.4",
+      "Total Dist of Appr Shot": "5,546,081.000",
+      "Total Holes": "943"
+    },
+    {
+      "rank": 22,
+      "player": "Brandon Hagy",
+      "Avg": "163.4",
+      "Total Dist of Appr Shot": "6,298,987.000",
+      "Total Holes": "1,071"
+    },
+    {
+      "rank": 25,
+      "player": "Wyndham Clark",
+      "Avg": "163.5",
+      "Total Dist of Appr Shot": "7,826,879.000",
+      "Total Holes": "1,330"
+    },
+    {
+      "rank": 25,
+      "player": "Curtis Thompson",
+      "Avg": "163.5",
+      "Total Dist of Appr Shot": "4,620,794.000",
+      "Total Holes": "785"
+    },
+    {
+      "rank": 27,
+      "player": "Brian Harman",
+      "Avg": "163.6",
+      "Total Dist of Appr Shot": "7,952,976.000",
+      "Total Holes": "1,350"
+    },
+    {
+      "rank": 27,
+      "player": "Martin Trainer",
+      "Avg": "163.6",
+      "Total Dist of Appr Shot": "6,482,525.000",
+      "Total Holes": "1,101"
+    },
+    {
+      "rank": 29,
+      "player": "Shane Lowry",
+      "Avg": "163.7",
+      "Total Dist of Appr Shot": "5,049,240.000",
+      "Total Holes": "857"
+    },
+    {
+      "rank": 30,
+      "player": "Brendan Steele",
+      "Avg": "163.8",
+      "Total Dist of Appr Shot": "6,551,151.000",
+      "Total Holes": "1,111"
+    },
+    {
+      "rank": 31,
+      "player": "Adam Hadwin",
+      "Avg": "163.9",
+      "Total Dist of Appr Shot": "8,005,604.000",
+      "Total Holes": "1,357"
+    },
+    {
+      "rank": 31,
+      "player": "Tyrrell Hatton",
+      "Avg": "163.9",
+      "Total Dist of Appr Shot": "5,046,206.000",
+      "Total Holes": "855"
+    },
+    {
+      "rank": 31,
+      "player": "Dawie van der Walt",
+      "Avg": "163.9",
+      "Total Dist of Appr Shot": "5,069,508.000",
+      "Total Holes": "859"
+    },
+    {
+      "rank": 31,
+      "player": "Dylan Wu",
+      "Avg": "163.9",
+      "Total Dist of Appr Shot": "5,364,092.000",
+      "Total Holes": "909"
+    },
+    {
+      "rank": 35,
+      "player": "Bill Haas",
+      "Avg": "164.0",
+      "Total Dist of Appr Shot": "7,149,444.000",
+      "Total Holes": "1,211"
+    },
+    {
+      "rank": 36,
+      "player": "Chesson Hadley",
+      "Avg": "164.1",
+      "Total Dist of Appr Shot": "6,740,998.000",
+      "Total Holes": "1,141"
+    },
+    {
+      "rank": 36,
+      "player": "Denny McCarthy",
+      "Avg": "164.1",
+      "Total Dist of Appr Shot": "9,187,772.000",
+      "Total Holes": "1,555"
+    },
+    {
+      "rank": 36,
+      "player": "Trey Mullinax",
+      "Avg": "164.1",
+      "Total Dist of Appr Shot": "6,974,821.000",
+      "Total Holes": "1,181"
+    },
+    {
+      "rank": 39,
+      "player": "Danny Willett",
+      "Avg": "164.2",
+      "Total Dist of Appr Shot": "4,391,762.000",
+      "Total Holes": "743"
+    },
+    {
+      "rank": 40,
+      "player": "Luke Donald",
+      "Avg": "164.3",
+      "Total Dist of Appr Shot": "5,507,254.000",
+      "Total Holes": "931"
+    },
+    {
+      "rank": 41,
+      "player": "Chad Ramey",
+      "Avg": "164.4",
+      "Total Dist of Appr Shot": "5,824,167.000",
+      "Total Holes": "984"
+    },
+    {
+      "rank": 42,
+      "player": "Jim Knous",
+      "Avg": "164.5",
+      "Total Dist of Appr Shot": "3,791,146.000",
+      "Total Holes": "640"
+    },
+    {
+      "rank": 42,
+      "player": "Peter Malnati",
+      "Avg": "164.5",
+      "Total Dist of Appr Shot": "9,207,447.000",
+      "Total Holes": "1,555"
+    },
+    {
+      "rank": 42,
+      "player": "Justin Rose",
+      "Avg": "164.5",
+      "Total Dist of Appr Shot": "4,003,273.000",
+      "Total Holes": "676"
+    },
+    {
+      "rank": 45,
+      "player": "Harold Varner III",
+      "Avg": "164.6",
+      "Total Dist of Appr Shot": "6,013,583.000",
+      "Total Holes": "1,015"
+    },
+    {
+      "rank": 46,
+      "player": "Anirban Lahiri",
+      "Avg": "164.7",
+      "Total Dist of Appr Shot": "6,296,168.000",
+      "Total Holes": "1,062"
+    },
+    {
+      "rank": 46,
+      "player": "Vince Whaley",
+      "Avg": "164.7",
+      "Total Dist of Appr Shot": "7,081,286.000",
+      "Total Holes": "1,194"
+    },
+    {
+      "rank": 46,
+      "player": "Matthew Wolff",
+      "Avg": "164.7",
+      "Total Dist of Appr Shot": "3,984,335.000",
+      "Total Holes": "672"
+    },
+    {
+      "rank": 49,
+      "player": "Lucas Herbert",
+      "Avg": "164.8",
+      "Total Dist of Appr Shot": "4,164,461.000",
+      "Total Holes": "702"
+    },
+    {
+      "rank": 49,
+      "player": "Harry Higgs",
+      "Avg": "164.8",
+      "Total Dist of Appr Shot": "7,171,166.000",
+      "Total Holes": "1,209"
+    },
+    {
+      "rank": 49,
+      "player": "Scott Stallings",
+      "Avg": "164.8",
+      "Total Dist of Appr Shot": "8,913,481.000",
+      "Total Holes": "1,502"
+    },
+    {
+      "rank": 52,
+      "player": "Roger Sloan",
+      "Avg": "164.9",
+      "Total Dist of Appr Shot": "6,553,885.000",
+      "Total Holes": "1,104"
+    },
+    {
+      "rank": 53,
+      "player": "Webb Simpson",
+      "Avg": "165.0",
+      "Total Dist of Appr Shot": "5,505,183.000",
+      "Total Holes": "927"
+    },
+    {
+      "rank": 53,
+      "player": "Alex Smalley",
+      "Avg": "165.0",
+      "Total Dist of Appr Shot": "7,969,868.000",
+      "Total Holes": "1,342"
+    },
+    {
+      "rank": 55,
+      "player": "Lucas Glover",
+      "Avg": "165.1",
+      "Total Dist of Appr Shot": "8,684,543.000",
+      "Total Holes": "1,461"
+    },
+    {
+      "rank": 55,
+      "player": "Russell Knox",
+      "Avg": "165.1",
+      "Total Dist of Appr Shot": "7,879,270.000",
+      "Total Holes": "1,326"
+    },
+    {
+      "rank": 55,
+      "player": "Mito Pereira",
+      "Avg": "165.1",
+      "Total Dist of Appr Shot": "7,995,253.000",
+      "Total Holes": "1,345"
+    },
+    {
+      "rank": 55,
+      "player": "Rory Sabbatini",
+      "Avg": "165.1",
+      "Total Dist of Appr Shot": "5,302,276.000",
+      "Total Holes": "892"
+    },
+    {
+      "rank": 55,
+      "player": "J.J. Spaun",
+      "Avg": "165.1",
+      "Total Dist of Appr Shot": "7,750,653.000",
+      "Total Holes": "1,304"
+    },
+    {
+      "rank": 55,
+      "player": "Callum Tarren",
+      "Avg": "165.1",
+      "Total Dist of Appr Shot": "5,717,837.000",
+      "Total Holes": "962"
+    },
+    {
+      "rank": 61,
+      "player": "Patrick Rodgers",
+      "Avg": "165.2",
+      "Total Dist of Appr Shot": "7,361,091.000",
+      "Total Holes": "1,238"
+    },
+    {
+      "rank": 62,
+      "player": "Charles Howell III",
+      "Avg": "165.3",
+      "Total Dist of Appr Shot": "4,979,363.000",
+      "Total Holes": "837"
+    },
+    {
+      "rank": 63,
+      "player": "Kevin Kisner",
+      "Avg": "165.5",
+      "Total Dist of Appr Shot": "5,855,478.000",
+      "Total Holes": "983"
+    },
+    {
+      "rank": 64,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "165.6",
+      "Total Dist of Appr Shot": "5,848,910.000",
+      "Total Holes": "981"
+    },
+    {
+      "rank": 64,
+      "player": "Nate Lashley",
+      "Avg": "165.6",
+      "Total Dist of Appr Shot": "6,490,240.000",
+      "Total Holes": "1,089"
+    },
+    {
+      "rank": 64,
+      "player": "Brandt Snedeker",
+      "Avg": "165.6",
+      "Total Dist of Appr Shot": "5,217,548.000",
+      "Total Holes": "875"
+    },
+    {
+      "rank": 67,
+      "player": "Jonas Blixt",
+      "Avg": "165.7",
+      "Total Dist of Appr Shot": "4,431,642.000",
+      "Total Holes": "743"
+    },
+    {
+      "rank": 67,
+      "player": "Keegan Bradley",
+      "Avg": "165.7",
+      "Total Dist of Appr Shot": "7,052,453.000",
+      "Total Holes": "1,182"
+    },
+    {
+      "rank": 67,
+      "player": "Joseph Bramlett",
+      "Avg": "165.7",
+      "Total Dist of Appr Shot": "7,134,029.000",
+      "Total Holes": "1,196"
+    },
+    {
+      "rank": 67,
+      "player": "Brett Drewitt",
+      "Avg": "165.7",
+      "Total Dist of Appr Shot": "4,437,478.000",
+      "Total Holes": "744"
+    },
+    {
+      "rank": 67,
+      "player": "Branden Grace",
+      "Avg": "165.7",
+      "Total Dist of Appr Shot": "4,526,457.000",
+      "Total Holes": "759"
+    },
+    {
+      "rank": 67,
+      "player": "Billy Horschel",
+      "Avg": "165.7",
+      "Total Dist of Appr Shot": "5,852,761.000",
+      "Total Holes": "981"
+    },
+    {
+      "rank": 67,
+      "player": "Adam Scott",
+      "Avg": "165.7",
+      "Total Dist of Appr Shot": "6,680,335.000",
+      "Total Holes": "1,120"
+    },
+    {
+      "rank": 67,
+      "player": "Austin Smotherman",
+      "Avg": "165.7",
+      "Total Dist of Appr Shot": "6,715,052.000",
+      "Total Holes": "1,126"
+    },
+    {
+      "rank": 75,
+      "player": "Rickie Fowler",
+      "Avg": "165.8",
+      "Total Dist of Appr Shot": "5,913,677.000",
+      "Total Holes": "991"
+    },
+    {
+      "rank": 75,
+      "player": "Sam Ryder",
+      "Avg": "165.8",
+      "Total Dist of Appr Shot": "8,284,800.000",
+      "Total Holes": "1,388"
+    },
+    {
+      "rank": 75,
+      "player": "Vaughn Taylor",
+      "Avg": "165.8",
+      "Total Dist of Appr Shot": "4,273,447.000",
+      "Total Holes": "716"
+    },
+    {
+      "rank": 75,
+      "player": "Camilo Villegas",
+      "Avg": "165.8",
+      "Total Dist of Appr Shot": "5,414,220.000",
+      "Total Holes": "907"
+    },
+    {
+      "rank": 79,
+      "player": "Corey Conners",
+      "Avg": "165.9",
+      "Total Dist of Appr Shot": "7,562,548.000",
+      "Total Holes": "1,266"
+    },
+    {
+      "rank": 79,
+      "player": "Joel Dahmen",
+      "Avg": "165.9",
+      "Total Dist of Appr Shot": "7,854,263.000",
+      "Total Holes": "1,315"
+    },
+    {
+      "rank": 79,
+      "player": "Tyler Duncan",
+      "Avg": "165.9",
+      "Total Dist of Appr Shot": "6,916,512.000",
+      "Total Holes": "1,158"
+    },
+    {
+      "rank": 79,
+      "player": "Taylor Moore",
+      "Avg": "165.9",
+      "Total Dist of Appr Shot": "8,279,487.000",
+      "Total Holes": "1,386"
+    },
+    {
+      "rank": 83,
+      "player": "David Lipsky",
+      "Avg": "166.1",
+      "Total Dist of Appr Shot": "7,696,952.000",
+      "Total Holes": "1,287"
+    },
+    {
+      "rank": 83,
+      "player": "Joaquin Niemann",
+      "Avg": "166.1",
+      "Total Dist of Appr Shot": "6,196,049.000",
+      "Total Holes": "1,036"
+    },
+    {
+      "rank": 83,
+      "player": "Kevin Streelman",
+      "Avg": "166.1",
+      "Total Dist of Appr Shot": "8,533,772.000",
+      "Total Holes": "1,427"
+    },
+    {
+      "rank": 86,
+      "player": "Jonathan Byrd",
+      "Avg": "166.2",
+      "Total Dist of Appr Shot": "4,583,538.000",
+      "Total Holes": "766"
+    },
+    {
+      "rank": 86,
+      "player": "Doug Ghim",
+      "Avg": "166.2",
+      "Total Dist of Appr Shot": "7,252,756.000",
+      "Total Holes": "1,212"
+    },
+    {
+      "rank": 86,
+      "player": "Patton Kizzire",
+      "Avg": "166.2",
+      "Total Dist of Appr Shot": "8,761,029.000",
+      "Total Holes": "1,464"
+    },
+    {
+      "rank": 86,
+      "player": "Nick Taylor",
+      "Avg": "166.2",
+      "Total Dist of Appr Shot": "7,375,700.000",
+      "Total Holes": "1,233"
+    },
+    {
+      "rank": 90,
+      "player": "Cam Davis",
+      "Avg": "166.3",
+      "Total Dist of Appr Shot": "8,122,538.000",
+      "Total Holes": "1,357"
+    },
+    {
+      "rank": 90,
+      "player": "Dylan Frittelli",
+      "Avg": "166.3",
+      "Total Dist of Appr Shot": "7,831,275.000",
+      "Total Holes": "1,308"
+    },
+    {
+      "rank": 90,
+      "player": "Ben Kohles",
+      "Avg": "166.3",
+      "Total Dist of Appr Shot": "4,831,542.000",
+      "Total Holes": "807"
+    },
+    {
+      "rank": 90,
+      "player": "Chez Reavie",
+      "Avg": "166.3",
+      "Total Dist of Appr Shot": "8,033,856.000",
+      "Total Holes": "1,342"
+    },
+    {
+      "rank": 90,
+      "player": "Brian Stuard",
+      "Avg": "166.3",
+      "Total Dist of Appr Shot": "7,381,494.000",
+      "Total Holes": "1,233"
+    },
+    {
+      "rank": 95,
+      "player": "Davis Riley",
+      "Avg": "166.4",
+      "Total Dist of Appr Shot": "8,732,288.000",
+      "Total Holes": "1,458"
+    },
+    {
+      "rank": 96,
+      "player": "Patrick Cantlay",
+      "Avg": "166.5",
+      "Total Dist of Appr Shot": "5,575,925.000",
+      "Total Holes": "930"
+    },
+    {
+      "rank": 96,
+      "player": "Garrick Higgo",
+      "Avg": "166.5",
+      "Total Dist of Appr Shot": "4,069,703.000",
+      "Total Holes": "679"
+    },
+    {
+      "rank": 98,
+      "player": "Justin Lower",
+      "Avg": "166.6",
+      "Total Dist of Appr Shot": "5,745,761.000",
+      "Total Holes": "958"
+    },
+    {
+      "rank": 99,
+      "player": "Hayden Buckley",
+      "Avg": "166.7",
+      "Total Dist of Appr Shot": "8,191,018.000",
+      "Total Holes": "1,365"
+    },
+    {
+      "rank": 99,
+      "player": "Beau Hossler",
+      "Avg": "166.7",
+      "Total Dist of Appr Shot": "6,912,527.000",
+      "Total Holes": "1,152"
+    },
+    {
+      "rank": 99,
+      "player": "Scott Piercy",
+      "Avg": "166.7",
+      "Total Dist of Appr Shot": "7,140,930.000",
+      "Total Holes": "1,190"
+    },
+    {
+      "rank": 99,
+      "player": "Robert Streb",
+      "Avg": "166.7",
+      "Total Dist of Appr Shot": "7,826,810.000",
+      "Total Holes": "1,304"
+    },
+    {
+      "rank": 99,
+      "player": "Matt Wallace",
+      "Avg": "166.7",
+      "Total Dist of Appr Shot": "5,246,617.000",
+      "Total Holes": "874"
+    },
+    {
+      "rank": 99,
+      "player": "Jared Wolfe",
+      "Avg": "166.7",
+      "Total Dist of Appr Shot": "4,998,876.000",
+      "Total Holes": "833"
+    },
+    {
+      "rank": 105,
+      "player": "Matt Kuchar",
+      "Avg": "166.8",
+      "Total Dist of Appr Shot": "6,438,065.000",
+      "Total Holes": "1,072"
+    },
+    {
+      "rank": 105,
+      "player": "Maverick McNealy",
+      "Avg": "166.8",
+      "Total Dist of Appr Shot": "7,864,491.000",
+      "Total Holes": "1,310"
+    },
+    {
+      "rank": 107,
+      "player": "Michael Gligic",
+      "Avg": "166.9",
+      "Total Dist of Appr Shot": "6,098,917.000",
+      "Total Holes": "1,015"
+    },
+    {
+      "rank": 108,
+      "player": "Sam Burns",
+      "Avg": "167.0",
+      "Total Dist of Appr Shot": "7,420,998.000",
+      "Total Holes": "1,234"
+    },
+    {
+      "rank": 108,
+      "player": "John Huh",
+      "Avg": "167.0",
+      "Total Dist of Appr Shot": "6,570,243.000",
+      "Total Holes": "1,093"
+    },
+    {
+      "rank": 108,
+      "player": "Adam Svensson",
+      "Avg": "167.0",
+      "Total Dist of Appr Shot": "9,011,889.000",
+      "Total Holes": "1,499"
+    },
+    {
+      "rank": 111,
+      "player": "Kramer Hickok",
+      "Avg": "167.2",
+      "Total Dist of Appr Shot": "7,929,294.000",
+      "Total Holes": "1,317"
+    },
+    {
+      "rank": 112,
+      "player": "Lee Hodges",
+      "Avg": "167.3",
+      "Total Dist of Appr Shot": "8,937,044.000",
+      "Total Holes": "1,484"
+    },
+    {
+      "rank": 112,
+      "player": "Max Homa",
+      "Avg": "167.3",
+      "Total Dist of Appr Shot": "7,524,244.000",
+      "Total Holes": "1,249"
+    },
+    {
+      "rank": 112,
+      "player": "Luke List",
+      "Avg": "167.3",
+      "Total Dist of Appr Shot": "6,866,255.000",
+      "Total Holes": "1,140"
+    },
+    {
+      "rank": 112,
+      "player": "Ian Poulter",
+      "Avg": "167.3",
+      "Total Dist of Appr Shot": "3,836,493.000",
+      "Total Holes": "637"
+    },
+    {
+      "rank": 116,
+      "player": "Tom Hoge",
+      "Avg": "167.4",
+      "Total Dist of Appr Shot": "7,942,076.000",
+      "Total Holes": "1,318"
+    },
+    {
+      "rank": 116,
+      "player": "Chris Kirk",
+      "Avg": "167.4",
+      "Total Dist of Appr Shot": "6,747,742.000",
+      "Total Holes": "1,120"
+    },
+    {
+      "rank": 116,
+      "player": "Henrik Norlander",
+      "Avg": "167.4",
+      "Total Dist of Appr Shot": "6,413,708.000",
+      "Total Holes": "1,064"
+    },
+    {
+      "rank": 116,
+      "player": "Ryan Palmer",
+      "Avg": "167.4",
+      "Total Dist of Appr Shot": "5,333,550.000",
+      "Total Holes": "885"
+    },
+    {
+      "rank": 116,
+      "player": "Jordan Spieth",
+      "Avg": "167.4",
+      "Total Dist of Appr Shot": "6,575,780.000",
+      "Total Holes": "1,091"
+    },
+    {
+      "rank": 121,
+      "player": "Kelly Kraft",
+      "Avg": "167.5",
+      "Total Dist of Appr Shot": "6,114,201.000",
+      "Total Holes": "1,014"
+    },
+    {
+      "rank": 121,
+      "player": "Andrew Novak",
+      "Avg": "167.5",
+      "Total Dist of Appr Shot": "5,830,563.000",
+      "Total Holes": "967"
+    },
+    {
+      "rank": 121,
+      "player": "Doc Redman",
+      "Avg": "167.5",
+      "Total Dist of Appr Shot": "6,802,881.000",
+      "Total Holes": "1,128"
+    },
+    {
+      "rank": 121,
+      "player": "Sepp Straka",
+      "Avg": "167.5",
+      "Total Dist of Appr Shot": "7,936,341.000",
+      "Total Holes": "1,316"
+    },
+    {
+      "rank": 121,
+      "player": "Justin Thomas",
+      "Avg": "167.5",
+      "Total Dist of Appr Shot": "6,562,026.000",
+      "Total Holes": "1,088"
+    },
+    {
+      "rank": 121,
+      "player": "Brendon Todd",
+      "Avg": "167.5",
+      "Total Dist of Appr Shot": "7,530,122.000",
+      "Total Holes": "1,249"
+    },
+    {
+      "rank": 127,
+      "player": "Hank Lebioda",
+      "Avg": "167.6",
+      "Total Dist of Appr Shot": "7,344,736.000",
+      "Total Holes": "1,217"
+    },
+    {
+      "rank": 127,
+      "player": "Rory McIlroy",
+      "Avg": "167.6",
+      "Total Dist of Appr Shot": "5,605,324.000",
+      "Total Holes": "929"
+    },
+    {
+      "rank": 127,
+      "player": "Greyson Sigg",
+      "Avg": "167.6",
+      "Total Dist of Appr Shot": "7,767,219.000",
+      "Total Holes": "1,287"
+    },
+    {
+      "rank": 130,
+      "player": "J.T. Poston",
+      "Avg": "167.8",
+      "Total Dist of Appr Shot": "8,620,102.000",
+      "Total Holes": "1,427"
+    },
+    {
+      "rank": 130,
+      "player": "Michael Thompson",
+      "Avg": "167.8",
+      "Total Dist of Appr Shot": "7,951,718.000",
+      "Total Holes": "1,316"
+    },
+    {
+      "rank": 132,
+      "player": "Scottie Scheffler",
+      "Avg": "168.0",
+      "Total Dist of Appr Shot": "7,101,050.000",
+      "Total Holes": "1,174"
+    },
+    {
+      "rank": 133,
+      "player": "C.T. Pan",
+      "Avg": "168.1",
+      "Total Dist of Appr Shot": "7,660,813.000",
+      "Total Holes": "1,266"
+    },
+    {
+      "rank": 133,
+      "player": "Adam Schenk",
+      "Avg": "168.1",
+      "Total Dist of Appr Shot": "8,315,244.000",
+      "Total Holes": "1,374"
+    },
+    {
+      "rank": 135,
+      "player": "Emiliano Grillo",
+      "Avg": "168.2",
+      "Total Dist of Appr Shot": "7,543,966.000",
+      "Total Holes": "1,246"
+    },
+    {
+      "rank": 135,
+      "player": "Sungjae Im",
+      "Avg": "168.2",
+      "Total Dist of Appr Shot": "8,105,824.000",
+      "Total Holes": "1,339"
+    },
+    {
+      "rank": 135,
+      "player": "Max McGreevy",
+      "Avg": "168.2",
+      "Total Dist of Appr Shot": "6,054,555.000",
+      "Total Holes": "1,000"
+    },
+    {
+      "rank": 135,
+      "player": "Andrew Putnam",
+      "Avg": "168.2",
+      "Total Dist of Appr Shot": "8,733,518.000",
+      "Total Holes": "1,442"
+    },
+    {
+      "rank": 135,
+      "player": "Jon Rahm",
+      "Avg": "168.2",
+      "Total Dist of Appr Shot": "5,977,084.000",
+      "Total Holes": "987"
+    },
+    {
+      "rank": 135,
+      "player": "Aaron Wise",
+      "Avg": "168.2",
+      "Total Dist of Appr Shot": "8,312,457.000",
+      "Total Holes": "1,373"
+    },
+    {
+      "rank": 141,
+      "player": "Marc Leishman",
+      "Avg": "168.3",
+      "Total Dist of Appr Shot": "6,780,736.000",
+      "Total Holes": "1,119"
+    },
+    {
+      "rank": 141,
+      "player": "Adam Long",
+      "Avg": "168.3",
+      "Total Dist of Appr Shot": "8,248,283.000",
+      "Total Holes": "1,361"
+    },
+    {
+      "rank": 141,
+      "player": "Aaron Rai",
+      "Avg": "168.3",
+      "Total Dist of Appr Shot": "7,464,293.000",
+      "Total Holes": "1,232"
+    },
+    {
+      "rank": 144,
+      "player": "Cameron Smith",
+      "Avg": "168.4",
+      "Total Dist of Appr Shot": "5,310,139.000",
+      "Total Holes": "876"
+    },
+    {
+      "rank": 144,
+      "player": "Gary Woodland",
+      "Avg": "168.4",
+      "Total Dist of Appr Shot": "6,049,511.000",
+      "Total Holes": "998"
+    },
+    {
+      "rank": 146,
+      "player": "Kiradech Aphibarnrat",
+      "Avg": "168.5",
+      "Total Dist of Appr Shot": "3,869,854.000",
+      "Total Holes": "638"
+    },
+    {
+      "rank": 146,
+      "player": "Wesley Bryan",
+      "Avg": "168.5",
+      "Total Dist of Appr Shot": "4,221,199.000",
+      "Total Holes": "696"
+    },
+    {
+      "rank": 146,
+      "player": "K.H. Lee",
+      "Avg": "168.5",
+      "Total Dist of Appr Shot": "9,317,637.000",
+      "Total Holes": "1,536"
+    },
+    {
+      "rank": 146,
+      "player": "Seamus Power",
+      "Avg": "168.5",
+      "Total Dist of Appr Shot": "6,356,605.000",
+      "Total Holes": "1,048"
+    },
+    {
+      "rank": 150,
+      "player": "Russell Henley",
+      "Avg": "168.6",
+      "Total Dist of Appr Shot": "6,816,270.000",
+      "Total Holes": "1,123"
+    },
+    {
+      "rank": 150,
+      "player": "Si Woo Kim",
+      "Avg": "168.6",
+      "Total Dist of Appr Shot": "8,739,357.000",
+      "Total Holes": "1,440"
+    },
+    {
+      "rank": 150,
+      "player": "David Skinns",
+      "Avg": "168.6",
+      "Total Dist of Appr Shot": "5,613,934.000",
+      "Total Holes": "925"
+    },
+    {
+      "rank": 153,
+      "player": "Mackenzie Hughes",
+      "Avg": "168.7",
+      "Total Dist of Appr Shot": "7,147,429.000",
+      "Total Holes": "1,177"
+    },
+    {
+      "rank": 154,
+      "player": "Bo Hoag",
+      "Avg": "168.8",
+      "Total Dist of Appr Shot": "4,022,322.000",
+      "Total Holes": "662"
+    },
+    {
+      "rank": 154,
+      "player": "Satoshi Kodaira",
+      "Avg": "168.8",
+      "Total Dist of Appr Shot": "4,430,700.000",
+      "Total Holes": "729"
+    },
+    {
+      "rank": 154,
+      "player": "Sahith Theegala",
+      "Avg": "168.8",
+      "Total Dist of Appr Shot": "10,314,328.000",
+      "Total Holes": "1,697"
+    },
+    {
+      "rank": 157,
+      "player": "Matt Fitzpatrick",
+      "Avg": "168.9",
+      "Total Dist of Appr Shot": "5,209,608.000",
+      "Total Holes": "857"
+    },
+    {
+      "rank": 157,
+      "player": "Keith Mitchell",
+      "Avg": "168.9",
+      "Total Dist of Appr Shot": "7,838,847.000",
+      "Total Holes": "1,289"
+    },
+    {
+      "rank": 159,
+      "player": "Jason Day",
+      "Avg": "169.1",
+      "Total Dist of Appr Shot": "5,521,196.000",
+      "Total Holes": "907"
+    },
+    {
+      "rank": 159,
+      "player": "Viktor Hovland",
+      "Avg": "169.1",
+      "Total Dist of Appr Shot": "6,092,642.000",
+      "Total Holes": "1,001"
+    },
+    {
+      "rank": 159,
+      "player": "Alex Noren",
+      "Avg": "169.1",
+      "Total Dist of Appr Shot": "5,216,773.000",
+      "Total Holes": "857"
+    },
+    {
+      "rank": 159,
+      "player": "Hudson Swafford",
+      "Avg": "169.1",
+      "Total Dist of Appr Shot": "5,217,088.000",
+      "Total Holes": "857"
+    },
+    {
+      "rank": 163,
+      "player": "Sung Kang",
+      "Avg": "169.2",
+      "Total Dist of Appr Shot": "6,706,500.000",
+      "Total Holes": "1,101"
+    },
+    {
+      "rank": 163,
+      "player": "Cameron Tringale",
+      "Avg": "169.2",
+      "Total Dist of Appr Shot": "7,935,069.000",
+      "Total Holes": "1,303"
+    },
+    {
+      "rank": 165,
+      "player": "Paul Barjon",
+      "Avg": "169.4",
+      "Total Dist of Appr Shot": "6,853,200.000",
+      "Total Holes": "1,124"
+    },
+    {
+      "rank": 165,
+      "player": "Martin Laird",
+      "Avg": "169.4",
+      "Total Dist of Appr Shot": "6,642,053.000",
+      "Total Holes": "1,089"
+    },
+    {
+      "rank": 167,
+      "player": "James Hahn",
+      "Avg": "169.6",
+      "Total Dist of Appr Shot": "6,526,143.000",
+      "Total Holes": "1,069"
+    },
+    {
+      "rank": 167,
+      "player": "Collin Morikawa",
+      "Avg": "169.6",
+      "Total Dist of Appr Shot": "5,213,642.000",
+      "Total Holes": "854"
+    },
+    {
+      "rank": 167,
+      "player": "Richy Werenski",
+      "Avg": "169.6",
+      "Total Dist of Appr Shot": "5,501,630.000",
+      "Total Holes": "901"
+    },
+    {
+      "rank": 167,
+      "player": "Brandon Wu",
+      "Avg": "169.6",
+      "Total Dist of Appr Shot": "5,434,471.000",
+      "Total Holes": "890"
+    },
+    {
+      "rank": 171,
+      "player": "Erik van Rooyen",
+      "Avg": "169.7",
+      "Total Dist of Appr Shot": "4,362,876.000",
+      "Total Holes": "714"
+    },
+    {
+      "rank": 172,
+      "player": "Talor Gooch",
+      "Avg": "169.8",
+      "Total Dist of Appr Shot": "6,003,326.000",
+      "Total Holes": "982"
+    },
+    {
+      "rank": 172,
+      "player": "Lanto Griffin",
+      "Avg": "169.8",
+      "Total Dist of Appr Shot": "7,421,537.000",
+      "Total Holes": "1,214"
+    },
+    {
+      "rank": 174,
+      "player": "Jason Kokrak",
+      "Avg": "170.0",
+      "Total Dist of Appr Shot": "5,580,992.000",
+      "Total Holes": "912"
+    },
+    {
+      "rank": 174,
+      "player": "Matthew NeSmith",
+      "Avg": "170.0",
+      "Total Dist of Appr Shot": "8,545,621.000",
+      "Total Holes": "1,396"
+    },
+    {
+      "rank": 176,
+      "player": "Cameron Champ",
+      "Avg": "170.1",
+      "Total Dist of Appr Shot": "5,124,702.000",
+      "Total Holes": "837"
+    },
+    {
+      "rank": 177,
+      "player": "Matt Jones",
+      "Avg": "170.2",
+      "Total Dist of Appr Shot": "5,552,416.000",
+      "Total Holes": "906"
+    },
+    {
+      "rank": 178,
+      "player": "Tony Finau",
+      "Avg": "170.3",
+      "Total Dist of Appr Shot": "7,735,954.000",
+      "Total Holes": "1,262"
+    },
+    {
+      "rank": 179,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "170.4",
+      "Total Dist of Appr Shot": "7,556,285.000",
+      "Total Holes": "1,232"
+    },
+    {
+      "rank": 180,
+      "player": "Tommy Fleetwood",
+      "Avg": "170.5",
+      "Total Dist of Appr Shot": "4,381,934.000",
+      "Total Holes": "714"
+    },
+    {
+      "rank": 181,
+      "player": "Patrick Reed",
+      "Avg": "170.7",
+      "Total Dist of Appr Shot": "5,554,309.000",
+      "Total Holes": "904"
+    },
+    {
+      "rank": 182,
+      "player": "Brice Garnett",
+      "Avg": "170.8",
+      "Total Dist of Appr Shot": "6,697,315.000",
+      "Total Holes": "1,089"
+    },
+    {
+      "rank": 182,
+      "player": "Stephan Jaeger",
+      "Avg": "170.8",
+      "Total Dist of Appr Shot": "8,016,201.000",
+      "Total Holes": "1,304"
+    },
+    {
+      "rank": 184,
+      "player": "Francesco Molinari",
+      "Avg": "170.9",
+      "Total Dist of Appr Shot": "4,367,182.000",
+      "Total Holes": "710"
+    },
+    {
+      "rank": 185,
+      "player": "Brooks Koepka",
+      "Avg": "171.2",
+      "Total Dist of Appr Shot": "4,307,379.000",
+      "Total Holes": "699"
+    },
+    {
+      "rank": 186,
+      "player": "Xander Schauffele",
+      "Avg": "171.3",
+      "Total Dist of Appr Shot": "6,272,565.000",
+      "Total Holes": "1,017"
+    },
+    {
+      "rank": 187,
+      "player": "Mark Hubbard",
+      "Avg": "171.4",
+      "Total Dist of Appr Shot": "6,071,030.000",
+      "Total Holes": "984"
+    },
+    {
+      "rank": 188,
+      "player": "Jhonattan Vegas",
+      "Avg": "171.7",
+      "Total Dist of Appr Shot": "6,522,509.000",
+      "Total Holes": "1,055"
+    },
+    {
+      "rank": 189,
+      "player": "Hideki Matsuyama",
+      "Avg": "171.8",
+      "Total Dist of Appr Shot": "6,290,638.000",
+      "Total Holes": "1,017"
+    },
+    {
+      "rank": 190,
+      "player": "Pat Perez",
+      "Avg": "172.0",
+      "Total Dist of Appr Shot": "5,647,308.000",
+      "Total Holes": "912"
+    },
+    {
+      "rank": 191,
+      "player": "Carlos Ortiz",
+      "Avg": "172.2",
+      "Total Dist of Appr Shot": "5,741,043.000",
+      "Total Holes": "926"
+    },
+    {
+      "rank": 192,
+      "player": "Abraham Ancer",
+      "Avg": "172.5",
+      "Total Dist of Appr Shot": "5,056,335.000",
+      "Total Holes": "814"
+    },
+    {
+      "rank": 193,
+      "player": "Danny Lee",
+      "Avg": "173.4",
+      "Total Dist of Appr Shot": "4,438,020.000",
+      "Total Holes": "711"
+    }
+  ]
+}

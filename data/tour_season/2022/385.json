@@ -1,0 +1,1359 @@
+{
+  "stat_id": "385",
+  "year": 2022,
+  "category": "Putting",
+  "stat_title": "GIR Putting - 10-15'",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Alex Noren",
+      "%": "42.17",
+      "Attempts": "83",
+      "Putts made": "35"
+    },
+    {
+      "rank": 2,
+      "player": "Sung Kang",
+      "%": "41.41",
+      "Attempts": "99",
+      "Putts made": "41"
+    },
+    {
+      "rank": 2,
+      "player": "Jon Rahm",
+      "%": "41.41",
+      "Attempts": "128",
+      "Putts made": "53"
+    },
+    {
+      "rank": 4,
+      "player": "S.Y. Noh",
+      "%": "40.54",
+      "Attempts": "74",
+      "Putts made": "30"
+    },
+    {
+      "rank": 5,
+      "player": "Brandon Wu",
+      "%": "40.51",
+      "Attempts": "79",
+      "Putts made": "32"
+    },
+    {
+      "rank": 6,
+      "player": "Marc Leishman",
+      "%": "40.00",
+      "Attempts": "120",
+      "Putts made": "48"
+    },
+    {
+      "rank": 7,
+      "player": "Viktor Hovland",
+      "%": "39.32",
+      "Attempts": "117",
+      "Putts made": "46"
+    },
+    {
+      "rank": 8,
+      "player": "Nick Hardy",
+      "%": "39.19",
+      "Attempts": "74",
+      "Putts made": "29"
+    },
+    {
+      "rank": 9,
+      "player": "Tyler Duncan",
+      "%": "38.18",
+      "Attempts": "110",
+      "Putts made": "42"
+    },
+    {
+      "rank": 10,
+      "player": "Lucas Herbert",
+      "%": "38.10",
+      "Attempts": "63",
+      "Putts made": "24"
+    },
+    {
+      "rank": 11,
+      "player": "J.J. Spaun",
+      "%": "37.86",
+      "Attempts": "140",
+      "Putts made": "53"
+    },
+    {
+      "rank": 12,
+      "player": "Aaron Rai",
+      "%": "37.40",
+      "Attempts": "131",
+      "Putts made": "49"
+    },
+    {
+      "rank": 13,
+      "player": "Matthias Schwab",
+      "%": "37.19",
+      "Attempts": "121",
+      "Putts made": "45"
+    },
+    {
+      "rank": 14,
+      "player": "Rory McIlroy",
+      "%": "37.17",
+      "Attempts": "113",
+      "Putts made": "42"
+    },
+    {
+      "rank": 15,
+      "player": "Rory Sabbatini",
+      "%": "37.08",
+      "Attempts": "89",
+      "Putts made": "33"
+    },
+    {
+      "rank": 16,
+      "player": "Jason Day",
+      "%": "36.90",
+      "Attempts": "84",
+      "Putts made": "31"
+    },
+    {
+      "rank": 17,
+      "player": "Brendon Todd",
+      "%": "36.79",
+      "Attempts": "106",
+      "Putts made": "39"
+    },
+    {
+      "rank": 18,
+      "player": "Keegan Bradley",
+      "%": "36.50",
+      "Attempts": "137",
+      "Putts made": "50"
+    },
+    {
+      "rank": 19,
+      "player": "Luke Donald",
+      "%": "36.46",
+      "Attempts": "96",
+      "Putts made": "35"
+    },
+    {
+      "rank": 20,
+      "player": "Sam Burns",
+      "%": "36.22",
+      "Attempts": "127",
+      "Putts made": "46"
+    },
+    {
+      "rank": 21,
+      "player": "Francesco Molinari",
+      "%": "36.11",
+      "Attempts": "72",
+      "Putts made": "26"
+    },
+    {
+      "rank": 22,
+      "player": "Seth Reeves",
+      "%": "35.71",
+      "Attempts": "98",
+      "Putts made": "35"
+    },
+    {
+      "rank": 22,
+      "player": "Scottie Scheffler",
+      "%": "35.71",
+      "Attempts": "140",
+      "Putts made": "50"
+    },
+    {
+      "rank": 24,
+      "player": "Ian Poulter",
+      "%": "35.59",
+      "Attempts": "59",
+      "Putts made": "21"
+    },
+    {
+      "rank": 25,
+      "player": "Mackenzie Hughes",
+      "%": "35.43",
+      "Attempts": "127",
+      "Putts made": "45"
+    },
+    {
+      "rank": 26,
+      "player": "Xander Schauffele",
+      "%": "35.29",
+      "Attempts": "119",
+      "Putts made": "42"
+    },
+    {
+      "rank": 27,
+      "player": "Troy Merritt",
+      "%": "35.20",
+      "Attempts": "125",
+      "Putts made": "44"
+    },
+    {
+      "rank": 28,
+      "player": "Bill Haas",
+      "%": "35.19",
+      "Attempts": "108",
+      "Putts made": "38"
+    },
+    {
+      "rank": 29,
+      "player": "Stephan Jaeger",
+      "%": "34.88",
+      "Attempts": "129",
+      "Putts made": "45"
+    },
+    {
+      "rank": 30,
+      "player": "Hank Lebioda",
+      "%": "34.62",
+      "Attempts": "104",
+      "Putts made": "36"
+    },
+    {
+      "rank": 31,
+      "player": "Taylor Pendrith",
+      "%": "34.55",
+      "Attempts": "110",
+      "Putts made": "38"
+    },
+    {
+      "rank": 32,
+      "player": "Hudson Swafford",
+      "%": "34.44",
+      "Attempts": "90",
+      "Putts made": "31"
+    },
+    {
+      "rank": 33,
+      "player": "Jonas Blixt",
+      "%": "34.33",
+      "Attempts": "67",
+      "Putts made": "23"
+    },
+    {
+      "rank": 34,
+      "player": "Brooks Koepka",
+      "%": "34.29",
+      "Attempts": "70",
+      "Putts made": "24"
+    },
+    {
+      "rank": 35,
+      "player": "J.T. Poston",
+      "%": "34.27",
+      "Attempts": "143",
+      "Putts made": "49"
+    },
+    {
+      "rank": 36,
+      "player": "Christiaan Bezuidenhout",
+      "%": "34.26",
+      "Attempts": "108",
+      "Putts made": "37"
+    },
+    {
+      "rank": 37,
+      "player": "Collin Morikawa",
+      "%": "34.23",
+      "Attempts": "111",
+      "Putts made": "38"
+    },
+    {
+      "rank": 38,
+      "player": "Adam Long",
+      "%": "34.15",
+      "Attempts": "123",
+      "Putts made": "42"
+    },
+    {
+      "rank": 39,
+      "player": "Emiliano Grillo",
+      "%": "34.09",
+      "Attempts": "132",
+      "Putts made": "45"
+    },
+    {
+      "rank": 40,
+      "player": "Kurt Kitayama",
+      "%": "33.94",
+      "Attempts": "109",
+      "Putts made": "37"
+    },
+    {
+      "rank": 41,
+      "player": "Keith Mitchell",
+      "%": "33.82",
+      "Attempts": "136",
+      "Putts made": "46"
+    },
+    {
+      "rank": 42,
+      "player": "Pat Perez",
+      "%": "33.75",
+      "Attempts": "80",
+      "Putts made": "27"
+    },
+    {
+      "rank": 43,
+      "player": "Justin Lower",
+      "%": "33.66",
+      "Attempts": "101",
+      "Putts made": "34"
+    },
+    {
+      "rank": 44,
+      "player": "Doc Redman",
+      "%": "33.64",
+      "Attempts": "110",
+      "Putts made": "37"
+    },
+    {
+      "rank": 45,
+      "player": "Cameron Smith",
+      "%": "33.63",
+      "Attempts": "113",
+      "Putts made": "38"
+    },
+    {
+      "rank": 46,
+      "player": "Stewart Cink",
+      "%": "33.33",
+      "Attempts": "135",
+      "Putts made": "45"
+    },
+    {
+      "rank": 46,
+      "player": "Dylan Frittelli",
+      "%": "33.33",
+      "Attempts": "144",
+      "Putts made": "48"
+    },
+    {
+      "rank": 46,
+      "player": "John Huh",
+      "%": "33.33",
+      "Attempts": "135",
+      "Putts made": "45"
+    },
+    {
+      "rank": 46,
+      "player": "Curtis Thompson",
+      "%": "33.33",
+      "Attempts": "66",
+      "Putts made": "22"
+    },
+    {
+      "rank": 50,
+      "player": "Matt Wallace",
+      "%": "32.98",
+      "Attempts": "94",
+      "Putts made": "31"
+    },
+    {
+      "rank": 51,
+      "player": "Adam Svensson",
+      "%": "32.93",
+      "Attempts": "167",
+      "Putts made": "55"
+    },
+    {
+      "rank": 52,
+      "player": "Nate Lashley",
+      "%": "32.86",
+      "Attempts": "140",
+      "Putts made": "46"
+    },
+    {
+      "rank": 53,
+      "player": "Lucas Glover",
+      "%": "32.75",
+      "Attempts": "171",
+      "Putts made": "56"
+    },
+    {
+      "rank": 54,
+      "player": "Sam Ryder",
+      "%": "32.64",
+      "Attempts": "144",
+      "Putts made": "47"
+    },
+    {
+      "rank": 54,
+      "player": "Cameron Tringale",
+      "%": "32.64",
+      "Attempts": "144",
+      "Putts made": "47"
+    },
+    {
+      "rank": 56,
+      "player": "Roger Sloan",
+      "%": "32.56",
+      "Attempts": "129",
+      "Putts made": "42"
+    },
+    {
+      "rank": 57,
+      "player": "Michael Thompson",
+      "%": "32.41",
+      "Attempts": "145",
+      "Putts made": "47"
+    },
+    {
+      "rank": 58,
+      "player": "Jordan Spieth",
+      "%": "32.33",
+      "Attempts": "133",
+      "Putts made": "43"
+    },
+    {
+      "rank": 59,
+      "player": "Cameron Young",
+      "%": "32.31",
+      "Attempts": "130",
+      "Putts made": "42"
+    },
+    {
+      "rank": 60,
+      "player": "Denny McCarthy",
+      "%": "32.21",
+      "Attempts": "149",
+      "Putts made": "48"
+    },
+    {
+      "rank": 61,
+      "player": "Branden Grace",
+      "%": "32.14",
+      "Attempts": "84",
+      "Putts made": "27"
+    },
+    {
+      "rank": 61,
+      "player": "Jim Knous",
+      "%": "32.14",
+      "Attempts": "56",
+      "Putts made": "18"
+    },
+    {
+      "rank": 63,
+      "player": "Aaron Wise",
+      "%": "32.12",
+      "Attempts": "165",
+      "Putts made": "53"
+    },
+    {
+      "rank": 64,
+      "player": "Patton Kizzire",
+      "%": "32.10",
+      "Attempts": "162",
+      "Putts made": "52"
+    },
+    {
+      "rank": 64,
+      "player": "Mito Pereira",
+      "%": "32.10",
+      "Attempts": "162",
+      "Putts made": "52"
+    },
+    {
+      "rank": 66,
+      "player": "Vince Whaley",
+      "%": "32.09",
+      "Attempts": "134",
+      "Putts made": "43"
+    },
+    {
+      "rank": 67,
+      "player": "Andrew Putnam",
+      "%": "32.00",
+      "Attempts": "150",
+      "Putts made": "48"
+    },
+    {
+      "rank": 68,
+      "player": "Peter Malnati",
+      "%": "31.93",
+      "Attempts": "166",
+      "Putts made": "53"
+    },
+    {
+      "rank": 69,
+      "player": "Adam Hadwin",
+      "%": "31.88",
+      "Attempts": "138",
+      "Putts made": "44"
+    },
+    {
+      "rank": 70,
+      "player": "Harry Higgs",
+      "%": "31.86",
+      "Attempts": "113",
+      "Putts made": "36"
+    },
+    {
+      "rank": 70,
+      "player": "Kelly Kraft",
+      "%": "31.86",
+      "Attempts": "113",
+      "Putts made": "36"
+    },
+    {
+      "rank": 72,
+      "player": "Maverick McNealy",
+      "%": "31.85",
+      "Attempts": "135",
+      "Putts made": "43"
+    },
+    {
+      "rank": 73,
+      "player": "David Skinns",
+      "%": "31.82",
+      "Attempts": "88",
+      "Putts made": "28"
+    },
+    {
+      "rank": 74,
+      "player": "Tyrrell Hatton",
+      "%": "31.76",
+      "Attempts": "85",
+      "Putts made": "27"
+    },
+    {
+      "rank": 75,
+      "player": "Si Woo Kim",
+      "%": "31.74",
+      "Attempts": "167",
+      "Putts made": "53"
+    },
+    {
+      "rank": 76,
+      "player": "Chesson Hadley",
+      "%": "31.67",
+      "Attempts": "120",
+      "Putts made": "38"
+    },
+    {
+      "rank": 76,
+      "player": "Matt Kuchar",
+      "%": "31.67",
+      "Attempts": "120",
+      "Putts made": "38"
+    },
+    {
+      "rank": 78,
+      "player": "Joel Dahmen",
+      "%": "31.62",
+      "Attempts": "136",
+      "Putts made": "43"
+    },
+    {
+      "rank": 79,
+      "player": "Nick Watney",
+      "%": "31.58",
+      "Attempts": "114",
+      "Putts made": "36"
+    },
+    {
+      "rank": 80,
+      "player": "Mark Hubbard",
+      "%": "31.53",
+      "Attempts": "111",
+      "Putts made": "35"
+    },
+    {
+      "rank": 81,
+      "player": "Jason Dufner",
+      "%": "31.43",
+      "Attempts": "70",
+      "Putts made": "22"
+    },
+    {
+      "rank": 82,
+      "player": "Max McGreevy",
+      "%": "31.40",
+      "Attempts": "86",
+      "Putts made": "27"
+    },
+    {
+      "rank": 83,
+      "player": "Wyndham Clark",
+      "%": "31.25",
+      "Attempts": "128",
+      "Putts made": "40"
+    },
+    {
+      "rank": 83,
+      "player": "Billy Horschel",
+      "%": "31.25",
+      "Attempts": "112",
+      "Putts made": "35"
+    },
+    {
+      "rank": 85,
+      "player": "Sungjae Im",
+      "%": "31.21",
+      "Attempts": "157",
+      "Putts made": "49"
+    },
+    {
+      "rank": 86,
+      "player": "Scott Stallings",
+      "%": "30.99",
+      "Attempts": "171",
+      "Putts made": "53"
+    },
+    {
+      "rank": 87,
+      "player": "Adam Scott",
+      "%": "30.83",
+      "Attempts": "120",
+      "Putts made": "37"
+    },
+    {
+      "rank": 88,
+      "player": "Russell Henley",
+      "%": "30.82",
+      "Attempts": "146",
+      "Putts made": "45"
+    },
+    {
+      "rank": 89,
+      "player": "Cam Davis",
+      "%": "30.72",
+      "Attempts": "166",
+      "Putts made": "51"
+    },
+    {
+      "rank": 90,
+      "player": "Adam Schenk",
+      "%": "30.67",
+      "Attempts": "150",
+      "Putts made": "46"
+    },
+    {
+      "rank": 91,
+      "player": "Gary Woodland",
+      "%": "30.59",
+      "Attempts": "85",
+      "Putts made": "26"
+    },
+    {
+      "rank": 92,
+      "player": "Brian Harman",
+      "%": "30.38",
+      "Attempts": "158",
+      "Putts made": "48"
+    },
+    {
+      "rank": 93,
+      "player": "Lanto Griffin",
+      "%": "30.23",
+      "Attempts": "129",
+      "Putts made": "39"
+    },
+    {
+      "rank": 94,
+      "player": "Nick Taylor",
+      "%": "30.16",
+      "Attempts": "126",
+      "Putts made": "38"
+    },
+    {
+      "rank": 95,
+      "player": "Zach Johnson",
+      "%": "30.11",
+      "Attempts": "93",
+      "Putts made": "28"
+    },
+    {
+      "rank": 96,
+      "player": "Lee Hodges",
+      "%": "30.00",
+      "Attempts": "180",
+      "Putts made": "54"
+    },
+    {
+      "rank": 97,
+      "player": "Davis Riley",
+      "%": "29.94",
+      "Attempts": "167",
+      "Putts made": "50"
+    },
+    {
+      "rank": 98,
+      "player": "Charley Hoffman",
+      "%": "29.91",
+      "Attempts": "107",
+      "Putts made": "32"
+    },
+    {
+      "rank": 98,
+      "player": "Kevin Kisner",
+      "%": "29.91",
+      "Attempts": "117",
+      "Putts made": "35"
+    },
+    {
+      "rank": 100,
+      "player": "Abraham Ancer",
+      "%": "29.89",
+      "Attempts": "87",
+      "Putts made": "26"
+    },
+    {
+      "rank": 100,
+      "player": "Ben Kohles",
+      "%": "29.89",
+      "Attempts": "87",
+      "Putts made": "26"
+    },
+    {
+      "rank": 100,
+      "player": "Richy Werenski",
+      "%": "29.89",
+      "Attempts": "87",
+      "Putts made": "26"
+    },
+    {
+      "rank": 103,
+      "player": "Alex Smalley",
+      "%": "29.75",
+      "Attempts": "158",
+      "Putts made": "47"
+    },
+    {
+      "rank": 104,
+      "player": "Brandon Hagy",
+      "%": "29.70",
+      "Attempts": "101",
+      "Putts made": "30"
+    },
+    {
+      "rank": 105,
+      "player": "Chris Kirk",
+      "%": "29.66",
+      "Attempts": "118",
+      "Putts made": "35"
+    },
+    {
+      "rank": 106,
+      "player": "Seamus Power",
+      "%": "29.51",
+      "Attempts": "122",
+      "Putts made": "36"
+    },
+    {
+      "rank": 107,
+      "player": "Hideki Matsuyama",
+      "%": "29.46",
+      "Attempts": "129",
+      "Putts made": "38"
+    },
+    {
+      "rank": 108,
+      "player": "Callum Tarren",
+      "%": "29.41",
+      "Attempts": "102",
+      "Putts made": "30"
+    },
+    {
+      "rank": 109,
+      "player": "C.T. Pan",
+      "%": "29.37",
+      "Attempts": "126",
+      "Putts made": "37"
+    },
+    {
+      "rank": 110,
+      "player": "Jonathan Byrd",
+      "%": "29.35",
+      "Attempts": "92",
+      "Putts made": "27"
+    },
+    {
+      "rank": 111,
+      "player": "Tom Hoge",
+      "%": "29.33",
+      "Attempts": "150",
+      "Putts made": "44"
+    },
+    {
+      "rank": 112,
+      "player": "Sepp Straka",
+      "%": "29.32",
+      "Attempts": "133",
+      "Putts made": "39"
+    },
+    {
+      "rank": 113,
+      "player": "Bo Hoag",
+      "%": "29.31",
+      "Attempts": "58",
+      "Putts made": "17"
+    },
+    {
+      "rank": 114,
+      "player": "Corey Conners",
+      "%": "29.22",
+      "Attempts": "154",
+      "Putts made": "45"
+    },
+    {
+      "rank": 115,
+      "player": "Sahith Theegala",
+      "%": "29.21",
+      "Attempts": "202",
+      "Putts made": "59"
+    },
+    {
+      "rank": 116,
+      "player": "Charles Howell III",
+      "%": "29.11",
+      "Attempts": "79",
+      "Putts made": "23"
+    },
+    {
+      "rank": 117,
+      "player": "Russell Knox",
+      "%": "29.10",
+      "Attempts": "134",
+      "Putts made": "39"
+    },
+    {
+      "rank": 118,
+      "player": "Dawie van der Walt",
+      "%": "29.07",
+      "Attempts": "86",
+      "Putts made": "25"
+    },
+    {
+      "rank": 119,
+      "player": "Andrew Novak",
+      "%": "28.89",
+      "Attempts": "90",
+      "Putts made": "26"
+    },
+    {
+      "rank": 120,
+      "player": "Erik van Rooyen",
+      "%": "28.79",
+      "Attempts": "66",
+      "Putts made": "19"
+    },
+    {
+      "rank": 121,
+      "player": "Jared Wolfe",
+      "%": "28.74",
+      "Attempts": "87",
+      "Putts made": "25"
+    },
+    {
+      "rank": 122,
+      "player": "Camilo Villegas",
+      "%": "28.57",
+      "Attempts": "105",
+      "Putts made": "30"
+    },
+    {
+      "rank": 123,
+      "player": "Scott Piercy",
+      "%": "28.46",
+      "Attempts": "123",
+      "Putts made": "35"
+    },
+    {
+      "rank": 124,
+      "player": "Ryan Palmer",
+      "%": "28.41",
+      "Attempts": "88",
+      "Putts made": "25"
+    },
+    {
+      "rank": 125,
+      "player": "Taylor Moore",
+      "%": "28.39",
+      "Attempts": "155",
+      "Putts made": "44"
+    },
+    {
+      "rank": 126,
+      "player": "Satoshi Kodaira",
+      "%": "28.38",
+      "Attempts": "74",
+      "Putts made": "21"
+    },
+    {
+      "rank": 127,
+      "player": "Kiradech Aphibarnrat",
+      "%": "28.36",
+      "Attempts": "67",
+      "Putts made": "19"
+    },
+    {
+      "rank": 127,
+      "player": "Matthew Wolff",
+      "%": "28.36",
+      "Attempts": "67",
+      "Putts made": "19"
+    },
+    {
+      "rank": 129,
+      "player": "Patrick Reed",
+      "%": "28.26",
+      "Attempts": "92",
+      "Putts made": "26"
+    },
+    {
+      "rank": 130,
+      "player": "Greyson Sigg",
+      "%": "28.21",
+      "Attempts": "156",
+      "Putts made": "44"
+    },
+    {
+      "rank": 131,
+      "player": "Luke List",
+      "%": "28.17",
+      "Attempts": "142",
+      "Putts made": "40"
+    },
+    {
+      "rank": 132,
+      "player": "Matthew NeSmith",
+      "%": "28.03",
+      "Attempts": "157",
+      "Putts made": "44"
+    },
+    {
+      "rank": 133,
+      "player": "Ryan Armour",
+      "%": "27.94",
+      "Attempts": "68",
+      "Putts made": "19"
+    },
+    {
+      "rank": 133,
+      "player": "Brett Drewitt",
+      "%": "27.94",
+      "Attempts": "68",
+      "Putts made": "19"
+    },
+    {
+      "rank": 133,
+      "player": "Scott Gutschewski",
+      "%": "27.94",
+      "Attempts": "68",
+      "Putts made": "19"
+    },
+    {
+      "rank": 136,
+      "player": "Justin Thomas",
+      "%": "27.91",
+      "Attempts": "129",
+      "Putts made": "36"
+    },
+    {
+      "rank": 137,
+      "player": "David Lipsky",
+      "%": "27.78",
+      "Attempts": "144",
+      "Putts made": "40"
+    },
+    {
+      "rank": 138,
+      "player": "Martin Laird",
+      "%": "27.69",
+      "Attempts": "130",
+      "Putts made": "36"
+    },
+    {
+      "rank": 139,
+      "player": "Kevin Tway",
+      "%": "27.68",
+      "Attempts": "112",
+      "Putts made": "31"
+    },
+    {
+      "rank": 140,
+      "player": "Austin Cook",
+      "%": "27.62",
+      "Attempts": "105",
+      "Putts made": "29"
+    },
+    {
+      "rank": 141,
+      "player": "Danny Lee",
+      "%": "27.59",
+      "Attempts": "58",
+      "Putts made": "16"
+    },
+    {
+      "rank": 142,
+      "player": "Jhonattan Vegas",
+      "%": "27.43",
+      "Attempts": "113",
+      "Putts made": "31"
+    },
+    {
+      "rank": 143,
+      "player": "Talor Gooch",
+      "%": "27.36",
+      "Attempts": "106",
+      "Putts made": "29"
+    },
+    {
+      "rank": 144,
+      "player": "Paul Barjon",
+      "%": "27.19",
+      "Attempts": "114",
+      "Putts made": "31"
+    },
+    {
+      "rank": 145,
+      "player": "K.H. Lee",
+      "%": "27.10",
+      "Attempts": "155",
+      "Putts made": "42"
+    },
+    {
+      "rank": 146,
+      "player": "Joaquin Niemann",
+      "%": "27.07",
+      "Attempts": "133",
+      "Putts made": "36"
+    },
+    {
+      "rank": 147,
+      "player": "Harold Varner III",
+      "%": "27.05",
+      "Attempts": "122",
+      "Putts made": "33"
+    },
+    {
+      "rank": 148,
+      "player": "Michael Gligic",
+      "%": "27.00",
+      "Attempts": "100",
+      "Putts made": "27"
+    },
+    {
+      "rank": 149,
+      "player": "Cameron Champ",
+      "%": "26.67",
+      "Attempts": "90",
+      "Putts made": "24"
+    },
+    {
+      "rank": 150,
+      "player": "Rickie Fowler",
+      "%": "26.47",
+      "Attempts": "102",
+      "Putts made": "27"
+    },
+    {
+      "rank": 151,
+      "player": "Tony Finau",
+      "%": "26.35",
+      "Attempts": "148",
+      "Putts made": "39"
+    },
+    {
+      "rank": 152,
+      "player": "Dylan Wu",
+      "%": "26.32",
+      "Attempts": "95",
+      "Putts made": "25"
+    },
+    {
+      "rank": 153,
+      "player": "James Hahn",
+      "%": "26.27",
+      "Attempts": "118",
+      "Putts made": "31"
+    },
+    {
+      "rank": 154,
+      "player": "Carlos Ortiz",
+      "%": "26.25",
+      "Attempts": "80",
+      "Putts made": "21"
+    },
+    {
+      "rank": 155,
+      "player": "Trey Mullinax",
+      "%": "26.12",
+      "Attempts": "134",
+      "Putts made": "35"
+    },
+    {
+      "rank": 156,
+      "player": "Matt Jones",
+      "%": "25.96",
+      "Attempts": "104",
+      "Putts made": "27"
+    },
+    {
+      "rank": 156,
+      "player": "Shane Lowry",
+      "%": "25.96",
+      "Attempts": "104",
+      "Putts made": "27"
+    },
+    {
+      "rank": 158,
+      "player": "Anirban Lahiri",
+      "%": "25.83",
+      "Attempts": "120",
+      "Putts made": "31"
+    },
+    {
+      "rank": 159,
+      "player": "Wesley Bryan",
+      "%": "25.81",
+      "Attempts": "62",
+      "Putts made": "16"
+    },
+    {
+      "rank": 159,
+      "player": "Chase Seiffert",
+      "%": "25.81",
+      "Attempts": "62",
+      "Putts made": "16"
+    },
+    {
+      "rank": 161,
+      "player": "Martin Trainer",
+      "%": "25.77",
+      "Attempts": "97",
+      "Putts made": "25"
+    },
+    {
+      "rank": 162,
+      "player": "Hayden Buckley",
+      "%": "25.63",
+      "Attempts": "160",
+      "Putts made": "41"
+    },
+    {
+      "rank": 163,
+      "player": "Robert Streb",
+      "%": "25.58",
+      "Attempts": "129",
+      "Putts made": "33"
+    },
+    {
+      "rank": 164,
+      "player": "Cameron Percy",
+      "%": "25.53",
+      "Attempts": "47",
+      "Putts made": "12"
+    },
+    {
+      "rank": 165,
+      "player": "Chad Ramey",
+      "%": "25.23",
+      "Attempts": "107",
+      "Putts made": "27"
+    },
+    {
+      "rank": 166,
+      "player": "Matt Fitzpatrick",
+      "%": "25.00",
+      "Attempts": "76",
+      "Putts made": "19"
+    },
+    {
+      "rank": 166,
+      "player": "Max Homa",
+      "%": "25.00",
+      "Attempts": "120",
+      "Putts made": "30"
+    },
+    {
+      "rank": 166,
+      "player": "Austin Smotherman",
+      "%": "25.00",
+      "Attempts": "128",
+      "Putts made": "32"
+    },
+    {
+      "rank": 166,
+      "player": "Will Zalatoris",
+      "%": "25.00",
+      "Attempts": "116",
+      "Putts made": "29"
+    },
+    {
+      "rank": 170,
+      "player": "Brian Stuard",
+      "%": "24.81",
+      "Attempts": "133",
+      "Putts made": "33"
+    },
+    {
+      "rank": 171,
+      "player": "Beau Hossler",
+      "%": "24.51",
+      "Attempts": "102",
+      "Putts made": "25"
+    },
+    {
+      "rank": 172,
+      "player": "Chez Reavie",
+      "%": "24.39",
+      "Attempts": "164",
+      "Putts made": "40"
+    },
+    {
+      "rank": 173,
+      "player": "Brice Garnett",
+      "%": "24.32",
+      "Attempts": "111",
+      "Putts made": "27"
+    },
+    {
+      "rank": 174,
+      "player": "Patrick Cantlay",
+      "%": "24.17",
+      "Attempts": "120",
+      "Putts made": "29"
+    },
+    {
+      "rank": 175,
+      "player": "Danny Willett",
+      "%": "24.10",
+      "Attempts": "83",
+      "Putts made": "20"
+    },
+    {
+      "rank": 176,
+      "player": "Tommy Fleetwood",
+      "%": "23.88",
+      "Attempts": "67",
+      "Putts made": "16"
+    },
+    {
+      "rank": 177,
+      "player": "Jason Kokrak",
+      "%": "23.76",
+      "Attempts": "101",
+      "Putts made": "24"
+    },
+    {
+      "rank": 178,
+      "player": "Doug Ghim",
+      "%": "23.53",
+      "Attempts": "136",
+      "Putts made": "32"
+    },
+    {
+      "rank": 178,
+      "player": "Patrick Rodgers",
+      "%": "23.53",
+      "Attempts": "119",
+      "Putts made": "28"
+    },
+    {
+      "rank": 180,
+      "player": "Joshua Creel",
+      "%": "23.46",
+      "Attempts": "81",
+      "Putts made": "19"
+    },
+    {
+      "rank": 181,
+      "player": "Jim Herman",
+      "%": "23.16",
+      "Attempts": "95",
+      "Putts made": "22"
+    },
+    {
+      "rank": 182,
+      "player": "Kramer Hickok",
+      "%": "23.08",
+      "Attempts": "143",
+      "Putts made": "33"
+    },
+    {
+      "rank": 183,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "%": "22.95",
+      "Attempts": "122",
+      "Putts made": "28"
+    },
+    {
+      "rank": 184,
+      "player": "Webb Simpson",
+      "%": "22.73",
+      "Attempts": "110",
+      "Putts made": "25"
+    },
+    {
+      "rank": 185,
+      "player": "Henrik Norlander",
+      "%": "22.61",
+      "Attempts": "115",
+      "Putts made": "26"
+    },
+    {
+      "rank": 186,
+      "player": "Garrick Higgo",
+      "%": "22.58",
+      "Attempts": "62",
+      "Putts made": "14"
+    },
+    {
+      "rank": 187,
+      "player": "Kevin Chappell",
+      "%": "22.54",
+      "Attempts": "71",
+      "Putts made": "16"
+    },
+    {
+      "rank": 188,
+      "player": "Vaughn Taylor",
+      "%": "22.47",
+      "Attempts": "89",
+      "Putts made": "20"
+    },
+    {
+      "rank": 189,
+      "player": "Kevin Streelman",
+      "%": "22.22",
+      "Attempts": "162",
+      "Putts made": "36"
+    },
+    {
+      "rank": 190,
+      "player": "Brendan Steele",
+      "%": "21.83",
+      "Attempts": "142",
+      "Putts made": "31"
+    },
+    {
+      "rank": 191,
+      "player": "Joseph Bramlett",
+      "%": "21.64",
+      "Attempts": "134",
+      "Putts made": "29"
+    },
+    {
+      "rank": 192,
+      "player": "Brandt Snedeker",
+      "%": "21.36",
+      "Attempts": "103",
+      "Putts made": "22"
+    },
+    {
+      "rank": 193,
+      "player": "Justin Rose",
+      "%": "19.23",
+      "Attempts": "78",
+      "Putts made": "15"
+    }
+  ]
+}

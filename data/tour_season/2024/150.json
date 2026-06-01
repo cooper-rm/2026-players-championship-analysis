@@ -1,0 +1,998 @@
+{
+  "stat_id": "150",
+  "year": 2024,
+  "category": "Streaks",
+  "stat_title": "Current Par or Better Streak",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Michael Kim",
+      "Number of Rounds": "18"
+    },
+    {
+      "rank": 2,
+      "player": "Nico Echavarria",
+      "Number of Rounds": "16"
+    },
+    {
+      "rank": 3,
+      "player": "Byeong Hun An",
+      "Number of Rounds": "15"
+    },
+    {
+      "rank": 4,
+      "player": "Patrick Rodgers",
+      "Number of Rounds": "13"
+    },
+    {
+      "rank": 5,
+      "player": "Austin Eckroat",
+      "Number of Rounds": "12"
+    },
+    {
+      "rank": 5,
+      "player": "Tommy Fleetwood",
+      "Number of Rounds": "12"
+    },
+    {
+      "rank": 5,
+      "player": "Rickie Fowler",
+      "Number of Rounds": "12"
+    },
+    {
+      "rank": 5,
+      "player": "Robert MacIntyre",
+      "Number of Rounds": "12"
+    },
+    {
+      "rank": 5,
+      "player": "Maverick McNealy",
+      "Number of Rounds": "12"
+    },
+    {
+      "rank": 5,
+      "player": "Mac Meissner",
+      "Number of Rounds": "12"
+    },
+    {
+      "rank": 5,
+      "player": "Paul Peterson",
+      "Number of Rounds": "12"
+    },
+    {
+      "rank": 12,
+      "player": "Patrick Cantlay",
+      "Number of Rounds": "11"
+    },
+    {
+      "rank": 12,
+      "player": "Patrick Fishburn",
+      "Number of Rounds": "11"
+    },
+    {
+      "rank": 12,
+      "player": "Max Greyserman",
+      "Number of Rounds": "11"
+    },
+    {
+      "rank": 15,
+      "player": "Harry Hall",
+      "Number of Rounds": "10"
+    },
+    {
+      "rank": 15,
+      "player": "Mark Hubbard",
+      "Number of Rounds": "10"
+    },
+    {
+      "rank": 15,
+      "player": "Matthew Jordan",
+      "Number of Rounds": "10"
+    },
+    {
+      "rank": 15,
+      "player": "David Lipsky",
+      "Number of Rounds": "10"
+    },
+    {
+      "rank": 15,
+      "player": "Adam Svensson",
+      "Number of Rounds": "10"
+    },
+    {
+      "rank": 20,
+      "player": "Joshua Creel",
+      "Number of Rounds": "9"
+    },
+    {
+      "rank": 20,
+      "player": "Sungjae Im",
+      "Number of Rounds": "9"
+    },
+    {
+      "rank": 20,
+      "player": "Max McGreevy",
+      "Number of Rounds": "9"
+    },
+    {
+      "rank": 20,
+      "player": "Justin Thomas",
+      "Number of Rounds": "9"
+    },
+    {
+      "rank": 20,
+      "player": "Michael Thorbjornsen",
+      "Number of Rounds": "9"
+    },
+    {
+      "rank": 20,
+      "player": "Fabrizio Zanotti",
+      "Number of Rounds": "9"
+    },
+    {
+      "rank": 26,
+      "player": "Fred Biondi",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "Ricardo Gouveia",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "Lee Hodges",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "Kurt Kitayama",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "Rory McIlroy",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "Lukas Nemecz",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "Niklas N\u00f8rgaard",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "Taylor Pendrith",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "J.T. Poston",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 26,
+      "player": "Adrien Saddier",
+      "Number of Rounds": "8"
+    },
+    {
+      "rank": 36,
+      "player": "Sam Burns",
+      "Number of Rounds": "7"
+    },
+    {
+      "rank": 36,
+      "player": "Quade Cummins",
+      "Number of Rounds": "7"
+    },
+    {
+      "rank": 36,
+      "player": "Chesson Hadley",
+      "Number of Rounds": "7"
+    },
+    {
+      "rank": 36,
+      "player": "Shane Lowry",
+      "Number of Rounds": "7"
+    },
+    {
+      "rank": 36,
+      "player": "Chris Nido",
+      "Number of Rounds": "7"
+    },
+    {
+      "rank": 36,
+      "player": "Ben Taylor",
+      "Number of Rounds": "7"
+    },
+    {
+      "rank": 42,
+      "player": "Bud Cauley",
+      "Number of Rounds": "6"
+    },
+    {
+      "rank": 42,
+      "player": "Stewart Cink",
+      "Number of Rounds": "6"
+    },
+    {
+      "rank": 42,
+      "player": "Louis de Jager",
+      "Number of Rounds": "6"
+    },
+    {
+      "rank": 42,
+      "player": "Espen Kofstad",
+      "Number of Rounds": "6"
+    },
+    {
+      "rank": 42,
+      "player": "Denny McCarthy",
+      "Number of Rounds": "6"
+    },
+    {
+      "rank": 42,
+      "player": "C.T. Pan",
+      "Number of Rounds": "6"
+    },
+    {
+      "rank": 42,
+      "player": "Jayden Schaper",
+      "Number of Rounds": "6"
+    },
+    {
+      "rank": 49,
+      "player": "Sam Bairstow",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Scott Brown",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Filippo Celli",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Luke Donald",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Ryan Gerard",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Emiliano Grillo",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Harry Higgs",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Russell Knox",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Min Woo Lee",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Matthieu Pavon",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Patrick Reed",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Scottie Scheffler",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Matthias Schwab",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Adam Scott",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "D.J. Trahan",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Johannes Veerman",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Danny Willett",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 49,
+      "player": "Kevin Yu",
+      "Number of Rounds": "5"
+    },
+    {
+      "rank": 67,
+      "player": "Thomas Aiken",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Matt Atkins",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Nick Bachem",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Akshay Bhatia",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Marcus Byrd",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Rafa Cabrera Bello",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Luke Clanton",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Spencer Cross",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Nick Dunlap",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Grant Forrest",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Sebastian Friedrichsen",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Ian Gilligan",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Lucas Glover",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Talor Gooch",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Will Gordon",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Ryan Hall",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Brian Harman",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Russell Henley",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Rico Hoey",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Charley Hoffman",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Viktor Hovland",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Mackenzie Hughes",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Johnny Keefer",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Ryosuke Kinoshita",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Martin Laird",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Romain Langasque",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Junghwan Lee",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Hurly Long",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Taylor Montgomery",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Grayson Murray",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "James Nicholas",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "S.Y. Noh",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Andrea Pavan",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Max Rottluff",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Taisei Shimizu",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Austin Smotherman",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Hayden Springer",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Sam Stevens",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Yuta Sugiura",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Andy Sullivan",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Connor Syme",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Jackson Van Paris",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Carson Young",
+      "Number of Rounds": "4"
+    },
+    {
+      "rank": 110,
+      "player": "Ricky Barnes",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Daniel Berger",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Blades Brown",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Jackson Buchanan",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Bronson Burgoon",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "John Catlin",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Joel Dahmen",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Jason Day",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Matt Fitzpatrick",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Doug Ghim",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Juan Jose Guerra",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Joe Highsmith",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Ryo Hisatsune",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Max Homa",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Billy Horschel",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Beau Hossler",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Chase Johnson",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "S.H. Kim",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Si Woo Kim",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Jim Knous",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Satoshi Kodaira",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "David Lingmerth",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Thomas Longbella",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Blake McShea",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Henrik Norlander",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Ted Potter, Jr.",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Kyle Reifers",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Xander Schauffele",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Marcel Schneider",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Matt Sharpstene",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Robby Shelton",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Stephen Stallings Jr.",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Sahith Theegala",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Kevin Tway",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 110,
+      "player": "Ren Yonezawa",
+      "Number of Rounds": "3"
+    },
+    {
+      "rank": 145,
+      "player": "Kihei Akina",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Ryan Armour",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Haydn Barron",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Chandler Blanchet",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Keegan Bradley",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "John Marshall Butler",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Jonathan Byrd",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Ivan Cantero Gutierrez",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Ryan Celano",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Eric Cole",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Ryan Cole",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Cristobal Del Solar",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Jason Dufner",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Manuel Elvira",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Ewen Ferguson",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Stephen Gallacher",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Ben Griffin",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Chen Guxin",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Chase Hanna",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Justin Hastings",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Jim Herman",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Justin Hicks",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Garrick Higgo",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Calum Hill",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Hiroshi Iwata",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Scott Jamieson",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Casey Jarvis",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Naoyuki Kataoka",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Yuto Katsuragawa",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Max Kieffer",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Alexander Knappe",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Jackson Koivun",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Chris Korte",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Kelly Kraft",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Pablo Larrazabal",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Haotong Li",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Hunter Logan",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Hideki Matsuyama",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Tyler McCumber",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "David Micheluzzi",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Guido Migliozzi",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Edoardo Molinari",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "William Moll",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Taylor Moore",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Andrew Novak",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Jeff Overton",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Marco Penge",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Victor Perez",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Chandler Phillips",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Sepp Straka",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Brian Stuard",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Braden Thornberry",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Martin Trainer",
+      "Number of Rounds": "2"
+    },
+    {
+      "rank": 145,
+      "player": "Will Zalatoris",
+      "Number of Rounds": "2"
+    }
+  ]
+}

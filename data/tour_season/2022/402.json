@@ -1,0 +1,1359 @@
+{
+  "stat_id": "402",
+  "year": 2022,
+  "category": "Putting",
+  "stat_title": "Overall Putting Average",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Lucas Herbert",
+      "Avg": "1.539",
+      "# of Putts": "1,496",
+      "# of Holes": "972"
+    },
+    {
+      "rank": 2,
+      "player": "Matt Kuchar",
+      "Avg": "1.548",
+      "# of Putts": "1,978",
+      "# of Holes": "1,278"
+    },
+    {
+      "rank": 3,
+      "player": "Cameron Smith",
+      "Avg": "1.560",
+      "# of Putts": "1,741",
+      "# of Holes": "1,116"
+    },
+    {
+      "rank": 4,
+      "player": "Cameron Young",
+      "Avg": "1.564",
+      "# of Putts": "2,309",
+      "# of Holes": "1,476"
+    },
+    {
+      "rank": 5,
+      "player": "Peter Malnati",
+      "Avg": "1.569",
+      "# of Putts": "2,908",
+      "# of Holes": "1,854"
+    },
+    {
+      "rank": 5,
+      "player": "Justin Thomas",
+      "Avg": "1.569",
+      "# of Putts": "2,146",
+      "# of Holes": "1,368"
+    },
+    {
+      "rank": 7,
+      "player": "Wesley Bryan",
+      "Avg": "1.570",
+      "# of Putts": "1,385",
+      "# of Holes": "882"
+    },
+    {
+      "rank": 8,
+      "player": "Troy Merritt",
+      "Avg": "1.571",
+      "# of Putts": "2,574",
+      "# of Holes": "1,638"
+    },
+    {
+      "rank": 8,
+      "player": "Scott Piercy",
+      "Avg": "1.571",
+      "# of Putts": "2,177",
+      "# of Holes": "1,386"
+    },
+    {
+      "rank": 8,
+      "player": "Brendon Todd",
+      "Avg": "1.571",
+      "# of Putts": "2,347",
+      "# of Holes": "1,494"
+    },
+    {
+      "rank": 11,
+      "player": "Vince Whaley",
+      "Avg": "1.573",
+      "# of Putts": "2,406",
+      "# of Holes": "1,530"
+    },
+    {
+      "rank": 12,
+      "player": "Jonas Blixt",
+      "Avg": "1.574",
+      "# of Putts": "1,417",
+      "# of Holes": "900"
+    },
+    {
+      "rank": 13,
+      "player": "Rory Sabbatini",
+      "Avg": "1.577",
+      "# of Putts": "1,561",
+      "# of Holes": "990"
+    },
+    {
+      "rank": 14,
+      "player": "Tyrrell Hatton",
+      "Avg": "1.578",
+      "# of Putts": "1,818",
+      "# of Holes": "1,152"
+    },
+    {
+      "rank": 14,
+      "player": "Danny Lee",
+      "Avg": "1.578",
+      "# of Putts": "1,477",
+      "# of Holes": "936"
+    },
+    {
+      "rank": 16,
+      "player": "Denny McCarthy",
+      "Avg": "1.579",
+      "# of Putts": "2,843",
+      "# of Holes": "1,800"
+    },
+    {
+      "rank": 16,
+      "player": "Maverick McNealy",
+      "Avg": "1.579",
+      "# of Putts": "2,501",
+      "# of Holes": "1,584"
+    },
+    {
+      "rank": 16,
+      "player": "Michael Thompson",
+      "Avg": "1.579",
+      "# of Putts": "2,388",
+      "# of Holes": "1,512"
+    },
+    {
+      "rank": 19,
+      "player": "Beau Hossler",
+      "Avg": "1.580",
+      "# of Putts": "1,991",
+      "# of Holes": "1,260"
+    },
+    {
+      "rank": 19,
+      "player": "Pat Perez",
+      "Avg": "1.580",
+      "# of Putts": "1,763",
+      "# of Holes": "1,116"
+    },
+    {
+      "rank": 19,
+      "player": "Patrick Reed",
+      "Avg": "1.580",
+      "# of Putts": "1,991",
+      "# of Holes": "1,260"
+    },
+    {
+      "rank": 19,
+      "player": "Webb Simpson",
+      "Avg": "1.580",
+      "# of Putts": "1,678",
+      "# of Holes": "1,062"
+    },
+    {
+      "rank": 19,
+      "player": "Matthew Wolff",
+      "Avg": "1.580",
+      "# of Putts": "1,337",
+      "# of Holes": "846"
+    },
+    {
+      "rank": 24,
+      "player": "Justin Rose",
+      "Avg": "1.581",
+      "# of Putts": "1,537",
+      "# of Holes": "972"
+    },
+    {
+      "rank": 25,
+      "player": "Scott Stallings",
+      "Avg": "1.582",
+      "# of Putts": "2,733",
+      "# of Holes": "1,728"
+    },
+    {
+      "rank": 26,
+      "player": "Ian Poulter",
+      "Avg": "1.583",
+      "# of Putts": "1,254",
+      "# of Holes": "792"
+    },
+    {
+      "rank": 27,
+      "player": "Cam Davis",
+      "Avg": "1.585",
+      "# of Putts": "2,339",
+      "# of Holes": "1,476"
+    },
+    {
+      "rank": 27,
+      "player": "Kelly Kraft",
+      "Avg": "1.585",
+      "# of Putts": "1,969",
+      "# of Holes": "1,242"
+    },
+    {
+      "rank": 29,
+      "player": "Austin Cook",
+      "Avg": "1.586",
+      "# of Putts": "1,970",
+      "# of Holes": "1,242"
+    },
+    {
+      "rank": 29,
+      "player": "Davis Riley",
+      "Avg": "1.586",
+      "# of Putts": "2,684",
+      "# of Holes": "1,692"
+    },
+    {
+      "rank": 31,
+      "player": "Max Homa",
+      "Avg": "1.587",
+      "# of Putts": "2,343",
+      "# of Holes": "1,476"
+    },
+    {
+      "rank": 31,
+      "player": "Stephan Jaeger",
+      "Avg": "1.587",
+      "# of Putts": "2,428",
+      "# of Holes": "1,530"
+    },
+    {
+      "rank": 31,
+      "player": "Rory McIlroy",
+      "Avg": "1.587",
+      "# of Putts": "1,714",
+      "# of Holes": "1,080"
+    },
+    {
+      "rank": 31,
+      "player": "Carlos Ortiz",
+      "Avg": "1.587",
+      "# of Putts": "1,742",
+      "# of Holes": "1,098"
+    },
+    {
+      "rank": 35,
+      "player": "Harold Varner III",
+      "Avg": "1.588",
+      "# of Putts": "1,972",
+      "# of Holes": "1,242"
+    },
+    {
+      "rank": 36,
+      "player": "Nate Lashley",
+      "Avg": "1.589",
+      "# of Putts": "2,174",
+      "# of Holes": "1,368"
+    },
+    {
+      "rank": 37,
+      "player": "Abraham Ancer",
+      "Avg": "1.590",
+      "# of Putts": "1,660",
+      "# of Holes": "1,044"
+    },
+    {
+      "rank": 37,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "1.590",
+      "# of Putts": "2,290",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 37,
+      "player": "Jonathan Byrd",
+      "Avg": "1.590",
+      "# of Putts": "1,631",
+      "# of Holes": "1,026"
+    },
+    {
+      "rank": 37,
+      "player": "Mackenzie Hughes",
+      "Avg": "1.590",
+      "# of Putts": "2,347",
+      "# of Holes": "1,476"
+    },
+    {
+      "rank": 41,
+      "player": "Jason Day",
+      "Avg": "1.591",
+      "# of Putts": "1,632",
+      "# of Holes": "1,026"
+    },
+    {
+      "rank": 41,
+      "player": "Tom Hoge",
+      "Avg": "1.591",
+      "# of Putts": "2,749",
+      "# of Holes": "1,728"
+    },
+    {
+      "rank": 41,
+      "player": "Joaquin Niemann",
+      "Avg": "1.591",
+      "# of Putts": "2,291",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 44,
+      "player": "Kiradech Aphibarnrat",
+      "Avg": "1.592",
+      "# of Putts": "1,519",
+      "# of Holes": "954"
+    },
+    {
+      "rank": 44,
+      "player": "Patrick Cantlay",
+      "Avg": "1.592",
+      "# of Putts": "1,949",
+      "# of Holes": "1,224"
+    },
+    {
+      "rank": 44,
+      "player": "Talor Gooch",
+      "Avg": "1.592",
+      "# of Putts": "2,034",
+      "# of Holes": "1,278"
+    },
+    {
+      "rank": 44,
+      "player": "Harry Higgs",
+      "Avg": "1.592",
+      "# of Putts": "2,293",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 44,
+      "player": "Jim Knous",
+      "Avg": "1.592",
+      "# of Putts": "1,461",
+      "# of Holes": "918"
+    },
+    {
+      "rank": 49,
+      "player": "Lanto Griffin",
+      "Avg": "1.593",
+      "# of Putts": "2,236",
+      "# of Holes": "1,404"
+    },
+    {
+      "rank": 49,
+      "player": "Marc Leishman",
+      "Avg": "1.593",
+      "# of Putts": "2,065",
+      "# of Holes": "1,296"
+    },
+    {
+      "rank": 49,
+      "player": "Alex Noren",
+      "Avg": "1.593",
+      "# of Putts": "1,835",
+      "# of Holes": "1,152"
+    },
+    {
+      "rank": 52,
+      "player": "Rickie Fowler",
+      "Avg": "1.594",
+      "# of Putts": "2,037",
+      "# of Holes": "1,278"
+    },
+    {
+      "rank": 52,
+      "player": "Viktor Hovland",
+      "Avg": "1.594",
+      "# of Putts": "2,008",
+      "# of Holes": "1,260"
+    },
+    {
+      "rank": 52,
+      "player": "Roger Sloan",
+      "Avg": "1.594",
+      "# of Putts": "2,094",
+      "# of Holes": "1,314"
+    },
+    {
+      "rank": 55,
+      "player": "Wyndham Clark",
+      "Avg": "1.595",
+      "# of Putts": "2,784",
+      "# of Holes": "1,746"
+    },
+    {
+      "rank": 55,
+      "player": "Luke Donald",
+      "Avg": "1.595",
+      "# of Putts": "1,923",
+      "# of Holes": "1,206"
+    },
+    {
+      "rank": 55,
+      "player": "Mark Hubbard",
+      "Avg": "1.595",
+      "# of Putts": "1,952",
+      "# of Holes": "1,224"
+    },
+    {
+      "rank": 55,
+      "player": "Hideki Matsuyama",
+      "Avg": "1.595",
+      "# of Putts": "2,067",
+      "# of Holes": "1,296"
+    },
+    {
+      "rank": 59,
+      "player": "Tommy Fleetwood",
+      "Avg": "1.596",
+      "# of Putts": "1,609",
+      "# of Holes": "1,008"
+    },
+    {
+      "rank": 59,
+      "player": "Francesco Molinari",
+      "Avg": "1.596",
+      "# of Putts": "1,523",
+      "# of Holes": "954"
+    },
+    {
+      "rank": 59,
+      "player": "Kevin Streelman",
+      "Avg": "1.596",
+      "# of Putts": "2,528",
+      "# of Holes": "1,584"
+    },
+    {
+      "rank": 62,
+      "player": "Chesson Hadley",
+      "Avg": "1.597",
+      "# of Putts": "2,299",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 62,
+      "player": "Jason Kokrak",
+      "Avg": "1.597",
+      "# of Putts": "1,753",
+      "# of Holes": "1,098"
+    },
+    {
+      "rank": 62,
+      "player": "Collin Morikawa",
+      "Avg": "1.597",
+      "# of Putts": "1,725",
+      "# of Holes": "1,080"
+    },
+    {
+      "rank": 65,
+      "player": "Sam Burns",
+      "Avg": "1.598",
+      "# of Putts": "2,301",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 65,
+      "player": "Tyler Duncan",
+      "Avg": "1.598",
+      "# of Putts": "2,358",
+      "# of Holes": "1,476"
+    },
+    {
+      "rank": 65,
+      "player": "John Huh",
+      "Avg": "1.598",
+      "# of Putts": "2,128",
+      "# of Holes": "1,332"
+    },
+    {
+      "rank": 65,
+      "player": "Adam Long",
+      "Avg": "1.598",
+      "# of Putts": "2,532",
+      "# of Holes": "1,584"
+    },
+    {
+      "rank": 65,
+      "player": "Cameron Percy",
+      "Avg": "1.598",
+      "# of Putts": "1,266",
+      "# of Holes": "792"
+    },
+    {
+      "rank": 70,
+      "player": "Si Woo Kim",
+      "Avg": "1.599",
+      "# of Putts": "2,820",
+      "# of Holes": "1,764"
+    },
+    {
+      "rank": 70,
+      "player": "Shane Lowry",
+      "Avg": "1.599",
+      "# of Putts": "1,669",
+      "# of Holes": "1,044"
+    },
+    {
+      "rank": 70,
+      "player": "Sahith Theegala",
+      "Avg": "1.599",
+      "# of Putts": "3,253",
+      "# of Holes": "2,034"
+    },
+    {
+      "rank": 73,
+      "player": "Dylan Frittelli",
+      "Avg": "1.600",
+      "# of Putts": "2,678",
+      "# of Holes": "1,674"
+    },
+    {
+      "rank": 73,
+      "player": "Max McGreevy",
+      "Avg": "1.600",
+      "# of Putts": "2,074",
+      "# of Holes": "1,296"
+    },
+    {
+      "rank": 73,
+      "player": "Andrew Putnam",
+      "Avg": "1.600",
+      "# of Putts": "2,708",
+      "# of Holes": "1,692"
+    },
+    {
+      "rank": 73,
+      "player": "Sam Ryder",
+      "Avg": "1.600",
+      "# of Putts": "2,534",
+      "# of Holes": "1,584"
+    },
+    {
+      "rank": 77,
+      "player": "Trey Mullinax",
+      "Avg": "1.601",
+      "# of Putts": "2,363",
+      "# of Holes": "1,476"
+    },
+    {
+      "rank": 78,
+      "player": "Matt Fitzpatrick",
+      "Avg": "1.602",
+      "# of Putts": "2,018",
+      "# of Holes": "1,260"
+    },
+    {
+      "rank": 78,
+      "player": "Bill Haas",
+      "Avg": "1.602",
+      "# of Putts": "2,596",
+      "# of Holes": "1,620"
+    },
+    {
+      "rank": 78,
+      "player": "Seamus Power",
+      "Avg": "1.602",
+      "# of Putts": "2,249",
+      "# of Holes": "1,404"
+    },
+    {
+      "rank": 78,
+      "player": "Robert Streb",
+      "Avg": "1.602",
+      "# of Putts": "2,393",
+      "# of Holes": "1,494"
+    },
+    {
+      "rank": 82,
+      "player": "Patton Kizzire",
+      "Avg": "1.603",
+      "# of Putts": "2,597",
+      "# of Holes": "1,620"
+    },
+    {
+      "rank": 82,
+      "player": "Scottie Scheffler",
+      "Avg": "1.603",
+      "# of Putts": "2,423",
+      "# of Holes": "1,512"
+    },
+    {
+      "rank": 82,
+      "player": "Martin Trainer",
+      "Avg": "1.603",
+      "# of Putts": "2,250",
+      "# of Holes": "1,404"
+    },
+    {
+      "rank": 85,
+      "player": "Keegan Bradley",
+      "Avg": "1.604",
+      "# of Putts": "2,310",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 85,
+      "player": "K.H. Lee",
+      "Avg": "1.604",
+      "# of Putts": "2,829",
+      "# of Holes": "1,764"
+    },
+    {
+      "rank": 85,
+      "player": "Justin Lower",
+      "Avg": "1.604",
+      "# of Putts": "2,079",
+      "# of Holes": "1,296"
+    },
+    {
+      "rank": 85,
+      "player": "J.T. Poston",
+      "Avg": "1.604",
+      "# of Putts": "2,541",
+      "# of Holes": "1,584"
+    },
+    {
+      "rank": 89,
+      "player": "Sungjae Im",
+      "Avg": "1.605",
+      "# of Putts": "2,542",
+      "# of Holes": "1,584"
+    },
+    {
+      "rank": 89,
+      "player": "Andrew Novak",
+      "Avg": "1.605",
+      "# of Putts": "2,195",
+      "# of Holes": "1,368"
+    },
+    {
+      "rank": 89,
+      "player": "Xander Schauffele",
+      "Avg": "1.605",
+      "# of Putts": "2,080",
+      "# of Holes": "1,296"
+    },
+    {
+      "rank": 89,
+      "player": "Vaughn Taylor",
+      "Avg": "1.605",
+      "# of Putts": "1,531",
+      "# of Holes": "954"
+    },
+    {
+      "rank": 89,
+      "player": "Danny Willett",
+      "Avg": "1.605",
+      "# of Putts": "1,791",
+      "# of Holes": "1,116"
+    },
+    {
+      "rank": 89,
+      "player": "Aaron Wise",
+      "Avg": "1.605",
+      "# of Putts": "2,484",
+      "# of Holes": "1,548"
+    },
+    {
+      "rank": 95,
+      "player": "Billy Horschel",
+      "Avg": "1.606",
+      "# of Putts": "2,023",
+      "# of Holes": "1,260"
+    },
+    {
+      "rank": 95,
+      "player": "Chris Kirk",
+      "Avg": "1.606",
+      "# of Putts": "2,428",
+      "# of Holes": "1,512"
+    },
+    {
+      "rank": 95,
+      "player": "Anirban Lahiri",
+      "Avg": "1.606",
+      "# of Putts": "2,082",
+      "# of Holes": "1,296"
+    },
+    {
+      "rank": 95,
+      "player": "Jordan Spieth",
+      "Avg": "1.606",
+      "# of Putts": "2,139",
+      "# of Holes": "1,332"
+    },
+    {
+      "rank": 95,
+      "player": "Brian Stuard",
+      "Avg": "1.606",
+      "# of Putts": "2,573",
+      "# of Holes": "1,602"
+    },
+    {
+      "rank": 95,
+      "player": "Richy Werenski",
+      "Avg": "1.606",
+      "# of Putts": "1,821",
+      "# of Holes": "1,134"
+    },
+    {
+      "rank": 101,
+      "player": "Adam Hadwin",
+      "Avg": "1.607",
+      "# of Putts": "2,604",
+      "# of Holes": "1,620"
+    },
+    {
+      "rank": 101,
+      "player": "Matt Jones",
+      "Avg": "1.607",
+      "# of Putts": "1,764",
+      "# of Holes": "1,098"
+    },
+    {
+      "rank": 103,
+      "player": "Adam Svensson",
+      "Avg": "1.608",
+      "# of Putts": "2,894",
+      "# of Holes": "1,800"
+    },
+    {
+      "rank": 103,
+      "player": "Nick Taylor",
+      "Avg": "1.608",
+      "# of Putts": "2,547",
+      "# of Holes": "1,584"
+    },
+    {
+      "rank": 105,
+      "player": "Kevin Kisner",
+      "Avg": "1.609",
+      "# of Putts": "1,911",
+      "# of Holes": "1,188"
+    },
+    {
+      "rank": 105,
+      "player": "J.J. Spaun",
+      "Avg": "1.609",
+      "# of Putts": "2,752",
+      "# of Holes": "1,710"
+    },
+    {
+      "rank": 105,
+      "player": "Curtis Thompson",
+      "Avg": "1.609",
+      "# of Putts": "1,854",
+      "# of Holes": "1,152"
+    },
+    {
+      "rank": 108,
+      "player": "Joshua Creel",
+      "Avg": "1.610",
+      "# of Putts": "1,362",
+      "# of Holes": "846"
+    },
+    {
+      "rank": 108,
+      "player": "Tony Finau",
+      "Avg": "1.610",
+      "# of Putts": "2,493",
+      "# of Holes": "1,548"
+    },
+    {
+      "rank": 108,
+      "player": "Brooks Koepka",
+      "Avg": "1.610",
+      "# of Putts": "1,333",
+      "# of Holes": "828"
+    },
+    {
+      "rank": 108,
+      "player": "Hank Lebioda",
+      "Avg": "1.610",
+      "# of Putts": "2,319",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 108,
+      "player": "Adam Schenk",
+      "Avg": "1.610",
+      "# of Putts": "2,608",
+      "# of Holes": "1,620"
+    },
+    {
+      "rank": 108,
+      "player": "David Skinns",
+      "Avg": "1.610",
+      "# of Putts": "1,913",
+      "# of Holes": "1,188"
+    },
+    {
+      "rank": 114,
+      "player": "Kurt Kitayama",
+      "Avg": "1.611",
+      "# of Putts": "2,030",
+      "# of Holes": "1,260"
+    },
+    {
+      "rank": 115,
+      "player": "Adam Scott",
+      "Avg": "1.612",
+      "# of Putts": "2,089",
+      "# of Holes": "1,296"
+    },
+    {
+      "rank": 116,
+      "player": "Russell Henley",
+      "Avg": "1.613",
+      "# of Putts": "2,265",
+      "# of Holes": "1,404"
+    },
+    {
+      "rank": 116,
+      "player": "Taylor Moore",
+      "Avg": "1.613",
+      "# of Putts": "2,439",
+      "# of Holes": "1,512"
+    },
+    {
+      "rank": 116,
+      "player": "Chad Ramey",
+      "Avg": "1.613",
+      "# of Putts": "2,120",
+      "# of Holes": "1,314"
+    },
+    {
+      "rank": 119,
+      "player": "Michael Gligic",
+      "Avg": "1.614",
+      "# of Putts": "2,063",
+      "# of Holes": "1,278"
+    },
+    {
+      "rank": 119,
+      "player": "Brian Harman",
+      "Avg": "1.614",
+      "# of Putts": "2,643",
+      "# of Holes": "1,638"
+    },
+    {
+      "rank": 119,
+      "player": "Satoshi Kodaira",
+      "Avg": "1.614",
+      "# of Putts": "1,482",
+      "# of Holes": "918"
+    },
+    {
+      "rank": 119,
+      "player": "Keith Mitchell",
+      "Avg": "1.614",
+      "# of Putts": "2,499",
+      "# of Holes": "1,548"
+    },
+    {
+      "rank": 119,
+      "player": "S.Y. Noh",
+      "Avg": "1.614",
+      "# of Putts": "1,830",
+      "# of Holes": "1,134"
+    },
+    {
+      "rank": 124,
+      "player": "C.T. Pan",
+      "Avg": "1.617",
+      "# of Putts": "2,386",
+      "# of Holes": "1,476"
+    },
+    {
+      "rank": 125,
+      "player": "Kevin Tway",
+      "Avg": "1.618",
+      "# of Putts": "2,243",
+      "# of Holes": "1,386"
+    },
+    {
+      "rank": 126,
+      "player": "James Hahn",
+      "Avg": "1.619",
+      "# of Putts": "2,069",
+      "# of Holes": "1,278"
+    },
+    {
+      "rank": 126,
+      "player": "Charley Hoffman",
+      "Avg": "1.619",
+      "# of Putts": "2,011",
+      "# of Holes": "1,242"
+    },
+    {
+      "rank": 126,
+      "player": "Zach Johnson",
+      "Avg": "1.619",
+      "# of Putts": "1,865",
+      "# of Holes": "1,152"
+    },
+    {
+      "rank": 126,
+      "player": "Callum Tarren",
+      "Avg": "1.619",
+      "# of Putts": "2,011",
+      "# of Holes": "1,242"
+    },
+    {
+      "rank": 130,
+      "player": "Charles Howell III",
+      "Avg": "1.620",
+      "# of Putts": "1,575",
+      "# of Holes": "972"
+    },
+    {
+      "rank": 130,
+      "player": "Sung Kang",
+      "Avg": "1.620",
+      "# of Putts": "2,333",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 130,
+      "player": "Ben Kohles",
+      "Avg": "1.620",
+      "# of Putts": "1,837",
+      "# of Holes": "1,134"
+    },
+    {
+      "rank": 133,
+      "player": "Brandon Hagy",
+      "Avg": "1.621",
+      "# of Putts": "2,276",
+      "# of Holes": "1,404"
+    },
+    {
+      "rank": 133,
+      "player": "Will Zalatoris",
+      "Avg": "1.621",
+      "# of Putts": "2,217",
+      "# of Holes": "1,368"
+    },
+    {
+      "rank": 135,
+      "player": "Chez Reavie",
+      "Avg": "1.622",
+      "# of Putts": "2,482",
+      "# of Holes": "1,530"
+    },
+    {
+      "rank": 136,
+      "player": "Kevin Chappell",
+      "Avg": "1.623",
+      "# of Putts": "1,607",
+      "# of Holes": "990"
+    },
+    {
+      "rank": 136,
+      "player": "Greyson Sigg",
+      "Avg": "1.623",
+      "# of Putts": "2,629",
+      "# of Holes": "1,620"
+    },
+    {
+      "rank": 138,
+      "player": "Mito Pereira",
+      "Avg": "1.624",
+      "# of Putts": "2,601",
+      "# of Holes": "1,602"
+    },
+    {
+      "rank": 138,
+      "player": "Seth Reeves",
+      "Avg": "1.624",
+      "# of Putts": "1,958",
+      "# of Holes": "1,206"
+    },
+    {
+      "rank": 138,
+      "player": "Cameron Tringale",
+      "Avg": "1.624",
+      "# of Putts": "2,690",
+      "# of Holes": "1,656"
+    },
+    {
+      "rank": 141,
+      "player": "Nick Hardy",
+      "Avg": "1.625",
+      "# of Putts": "1,726",
+      "# of Holes": "1,062"
+    },
+    {
+      "rank": 141,
+      "player": "Matthias Schwab",
+      "Avg": "1.625",
+      "# of Putts": "2,048",
+      "# of Holes": "1,260"
+    },
+    {
+      "rank": 141,
+      "player": "Alex Smalley",
+      "Avg": "1.625",
+      "# of Putts": "2,721",
+      "# of Holes": "1,674"
+    },
+    {
+      "rank": 141,
+      "player": "Camilo Villegas",
+      "Avg": "1.625",
+      "# of Putts": "2,018",
+      "# of Holes": "1,242"
+    },
+    {
+      "rank": 145,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "1.626",
+      "# of Putts": "2,429",
+      "# of Holes": "1,494"
+    },
+    {
+      "rank": 145,
+      "player": "Hudson Swafford",
+      "Avg": "1.626",
+      "# of Putts": "1,873",
+      "# of Holes": "1,152"
+    },
+    {
+      "rank": 147,
+      "player": "Emiliano Grillo",
+      "Avg": "1.627",
+      "# of Putts": "2,460",
+      "# of Holes": "1,512"
+    },
+    {
+      "rank": 148,
+      "player": "Brice Garnett",
+      "Avg": "1.628",
+      "# of Putts": "2,257",
+      "# of Holes": "1,386"
+    },
+    {
+      "rank": 148,
+      "player": "Doug Ghim",
+      "Avg": "1.628",
+      "# of Putts": "2,462",
+      "# of Holes": "1,512"
+    },
+    {
+      "rank": 150,
+      "player": "Sepp Straka",
+      "Avg": "1.629",
+      "# of Putts": "2,873",
+      "# of Holes": "1,764"
+    },
+    {
+      "rank": 150,
+      "player": "Dawie van der Walt",
+      "Avg": "1.629",
+      "# of Putts": "1,818",
+      "# of Holes": "1,116"
+    },
+    {
+      "rank": 150,
+      "player": "Jhonattan Vegas",
+      "Avg": "1.629",
+      "# of Putts": "2,258",
+      "# of Holes": "1,386"
+    },
+    {
+      "rank": 150,
+      "player": "Gary Woodland",
+      "Avg": "1.629",
+      "# of Putts": "2,023",
+      "# of Holes": "1,242"
+    },
+    {
+      "rank": 154,
+      "player": "Ryan Armour",
+      "Avg": "1.630",
+      "# of Putts": "1,467",
+      "# of Holes": "900"
+    },
+    {
+      "rank": 154,
+      "player": "Brett Drewitt",
+      "Avg": "1.630",
+      "# of Putts": "1,702",
+      "# of Holes": "1,044"
+    },
+    {
+      "rank": 156,
+      "player": "Branden Grace",
+      "Avg": "1.631",
+      "# of Putts": "1,527",
+      "# of Holes": "936"
+    },
+    {
+      "rank": 156,
+      "player": "Taylor Pendrith",
+      "Avg": "1.631",
+      "# of Putts": "2,085",
+      "# of Holes": "1,278"
+    },
+    {
+      "rank": 156,
+      "player": "Austin Smotherman",
+      "Avg": "1.631",
+      "# of Putts": "2,261",
+      "# of Holes": "1,386"
+    },
+    {
+      "rank": 156,
+      "player": "Erik van Rooyen",
+      "Avg": "1.631",
+      "# of Putts": "1,409",
+      "# of Holes": "864"
+    },
+    {
+      "rank": 160,
+      "player": "David Lipsky",
+      "Avg": "1.632",
+      "# of Putts": "2,585",
+      "# of Holes": "1,584"
+    },
+    {
+      "rank": 160,
+      "player": "Doc Redman",
+      "Avg": "1.632",
+      "# of Putts": "2,320",
+      "# of Holes": "1,422"
+    },
+    {
+      "rank": 160,
+      "player": "Chase Seiffert",
+      "Avg": "1.632",
+      "# of Putts": "1,498",
+      "# of Holes": "918"
+    },
+    {
+      "rank": 160,
+      "player": "Matt Wallace",
+      "Avg": "1.632",
+      "# of Putts": "1,645",
+      "# of Holes": "1,008"
+    },
+    {
+      "rank": 164,
+      "player": "Scott Gutschewski",
+      "Avg": "1.634",
+      "# of Putts": "1,647",
+      "# of Holes": "1,008"
+    },
+    {
+      "rank": 164,
+      "player": "Patrick Rodgers",
+      "Avg": "1.634",
+      "# of Putts": "2,500",
+      "# of Holes": "1,530"
+    },
+    {
+      "rank": 166,
+      "player": "Kramer Hickok",
+      "Avg": "1.635",
+      "# of Putts": "2,678",
+      "# of Holes": "1,638"
+    },
+    {
+      "rank": 166,
+      "player": "Brandt Snedeker",
+      "Avg": "1.635",
+      "# of Putts": "1,736",
+      "# of Holes": "1,062"
+    },
+    {
+      "rank": 168,
+      "player": "Martin Laird",
+      "Avg": "1.636",
+      "# of Putts": "1,943",
+      "# of Holes": "1,188"
+    },
+    {
+      "rank": 169,
+      "player": "Bo Hoag",
+      "Avg": "1.637",
+      "# of Putts": "1,444",
+      "# of Holes": "882"
+    },
+    {
+      "rank": 170,
+      "player": "Ryan Palmer",
+      "Avg": "1.639",
+      "# of Putts": "1,977",
+      "# of Holes": "1,206"
+    },
+    {
+      "rank": 171,
+      "player": "Paul Barjon",
+      "Avg": "1.640",
+      "# of Putts": "2,096",
+      "# of Holes": "1,278"
+    },
+    {
+      "rank": 172,
+      "player": "Joel Dahmen",
+      "Avg": "1.641",
+      "# of Putts": "2,510",
+      "# of Holes": "1,530"
+    },
+    {
+      "rank": 172,
+      "player": "Brandon Wu",
+      "Avg": "1.641",
+      "# of Putts": "2,186",
+      "# of Holes": "1,332"
+    },
+    {
+      "rank": 174,
+      "player": "Stewart Cink",
+      "Avg": "1.642",
+      "# of Putts": "2,276",
+      "# of Holes": "1,386"
+    },
+    {
+      "rank": 175,
+      "player": "Cameron Champ",
+      "Avg": "1.643",
+      "# of Putts": "1,656",
+      "# of Holes": "1,008"
+    },
+    {
+      "rank": 175,
+      "player": "Dylan Wu",
+      "Avg": "1.643",
+      "# of Putts": "1,982",
+      "# of Holes": "1,206"
+    },
+    {
+      "rank": 177,
+      "player": "Aaron Rai",
+      "Avg": "1.644",
+      "# of Putts": "2,634",
+      "# of Holes": "1,602"
+    },
+    {
+      "rank": 178,
+      "player": "Lee Hodges",
+      "Avg": "1.645",
+      "# of Putts": "2,753",
+      "# of Holes": "1,674"
+    },
+    {
+      "rank": 178,
+      "player": "Henrik Norlander",
+      "Avg": "1.645",
+      "# of Putts": "2,132",
+      "# of Holes": "1,296"
+    },
+    {
+      "rank": 180,
+      "player": "Jason Dufner",
+      "Avg": "1.646",
+      "# of Putts": "1,481",
+      "# of Holes": "900"
+    },
+    {
+      "rank": 181,
+      "player": "Hayden Buckley",
+      "Avg": "1.648",
+      "# of Putts": "2,700",
+      "# of Holes": "1,638"
+    },
+    {
+      "rank": 181,
+      "player": "Matthew NeSmith",
+      "Avg": "1.648",
+      "# of Putts": "2,729",
+      "# of Holes": "1,656"
+    },
+    {
+      "rank": 181,
+      "player": "Jon Rahm",
+      "Avg": "1.648",
+      "# of Putts": "2,077",
+      "# of Holes": "1,260"
+    },
+    {
+      "rank": 184,
+      "player": "Brendan Steele",
+      "Avg": "1.651",
+      "# of Putts": "2,169",
+      "# of Holes": "1,314"
+    },
+    {
+      "rank": 185,
+      "player": "Corey Conners",
+      "Avg": "1.652",
+      "# of Putts": "2,587",
+      "# of Holes": "1,566"
+    },
+    {
+      "rank": 186,
+      "player": "Garrick Higgo",
+      "Avg": "1.654",
+      "# of Putts": "1,727",
+      "# of Holes": "1,044"
+    },
+    {
+      "rank": 187,
+      "player": "Lucas Glover",
+      "Avg": "1.657",
+      "# of Putts": "2,774",
+      "# of Holes": "1,674"
+    },
+    {
+      "rank": 188,
+      "player": "Jim Herman",
+      "Avg": "1.659",
+      "# of Putts": "1,523",
+      "# of Holes": "918"
+    },
+    {
+      "rank": 188,
+      "player": "Jared Wolfe",
+      "Avg": "1.659",
+      "# of Putts": "1,762",
+      "# of Holes": "1,062"
+    },
+    {
+      "rank": 190,
+      "player": "Nick Watney",
+      "Avg": "1.661",
+      "# of Putts": "2,272",
+      "# of Holes": "1,368"
+    },
+    {
+      "rank": 191,
+      "player": "Joseph Bramlett",
+      "Avg": "1.667",
+      "# of Putts": "2,430",
+      "# of Holes": "1,458"
+    },
+    {
+      "rank": 191,
+      "player": "Luke List",
+      "Avg": "1.667",
+      "# of Putts": "2,400",
+      "# of Holes": "1,440"
+    },
+    {
+      "rank": 193,
+      "player": "Russell Knox",
+      "Avg": "1.675",
+      "# of Putts": "2,684",
+      "# of Holes": "1,602"
+    }
+  ]
+}

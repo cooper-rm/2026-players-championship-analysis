@@ -1,0 +1,1296 @@
+{
+  "stat_id": "02430",
+  "year": 2024,
+  "category": "Approach the Green",
+  "stat_title": "Average Distance to Hole After Tee Shot",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Alejandro Tosti",
+      "Avg": "158.4",
+      "Total Dist after Tee Shot": "4,711,422.000",
+      "Total Tee Shots": "826"
+    },
+    {
+      "rank": 2,
+      "player": "Kevin Dougherty",
+      "Avg": "158.9",
+      "Total Dist after Tee Shot": "3,855,431.000",
+      "Total Tee Shots": "674"
+    },
+    {
+      "rank": 3,
+      "player": "Pierceson Coody",
+      "Avg": "159.4",
+      "Total Dist after Tee Shot": "4,854,813.000",
+      "Total Tee Shots": "846"
+    },
+    {
+      "rank": 4,
+      "player": "Keith Mitchell",
+      "Avg": "160.3",
+      "Total Dist after Tee Shot": "6,007,564.000",
+      "Total Tee Shots": "1,041"
+    },
+    {
+      "rank": 5,
+      "player": "Byeong Hun An",
+      "Avg": "160.7",
+      "Total Dist after Tee Shot": "5,277,018.000",
+      "Total Tee Shots": "912"
+    },
+    {
+      "rank": 5,
+      "player": "Cameron Champ",
+      "Avg": "160.7",
+      "Total Dist after Tee Shot": "3,847,517.000",
+      "Total Tee Shots": "665"
+    },
+    {
+      "rank": 7,
+      "player": "Joseph Bramlett",
+      "Avg": "162.1",
+      "Total Dist after Tee Shot": "5,747,865.000",
+      "Total Tee Shots": "985"
+    },
+    {
+      "rank": 8,
+      "player": "Paul Barjon",
+      "Avg": "162.5",
+      "Total Dist after Tee Shot": "3,534,130.000",
+      "Total Tee Shots": "604"
+    },
+    {
+      "rank": 8,
+      "player": "Cameron Young",
+      "Avg": "162.5",
+      "Total Dist after Tee Shot": "5,785,828.000",
+      "Total Tee Shots": "989"
+    },
+    {
+      "rank": 10,
+      "player": "Chris Gotterup",
+      "Avg": "163.1",
+      "Total Dist after Tee Shot": "5,296,103.000",
+      "Total Tee Shots": "902"
+    },
+    {
+      "rank": 10,
+      "player": "Garrick Higgo",
+      "Avg": "163.1",
+      "Total Dist after Tee Shot": "5,009,133.000",
+      "Total Tee Shots": "853"
+    },
+    {
+      "rank": 10,
+      "player": "Sam Stevens",
+      "Avg": "163.1",
+      "Total Dist after Tee Shot": "6,406,049.000",
+      "Total Tee Shots": "1,091"
+    },
+    {
+      "rank": 13,
+      "player": "Min Woo Lee",
+      "Avg": "163.2",
+      "Total Dist after Tee Shot": "4,759,758.000",
+      "Total Tee Shots": "810"
+    },
+    {
+      "rank": 13,
+      "player": "Jordan Spieth",
+      "Avg": "163.2",
+      "Total Dist after Tee Shot": "5,093,732.000",
+      "Total Tee Shots": "867"
+    },
+    {
+      "rank": 15,
+      "player": "Rory McIlroy",
+      "Avg": "163.4",
+      "Total Dist after Tee Shot": "4,994,605.000",
+      "Total Tee Shots": "849"
+    },
+    {
+      "rank": 15,
+      "player": "Erik van Rooyen",
+      "Avg": "163.4",
+      "Total Dist after Tee Shot": "5,665,961.000",
+      "Total Tee Shots": "963"
+    },
+    {
+      "rank": 17,
+      "player": "Taylor Pendrith",
+      "Avg": "163.6",
+      "Total Dist after Tee Shot": "5,720,257.000",
+      "Total Tee Shots": "971"
+    },
+    {
+      "rank": 18,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "163.7",
+      "Total Dist after Tee Shot": "5,402,985.000",
+      "Total Tee Shots": "917"
+    },
+    {
+      "rank": 18,
+      "player": "Patrick Fishburn",
+      "Avg": "163.7",
+      "Total Dist after Tee Shot": "4,519,556.000",
+      "Total Tee Shots": "767"
+    },
+    {
+      "rank": 20,
+      "player": "Jhonattan Vegas",
+      "Avg": "163.9",
+      "Total Dist after Tee Shot": "4,908,050.000",
+      "Total Tee Shots": "832"
+    },
+    {
+      "rank": 21,
+      "player": "Wilson Furr",
+      "Avg": "164.0",
+      "Total Dist after Tee Shot": "3,648,824.000",
+      "Total Tee Shots": "618"
+    },
+    {
+      "rank": 21,
+      "player": "Kevin Yu",
+      "Avg": "164.0",
+      "Total Dist after Tee Shot": "5,349,825.000",
+      "Total Tee Shots": "906"
+    },
+    {
+      "rank": 23,
+      "player": "Wesley Bryan",
+      "Avg": "164.1",
+      "Total Dist after Tee Shot": "2,858,437.000",
+      "Total Tee Shots": "484"
+    },
+    {
+      "rank": 23,
+      "player": "Wyndham Clark",
+      "Avg": "164.1",
+      "Total Dist after Tee Shot": "5,046,627.000",
+      "Total Tee Shots": "854"
+    },
+    {
+      "rank": 25,
+      "player": "Kevin Tway",
+      "Avg": "164.3",
+      "Total Dist after Tee Shot": "3,691,478.000",
+      "Total Tee Shots": "624"
+    },
+    {
+      "rank": 26,
+      "player": "Sam Burns",
+      "Avg": "164.4",
+      "Total Dist after Tee Shot": "5,404,309.000",
+      "Total Tee Shots": "913"
+    },
+    {
+      "rank": 27,
+      "player": "Nick Hardy",
+      "Avg": "164.6",
+      "Total Dist after Tee Shot": "6,245,454.000",
+      "Total Tee Shots": "1,054"
+    },
+    {
+      "rank": 28,
+      "player": "Callum Tarren",
+      "Avg": "165.1",
+      "Total Dist after Tee Shot": "4,624,427.000",
+      "Total Tee Shots": "778"
+    },
+    {
+      "rank": 29,
+      "player": "Luke List",
+      "Avg": "165.3",
+      "Total Dist after Tee Shot": "5,327,222.000",
+      "Total Tee Shots": "895"
+    },
+    {
+      "rank": 30,
+      "player": "Ryan Fox",
+      "Avg": "165.4",
+      "Total Dist after Tee Shot": "5,586,218.000",
+      "Total Tee Shots": "938"
+    },
+    {
+      "rank": 30,
+      "player": "Adam Scott",
+      "Avg": "165.4",
+      "Total Dist after Tee Shot": "5,072,630.000",
+      "Total Tee Shots": "852"
+    },
+    {
+      "rank": 32,
+      "player": "Hayden Springer",
+      "Avg": "165.6",
+      "Total Dist after Tee Shot": "4,523,576.000",
+      "Total Tee Shots": "759"
+    },
+    {
+      "rank": 33,
+      "player": "Kurt Kitayama",
+      "Avg": "165.8",
+      "Total Dist after Tee Shot": "5,759,337.000",
+      "Total Tee Shots": "965"
+    },
+    {
+      "rank": 34,
+      "player": "Davis Riley",
+      "Avg": "165.9",
+      "Total Dist after Tee Shot": "5,624,451.000",
+      "Total Tee Shots": "942"
+    },
+    {
+      "rank": 34,
+      "player": "Patrick Rodgers",
+      "Avg": "165.9",
+      "Total Dist after Tee Shot": "7,270,521.000",
+      "Total Tee Shots": "1,217"
+    },
+    {
+      "rank": 36,
+      "player": "Vincent Norrman",
+      "Avg": "166.0",
+      "Total Dist after Tee Shot": "3,783,445.000",
+      "Total Tee Shots": "633"
+    },
+    {
+      "rank": 36,
+      "player": "Carl Yuan",
+      "Avg": "166.0",
+      "Total Dist after Tee Shot": "4,403,341.000",
+      "Total Tee Shots": "737"
+    },
+    {
+      "rank": 38,
+      "player": "Ryan Brehm",
+      "Avg": "166.4",
+      "Total Dist after Tee Shot": "3,721,039.000",
+      "Total Tee Shots": "621"
+    },
+    {
+      "rank": 38,
+      "player": "Gary Woodland",
+      "Avg": "166.4",
+      "Total Dist after Tee Shot": "5,852,963.000",
+      "Total Tee Shots": "977"
+    },
+    {
+      "rank": 40,
+      "player": "Rico Hoey",
+      "Avg": "166.5",
+      "Total Dist after Tee Shot": "5,501,150.000",
+      "Total Tee Shots": "918"
+    },
+    {
+      "rank": 41,
+      "player": "Kevin Chappell",
+      "Avg": "166.7",
+      "Total Dist after Tee Shot": "3,349,056.000",
+      "Total Tee Shots": "558"
+    },
+    {
+      "rank": 41,
+      "player": "Scottie Scheffler",
+      "Avg": "166.7",
+      "Total Dist after Tee Shot": "5,178,270.000",
+      "Total Tee Shots": "863"
+    },
+    {
+      "rank": 43,
+      "player": "Alex Smalley",
+      "Avg": "166.8",
+      "Total Dist after Tee Shot": "4,876,885.000",
+      "Total Tee Shots": "812"
+    },
+    {
+      "rank": 44,
+      "player": "Jake Knapp",
+      "Avg": "167.1",
+      "Total Dist after Tee Shot": "5,647,610.000",
+      "Total Tee Shots": "939"
+    },
+    {
+      "rank": 44,
+      "player": "Taylor Moore",
+      "Avg": "167.1",
+      "Total Dist after Tee Shot": "7,249,290.000",
+      "Total Tee Shots": "1,205"
+    },
+    {
+      "rank": 44,
+      "player": "Vince Whaley",
+      "Avg": "167.1",
+      "Total Dist after Tee Shot": "4,396,939.000",
+      "Total Tee Shots": "731"
+    },
+    {
+      "rank": 47,
+      "player": "Blaine Hale, Jr.",
+      "Avg": "167.4",
+      "Total Dist after Tee Shot": "3,073,011.000",
+      "Total Tee Shots": "510"
+    },
+    {
+      "rank": 48,
+      "player": "Michael Kim",
+      "Avg": "167.6",
+      "Total Dist after Tee Shot": "5,109,889.000",
+      "Total Tee Shots": "847"
+    },
+    {
+      "rank": 49,
+      "player": "Corey Conners",
+      "Avg": "168.2",
+      "Total Dist after Tee Shot": "6,571,375.000",
+      "Total Tee Shots": "1,085"
+    },
+    {
+      "rank": 49,
+      "player": "Viktor Hovland",
+      "Avg": "168.2",
+      "Total Dist after Tee Shot": "4,378,307.000",
+      "Total Tee Shots": "723"
+    },
+    {
+      "rank": 51,
+      "player": "Maverick McNealy",
+      "Avg": "168.4",
+      "Total Dist after Tee Shot": "6,594,633.000",
+      "Total Tee Shots": "1,088"
+    },
+    {
+      "rank": 52,
+      "player": "Chris Kirk",
+      "Avg": "168.5",
+      "Total Dist after Tee Shot": "5,673,180.000",
+      "Total Tee Shots": "935"
+    },
+    {
+      "rank": 52,
+      "player": "Matti Schmid",
+      "Avg": "168.5",
+      "Total Dist after Tee Shot": "5,199,451.000",
+      "Total Tee Shots": "857"
+    },
+    {
+      "rank": 54,
+      "player": "Tyler Duncan",
+      "Avg": "168.6",
+      "Total Dist after Tee Shot": "4,684,893.000",
+      "Total Tee Shots": "772"
+    },
+    {
+      "rank": 54,
+      "player": "Austin Smotherman",
+      "Avg": "168.6",
+      "Total Dist after Tee Shot": "3,162,772.000",
+      "Total Tee Shots": "521"
+    },
+    {
+      "rank": 56,
+      "player": "Stephan Jaeger",
+      "Avg": "168.7",
+      "Total Dist after Tee Shot": "6,066,334.000",
+      "Total Tee Shots": "999"
+    },
+    {
+      "rank": 56,
+      "player": "Patton Kizzire",
+      "Avg": "168.7",
+      "Total Dist after Tee Shot": "4,432,628.000",
+      "Total Tee Shots": "730"
+    },
+    {
+      "rank": 56,
+      "player": "Robert MacIntyre",
+      "Avg": "168.7",
+      "Total Dist after Tee Shot": "5,233,819.000",
+      "Total Tee Shots": "862"
+    },
+    {
+      "rank": 59,
+      "player": "Max Greyserman",
+      "Avg": "169.0",
+      "Total Dist after Tee Shot": "5,282,158.000",
+      "Total Tee Shots": "868"
+    },
+    {
+      "rank": 59,
+      "player": "Joe Highsmith",
+      "Avg": "169.0",
+      "Total Dist after Tee Shot": "4,813,384.000",
+      "Total Tee Shots": "791"
+    },
+    {
+      "rank": 59,
+      "player": "Martin Trainer",
+      "Avg": "169.0",
+      "Total Dist after Tee Shot": "3,345,631.000",
+      "Total Tee Shots": "550"
+    },
+    {
+      "rank": 62,
+      "player": "Keegan Bradley",
+      "Avg": "169.1",
+      "Total Dist after Tee Shot": "6,001,519.000",
+      "Total Tee Shots": "986"
+    },
+    {
+      "rank": 62,
+      "player": "Adrien Dumont de Chassart",
+      "Avg": "169.1",
+      "Total Dist after Tee Shot": "4,771,364.000",
+      "Total Tee Shots": "784"
+    },
+    {
+      "rank": 64,
+      "player": "J.J. Spaun",
+      "Avg": "169.2",
+      "Total Dist after Tee Shot": "6,059,371.000",
+      "Total Tee Shots": "995"
+    },
+    {
+      "rank": 65,
+      "player": "Tony Finau",
+      "Avg": "169.3",
+      "Total Dist after Tee Shot": "5,935,608.000",
+      "Total Tee Shots": "974"
+    },
+    {
+      "rank": 65,
+      "player": "Beau Hossler",
+      "Avg": "169.3",
+      "Total Dist after Tee Shot": "6,619,532.000",
+      "Total Tee Shots": "1,086"
+    },
+    {
+      "rank": 67,
+      "player": "Trace Crowe",
+      "Avg": "169.6",
+      "Total Dist after Tee Shot": "4,390,248.000",
+      "Total Tee Shots": "719"
+    },
+    {
+      "rank": 67,
+      "player": "Charley Hoffman",
+      "Avg": "169.6",
+      "Total Dist after Tee Shot": "5,080,228.000",
+      "Total Tee Shots": "832"
+    },
+    {
+      "rank": 67,
+      "player": "Sahith Theegala",
+      "Avg": "169.6",
+      "Total Dist after Tee Shot": "7,187,299.000",
+      "Total Tee Shots": "1,177"
+    },
+    {
+      "rank": 70,
+      "player": "Ryan McCormick",
+      "Avg": "169.7",
+      "Total Dist after Tee Shot": "3,885,563.000",
+      "Total Tee Shots": "636"
+    },
+    {
+      "rank": 70,
+      "player": "Justin Thomas",
+      "Avg": "169.7",
+      "Total Dist after Tee Shot": "4,980,347.000",
+      "Total Tee Shots": "815"
+    },
+    {
+      "rank": 72,
+      "player": "Patrick Cantlay",
+      "Avg": "169.9",
+      "Total Dist after Tee Shot": "4,666,849.000",
+      "Total Tee Shots": "763"
+    },
+    {
+      "rank": 73,
+      "player": "Xander Schauffele",
+      "Avg": "170.0",
+      "Total Dist after Tee Shot": "5,806,358.000",
+      "Total Tee Shots": "949"
+    },
+    {
+      "rank": 74,
+      "player": "Adam Schenk",
+      "Avg": "170.1",
+      "Total Dist after Tee Shot": "6,864,222.000",
+      "Total Tee Shots": "1,121"
+    },
+    {
+      "rank": 75,
+      "player": "Jacob Bridgeman",
+      "Avg": "170.3",
+      "Total Dist after Tee Shot": "5,015,771.000",
+      "Total Tee Shots": "818"
+    },
+    {
+      "rank": 75,
+      "player": "Davis Thompson",
+      "Avg": "170.3",
+      "Total Dist after Tee Shot": "6,719,465.000",
+      "Total Tee Shots": "1,096"
+    },
+    {
+      "rank": 77,
+      "player": "Adam Hadwin",
+      "Avg": "170.4",
+      "Total Dist after Tee Shot": "5,986,749.000",
+      "Total Tee Shots": "976"
+    },
+    {
+      "rank": 78,
+      "player": "Cam Davis",
+      "Avg": "170.5",
+      "Total Dist after Tee Shot": "6,059,614.000",
+      "Total Tee Shots": "987"
+    },
+    {
+      "rank": 78,
+      "player": "Justin Rose",
+      "Avg": "170.5",
+      "Total Dist after Tee Shot": "4,491,932.000",
+      "Total Tee Shots": "732"
+    },
+    {
+      "rank": 80,
+      "player": "Akshay Bhatia",
+      "Avg": "170.7",
+      "Total Dist after Tee Shot": "6,674,306.000",
+      "Total Tee Shots": "1,086"
+    },
+    {
+      "rank": 80,
+      "player": "Harry Hall",
+      "Avg": "170.7",
+      "Total Dist after Tee Shot": "5,912,838.000",
+      "Total Tee Shots": "962"
+    },
+    {
+      "rank": 80,
+      "player": "S.H. Kim",
+      "Avg": "170.7",
+      "Total Dist after Tee Shot": "7,516,861.000",
+      "Total Tee Shots": "1,223"
+    },
+    {
+      "rank": 83,
+      "player": "Hayden Buckley",
+      "Avg": "170.8",
+      "Total Dist after Tee Shot": "5,067,509.000",
+      "Total Tee Shots": "824"
+    },
+    {
+      "rank": 83,
+      "player": "Webb Simpson",
+      "Avg": "170.8",
+      "Total Dist after Tee Shot": "4,114,346.000",
+      "Total Tee Shots": "669"
+    },
+    {
+      "rank": 83,
+      "player": "Kevin Streelman",
+      "Avg": "170.8",
+      "Total Dist after Tee Shot": "4,850,210.000",
+      "Total Tee Shots": "789"
+    },
+    {
+      "rank": 86,
+      "player": "Nick Dunlap",
+      "Avg": "170.9",
+      "Total Dist after Tee Shot": "5,376,802.000",
+      "Total Tee Shots": "874"
+    },
+    {
+      "rank": 87,
+      "player": "Chesson Hadley",
+      "Avg": "171.1",
+      "Total Dist after Tee Shot": "5,162,265.000",
+      "Total Tee Shots": "838"
+    },
+    {
+      "rank": 88,
+      "player": "Joel Dahmen",
+      "Avg": "171.3",
+      "Total Dist after Tee Shot": "6,184,394.000",
+      "Total Tee Shots": "1,003"
+    },
+    {
+      "rank": 88,
+      "player": "Chan Kim",
+      "Avg": "171.3",
+      "Total Dist after Tee Shot": "5,938,996.000",
+      "Total Tee Shots": "963"
+    },
+    {
+      "rank": 90,
+      "player": "Rafael Campos",
+      "Avg": "171.4",
+      "Total Dist after Tee Shot": "3,676,550.000",
+      "Total Tee Shots": "596"
+    },
+    {
+      "rank": 90,
+      "player": "Bud Cauley",
+      "Avg": "171.4",
+      "Total Dist after Tee Shot": "4,343,568.000",
+      "Total Tee Shots": "704"
+    },
+    {
+      "rank": 90,
+      "player": "Peter Malnati",
+      "Avg": "171.4",
+      "Total Dist after Tee Shot": "5,701,994.000",
+      "Total Tee Shots": "924"
+    },
+    {
+      "rank": 93,
+      "player": "Lanto Griffin",
+      "Avg": "171.5",
+      "Total Dist after Tee Shot": "4,908,826.000",
+      "Total Tee Shots": "795"
+    },
+    {
+      "rank": 94,
+      "player": "Tyson Alexander",
+      "Avg": "171.6",
+      "Total Dist after Tee Shot": "5,039,514.000",
+      "Total Tee Shots": "816"
+    },
+    {
+      "rank": 95,
+      "player": "Harris English",
+      "Avg": "171.7",
+      "Total Dist after Tee Shot": "6,686,776.000",
+      "Total Tee Shots": "1,082"
+    },
+    {
+      "rank": 96,
+      "player": "Sungjae Im",
+      "Avg": "171.8",
+      "Total Dist after Tee Shot": "6,765,194.000",
+      "Total Tee Shots": "1,094"
+    },
+    {
+      "rank": 97,
+      "player": "Daniel Berger",
+      "Avg": "171.9",
+      "Total Dist after Tee Shot": "5,129,213.000",
+      "Total Tee Shots": "829"
+    },
+    {
+      "rank": 98,
+      "player": "Justin Suh",
+      "Avg": "172.1",
+      "Total Dist after Tee Shot": "5,258,740.000",
+      "Total Tee Shots": "849"
+    },
+    {
+      "rank": 99,
+      "player": "Nicolai H\u00f8jgaard",
+      "Avg": "172.2",
+      "Total Dist after Tee Shot": "3,807,288.000",
+      "Total Tee Shots": "614"
+    },
+    {
+      "rank": 99,
+      "player": "J.T. Poston",
+      "Avg": "172.2",
+      "Total Dist after Tee Shot": "6,687,171.000",
+      "Total Tee Shots": "1,079"
+    },
+    {
+      "rank": 101,
+      "player": "Hideki Matsuyama",
+      "Avg": "172.3",
+      "Total Dist after Tee Shot": "5,494,099.000",
+      "Total Tee Shots": "886"
+    },
+    {
+      "rank": 101,
+      "player": "Andrew Novak",
+      "Avg": "172.3",
+      "Total Dist after Tee Shot": "6,488,249.000",
+      "Total Tee Shots": "1,046"
+    },
+    {
+      "rank": 101,
+      "player": "Matt Wallace",
+      "Avg": "172.3",
+      "Total Dist after Tee Shot": "4,912,560.000",
+      "Total Tee Shots": "792"
+    },
+    {
+      "rank": 104,
+      "player": "Jason Day",
+      "Avg": "172.4",
+      "Total Dist after Tee Shot": "5,095,599.000",
+      "Total Tee Shots": "821"
+    },
+    {
+      "rank": 105,
+      "player": "Austin Eckroat",
+      "Avg": "172.5",
+      "Total Dist after Tee Shot": "6,645,414.000",
+      "Total Tee Shots": "1,070"
+    },
+    {
+      "rank": 105,
+      "player": "Tom Kim",
+      "Avg": "172.5",
+      "Total Dist after Tee Shot": "6,190,386.000",
+      "Total Tee Shots": "997"
+    },
+    {
+      "rank": 107,
+      "player": "Eric Cole",
+      "Avg": "172.7",
+      "Total Dist after Tee Shot": "8,175,459.000",
+      "Total Tee Shots": "1,315"
+    },
+    {
+      "rank": 107,
+      "player": "Ryan Palmer",
+      "Avg": "172.7",
+      "Total Dist after Tee Shot": "3,009,328.000",
+      "Total Tee Shots": "484"
+    },
+    {
+      "rank": 109,
+      "player": "K.H. Lee",
+      "Avg": "172.9",
+      "Total Dist after Tee Shot": "5,770,189.000",
+      "Total Tee Shots": "927"
+    },
+    {
+      "rank": 110,
+      "player": "Rickie Fowler",
+      "Avg": "173.0",
+      "Total Dist after Tee Shot": "5,816,169.000",
+      "Total Tee Shots": "934"
+    },
+    {
+      "rank": 110,
+      "player": "Matthieu Pavon",
+      "Avg": "173.0",
+      "Total Dist after Tee Shot": "4,559,220.000",
+      "Total Tee Shots": "732"
+    },
+    {
+      "rank": 112,
+      "player": "David Skinns",
+      "Avg": "173.1",
+      "Total Dist after Tee Shot": "5,778,135.000",
+      "Total Tee Shots": "927"
+    },
+    {
+      "rank": 113,
+      "player": "Mackenzie Hughes",
+      "Avg": "173.2",
+      "Total Dist after Tee Shot": "7,134,757.000",
+      "Total Tee Shots": "1,144"
+    },
+    {
+      "rank": 114,
+      "player": "Shane Lowry",
+      "Avg": "173.3",
+      "Total Dist after Tee Shot": "5,266,803.000",
+      "Total Tee Shots": "844"
+    },
+    {
+      "rank": 114,
+      "player": "Adam Svensson",
+      "Avg": "173.3",
+      "Total Dist after Tee Shot": "8,583,050.000",
+      "Total Tee Shots": "1,376"
+    },
+    {
+      "rank": 116,
+      "player": "Ben Griffin",
+      "Avg": "173.4",
+      "Total Dist after Tee Shot": "7,757,920.000",
+      "Total Tee Shots": "1,243"
+    },
+    {
+      "rank": 116,
+      "player": "Mac Meissner",
+      "Avg": "173.4",
+      "Total Dist after Tee Shot": "5,562,389.000",
+      "Total Tee Shots": "891"
+    },
+    {
+      "rank": 118,
+      "player": "Billy Horschel",
+      "Avg": "173.7",
+      "Total Dist after Tee Shot": "5,751,891.000",
+      "Total Tee Shots": "920"
+    },
+    {
+      "rank": 118,
+      "player": "Josh Teater",
+      "Avg": "173.7",
+      "Total Dist after Tee Shot": "3,258,324.000",
+      "Total Tee Shots": "521"
+    },
+    {
+      "rank": 118,
+      "player": "Tom Whitney",
+      "Avg": "173.7",
+      "Total Dist after Tee Shot": "4,294,870.000",
+      "Total Tee Shots": "687"
+    },
+    {
+      "rank": 121,
+      "player": "Thomas Detry",
+      "Avg": "173.9",
+      "Total Dist after Tee Shot": "5,540,216.000",
+      "Total Tee Shots": "885"
+    },
+    {
+      "rank": 121,
+      "player": "Ben Taylor",
+      "Avg": "173.9",
+      "Total Dist after Tee Shot": "4,600,647.000",
+      "Total Tee Shots": "735"
+    },
+    {
+      "rank": 123,
+      "player": "Parker Coody",
+      "Avg": "174.1",
+      "Total Dist after Tee Shot": "4,098,142.000",
+      "Total Tee Shots": "654"
+    },
+    {
+      "rank": 123,
+      "player": "Nico Echavarria",
+      "Avg": "174.1",
+      "Total Dist after Tee Shot": "6,034,979.000",
+      "Total Tee Shots": "963"
+    },
+    {
+      "rank": 123,
+      "player": "Seamus Power",
+      "Avg": "174.1",
+      "Total Dist after Tee Shot": "7,690,390.000",
+      "Total Tee Shots": "1,227"
+    },
+    {
+      "rank": 126,
+      "player": "Matt Fitzpatrick",
+      "Avg": "174.2",
+      "Total Dist after Tee Shot": "5,392,790.000",
+      "Total Tee Shots": "860"
+    },
+    {
+      "rank": 126,
+      "player": "Si Woo Kim",
+      "Avg": "174.2",
+      "Total Dist after Tee Shot": "6,746,937.000",
+      "Total Tee Shots": "1,076"
+    },
+    {
+      "rank": 126,
+      "player": "Henrik Norlander",
+      "Avg": "174.2",
+      "Total Dist after Tee Shot": "4,238,563.000",
+      "Total Tee Shots": "676"
+    },
+    {
+      "rank": 129,
+      "player": "Matt NeSmith",
+      "Avg": "174.3",
+      "Total Dist after Tee Shot": "5,395,537.000",
+      "Total Tee Shots": "860"
+    },
+    {
+      "rank": 130,
+      "player": "Tommy Fleetwood",
+      "Avg": "174.4",
+      "Total Dist after Tee Shot": "5,605,932.000",
+      "Total Tee Shots": "893"
+    },
+    {
+      "rank": 130,
+      "player": "Roger Sloan",
+      "Avg": "174.4",
+      "Total Dist after Tee Shot": "4,608,864.000",
+      "Total Tee Shots": "734"
+    },
+    {
+      "rank": 130,
+      "player": "Camilo Villegas",
+      "Avg": "174.4",
+      "Total Dist after Tee Shot": "3,837,036.000",
+      "Total Tee Shots": "611"
+    },
+    {
+      "rank": 133,
+      "player": "Troy Merritt",
+      "Avg": "174.7",
+      "Total Dist after Tee Shot": "5,019,181.000",
+      "Total Tee Shots": "798"
+    },
+    {
+      "rank": 133,
+      "player": "Victor Perez",
+      "Avg": "174.7",
+      "Total Dist after Tee Shot": "5,212,960.000",
+      "Total Tee Shots": "829"
+    },
+    {
+      "rank": 135,
+      "player": "Nick Taylor",
+      "Avg": "175.0",
+      "Total Dist after Tee Shot": "6,607,057.000",
+      "Total Tee Shots": "1,049"
+    },
+    {
+      "rank": 136,
+      "player": "Erik Barnes",
+      "Avg": "175.1",
+      "Total Dist after Tee Shot": "3,662,142.000",
+      "Total Tee Shots": "581"
+    },
+    {
+      "rank": 136,
+      "player": "Chandler Phillips",
+      "Avg": "175.1",
+      "Total Dist after Tee Shot": "6,410,644.000",
+      "Total Tee Shots": "1,017"
+    },
+    {
+      "rank": 138,
+      "player": "Brian Harman",
+      "Avg": "175.5",
+      "Total Dist after Tee Shot": "6,918,976.000",
+      "Total Tee Shots": "1,095"
+    },
+    {
+      "rank": 139,
+      "player": "Doug Ghim",
+      "Avg": "175.6",
+      "Total Dist after Tee Shot": "6,872,551.000",
+      "Total Tee Shots": "1,087"
+    },
+    {
+      "rank": 140,
+      "player": "Max Homa",
+      "Avg": "175.7",
+      "Total Dist after Tee Shot": "5,944,868.000",
+      "Total Tee Shots": "940"
+    },
+    {
+      "rank": 140,
+      "player": "Sepp Straka",
+      "Avg": "175.7",
+      "Total Dist after Tee Shot": "5,826,546.000",
+      "Total Tee Shots": "921"
+    },
+    {
+      "rank": 142,
+      "player": "Lee Hodges",
+      "Avg": "175.8",
+      "Total Dist after Tee Shot": "7,467,037.000",
+      "Total Tee Shots": "1,180"
+    },
+    {
+      "rank": 143,
+      "player": "Carson Young",
+      "Avg": "175.9",
+      "Total Dist after Tee Shot": "6,425,731.000",
+      "Total Tee Shots": "1,015"
+    },
+    {
+      "rank": 144,
+      "player": "Tom Hoge",
+      "Avg": "176.0",
+      "Total Dist after Tee Shot": "7,956,497.000",
+      "Total Tee Shots": "1,256"
+    },
+    {
+      "rank": 144,
+      "player": "Chad Ramey",
+      "Avg": "176.0",
+      "Total Dist after Tee Shot": "5,974,464.000",
+      "Total Tee Shots": "943"
+    },
+    {
+      "rank": 146,
+      "player": "Sam Ryder",
+      "Avg": "176.2",
+      "Total Dist after Tee Shot": "5,182,829.000",
+      "Total Tee Shots": "817"
+    },
+    {
+      "rank": 147,
+      "player": "Collin Morikawa",
+      "Avg": "176.3",
+      "Total Dist after Tee Shot": "6,081,498.000",
+      "Total Tee Shots": "958"
+    },
+    {
+      "rank": 148,
+      "player": "Thorbj\u00f8rn Olesen",
+      "Avg": "176.5",
+      "Total Dist after Tee Shot": "3,424,081.000",
+      "Total Tee Shots": "539"
+    },
+    {
+      "rank": 149,
+      "player": "Ryo Hisatsune",
+      "Avg": "176.6",
+      "Total Dist after Tee Shot": "6,091,829.000",
+      "Total Tee Shots": "958"
+    },
+    {
+      "rank": 150,
+      "player": "Will Zalatoris",
+      "Avg": "176.8",
+      "Total Dist after Tee Shot": "5,149,059.000",
+      "Total Tee Shots": "809"
+    },
+    {
+      "rank": 151,
+      "player": "Martin Laird",
+      "Avg": "176.9",
+      "Total Dist after Tee Shot": "5,114,261.000",
+      "Total Tee Shots": "803"
+    },
+    {
+      "rank": 151,
+      "player": "Brandon Wu",
+      "Avg": "176.9",
+      "Total Dist after Tee Shot": "5,521,379.000",
+      "Total Tee Shots": "867"
+    },
+    {
+      "rank": 153,
+      "player": "Sami Valimaki",
+      "Avg": "177.0",
+      "Total Dist after Tee Shot": "4,938,156.000",
+      "Total Tee Shots": "775"
+    },
+    {
+      "rank": 154,
+      "player": "Mark Hubbard",
+      "Avg": "177.1",
+      "Total Dist after Tee Shot": "7,706,718.000",
+      "Total Tee Shots": "1,209"
+    },
+    {
+      "rank": 154,
+      "player": "Dylan Wu",
+      "Avg": "177.1",
+      "Total Dist after Tee Shot": "6,109,109.000",
+      "Total Tee Shots": "958"
+    },
+    {
+      "rank": 156,
+      "player": "Lucas Glover",
+      "Avg": "177.2",
+      "Total Dist after Tee Shot": "6,792,439.000",
+      "Total Tee Shots": "1,065"
+    },
+    {
+      "rank": 157,
+      "player": "Denny McCarthy",
+      "Avg": "177.3",
+      "Total Dist after Tee Shot": "6,975,593.000",
+      "Total Tee Shots": "1,093"
+    },
+    {
+      "rank": 158,
+      "player": "Emiliano Grillo",
+      "Avg": "177.4",
+      "Total Dist after Tee Shot": "6,815,070.000",
+      "Total Tee Shots": "1,067"
+    },
+    {
+      "rank": 158,
+      "player": "C.T. Pan",
+      "Avg": "177.4",
+      "Total Dist after Tee Shot": "5,008,174.000",
+      "Total Tee Shots": "784"
+    },
+    {
+      "rank": 158,
+      "player": "Greyson Sigg",
+      "Avg": "177.4",
+      "Total Dist after Tee Shot": "5,761,616.000",
+      "Total Tee Shots": "902"
+    },
+    {
+      "rank": 161,
+      "player": "Ben Silverman",
+      "Avg": "177.5",
+      "Total Dist after Tee Shot": "6,242,325.000",
+      "Total Tee Shots": "977"
+    },
+    {
+      "rank": 162,
+      "player": "David Lipsky",
+      "Avg": "177.7",
+      "Total Dist after Tee Shot": "5,079,821.000",
+      "Total Tee Shots": "794"
+    },
+    {
+      "rank": 163,
+      "player": "Russell Henley",
+      "Avg": "177.9",
+      "Total Dist after Tee Shot": "5,731,945.000",
+      "Total Tee Shots": "895"
+    },
+    {
+      "rank": 164,
+      "player": "Jorge Campillo",
+      "Avg": "178.5",
+      "Total Dist after Tee Shot": "3,663,189.000",
+      "Total Tee Shots": "570"
+    },
+    {
+      "rank": 165,
+      "player": "Nate Lashley",
+      "Avg": "178.9",
+      "Total Dist after Tee Shot": "5,442,822.000",
+      "Total Tee Shots": "845"
+    },
+    {
+      "rank": 166,
+      "player": "Taylor Montgomery",
+      "Avg": "179.5",
+      "Total Dist after Tee Shot": "4,052,622.000",
+      "Total Tee Shots": "627"
+    },
+    {
+      "rank": 167,
+      "player": "Justin Lower",
+      "Avg": "179.7",
+      "Total Dist after Tee Shot": "7,344,461.000",
+      "Total Tee Shots": "1,135"
+    },
+    {
+      "rank": 168,
+      "player": "Zach Johnson",
+      "Avg": "180.0",
+      "Total Dist after Tee Shot": "3,881,745.000",
+      "Total Tee Shots": "599"
+    },
+    {
+      "rank": 169,
+      "player": "Alex Noren",
+      "Avg": "180.1",
+      "Total Dist after Tee Shot": "5,347,731.000",
+      "Total Tee Shots": "825"
+    },
+    {
+      "rank": 169,
+      "player": "Robby Shelton",
+      "Avg": "180.1",
+      "Total Dist after Tee Shot": "5,822,308.000",
+      "Total Tee Shots": "898"
+    },
+    {
+      "rank": 171,
+      "player": "Brice Garnett",
+      "Avg": "180.3",
+      "Total Dist after Tee Shot": "3,862,312.000",
+      "Total Tee Shots": "595"
+    },
+    {
+      "rank": 172,
+      "player": "Matt Kuchar",
+      "Avg": "180.9",
+      "Total Dist after Tee Shot": "6,031,091.000",
+      "Total Tee Shots": "926"
+    },
+    {
+      "rank": 173,
+      "player": "Raul Pereda",
+      "Avg": "181.0",
+      "Total Dist after Tee Shot": "3,159,580.000",
+      "Total Tee Shots": "485"
+    },
+    {
+      "rank": 174,
+      "player": "Aaron Rai",
+      "Avg": "181.1",
+      "Total Dist after Tee Shot": "6,721,049.000",
+      "Total Tee Shots": "1,031"
+    },
+    {
+      "rank": 175,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "181.2",
+      "Total Dist after Tee Shot": "6,537,479.000",
+      "Total Tee Shots": "1,002"
+    },
+    {
+      "rank": 176,
+      "player": "Kevin Kisner",
+      "Avg": "181.7",
+      "Total Dist after Tee Shot": "4,239,124.000",
+      "Total Tee Shots": "648"
+    },
+    {
+      "rank": 177,
+      "player": "Ben Kohles",
+      "Avg": "181.9",
+      "Total Dist after Tee Shot": "6,587,469.000",
+      "Total Tee Shots": "1,006"
+    },
+    {
+      "rank": 178,
+      "player": "Ryan Moore",
+      "Avg": "182.0",
+      "Total Dist after Tee Shot": "5,753,831.000",
+      "Total Tee Shots": "878"
+    },
+    {
+      "rank": 179,
+      "player": "Chez Reavie",
+      "Avg": "183.3",
+      "Total Dist after Tee Shot": "5,074,495.000",
+      "Total Tee Shots": "769"
+    },
+    {
+      "rank": 180,
+      "player": "Zac Blair",
+      "Avg": "184.1",
+      "Total Dist after Tee Shot": "6,781,070.000",
+      "Total Tee Shots": "1,023"
+    },
+    {
+      "rank": 181,
+      "player": "Brendon Todd",
+      "Avg": "185.0",
+      "Total Dist after Tee Shot": "8,173,553.000",
+      "Total Tee Shots": "1,227"
+    },
+    {
+      "rank": 182,
+      "player": "Brandt Snedeker",
+      "Avg": "186.3",
+      "Total Dist after Tee Shot": "4,816,292.000",
+      "Total Tee Shots": "718"
+    },
+    {
+      "rank": 183,
+      "player": "Andrew Putnam",
+      "Avg": "186.4",
+      "Total Dist after Tee Shot": "6,977,118.000",
+      "Total Tee Shots": "1,040"
+    },
+    {
+      "rank": 184,
+      "player": "Aaron Baddeley",
+      "Avg": "187.9",
+      "Total Dist after Tee Shot": "5,411,525.000",
+      "Total Tee Shots": "800"
+    }
+  ]
+}

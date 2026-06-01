@@ -1,0 +1,1552 @@
+{
+  "stat_id": "02439",
+  "year": 2023,
+  "category": "Putting",
+  "stat_title": "Bonus Putting",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Sahith Theegala",
+      "Value": "102.45",
+      "Attempts(<= 5')": "1,186",
+      "Tot Made (>=20')": "49",
+      "Tot Made (<= 5')": "1166"
+    },
+    {
+      "rank": 2,
+      "player": "Sam Burns",
+      "Value": "102.37",
+      "Attempts(<= 5')": "1,011",
+      "Tot Made (>=20')": "40",
+      "Tot Made (<= 5')": "995"
+    },
+    {
+      "rank": 3,
+      "player": "Justin Rose",
+      "Value": "101.88",
+      "Attempts(<= 5')": "745",
+      "Tot Made (>=20')": "36",
+      "Tot Made (<= 5')": "723"
+    },
+    {
+      "rank": 4,
+      "player": "Maverick McNealy",
+      "Value": "101.81",
+      "Attempts(<= 5')": "663",
+      "Tot Made (>=20')": "24",
+      "Tot Made (<= 5')": "651"
+    },
+    {
+      "rank": 5,
+      "player": "Ludvig \u00c5berg",
+      "Value": "101.78",
+      "Attempts(<= 5')": "619",
+      "Tot Made (>=20')": "24",
+      "Tot Made (<= 5')": "606"
+    },
+    {
+      "rank": 6,
+      "player": "Tyrrell Hatton",
+      "Value": "101.76",
+      "Attempts(<= 5')": "911",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "890"
+    },
+    {
+      "rank": 7,
+      "player": "Max Homa",
+      "Value": "101.73",
+      "Attempts(<= 5')": "1,041",
+      "Tot Made (>=20')": "44",
+      "Tot Made (<= 5')": "1015"
+    },
+    {
+      "rank": 8,
+      "player": "J.T. Poston",
+      "Value": "101.72",
+      "Attempts(<= 5')": "1,221",
+      "Tot Made (>=20')": "46",
+      "Tot Made (<= 5')": "1196"
+    },
+    {
+      "rank": 9,
+      "player": "Denny McCarthy",
+      "Value": "101.71",
+      "Attempts(<= 5')": "1,227",
+      "Tot Made (>=20')": "41",
+      "Tot Made (<= 5')": "1207"
+    },
+    {
+      "rank": 9,
+      "player": "Carson Young",
+      "Value": "101.71",
+      "Attempts(<= 5')": "1,052",
+      "Tot Made (>=20')": "39",
+      "Tot Made (<= 5')": "1031"
+    },
+    {
+      "rank": 11,
+      "player": "Keegan Bradley",
+      "Value": "101.64",
+      "Attempts(<= 5')": "912",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "893"
+    },
+    {
+      "rank": 12,
+      "player": "Doc Redman",
+      "Value": "101.59",
+      "Attempts(<= 5')": "944",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "922"
+    },
+    {
+      "rank": 13,
+      "player": "Aaron Baddeley",
+      "Value": "101.57",
+      "Attempts(<= 5')": "828",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "814"
+    },
+    {
+      "rank": 14,
+      "player": "Andrew Putnam",
+      "Value": "101.49",
+      "Attempts(<= 5')": "1,273",
+      "Tot Made (>=20')": "49",
+      "Tot Made (<= 5')": "1243"
+    },
+    {
+      "rank": 15,
+      "player": "Ben Griffin",
+      "Value": "101.43",
+      "Attempts(<= 5')": "1,259",
+      "Tot Made (>=20')": "46",
+      "Tot Made (<= 5')": "1231"
+    },
+    {
+      "rank": 16,
+      "player": "Adam Hadwin",
+      "Value": "101.41",
+      "Attempts(<= 5')": "1,134",
+      "Tot Made (>=20')": "33",
+      "Tot Made (<= 5')": "1117"
+    },
+    {
+      "rank": 17,
+      "player": "Emiliano Grillo",
+      "Value": "101.40",
+      "Attempts(<= 5')": "1,211",
+      "Tot Made (>=20')": "42",
+      "Tot Made (<= 5')": "1186"
+    },
+    {
+      "rank": 18,
+      "player": "Matt Fitzpatrick",
+      "Value": "101.37",
+      "Attempts(<= 5')": "875",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "862"
+    },
+    {
+      "rank": 19,
+      "player": "Ben Taylor",
+      "Value": "101.34",
+      "Attempts(<= 5')": "1,193",
+      "Tot Made (>=20')": "47",
+      "Tot Made (<= 5')": "1162"
+    },
+    {
+      "rank": 20,
+      "player": "Will Gordon",
+      "Value": "101.32",
+      "Attempts(<= 5')": "1,285",
+      "Tot Made (>=20')": "58",
+      "Tot Made (<= 5')": "1244"
+    },
+    {
+      "rank": 21,
+      "player": "Harry Higgs",
+      "Value": "101.30",
+      "Attempts(<= 5')": "844",
+      "Tot Made (>=20')": "31",
+      "Tot Made (<= 5')": "824"
+    },
+    {
+      "rank": 22,
+      "player": "Patrick Cantlay",
+      "Value": "101.26",
+      "Attempts(<= 5')": "872",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "851"
+    },
+    {
+      "rank": 23,
+      "player": "Taylor Montgomery",
+      "Value": "101.24",
+      "Attempts(<= 5')": "1,133",
+      "Tot Made (>=20')": "45",
+      "Tot Made (<= 5')": "1102"
+    },
+    {
+      "rank": 24,
+      "player": "Chris Stroud",
+      "Value": "101.20",
+      "Attempts(<= 5')": "584",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "570"
+    },
+    {
+      "rank": 25,
+      "player": "Nate Lashley",
+      "Value": "101.17",
+      "Attempts(<= 5')": "1,194",
+      "Tot Made (>=20')": "41",
+      "Tot Made (<= 5')": "1167"
+    },
+    {
+      "rank": 26,
+      "player": "Kevin Chappell",
+      "Value": "101.15",
+      "Attempts(<= 5')": "520",
+      "Tot Made (>=20')": "19",
+      "Tot Made (<= 5')": "507"
+    },
+    {
+      "rank": 26,
+      "player": "Nick Taylor",
+      "Value": "101.15",
+      "Attempts(<= 5')": "1,045",
+      "Tot Made (>=20')": "42",
+      "Tot Made (<= 5')": "1015"
+    },
+    {
+      "rank": 28,
+      "player": "Tom Kim",
+      "Value": "101.12",
+      "Attempts(<= 5')": "1,075",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "1050"
+    },
+    {
+      "rank": 29,
+      "player": "Adam Schenk",
+      "Value": "101.10",
+      "Attempts(<= 5')": "1,369",
+      "Tot Made (>=20')": "43",
+      "Tot Made (<= 5')": "1341"
+    },
+    {
+      "rank": 30,
+      "player": "Nicolai Hojgaard",
+      "Value": "101.05",
+      "Attempts(<= 5')": "476",
+      "Tot Made (>=20')": "15",
+      "Tot Made (<= 5')": "466"
+    },
+    {
+      "rank": 31,
+      "player": "Martin Laird",
+      "Value": "101.02",
+      "Attempts(<= 5')": "977",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "950"
+    },
+    {
+      "rank": 32,
+      "player": "William McGirt",
+      "Value": "100.95",
+      "Attempts(<= 5')": "529",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "513"
+    },
+    {
+      "rank": 33,
+      "player": "Billy Horschel",
+      "Value": "100.94",
+      "Attempts(<= 5')": "748",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "728"
+    },
+    {
+      "rank": 34,
+      "player": "Chesson Hadley",
+      "Value": "100.92",
+      "Attempts(<= 5')": "1,089",
+      "Tot Made (>=20')": "41",
+      "Tot Made (<= 5')": "1058"
+    },
+    {
+      "rank": 35,
+      "player": "Jason Day",
+      "Value": "100.88",
+      "Attempts(<= 5')": "914",
+      "Tot Made (>=20')": "24",
+      "Tot Made (<= 5')": "898"
+    },
+    {
+      "rank": 35,
+      "player": "Austin Eckroat",
+      "Value": "100.88",
+      "Attempts(<= 5')": "1,027",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "999"
+    },
+    {
+      "rank": 35,
+      "player": "Sung Kang",
+      "Value": "100.88",
+      "Attempts(<= 5')": "454",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "437"
+    },
+    {
+      "rank": 38,
+      "player": "Rickie Fowler",
+      "Value": "100.87",
+      "Attempts(<= 5')": "1,147",
+      "Tot Made (>=20')": "38",
+      "Tot Made (<= 5')": "1119"
+    },
+    {
+      "rank": 38,
+      "player": "Lee Hodges",
+      "Value": "100.87",
+      "Attempts(<= 5')": "1,261",
+      "Tot Made (>=20')": "41",
+      "Tot Made (<= 5')": "1231"
+    },
+    {
+      "rank": 40,
+      "player": "Ryan Brehm",
+      "Value": "100.85",
+      "Attempts(<= 5')": "937",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "913"
+    },
+    {
+      "rank": 41,
+      "player": "Jon Rahm",
+      "Value": "100.84",
+      "Attempts(<= 5')": "830",
+      "Tot Made (>=20')": "31",
+      "Tot Made (<= 5')": "806"
+    },
+    {
+      "rank": 42,
+      "player": "Tommy Fleetwood",
+      "Value": "100.82",
+      "Attempts(<= 5')": "857",
+      "Tot Made (>=20')": "26",
+      "Tot Made (<= 5')": "838"
+    },
+    {
+      "rank": 43,
+      "player": "Taylor Pendrith",
+      "Value": "100.78",
+      "Attempts(<= 5')": "1,153",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "1128"
+    },
+    {
+      "rank": 43,
+      "player": "Seamus Power",
+      "Value": "100.78",
+      "Attempts(<= 5')": "896",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "873"
+    },
+    {
+      "rank": 45,
+      "player": "Michael Kim",
+      "Value": "100.72",
+      "Attempts(<= 5')": "973",
+      "Tot Made (>=20')": "36",
+      "Tot Made (<= 5')": "944"
+    },
+    {
+      "rank": 45,
+      "player": "Dylan Wu",
+      "Value": "100.72",
+      "Attempts(<= 5')": "1,114",
+      "Tot Made (>=20')": "40",
+      "Tot Made (<= 5')": "1082"
+    },
+    {
+      "rank": 47,
+      "player": "Sungjae Im",
+      "Value": "100.66",
+      "Attempts(<= 5')": "1,207",
+      "Tot Made (>=20')": "41",
+      "Tot Made (<= 5')": "1174"
+    },
+    {
+      "rank": 48,
+      "player": "Beau Hossler",
+      "Value": "100.64",
+      "Attempts(<= 5')": "1,249",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "1220"
+    },
+    {
+      "rank": 49,
+      "player": "Matt Kuchar",
+      "Value": "100.62",
+      "Attempts(<= 5')": "1,122",
+      "Tot Made (>=20')": "28",
+      "Tot Made (<= 5')": "1101"
+    },
+    {
+      "rank": 50,
+      "player": "James Hahn",
+      "Value": "100.60",
+      "Attempts(<= 5')": "997",
+      "Tot Made (>=20')": "35",
+      "Tot Made (<= 5')": "968"
+    },
+    {
+      "rank": 51,
+      "player": "Mackenzie Hughes",
+      "Value": "100.59",
+      "Attempts(<= 5')": "1,011",
+      "Tot Made (>=20')": "29",
+      "Tot Made (<= 5')": "988"
+    },
+    {
+      "rank": 51,
+      "player": "Alex Noren",
+      "Value": "100.59",
+      "Attempts(<= 5')": "1,016",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "988"
+    },
+    {
+      "rank": 51,
+      "player": "Brendon Todd",
+      "Value": "100.59",
+      "Attempts(<= 5')": "1,194",
+      "Tot Made (>=20')": "43",
+      "Tot Made (<= 5')": "1158"
+    },
+    {
+      "rank": 54,
+      "player": "Chris Kirk",
+      "Value": "100.56",
+      "Attempts(<= 5')": "1,065",
+      "Tot Made (>=20')": "31",
+      "Tot Made (<= 5')": "1040"
+    },
+    {
+      "rank": 54,
+      "player": "Chad Ramey",
+      "Value": "100.56",
+      "Attempts(<= 5')": "1,239",
+      "Tot Made (>=20')": "43",
+      "Tot Made (<= 5')": "1203"
+    },
+    {
+      "rank": 56,
+      "player": "Adam Scott",
+      "Value": "100.55",
+      "Attempts(<= 5')": "722",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "701"
+    },
+    {
+      "rank": 57,
+      "player": "Thomas Detry",
+      "Value": "100.53",
+      "Attempts(<= 5')": "945",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "920"
+    },
+    {
+      "rank": 57,
+      "player": "Austin Smotherman",
+      "Value": "100.53",
+      "Attempts(<= 5')": "1,138",
+      "Tot Made (>=20')": "40",
+      "Tot Made (<= 5')": "1104"
+    },
+    {
+      "rank": 59,
+      "player": "Tom Hoge",
+      "Value": "100.51",
+      "Attempts(<= 5')": "1,184",
+      "Tot Made (>=20')": "38",
+      "Tot Made (<= 5')": "1152"
+    },
+    {
+      "rank": 60,
+      "player": "Adam Long",
+      "Value": "100.49",
+      "Attempts(<= 5')": "1,216",
+      "Tot Made (>=20')": "39",
+      "Tot Made (<= 5')": "1183"
+    },
+    {
+      "rank": 61,
+      "player": "David Lingmerth",
+      "Value": "100.48",
+      "Attempts(<= 5')": "829",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "803"
+    },
+    {
+      "rank": 62,
+      "player": "Corey Conners",
+      "Value": "100.47",
+      "Attempts(<= 5')": "1,068",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "1036"
+    },
+    {
+      "rank": 63,
+      "player": "Brice Garnett",
+      "Value": "100.44",
+      "Attempts(<= 5')": "912",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "889"
+    },
+    {
+      "rank": 63,
+      "player": "Jim Herman",
+      "Value": "100.44",
+      "Attempts(<= 5')": "906",
+      "Tot Made (>=20')": "31",
+      "Tot Made (<= 5')": "879"
+    },
+    {
+      "rank": 65,
+      "player": "Kevin Tway",
+      "Value": "100.43",
+      "Attempts(<= 5')": "1,169",
+      "Tot Made (>=20')": "39",
+      "Tot Made (<= 5')": "1135"
+    },
+    {
+      "rank": 66,
+      "player": "Chez Reavie",
+      "Value": "100.41",
+      "Attempts(<= 5')": "1,215",
+      "Tot Made (>=20')": "33",
+      "Tot Made (<= 5')": "1187"
+    },
+    {
+      "rank": 67,
+      "player": "Joseph Bramlett",
+      "Value": "100.40",
+      "Attempts(<= 5')": "991",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "961"
+    },
+    {
+      "rank": 68,
+      "player": "Zach Johnson",
+      "Value": "100.38",
+      "Attempts(<= 5')": "799",
+      "Tot Made (>=20')": "26",
+      "Tot Made (<= 5')": "776"
+    },
+    {
+      "rank": 69,
+      "player": "Peter Kuest",
+      "Value": "100.37",
+      "Attempts(<= 5')": "534",
+      "Tot Made (>=20')": "19",
+      "Tot Made (<= 5')": "517"
+    },
+    {
+      "rank": 69,
+      "player": "Erik van Rooyen",
+      "Value": "100.37",
+      "Attempts(<= 5')": "808",
+      "Tot Made (>=20')": "22",
+      "Tot Made (<= 5')": "789"
+    },
+    {
+      "rank": 71,
+      "player": "Justin Lower",
+      "Value": "100.36",
+      "Attempts(<= 5')": "1,108",
+      "Tot Made (>=20')": "43",
+      "Tot Made (<= 5')": "1069"
+    },
+    {
+      "rank": 72,
+      "player": "Tyler Duncan",
+      "Value": "100.35",
+      "Attempts(<= 5')": "1,133",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "1105"
+    },
+    {
+      "rank": 72,
+      "player": "Harris English",
+      "Value": "100.35",
+      "Attempts(<= 5')": "1,136",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "1110"
+    },
+    {
+      "rank": 74,
+      "player": "Eric Cole",
+      "Value": "100.34",
+      "Attempts(<= 5')": "1,492",
+      "Tot Made (>=20')": "36",
+      "Tot Made (<= 5')": "1461"
+    },
+    {
+      "rank": 75,
+      "player": "Brandon Wu",
+      "Value": "100.33",
+      "Attempts(<= 5')": "1,209",
+      "Tot Made (>=20')": "38",
+      "Tot Made (<= 5')": "1175"
+    },
+    {
+      "rank": 76,
+      "player": "Justin Suh",
+      "Value": "100.30",
+      "Attempts(<= 5')": "1,346",
+      "Tot Made (>=20')": "46",
+      "Tot Made (<= 5')": "1304"
+    },
+    {
+      "rank": 77,
+      "player": "Brian Stuard",
+      "Value": "100.28",
+      "Attempts(<= 5')": "714",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "691"
+    },
+    {
+      "rank": 78,
+      "player": "Wyndham Clark",
+      "Value": "100.25",
+      "Attempts(<= 5')": "1,202",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "1173"
+    },
+    {
+      "rank": 78,
+      "player": "K.H. Lee",
+      "Value": "100.25",
+      "Attempts(<= 5')": "1,184",
+      "Tot Made (>=20')": "38",
+      "Tot Made (<= 5')": "1149"
+    },
+    {
+      "rank": 78,
+      "player": "Matt NeSmith",
+      "Value": "100.25",
+      "Attempts(<= 5')": "1,191",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "1164"
+    },
+    {
+      "rank": 78,
+      "player": "Nick Watney",
+      "Value": "100.25",
+      "Attempts(<= 5')": "793",
+      "Tot Made (>=20')": "24",
+      "Tot Made (<= 5')": "771"
+    },
+    {
+      "rank": 82,
+      "player": "S.H. Kim",
+      "Value": "100.22",
+      "Attempts(<= 5')": "1,350",
+      "Tot Made (>=20')": "42",
+      "Tot Made (<= 5')": "1311"
+    },
+    {
+      "rank": 83,
+      "player": "Henrik Norlander",
+      "Value": "100.20",
+      "Attempts(<= 5')": "993",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "965"
+    },
+    {
+      "rank": 84,
+      "player": "Peter Malnati",
+      "Value": "100.19",
+      "Attempts(<= 5')": "1,068",
+      "Tot Made (>=20')": "31",
+      "Tot Made (<= 5')": "1039"
+    },
+    {
+      "rank": 85,
+      "player": "Christiaan Bezuidenhout",
+      "Value": "100.18",
+      "Attempts(<= 5')": "1,115",
+      "Tot Made (>=20')": "33",
+      "Tot Made (<= 5')": "1084"
+    },
+    {
+      "rank": 85,
+      "player": "Taylor Moore",
+      "Value": "100.18",
+      "Attempts(<= 5')": "1,136",
+      "Tot Made (>=20')": "36",
+      "Tot Made (<= 5')": "1102"
+    },
+    {
+      "rank": 87,
+      "player": "Sam Ryder",
+      "Value": "100.17",
+      "Attempts(<= 5')": "1,194",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "1162"
+    },
+    {
+      "rank": 88,
+      "player": "Russell Knox",
+      "Value": "100.16",
+      "Attempts(<= 5')": "1,241",
+      "Tot Made (>=20')": "35",
+      "Tot Made (<= 5')": "1208"
+    },
+    {
+      "rank": 88,
+      "player": "Patrick Rodgers",
+      "Value": "100.16",
+      "Attempts(<= 5')": "1,218",
+      "Tot Made (>=20')": "43",
+      "Tot Made (<= 5')": "1177"
+    },
+    {
+      "rank": 90,
+      "player": "Xander Schauffele",
+      "Value": "100.12",
+      "Attempts(<= 5')": "841",
+      "Tot Made (>=20')": "29",
+      "Tot Made (<= 5')": "813"
+    },
+    {
+      "rank": 91,
+      "player": "Viktor Hovland",
+      "Value": "100.10",
+      "Attempts(<= 5')": "969",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "949"
+    },
+    {
+      "rank": 91,
+      "player": "Kelly Kraft",
+      "Value": "100.10",
+      "Attempts(<= 5')": "1,013",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "984"
+    },
+    {
+      "rank": 91,
+      "player": "Scott Stallings",
+      "Value": "100.10",
+      "Attempts(<= 5')": "972",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "946"
+    },
+    {
+      "rank": 94,
+      "player": "Nick Hardy",
+      "Value": "100.08",
+      "Attempts(<= 5')": "1,261",
+      "Tot Made (>=20')": "41",
+      "Tot Made (<= 5')": "1221"
+    },
+    {
+      "rank": 94,
+      "player": "Patton Kizzire",
+      "Value": "100.08",
+      "Attempts(<= 5')": "1,191",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "1155"
+    },
+    {
+      "rank": 94,
+      "player": "Aaron Rai",
+      "Value": "100.08",
+      "Attempts(<= 5')": "1,262",
+      "Tot Made (>=20')": "29",
+      "Tot Made (<= 5')": "1234"
+    },
+    {
+      "rank": 94,
+      "player": "Greyson Sigg",
+      "Value": "100.08",
+      "Attempts(<= 5')": "1,284",
+      "Tot Made (>=20')": "33",
+      "Tot Made (<= 5')": "1252"
+    },
+    {
+      "rank": 98,
+      "player": "Michael Gligic",
+      "Value": "100.00",
+      "Attempts(<= 5')": "771",
+      "Tot Made (>=20')": "20",
+      "Tot Made (<= 5')": "751"
+    },
+    {
+      "rank": 98,
+      "player": "Matthias Schwab",
+      "Value": "100.00",
+      "Attempts(<= 5')": "1,186",
+      "Tot Made (>=20')": "44",
+      "Tot Made (<= 5')": "1142"
+    },
+    {
+      "rank": 98,
+      "player": "Richy Werenski",
+      "Value": "100.00",
+      "Attempts(<= 5')": "1,015",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "981"
+    },
+    {
+      "rank": 101,
+      "player": "MJ Daffue",
+      "Value": "99.91",
+      "Attempts(<= 5')": "1,057",
+      "Tot Made (>=20')": "38",
+      "Tot Made (<= 5')": "1018"
+    },
+    {
+      "rank": 102,
+      "player": "Ryan Armour",
+      "Value": "99.90",
+      "Attempts(<= 5')": "991",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "960"
+    },
+    {
+      "rank": 102,
+      "player": "Harrison Endycott",
+      "Value": "99.90",
+      "Attempts(<= 5')": "963",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "930"
+    },
+    {
+      "rank": 102,
+      "player": "Harry Hall",
+      "Value": "99.90",
+      "Attempts(<= 5')": "1,023",
+      "Tot Made (>=20')": "33",
+      "Tot Made (<= 5')": "989"
+    },
+    {
+      "rank": 105,
+      "player": "Hayden Buckley",
+      "Value": "99.89",
+      "Attempts(<= 5')": "913",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "880"
+    },
+    {
+      "rank": 105,
+      "player": "Ryan Palmer",
+      "Value": "99.89",
+      "Attempts(<= 5')": "943",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "917"
+    },
+    {
+      "rank": 105,
+      "player": "Matt Wallace",
+      "Value": "99.89",
+      "Attempts(<= 5')": "939",
+      "Tot Made (>=20')": "31",
+      "Tot Made (<= 5')": "907"
+    },
+    {
+      "rank": 108,
+      "player": "Matti Schmid",
+      "Value": "99.87",
+      "Attempts(<= 5')": "742",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "714"
+    },
+    {
+      "rank": 109,
+      "player": "Lanto Griffin",
+      "Value": "99.85",
+      "Attempts(<= 5')": "655",
+      "Tot Made (>=20')": "22",
+      "Tot Made (<= 5')": "632"
+    },
+    {
+      "rank": 109,
+      "player": "Garrick Higgo",
+      "Value": "99.85",
+      "Attempts(<= 5')": "1,291",
+      "Tot Made (>=20')": "35",
+      "Tot Made (<= 5')": "1254"
+    },
+    {
+      "rank": 111,
+      "player": "Brian Harman",
+      "Value": "99.82",
+      "Attempts(<= 5')": "1,116",
+      "Tot Made (>=20')": "26",
+      "Tot Made (<= 5')": "1088"
+    },
+    {
+      "rank": 112,
+      "player": "Joel Dahmen",
+      "Value": "99.81",
+      "Attempts(<= 5')": "1,061",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "1027"
+    },
+    {
+      "rank": 113,
+      "player": "Tyson Alexander",
+      "Value": "99.80",
+      "Attempts(<= 5')": "1,025",
+      "Tot Made (>=20')": "28",
+      "Tot Made (<= 5')": "995"
+    },
+    {
+      "rank": 114,
+      "player": "Stewart Cink",
+      "Value": "99.79",
+      "Attempts(<= 5')": "936",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "900"
+    },
+    {
+      "rank": 114,
+      "player": "Adam Svensson",
+      "Value": "99.79",
+      "Attempts(<= 5')": "1,443",
+      "Tot Made (>=20')": "50",
+      "Tot Made (<= 5')": "1390"
+    },
+    {
+      "rank": 116,
+      "player": "Rory McIlroy",
+      "Value": "99.76",
+      "Attempts(<= 5')": "822",
+      "Tot Made (>=20')": "18",
+      "Tot Made (<= 5')": "802"
+    },
+    {
+      "rank": 116,
+      "player": "Kyle Westmoreland",
+      "Value": "99.76",
+      "Attempts(<= 5')": "833",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "804"
+    },
+    {
+      "rank": 118,
+      "player": "Callum Tarren",
+      "Value": "99.75",
+      "Attempts(<= 5')": "1,184",
+      "Tot Made (>=20')": "43",
+      "Tot Made (<= 5')": "1138"
+    },
+    {
+      "rank": 119,
+      "player": "Russell Henley",
+      "Value": "99.72",
+      "Attempts(<= 5')": "1,061",
+      "Tot Made (>=20')": "36",
+      "Tot Made (<= 5')": "1022"
+    },
+    {
+      "rank": 120,
+      "player": "Scott Piercy",
+      "Value": "99.70",
+      "Attempts(<= 5')": "1,003",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "975"
+    },
+    {
+      "rank": 121,
+      "player": "S.Y. Noh",
+      "Value": "99.69",
+      "Attempts(<= 5')": "655",
+      "Tot Made (>=20')": "28",
+      "Tot Made (<= 5')": "625"
+    },
+    {
+      "rank": 121,
+      "player": "Cameron Percy",
+      "Value": "99.69",
+      "Attempts(<= 5')": "645",
+      "Tot Made (>=20')": "12",
+      "Tot Made (<= 5')": "631"
+    },
+    {
+      "rank": 123,
+      "player": "Mark Hubbard",
+      "Value": "99.68",
+      "Attempts(<= 5')": "1,247",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "1213"
+    },
+    {
+      "rank": 123,
+      "player": "Davis Thompson",
+      "Value": "99.68",
+      "Attempts(<= 5')": "1,246",
+      "Tot Made (>=20')": "31",
+      "Tot Made (<= 5')": "1211"
+    },
+    {
+      "rank": 125,
+      "player": "Si Woo Kim",
+      "Value": "99.67",
+      "Attempts(<= 5')": "1,225",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "1191"
+    },
+    {
+      "rank": 126,
+      "player": "Trevor Werbylo",
+      "Value": "99.64",
+      "Attempts(<= 5')": "837",
+      "Tot Made (>=20')": "20",
+      "Tot Made (<= 5')": "814"
+    },
+    {
+      "rank": 127,
+      "player": "Scottie Scheffler",
+      "Value": "99.63",
+      "Attempts(<= 5')": "1,072",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "1036"
+    },
+    {
+      "rank": 128,
+      "player": "Hideki Matsuyama",
+      "Value": "99.60",
+      "Attempts(<= 5')": "996",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "965"
+    },
+    {
+      "rank": 129,
+      "player": "Andrew Novak",
+      "Value": "99.59",
+      "Attempts(<= 5')": "965",
+      "Tot Made (>=20')": "24",
+      "Tot Made (<= 5')": "937"
+    },
+    {
+      "rank": 130,
+      "player": "Sepp Straka",
+      "Value": "99.54",
+      "Attempts(<= 5')": "1,076",
+      "Tot Made (>=20')": "28",
+      "Tot Made (<= 5')": "1043"
+    },
+    {
+      "rank": 131,
+      "player": "Keith Mitchell",
+      "Value": "99.52",
+      "Attempts(<= 5')": "1,046",
+      "Tot Made (>=20')": "28",
+      "Tot Made (<= 5')": "1013"
+    },
+    {
+      "rank": 132,
+      "player": "Shane Lowry",
+      "Value": "99.51",
+      "Attempts(<= 5')": "810",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "781"
+    },
+    {
+      "rank": 133,
+      "player": "Hank Lebioda",
+      "Value": "99.50",
+      "Attempts(<= 5')": "599",
+      "Tot Made (>=20')": "14",
+      "Tot Made (<= 5')": "582"
+    },
+    {
+      "rank": 133,
+      "player": "Robby Shelton",
+      "Value": "99.50",
+      "Attempts(<= 5')": "1,194",
+      "Tot Made (>=20')": "26",
+      "Tot Made (<= 5')": "1162"
+    },
+    {
+      "rank": 135,
+      "player": "Ben Martin",
+      "Value": "99.48",
+      "Attempts(<= 5')": "1,148",
+      "Tot Made (>=20')": "35",
+      "Tot Made (<= 5')": "1107"
+    },
+    {
+      "rank": 136,
+      "player": "Tano Goya",
+      "Value": "99.47",
+      "Attempts(<= 5')": "938",
+      "Tot Made (>=20')": "35",
+      "Tot Made (<= 5')": "898"
+    },
+    {
+      "rank": 136,
+      "player": "Danny Willett",
+      "Value": "99.47",
+      "Attempts(<= 5')": "758",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "733"
+    },
+    {
+      "rank": 138,
+      "player": "Doug Ghim",
+      "Value": "99.45",
+      "Attempts(<= 5')": "1,087",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "1049"
+    },
+    {
+      "rank": 138,
+      "player": "Robert Streb",
+      "Value": "99.45",
+      "Attempts(<= 5')": "914",
+      "Tot Made (>=20')": "28",
+      "Tot Made (<= 5')": "881"
+    },
+    {
+      "rank": 140,
+      "player": "Andrew Landry",
+      "Value": "99.44",
+      "Attempts(<= 5')": "891",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "865"
+    },
+    {
+      "rank": 140,
+      "player": "Collin Morikawa",
+      "Value": "99.44",
+      "Attempts(<= 5')": "896",
+      "Tot Made (>=20')": "26",
+      "Tot Made (<= 5')": "865"
+    },
+    {
+      "rank": 140,
+      "player": "Jimmy Walker",
+      "Value": "99.44",
+      "Attempts(<= 5')": "1,079",
+      "Tot Made (>=20')": "20",
+      "Tot Made (<= 5')": "1053"
+    },
+    {
+      "rank": 143,
+      "player": "Dylan Frittelli",
+      "Value": "99.42",
+      "Attempts(<= 5')": "858",
+      "Tot Made (>=20')": "22",
+      "Tot Made (<= 5')": "831"
+    },
+    {
+      "rank": 144,
+      "player": "Trey Mullinax",
+      "Value": "99.39",
+      "Attempts(<= 5')": "983",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "950"
+    },
+    {
+      "rank": 144,
+      "player": "Carl Yuan",
+      "Value": "99.39",
+      "Attempts(<= 5')": "982",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "949"
+    },
+    {
+      "rank": 146,
+      "player": "Webb Simpson",
+      "Value": "99.35",
+      "Attempts(<= 5')": "765",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "739"
+    },
+    {
+      "rank": 147,
+      "player": "Jordan Spieth",
+      "Value": "99.32",
+      "Attempts(<= 5')": "881",
+      "Tot Made (>=20')": "22",
+      "Tot Made (<= 5')": "853"
+    },
+    {
+      "rank": 148,
+      "player": "Kramer Hickok",
+      "Value": "99.31",
+      "Attempts(<= 5')": "1,152",
+      "Tot Made (>=20')": "37",
+      "Tot Made (<= 5')": "1107"
+    },
+    {
+      "rank": 149,
+      "player": "C.T. Pan",
+      "Value": "99.29",
+      "Attempts(<= 5')": "565",
+      "Tot Made (>=20')": "14",
+      "Tot Made (<= 5')": "547"
+    },
+    {
+      "rank": 150,
+      "player": "Lucas Herbert",
+      "Value": "99.26",
+      "Attempts(<= 5')": "674",
+      "Tot Made (>=20')": "18",
+      "Tot Made (<= 5')": "651"
+    },
+    {
+      "rank": 151,
+      "player": "Stephan Jaeger",
+      "Value": "99.16",
+      "Attempts(<= 5')": "1,548",
+      "Tot Made (>=20')": "43",
+      "Tot Made (<= 5')": "1492"
+    },
+    {
+      "rank": 152,
+      "player": "Nico Echavarria",
+      "Value": "99.12",
+      "Attempts(<= 5')": "798",
+      "Tot Made (>=20')": "20",
+      "Tot Made (<= 5')": "771"
+    },
+    {
+      "rank": 153,
+      "player": "Jonathan Byrd",
+      "Value": "99.08",
+      "Attempts(<= 5')": "543",
+      "Tot Made (>=20')": "14",
+      "Tot Made (<= 5')": "524"
+    },
+    {
+      "rank": 154,
+      "player": "Tony Finau",
+      "Value": "99.06",
+      "Attempts(<= 5')": "1,069",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "1025"
+    },
+    {
+      "rank": 155,
+      "player": "Cam Davis",
+      "Value": "99.02",
+      "Attempts(<= 5')": "1,121",
+      "Tot Made (>=20')": "34",
+      "Tot Made (<= 5')": "1076"
+    },
+    {
+      "rank": 156,
+      "player": "Byeong Hun An",
+      "Value": "98.98",
+      "Attempts(<= 5')": "1,276",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "1238"
+    },
+    {
+      "rank": 157,
+      "player": "Cameron Champ",
+      "Value": "98.93",
+      "Attempts(<= 5')": "840",
+      "Tot Made (>=20')": "16",
+      "Tot Made (<= 5')": "815"
+    },
+    {
+      "rank": 158,
+      "player": "Gary Woodland",
+      "Value": "98.91",
+      "Attempts(<= 5')": "1,097",
+      "Tot Made (>=20')": "24",
+      "Tot Made (<= 5')": "1061"
+    },
+    {
+      "rank": 159,
+      "player": "Alex Smalley",
+      "Value": "98.89",
+      "Attempts(<= 5')": "1,349",
+      "Tot Made (>=20')": "31",
+      "Tot Made (<= 5')": "1303"
+    },
+    {
+      "rank": 160,
+      "player": "Luke List",
+      "Value": "98.87",
+      "Attempts(<= 5')": "1,235",
+      "Tot Made (>=20')": "41",
+      "Tot Made (<= 5')": "1180"
+    },
+    {
+      "rank": 161,
+      "player": "Cameron Young",
+      "Value": "98.85",
+      "Attempts(<= 5')": "954",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "922"
+    },
+    {
+      "rank": 162,
+      "player": "Sam Stevens",
+      "Value": "98.84",
+      "Attempts(<= 5')": "1,207",
+      "Tot Made (>=20')": "29",
+      "Tot Made (<= 5')": "1164"
+    },
+    {
+      "rank": 163,
+      "player": "Scott Harrington",
+      "Value": "98.82",
+      "Attempts(<= 5')": "847",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "812"
+    },
+    {
+      "rank": 163,
+      "player": "Vincent Norrman",
+      "Value": "98.82",
+      "Attempts(<= 5')": "933",
+      "Tot Made (>=20')": "22",
+      "Tot Made (<= 5')": "900"
+    },
+    {
+      "rank": 165,
+      "player": "Ryan Moore",
+      "Value": "98.80",
+      "Attempts(<= 5')": "918",
+      "Tot Made (>=20')": "26",
+      "Tot Made (<= 5')": "881"
+    },
+    {
+      "rank": 166,
+      "player": "Paul Haley II",
+      "Value": "98.79",
+      "Attempts(<= 5')": "994",
+      "Tot Made (>=20')": "26",
+      "Tot Made (<= 5')": "956"
+    },
+    {
+      "rank": 167,
+      "player": "J.J. Spaun",
+      "Value": "98.76",
+      "Attempts(<= 5')": "1,208",
+      "Tot Made (>=20')": "30",
+      "Tot Made (<= 5')": "1163"
+    },
+    {
+      "rank": 168,
+      "player": "Jason Dufner",
+      "Value": "98.74",
+      "Attempts(<= 5')": "1,030",
+      "Tot Made (>=20')": "32",
+      "Tot Made (<= 5')": "985"
+    },
+    {
+      "rank": 169,
+      "player": "Kurt Kitayama",
+      "Value": "98.73",
+      "Attempts(<= 5')": "789",
+      "Tot Made (>=20')": "18",
+      "Tot Made (<= 5')": "761"
+    },
+    {
+      "rank": 170,
+      "player": "Akshay Bhatia",
+      "Value": "98.71",
+      "Attempts(<= 5')": "851",
+      "Tot Made (>=20')": "19",
+      "Tot Made (<= 5')": "821"
+    },
+    {
+      "rank": 170,
+      "player": "Davis Riley",
+      "Value": "98.71",
+      "Attempts(<= 5')": "1,088",
+      "Tot Made (>=20')": "23",
+      "Tot Made (<= 5')": "1051"
+    },
+    {
+      "rank": 172,
+      "player": "Zecheng Dou",
+      "Value": "98.64",
+      "Attempts(<= 5')": "1,100",
+      "Tot Made (>=20')": "27",
+      "Tot Made (<= 5')": "1058"
+    },
+    {
+      "rank": 173,
+      "player": "Austin Cook",
+      "Value": "98.63",
+      "Attempts(<= 5')": "802",
+      "Tot Made (>=20')": "19",
+      "Tot Made (<= 5')": "772"
+    },
+    {
+      "rank": 173,
+      "player": "Cody Gribble",
+      "Value": "98.63",
+      "Attempts(<= 5')": "728",
+      "Tot Made (>=20')": "24",
+      "Tot Made (<= 5')": "694"
+    },
+    {
+      "rank": 173,
+      "player": "Kevin Streelman",
+      "Value": "98.63",
+      "Attempts(<= 5')": "1,239",
+      "Tot Made (>=20')": "38",
+      "Tot Made (<= 5')": "1184"
+    },
+    {
+      "rank": 176,
+      "player": "Trevor Cone",
+      "Value": "98.56",
+      "Attempts(<= 5')": "903",
+      "Tot Made (>=20')": "23",
+      "Tot Made (<= 5')": "867"
+    },
+    {
+      "rank": 177,
+      "player": "Justin Thomas",
+      "Value": "98.45",
+      "Attempts(<= 5')": "968",
+      "Tot Made (>=20')": "25",
+      "Tot Made (<= 5')": "928"
+    },
+    {
+      "rank": 178,
+      "player": "Zac Blair",
+      "Value": "98.44",
+      "Attempts(<= 5')": "898",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "863"
+    },
+    {
+      "rank": 179,
+      "player": "Kevin Roy",
+      "Value": "98.36",
+      "Attempts(<= 5')": "791",
+      "Tot Made (>=20')": "22",
+      "Tot Made (<= 5')": "756"
+    },
+    {
+      "rank": 180,
+      "player": "Martin Trainer",
+      "Value": "98.35",
+      "Attempts(<= 5')": "544",
+      "Tot Made (>=20')": "10",
+      "Tot Made (<= 5')": "525"
+    },
+    {
+      "rank": 181,
+      "player": "Ryan Gerard",
+      "Value": "98.29",
+      "Attempts(<= 5')": "703",
+      "Tot Made (>=20')": "18",
+      "Tot Made (<= 5')": "673"
+    },
+    {
+      "rank": 182,
+      "player": "David Lipsky",
+      "Value": "98.22",
+      "Attempts(<= 5')": "1,183",
+      "Tot Made (>=20')": "29",
+      "Tot Made (<= 5')": "1133"
+    },
+    {
+      "rank": 183,
+      "player": "Max McGreevy",
+      "Value": "98.19",
+      "Attempts(<= 5')": "938",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "900"
+    },
+    {
+      "rank": 184,
+      "player": "Brandon Matthews",
+      "Value": "98.11",
+      "Attempts(<= 5')": "634",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "601"
+    },
+    {
+      "rank": 185,
+      "player": "Kevin Yu",
+      "Value": "97.90",
+      "Attempts(<= 5')": "715",
+      "Tot Made (>=20')": "22",
+      "Tot Made (<= 5')": "678"
+    },
+    {
+      "rank": 186,
+      "player": "Charley Hoffman",
+      "Value": "97.89",
+      "Attempts(<= 5')": "855",
+      "Tot Made (>=20')": "18",
+      "Tot Made (<= 5')": "819"
+    },
+    {
+      "rank": 187,
+      "player": "Wesley Bryan",
+      "Value": "97.79",
+      "Attempts(<= 5')": "453",
+      "Tot Made (>=20')": "8",
+      "Tot Made (<= 5')": "435"
+    },
+    {
+      "rank": 188,
+      "player": "Satoshi Kodaira",
+      "Value": "97.73",
+      "Attempts(<= 5')": "617",
+      "Tot Made (>=20')": "19",
+      "Tot Made (<= 5')": "584"
+    },
+    {
+      "rank": 189,
+      "player": "Augusto N\u00fa\u00f1ez",
+      "Value": "97.57",
+      "Attempts(<= 5')": "863",
+      "Tot Made (>=20')": "21",
+      "Tot Made (<= 5')": "821"
+    },
+    {
+      "rank": 190,
+      "player": "Lucas Glover",
+      "Value": "97.45",
+      "Attempts(<= 5')": "1,177",
+      "Tot Made (>=20')": "41",
+      "Tot Made (<= 5')": "1106"
+    },
+    {
+      "rank": 191,
+      "player": "Brent Grant",
+      "Value": "97.44",
+      "Attempts(<= 5')": "861",
+      "Tot Made (>=20')": "19",
+      "Tot Made (<= 5')": "820"
+    },
+    {
+      "rank": 192,
+      "player": "Sean O'Hair",
+      "Value": "97.30",
+      "Attempts(<= 5')": "444",
+      "Tot Made (>=20')": "6",
+      "Tot Made (<= 5')": "426"
+    },
+    {
+      "rank": 193,
+      "player": "Troy Merritt",
+      "Value": "96.88",
+      "Attempts(<= 5')": "1,026",
+      "Tot Made (>=20')": "23",
+      "Tot Made (<= 5')": "971"
+    }
+  ]
+}

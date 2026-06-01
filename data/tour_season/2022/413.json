@@ -1,0 +1,1359 @@
+{
+  "stat_id": "413",
+  "year": 2022,
+  "category": "Putting",
+  "stat_title": "One-Putt Percentage",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Lucas Herbert",
+      "%": "44.96",
+      "# of 1 putts": "437",
+      "# of holes": "972"
+    },
+    {
+      "rank": 2,
+      "player": "Matt Kuchar",
+      "%": "43.90",
+      "# of 1 putts": "561",
+      "# of holes": "1,278"
+    },
+    {
+      "rank": 3,
+      "player": "Cameron Young",
+      "%": "43.09",
+      "# of 1 putts": "636",
+      "# of holes": "1,476"
+    },
+    {
+      "rank": 4,
+      "player": "Peter Malnati",
+      "%": "42.88",
+      "# of 1 putts": "795",
+      "# of holes": "1,854"
+    },
+    {
+      "rank": 5,
+      "player": "Justin Thomas",
+      "%": "42.84",
+      "# of 1 putts": "586",
+      "# of holes": "1,368"
+    },
+    {
+      "rank": 6,
+      "player": "Wesley Bryan",
+      "%": "42.74",
+      "# of 1 putts": "377",
+      "# of holes": "882"
+    },
+    {
+      "rank": 6,
+      "player": "Cameron Smith",
+      "%": "42.74",
+      "# of 1 putts": "477",
+      "# of holes": "1,116"
+    },
+    {
+      "rank": 8,
+      "player": "Patrick Cantlay",
+      "%": "42.73",
+      "# of 1 putts": "523",
+      "# of holes": "1,224"
+    },
+    {
+      "rank": 9,
+      "player": "Ian Poulter",
+      "%": "42.68",
+      "# of 1 putts": "338",
+      "# of holes": "792"
+    },
+    {
+      "rank": 10,
+      "player": "Denny McCarthy",
+      "%": "42.44",
+      "# of 1 putts": "764",
+      "# of holes": "1,800"
+    },
+    {
+      "rank": 11,
+      "player": "Scott Piercy",
+      "%": "42.35",
+      "# of 1 putts": "587",
+      "# of holes": "1,386"
+    },
+    {
+      "rank": 12,
+      "player": "Jim Knous",
+      "%": "42.27",
+      "# of 1 putts": "388",
+      "# of holes": "918"
+    },
+    {
+      "rank": 13,
+      "player": "Stephan Jaeger",
+      "%": "42.22",
+      "# of 1 putts": "646",
+      "# of holes": "1,530"
+    },
+    {
+      "rank": 13,
+      "player": "Vince Whaley",
+      "%": "42.22",
+      "# of 1 putts": "646",
+      "# of holes": "1,530"
+    },
+    {
+      "rank": 15,
+      "player": "Matthew Wolff",
+      "%": "42.20",
+      "# of 1 putts": "357",
+      "# of holes": "846"
+    },
+    {
+      "rank": 16,
+      "player": "Troy Merritt",
+      "%": "42.12",
+      "# of 1 putts": "690",
+      "# of holes": "1,638"
+    },
+    {
+      "rank": 16,
+      "player": "Rory Sabbatini",
+      "%": "42.12",
+      "# of 1 putts": "417",
+      "# of holes": "990"
+    },
+    {
+      "rank": 18,
+      "player": "Jonas Blixt",
+      "%": "42.11",
+      "# of 1 putts": "379",
+      "# of holes": "900"
+    },
+    {
+      "rank": 19,
+      "player": "Tyrrell Hatton",
+      "%": "42.10",
+      "# of 1 putts": "485",
+      "# of holes": "1,152"
+    },
+    {
+      "rank": 20,
+      "player": "Mackenzie Hughes",
+      "%": "42.07",
+      "# of 1 putts": "621",
+      "# of holes": "1,476"
+    },
+    {
+      "rank": 21,
+      "player": "Michael Thompson",
+      "%": "42.06",
+      "# of 1 putts": "636",
+      "# of holes": "1,512"
+    },
+    {
+      "rank": 22,
+      "player": "Scott Stallings",
+      "%": "41.90",
+      "# of 1 putts": "724",
+      "# of holes": "1,728"
+    },
+    {
+      "rank": 22,
+      "player": "Brendon Todd",
+      "%": "41.90",
+      "# of 1 putts": "626",
+      "# of holes": "1,494"
+    },
+    {
+      "rank": 24,
+      "player": "Tom Hoge",
+      "%": "41.67",
+      "# of 1 putts": "720",
+      "# of holes": "1,728"
+    },
+    {
+      "rank": 24,
+      "player": "Viktor Hovland",
+      "%": "41.67",
+      "# of 1 putts": "525",
+      "# of holes": "1,260"
+    },
+    {
+      "rank": 26,
+      "player": "Justin Rose",
+      "%": "41.56",
+      "# of 1 putts": "404",
+      "# of holes": "972"
+    },
+    {
+      "rank": 27,
+      "player": "Roger Sloan",
+      "%": "41.48",
+      "# of 1 putts": "545",
+      "# of holes": "1,314"
+    },
+    {
+      "rank": 28,
+      "player": "Christiaan Bezuidenhout",
+      "%": "41.46",
+      "# of 1 putts": "597",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 29,
+      "player": "Richy Werenski",
+      "%": "41.45",
+      "# of 1 putts": "470",
+      "# of holes": "1,134"
+    },
+    {
+      "rank": 30,
+      "player": "Marc Leishman",
+      "%": "41.36",
+      "# of 1 putts": "536",
+      "# of holes": "1,296"
+    },
+    {
+      "rank": 31,
+      "player": "Maverick McNealy",
+      "%": "41.35",
+      "# of 1 putts": "655",
+      "# of holes": "1,584"
+    },
+    {
+      "rank": 31,
+      "player": "Patrick Reed",
+      "%": "41.35",
+      "# of 1 putts": "521",
+      "# of holes": "1,260"
+    },
+    {
+      "rank": 33,
+      "player": "Justin Lower",
+      "%": "41.28",
+      "# of 1 putts": "535",
+      "# of holes": "1,296"
+    },
+    {
+      "rank": 34,
+      "player": "Matt Fitzpatrick",
+      "%": "41.27",
+      "# of 1 putts": "520",
+      "# of holes": "1,260"
+    },
+    {
+      "rank": 34,
+      "player": "Beau Hossler",
+      "%": "41.27",
+      "# of 1 putts": "520",
+      "# of holes": "1,260"
+    },
+    {
+      "rank": 36,
+      "player": "Hideki Matsuyama",
+      "%": "41.13",
+      "# of 1 putts": "533",
+      "# of holes": "1,296"
+    },
+    {
+      "rank": 36,
+      "player": "Pat Perez",
+      "%": "41.13",
+      "# of 1 putts": "459",
+      "# of holes": "1,116"
+    },
+    {
+      "rank": 38,
+      "player": "Cam Davis",
+      "%": "41.12",
+      "# of 1 putts": "607",
+      "# of holes": "1,476"
+    },
+    {
+      "rank": 39,
+      "player": "John Huh",
+      "%": "41.07",
+      "# of 1 putts": "547",
+      "# of holes": "1,332"
+    },
+    {
+      "rank": 40,
+      "player": "Harold Varner III",
+      "%": "41.06",
+      "# of 1 putts": "510",
+      "# of holes": "1,242"
+    },
+    {
+      "rank": 41,
+      "player": "Kelly Kraft",
+      "%": "40.98",
+      "# of 1 putts": "509",
+      "# of holes": "1,242"
+    },
+    {
+      "rank": 42,
+      "player": "Wyndham Clark",
+      "%": "40.95",
+      "# of 1 putts": "715",
+      "# of holes": "1,746"
+    },
+    {
+      "rank": 43,
+      "player": "Danny Lee",
+      "%": "40.92",
+      "# of 1 putts": "383",
+      "# of holes": "936"
+    },
+    {
+      "rank": 44,
+      "player": "Sam Burns",
+      "%": "40.90",
+      "# of 1 putts": "589",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 45,
+      "player": "Kiradech Aphibarnrat",
+      "%": "40.88",
+      "# of 1 putts": "390",
+      "# of holes": "954"
+    },
+    {
+      "rank": 46,
+      "player": "Webb Simpson",
+      "%": "40.87",
+      "# of 1 putts": "434",
+      "# of holes": "1,062"
+    },
+    {
+      "rank": 47,
+      "player": "Andrew Putnam",
+      "%": "40.84",
+      "# of 1 putts": "691",
+      "# of holes": "1,692"
+    },
+    {
+      "rank": 48,
+      "player": "Patton Kizzire",
+      "%": "40.80",
+      "# of 1 putts": "661",
+      "# of holes": "1,620"
+    },
+    {
+      "rank": 48,
+      "player": "Shane Lowry",
+      "%": "40.80",
+      "# of 1 putts": "426",
+      "# of holes": "1,044"
+    },
+    {
+      "rank": 50,
+      "player": "Cameron Percy",
+      "%": "40.78",
+      "# of 1 putts": "323",
+      "# of holes": "792"
+    },
+    {
+      "rank": 50,
+      "player": "Nick Taylor",
+      "%": "40.78",
+      "# of 1 putts": "646",
+      "# of holes": "1,584"
+    },
+    {
+      "rank": 52,
+      "player": "Mark Hubbard",
+      "%": "40.77",
+      "# of 1 putts": "499",
+      "# of holes": "1,224"
+    },
+    {
+      "rank": 53,
+      "player": "Alex Noren",
+      "%": "40.71",
+      "# of 1 putts": "469",
+      "# of holes": "1,152"
+    },
+    {
+      "rank": 54,
+      "player": "Austin Cook",
+      "%": "40.66",
+      "# of 1 putts": "505",
+      "# of holes": "1,242"
+    },
+    {
+      "rank": 54,
+      "player": "Davis Riley",
+      "%": "40.66",
+      "# of 1 putts": "688",
+      "# of holes": "1,692"
+    },
+    {
+      "rank": 56,
+      "player": "Nate Lashley",
+      "%": "40.64",
+      "# of 1 putts": "556",
+      "# of holes": "1,368"
+    },
+    {
+      "rank": 57,
+      "player": "Carlos Ortiz",
+      "%": "40.62",
+      "# of 1 putts": "446",
+      "# of holes": "1,098"
+    },
+    {
+      "rank": 58,
+      "player": "Adam Long",
+      "%": "40.53",
+      "# of 1 putts": "642",
+      "# of holes": "1,584"
+    },
+    {
+      "rank": 59,
+      "player": "Tommy Fleetwood",
+      "%": "40.48",
+      "# of 1 putts": "408",
+      "# of holes": "1,008"
+    },
+    {
+      "rank": 60,
+      "player": "Lanto Griffin",
+      "%": "40.46",
+      "# of 1 putts": "568",
+      "# of holes": "1,404"
+    },
+    {
+      "rank": 60,
+      "player": "Francesco Molinari",
+      "%": "40.46",
+      "# of 1 putts": "386",
+      "# of holes": "954"
+    },
+    {
+      "rank": 60,
+      "player": "Seamus Power",
+      "%": "40.46",
+      "# of 1 putts": "568",
+      "# of holes": "1,404"
+    },
+    {
+      "rank": 60,
+      "player": "Martin Trainer",
+      "%": "40.46",
+      "# of 1 putts": "568",
+      "# of holes": "1,404"
+    },
+    {
+      "rank": 64,
+      "player": "Jason Day",
+      "%": "40.45",
+      "# of 1 putts": "415",
+      "# of holes": "1,026"
+    },
+    {
+      "rank": 65,
+      "player": "Rory McIlroy",
+      "%": "40.37",
+      "# of 1 putts": "436",
+      "# of holes": "1,080"
+    },
+    {
+      "rank": 66,
+      "player": "Max McGreevy",
+      "%": "40.35",
+      "# of 1 putts": "523",
+      "# of holes": "1,296"
+    },
+    {
+      "rank": 67,
+      "player": "Scottie Scheffler",
+      "%": "40.34",
+      "# of 1 putts": "610",
+      "# of holes": "1,512"
+    },
+    {
+      "rank": 68,
+      "player": "Kurt Kitayama",
+      "%": "40.32",
+      "# of 1 putts": "508",
+      "# of holes": "1,260"
+    },
+    {
+      "rank": 69,
+      "player": "Harry Higgs",
+      "%": "40.28",
+      "# of 1 putts": "580",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 70,
+      "player": "Aaron Wise",
+      "%": "40.25",
+      "# of 1 putts": "623",
+      "# of holes": "1,548"
+    },
+    {
+      "rank": 71,
+      "player": "Abraham Ancer",
+      "%": "40.23",
+      "# of 1 putts": "420",
+      "# of holes": "1,044"
+    },
+    {
+      "rank": 72,
+      "player": "Andrew Novak",
+      "%": "40.20",
+      "# of 1 putts": "550",
+      "# of holes": "1,368"
+    },
+    {
+      "rank": 73,
+      "player": "Hank Lebioda",
+      "%": "40.14",
+      "# of 1 putts": "578",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 74,
+      "player": "Anirban Lahiri",
+      "%": "40.12",
+      "# of 1 putts": "520",
+      "# of holes": "1,296"
+    },
+    {
+      "rank": 75,
+      "player": "Max Homa",
+      "%": "40.11",
+      "# of 1 putts": "592",
+      "# of holes": "1,476"
+    },
+    {
+      "rank": 76,
+      "player": "C.T. Pan",
+      "%": "40.04",
+      "# of 1 putts": "591",
+      "# of holes": "1,476"
+    },
+    {
+      "rank": 77,
+      "player": "J.T. Poston",
+      "%": "40.03",
+      "# of 1 putts": "634",
+      "# of holes": "1,584"
+    },
+    {
+      "rank": 78,
+      "player": "Dylan Frittelli",
+      "%": "40.02",
+      "# of 1 putts": "670",
+      "# of holes": "1,674"
+    },
+    {
+      "rank": 78,
+      "player": "K.H. Lee",
+      "%": "40.02",
+      "# of 1 putts": "706",
+      "# of holes": "1,764"
+    },
+    {
+      "rank": 80,
+      "player": "Sahith Theegala",
+      "%": "39.97",
+      "# of 1 putts": "813",
+      "# of holes": "2,034"
+    },
+    {
+      "rank": 81,
+      "player": "Joshua Creel",
+      "%": "39.95",
+      "# of 1 putts": "338",
+      "# of holes": "846"
+    },
+    {
+      "rank": 82,
+      "player": "Jordan Spieth",
+      "%": "39.94",
+      "# of 1 putts": "532",
+      "# of holes": "1,332"
+    },
+    {
+      "rank": 83,
+      "player": "Joaquin Niemann",
+      "%": "39.93",
+      "# of 1 putts": "575",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 84,
+      "player": "Keith Mitchell",
+      "%": "39.92",
+      "# of 1 putts": "618",
+      "# of holes": "1,548"
+    },
+    {
+      "rank": 85,
+      "player": "Brooks Koepka",
+      "%": "39.86",
+      "# of 1 putts": "330",
+      "# of holes": "828"
+    },
+    {
+      "rank": 86,
+      "player": "Si Woo Kim",
+      "%": "39.85",
+      "# of 1 putts": "703",
+      "# of holes": "1,764"
+    },
+    {
+      "rank": 87,
+      "player": "Jason Kokrak",
+      "%": "39.80",
+      "# of 1 putts": "437",
+      "# of holes": "1,098"
+    },
+    {
+      "rank": 88,
+      "player": "Satoshi Kodaira",
+      "%": "39.76",
+      "# of 1 putts": "365",
+      "# of holes": "918"
+    },
+    {
+      "rank": 89,
+      "player": "Sam Ryder",
+      "%": "39.71",
+      "# of 1 putts": "629",
+      "# of holes": "1,584"
+    },
+    {
+      "rank": 89,
+      "player": "J.J. Spaun",
+      "%": "39.71",
+      "# of 1 putts": "679",
+      "# of holes": "1,710"
+    },
+    {
+      "rank": 91,
+      "player": "Sung Kang",
+      "%": "39.65",
+      "# of 1 putts": "571",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 92,
+      "player": "Luke Donald",
+      "%": "39.64",
+      "# of 1 putts": "478",
+      "# of holes": "1,206"
+    },
+    {
+      "rank": 93,
+      "player": "Trey Mullinax",
+      "%": "39.63",
+      "# of 1 putts": "585",
+      "# of holes": "1,476"
+    },
+    {
+      "rank": 94,
+      "player": "Vaughn Taylor",
+      "%": "39.62",
+      "# of 1 putts": "378",
+      "# of holes": "954"
+    },
+    {
+      "rank": 95,
+      "player": "Xander Schauffele",
+      "%": "39.58",
+      "# of 1 putts": "513",
+      "# of holes": "1,296"
+    },
+    {
+      "rank": 96,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "%": "39.56",
+      "# of 1 putts": "591",
+      "# of holes": "1,494"
+    },
+    {
+      "rank": 97,
+      "player": "Bill Haas",
+      "%": "39.51",
+      "# of 1 putts": "640",
+      "# of holes": "1,620"
+    },
+    {
+      "rank": 98,
+      "player": "Tyler Duncan",
+      "%": "39.50",
+      "# of 1 putts": "583",
+      "# of holes": "1,476"
+    },
+    {
+      "rank": 99,
+      "player": "Kevin Kisner",
+      "%": "39.48",
+      "# of 1 putts": "469",
+      "# of holes": "1,188"
+    },
+    {
+      "rank": 100,
+      "player": "Kevin Tway",
+      "%": "39.47",
+      "# of 1 putts": "547",
+      "# of holes": "1,386"
+    },
+    {
+      "rank": 101,
+      "player": "Adam Svensson",
+      "%": "39.44",
+      "# of 1 putts": "710",
+      "# of holes": "1,800"
+    },
+    {
+      "rank": 102,
+      "player": "Danny Willett",
+      "%": "39.43",
+      "# of 1 putts": "440",
+      "# of holes": "1,116"
+    },
+    {
+      "rank": 103,
+      "player": "Charles Howell III",
+      "%": "39.40",
+      "# of 1 putts": "383",
+      "# of holes": "972"
+    },
+    {
+      "rank": 104,
+      "player": "Brian Stuard",
+      "%": "39.39",
+      "# of 1 putts": "631",
+      "# of holes": "1,602"
+    },
+    {
+      "rank": 105,
+      "player": "Jonathan Byrd",
+      "%": "39.38",
+      "# of 1 putts": "404",
+      "# of holes": "1,026"
+    },
+    {
+      "rank": 106,
+      "player": "Rickie Fowler",
+      "%": "39.36",
+      "# of 1 putts": "503",
+      "# of holes": "1,278"
+    },
+    {
+      "rank": 107,
+      "player": "Collin Morikawa",
+      "%": "39.35",
+      "# of 1 putts": "425",
+      "# of holes": "1,080"
+    },
+    {
+      "rank": 108,
+      "player": "Adam Scott",
+      "%": "39.27",
+      "# of 1 putts": "509",
+      "# of holes": "1,296"
+    },
+    {
+      "rank": 109,
+      "player": "Russell Henley",
+      "%": "39.25",
+      "# of 1 putts": "551",
+      "# of holes": "1,404"
+    },
+    {
+      "rank": 110,
+      "player": "Callum Tarren",
+      "%": "39.21",
+      "# of 1 putts": "487",
+      "# of holes": "1,242"
+    },
+    {
+      "rank": 111,
+      "player": "Michael Gligic",
+      "%": "39.20",
+      "# of 1 putts": "501",
+      "# of holes": "1,278"
+    },
+    {
+      "rank": 112,
+      "player": "Brandon Hagy",
+      "%": "39.17",
+      "# of 1 putts": "550",
+      "# of holes": "1,404"
+    },
+    {
+      "rank": 113,
+      "player": "Curtis Thompson",
+      "%": "39.15",
+      "# of 1 putts": "451",
+      "# of holes": "1,152"
+    },
+    {
+      "rank": 114,
+      "player": "David Skinns",
+      "%": "39.14",
+      "# of 1 putts": "465",
+      "# of holes": "1,188"
+    },
+    {
+      "rank": 114,
+      "player": "Kevin Streelman",
+      "%": "39.14",
+      "# of 1 putts": "620",
+      "# of holes": "1,584"
+    },
+    {
+      "rank": 116,
+      "player": "Tony Finau",
+      "%": "39.08",
+      "# of 1 putts": "605",
+      "# of holes": "1,548"
+    },
+    {
+      "rank": 117,
+      "player": "Kramer Hickok",
+      "%": "39.07",
+      "# of 1 putts": "640",
+      "# of holes": "1,638"
+    },
+    {
+      "rank": 118,
+      "player": "Talor Gooch",
+      "%": "39.05",
+      "# of 1 putts": "499",
+      "# of holes": "1,278"
+    },
+    {
+      "rank": 119,
+      "player": "Chesson Hadley",
+      "%": "39.03",
+      "# of 1 putts": "562",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 120,
+      "player": "Robert Streb",
+      "%": "39.02",
+      "# of 1 putts": "583",
+      "# of holes": "1,494"
+    },
+    {
+      "rank": 121,
+      "player": "Adam Schenk",
+      "%": "39.01",
+      "# of 1 putts": "632",
+      "# of holes": "1,620"
+    },
+    {
+      "rank": 122,
+      "player": "Zach Johnson",
+      "%": "38.98",
+      "# of 1 putts": "449",
+      "# of holes": "1,152"
+    },
+    {
+      "rank": 123,
+      "player": "Keegan Bradley",
+      "%": "38.96",
+      "# of 1 putts": "561",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 123,
+      "player": "Chris Kirk",
+      "%": "38.96",
+      "# of 1 putts": "589",
+      "# of holes": "1,512"
+    },
+    {
+      "rank": 125,
+      "player": "Adam Hadwin",
+      "%": "38.89",
+      "# of 1 putts": "630",
+      "# of holes": "1,620"
+    },
+    {
+      "rank": 125,
+      "player": "Hudson Swafford",
+      "%": "38.89",
+      "# of 1 putts": "448",
+      "# of holes": "1,152"
+    },
+    {
+      "rank": 125,
+      "player": "Dawie van der Walt",
+      "%": "38.89",
+      "# of 1 putts": "434",
+      "# of holes": "1,116"
+    },
+    {
+      "rank": 128,
+      "player": "Billy Horschel",
+      "%": "38.81",
+      "# of 1 putts": "489",
+      "# of holes": "1,260"
+    },
+    {
+      "rank": 129,
+      "player": "Matt Jones",
+      "%": "38.80",
+      "# of 1 putts": "426",
+      "# of holes": "1,098"
+    },
+    {
+      "rank": 130,
+      "player": "Kevin Chappell",
+      "%": "38.79",
+      "# of 1 putts": "384",
+      "# of holes": "990"
+    },
+    {
+      "rank": 131,
+      "player": "Seth Reeves",
+      "%": "38.72",
+      "# of 1 putts": "467",
+      "# of holes": "1,206"
+    },
+    {
+      "rank": 132,
+      "player": "Brian Harman",
+      "%": "38.71",
+      "# of 1 putts": "634",
+      "# of holes": "1,638"
+    },
+    {
+      "rank": 133,
+      "player": "S.Y. Noh",
+      "%": "38.62",
+      "# of 1 putts": "438",
+      "# of holes": "1,134"
+    },
+    {
+      "rank": 134,
+      "player": "Sungjae Im",
+      "%": "38.57",
+      "# of 1 putts": "611",
+      "# of holes": "1,584"
+    },
+    {
+      "rank": 135,
+      "player": "Ben Kohles",
+      "%": "38.54",
+      "# of 1 putts": "437",
+      "# of holes": "1,134"
+    },
+    {
+      "rank": 136,
+      "player": "Brice Garnett",
+      "%": "38.53",
+      "# of 1 putts": "534",
+      "# of holes": "1,386"
+    },
+    {
+      "rank": 137,
+      "player": "Will Zalatoris",
+      "%": "38.52",
+      "# of 1 putts": "527",
+      "# of holes": "1,368"
+    },
+    {
+      "rank": 138,
+      "player": "Taylor Moore",
+      "%": "38.43",
+      "# of 1 putts": "581",
+      "# of holes": "1,512"
+    },
+    {
+      "rank": 138,
+      "player": "Chad Ramey",
+      "%": "38.43",
+      "# of 1 putts": "505",
+      "# of holes": "1,314"
+    },
+    {
+      "rank": 140,
+      "player": "Charley Hoffman",
+      "%": "38.41",
+      "# of 1 putts": "477",
+      "# of holes": "1,242"
+    },
+    {
+      "rank": 141,
+      "player": "David Lipsky",
+      "%": "38.38",
+      "# of 1 putts": "608",
+      "# of holes": "1,584"
+    },
+    {
+      "rank": 142,
+      "player": "Cameron Tringale",
+      "%": "38.35",
+      "# of 1 putts": "635",
+      "# of holes": "1,656"
+    },
+    {
+      "rank": 143,
+      "player": "James Hahn",
+      "%": "38.34",
+      "# of 1 putts": "490",
+      "# of holes": "1,278"
+    },
+    {
+      "rank": 143,
+      "player": "Taylor Pendrith",
+      "%": "38.34",
+      "# of 1 putts": "490",
+      "# of holes": "1,278"
+    },
+    {
+      "rank": 145,
+      "player": "Nick Hardy",
+      "%": "38.23",
+      "# of 1 putts": "406",
+      "# of holes": "1,062"
+    },
+    {
+      "rank": 146,
+      "player": "Jason Dufner",
+      "%": "38.22",
+      "# of 1 putts": "344",
+      "# of holes": "900"
+    },
+    {
+      "rank": 147,
+      "player": "Sepp Straka",
+      "%": "38.21",
+      "# of 1 putts": "674",
+      "# of holes": "1,764"
+    },
+    {
+      "rank": 148,
+      "player": "Mito Pereira",
+      "%": "38.20",
+      "# of 1 putts": "612",
+      "# of holes": "1,602"
+    },
+    {
+      "rank": 149,
+      "player": "Greyson Sigg",
+      "%": "38.15",
+      "# of 1 putts": "618",
+      "# of holes": "1,620"
+    },
+    {
+      "rank": 150,
+      "player": "Chez Reavie",
+      "%": "38.10",
+      "# of 1 putts": "583",
+      "# of holes": "1,530"
+    },
+    {
+      "rank": 150,
+      "player": "Matthias Schwab",
+      "%": "38.10",
+      "# of 1 putts": "480",
+      "# of holes": "1,260"
+    },
+    {
+      "rank": 152,
+      "player": "Camilo Villegas",
+      "%": "38.00",
+      "# of 1 putts": "472",
+      "# of holes": "1,242"
+    },
+    {
+      "rank": 153,
+      "player": "Brandt Snedeker",
+      "%": "37.95",
+      "# of 1 putts": "403",
+      "# of holes": "1,062"
+    },
+    {
+      "rank": 154,
+      "player": "Erik van Rooyen",
+      "%": "37.85",
+      "# of 1 putts": "327",
+      "# of holes": "864"
+    },
+    {
+      "rank": 155,
+      "player": "Chase Seiffert",
+      "%": "37.80",
+      "# of 1 putts": "347",
+      "# of holes": "918"
+    },
+    {
+      "rank": 156,
+      "player": "Emiliano Grillo",
+      "%": "37.63",
+      "# of 1 putts": "569",
+      "# of holes": "1,512"
+    },
+    {
+      "rank": 157,
+      "player": "Brandon Wu",
+      "%": "37.61",
+      "# of 1 putts": "501",
+      "# of holes": "1,332"
+    },
+    {
+      "rank": 158,
+      "player": "Alex Smalley",
+      "%": "37.57",
+      "# of 1 putts": "629",
+      "# of holes": "1,674"
+    },
+    {
+      "rank": 159,
+      "player": "Branden Grace",
+      "%": "37.50",
+      "# of 1 putts": "351",
+      "# of holes": "936"
+    },
+    {
+      "rank": 160,
+      "player": "Austin Smotherman",
+      "%": "37.45",
+      "# of 1 putts": "519",
+      "# of holes": "1,386"
+    },
+    {
+      "rank": 161,
+      "player": "Ryan Armour",
+      "%": "37.44",
+      "# of 1 putts": "337",
+      "# of holes": "900"
+    },
+    {
+      "rank": 162,
+      "player": "Doug Ghim",
+      "%": "37.43",
+      "# of 1 putts": "566",
+      "# of holes": "1,512"
+    },
+    {
+      "rank": 163,
+      "player": "Henrik Norlander",
+      "%": "37.42",
+      "# of 1 putts": "485",
+      "# of holes": "1,296"
+    },
+    {
+      "rank": 164,
+      "player": "Joel Dahmen",
+      "%": "37.39",
+      "# of 1 putts": "572",
+      "# of holes": "1,530"
+    },
+    {
+      "rank": 165,
+      "player": "Paul Barjon",
+      "%": "37.32",
+      "# of 1 putts": "477",
+      "# of holes": "1,278"
+    },
+    {
+      "rank": 166,
+      "player": "Doc Redman",
+      "%": "37.27",
+      "# of 1 putts": "530",
+      "# of holes": "1,422"
+    },
+    {
+      "rank": 167,
+      "player": "Brett Drewitt",
+      "%": "37.26",
+      "# of 1 putts": "389",
+      "# of holes": "1,044"
+    },
+    {
+      "rank": 168,
+      "player": "Cameron Champ",
+      "%": "37.20",
+      "# of 1 putts": "375",
+      "# of holes": "1,008"
+    },
+    {
+      "rank": 169,
+      "player": "Jhonattan Vegas",
+      "%": "37.16",
+      "# of 1 putts": "515",
+      "# of holes": "1,386"
+    },
+    {
+      "rank": 170,
+      "player": "Martin Laird",
+      "%": "37.12",
+      "# of 1 putts": "441",
+      "# of holes": "1,188"
+    },
+    {
+      "rank": 171,
+      "player": "Bo Hoag",
+      "%": "37.07",
+      "# of 1 putts": "327",
+      "# of holes": "882"
+    },
+    {
+      "rank": 172,
+      "player": "Gary Woodland",
+      "%": "36.96",
+      "# of 1 putts": "459",
+      "# of holes": "1,242"
+    },
+    {
+      "rank": 173,
+      "player": "Patrick Rodgers",
+      "%": "36.93",
+      "# of 1 putts": "565",
+      "# of holes": "1,530"
+    },
+    {
+      "rank": 174,
+      "player": "Ryan Palmer",
+      "%": "36.73",
+      "# of 1 putts": "443",
+      "# of holes": "1,206"
+    },
+    {
+      "rank": 175,
+      "player": "Matt Wallace",
+      "%": "36.71",
+      "# of 1 putts": "370",
+      "# of holes": "1,008"
+    },
+    {
+      "rank": 176,
+      "player": "Scott Gutschewski",
+      "%": "36.51",
+      "# of 1 putts": "368",
+      "# of holes": "1,008"
+    },
+    {
+      "rank": 177,
+      "player": "Lucas Glover",
+      "%": "36.38",
+      "# of 1 putts": "609",
+      "# of holes": "1,674"
+    },
+    {
+      "rank": 177,
+      "player": "Brendan Steele",
+      "%": "36.38",
+      "# of 1 putts": "478",
+      "# of holes": "1,314"
+    },
+    {
+      "rank": 179,
+      "player": "Matthew NeSmith",
+      "%": "36.23",
+      "# of 1 putts": "600",
+      "# of holes": "1,656"
+    },
+    {
+      "rank": 180,
+      "player": "Lee Hodges",
+      "%": "36.14",
+      "# of 1 putts": "605",
+      "# of holes": "1,674"
+    },
+    {
+      "rank": 180,
+      "player": "Aaron Rai",
+      "%": "36.14",
+      "# of 1 putts": "579",
+      "# of holes": "1,602"
+    },
+    {
+      "rank": 182,
+      "player": "Dylan Wu",
+      "%": "36.07",
+      "# of 1 putts": "435",
+      "# of holes": "1,206"
+    },
+    {
+      "rank": 183,
+      "player": "Jon Rahm",
+      "%": "36.03",
+      "# of 1 putts": "454",
+      "# of holes": "1,260"
+    },
+    {
+      "rank": 184,
+      "player": "Jared Wolfe",
+      "%": "35.69",
+      "# of 1 putts": "379",
+      "# of holes": "1,062"
+    },
+    {
+      "rank": 185,
+      "player": "Hayden Buckley",
+      "%": "35.53",
+      "# of 1 putts": "582",
+      "# of holes": "1,638"
+    },
+    {
+      "rank": 185,
+      "player": "Nick Watney",
+      "%": "35.53",
+      "# of 1 putts": "486",
+      "# of holes": "1,368"
+    },
+    {
+      "rank": 187,
+      "player": "Corey Conners",
+      "%": "35.50",
+      "# of 1 putts": "556",
+      "# of holes": "1,566"
+    },
+    {
+      "rank": 188,
+      "player": "Garrick Higgo",
+      "%": "35.44",
+      "# of 1 putts": "370",
+      "# of holes": "1,044"
+    },
+    {
+      "rank": 189,
+      "player": "Stewart Cink",
+      "%": "35.43",
+      "# of 1 putts": "491",
+      "# of holes": "1,386"
+    },
+    {
+      "rank": 190,
+      "player": "Jim Herman",
+      "%": "35.29",
+      "# of 1 putts": "324",
+      "# of holes": "918"
+    },
+    {
+      "rank": 191,
+      "player": "Luke List",
+      "%": "35.28",
+      "# of 1 putts": "508",
+      "# of holes": "1,440"
+    },
+    {
+      "rank": 192,
+      "player": "Joseph Bramlett",
+      "%": "34.43",
+      "# of 1 putts": "502",
+      "# of holes": "1,458"
+    },
+    {
+      "rank": 193,
+      "player": "Russell Knox",
+      "%": "33.77",
+      "# of 1 putts": "541",
+      "# of holes": "1,602"
+    }
+  ]
+}
