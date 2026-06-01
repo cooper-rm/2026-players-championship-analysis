@@ -435,3 +435,6 @@ FodyWeavers.xsd
 # Scrape/run artifacts — the cached data/ JSON is committed, but not run logs
 *.log
 data/**/_collect.log
+
+# Personal planning / scoping docs — internal, not part of the public portfolio
+*.pdf
