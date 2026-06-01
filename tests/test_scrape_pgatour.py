@@ -15,6 +15,7 @@ import src.scrape_pgatour as sp
 from src.scrape_pgatour import (
     fetch_event_all_stats,
     fetch_event_stat,
+    fetch_season_stat,
     fetch_stat_catalog,
 )
 
@@ -107,6 +108,25 @@ def test_fetch_event_stat_skips_non_player_rows(monkeypatch):
     out = fetch_event_stat("02675", "R2026011")
     assert len(out) == 1
     assert out[0]["player"] == "Real Player"
+
+
+# --------------------------------------------------------------------------
+# fetch_season_stat — same flattening, season-long (no event filter).
+# --------------------------------------------------------------------------
+
+def test_fetch_season_stat_flattens(monkeypatch):
+    rows = [
+        {
+            "__typename": "StatDetailsPlayer",
+            "rank": 1,
+            "playerName": "Cameron Champ",
+            "stats": [{"statName": "Avg", "statValue": "322.8"}],
+        }
+    ]
+    monkeypatch.setattr(sp, "_post_graphql", lambda q: _stat_details(rows))
+    assert fetch_season_stat("101", 2024) == [
+        {"rank": 1, "player": "Cameron Champ", "Avg": "322.8"}
+    ]
 
 
 # --------------------------------------------------------------------------

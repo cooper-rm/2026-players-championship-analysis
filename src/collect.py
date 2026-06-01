@@ -1,11 +1,13 @@
-"""Bulk-collect THE PLAYERS Championship stats from pgatour.com and cache to disk.
+"""Bulk-collect PGA Tour stats and cache to disk (resumable).
 
-Pulls every stat in the PGA Tour catalog for each requested edition of THE PLAYERS,
-saving one JSON file per (year, stat) under data/. Designed to be re-run safely:
+Two collections feed the two project stages, sharing one engine:
+- season -> data/tour_season/<year>/<statId>.json
+    full-season Tour-wide stats; the clustering input (how a player plays).
+- event  -> data/players_championship/<year>/<statId>.json
+    THE PLAYERS only; the scenario-analysis input.
+
+Both go through _bulk(); only the per-stat fetch and the output dir differ. Re-runnable:
 already-cached files are skipped, so a run that dies partway just resumes.
-
-THE PLAYERS is PGA Tour tournament 011; its per-year id is "R<year>011"
-(e.g. R2026011). 2020 is skipped automatically — that edition was cancelled.
 """
 
 from __future__ import annotations
@@ -14,10 +16,11 @@ import json
 import time
 from pathlib import Path
 
-from src.scrape_pgatour import fetch_event_stat, fetch_stat_catalog
+from src.scrape_pgatour import fetch_event_stat, fetch_season_stat, fetch_stat_catalog
 
-DATA_ROOT = Path("data/players_championship")
-CANCELLED_YEARS = {2020}  # cancelled after round 1 (COVID) — no event stats exist
+SEASON_ROOT = Path("data/tour_season")
+EVENT_ROOT = Path("data/players_championship")
+CANCELLED_YEARS = {2020}  # THE PLAYERS 2020 was cancelled (COVID) — no event stats exist
 
 
 def players_tournament_id(year: int) -> str:
@@ -25,53 +28,57 @@ def players_tournament_id(year: int) -> str:
     return f"R{year}011"
 
 
-def pull_stat_to_disk(
-    stat_id: str,
-    year: int,
-    category: str = "",
-    stat_title: str = "",
-    out_root: Path = DATA_ROOT,
-    overwrite: bool = False,
-) -> str:
-    """Pull one stat for one PLAYERS edition and cache it to disk.
+def _pull_one_to_disk(out_root, year, stat_id, fetch_rows, meta, overwrite) -> str:
+    """Cache one stat to out_root/<year>/<stat_id>.json. Returns cached/ok/empty.
 
-    Returns a status string: "cached" (already on disk, skipped), "ok" (pulled with
-    rows), or "empty" (pulled but the event had no rows for this stat). Raises only on
-    a genuine request/parse failure, which the bulk runner catches per-stat.
+    `fetch_rows` is a thunk (zero-arg callable) so the network call only happens on a
+    cache miss — that is what makes a re-run resume without re-hitting the site.
     """
     out_dir = out_root / str(year)
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / f"{stat_id}.json"
     if path.exists() and not overwrite:
         return "cached"
-
-    rows = fetch_event_stat(stat_id, players_tournament_id(year), year)
-    payload = {
-        "stat_id": stat_id,
-        "stat_title": stat_title,
-        "category": category,
-        "year": year,
-        "tournament_id": players_tournament_id(year),
-        "rows": rows,
-    }
+    rows = fetch_rows()  # only runs when not cached
+    payload = {"stat_id": stat_id, "year": year, **meta, "rows": rows}
     path.write_text(json.dumps(payload, indent=2))
     return "ok" if rows else "empty"
 
 
-def bulk_pull(
-    years: list[int],
-    out_root: Path = DATA_ROOT,
-    delay: float = 0.3,
-    overwrite: bool = False,
-) -> dict:
-    """Pull the full stat catalog for each year, caching every (year, stat) to disk.
+def pull_season_stat_to_disk(
+    stat_id, year, category="", stat_title="", out_root=SEASON_ROOT, overwrite=False
+) -> str:
+    """Cache one full-season Tour stat (clustering input)."""
+    return _pull_one_to_disk(
+        out_root, year, stat_id,
+        fetch_rows=lambda: fetch_season_stat(stat_id, year),
+        meta={"category": category, "stat_title": stat_title},
+        overwrite=overwrite,
+    )
 
-    Skips cached files (resumable) and cancelled years. Sleeps `delay` seconds between
-    live requests to be polite to the site. Per-stat errors are logged and counted,
-    never fatal, so one bad stat can't sink a 2,900-request run.
+
+def pull_event_stat_to_disk(
+    stat_id, year, category="", stat_title="", out_root=EVENT_ROOT, overwrite=False
+) -> str:
+    """Cache one THE PLAYERS event stat (scenario input)."""
+    tournament_id = players_tournament_id(year)
+    return _pull_one_to_disk(
+        out_root, year, stat_id,
+        fetch_rows=lambda: fetch_event_stat(stat_id, tournament_id, year),
+        meta={"category": category, "stat_title": stat_title, "tournament_id": tournament_id},
+        overwrite=overwrite,
+    )
+
+
+def _bulk(years, pull_one, delay, skip_years=frozenset()) -> dict:
+    """Pull the full stat catalog for each year via pull_one, tallying outcomes.
+
+    pull_one(stat_id, year, category, stat_title) -> status string. Per-stat errors are
+    logged and counted, never fatal. Sleeps `delay` between live requests (not on cache
+    hits). skip_years drops years that have no data (e.g. a cancelled event).
     """
     catalog = fetch_stat_catalog(max(years))
-    years = [y for y in years if y not in CANCELLED_YEARS]
+    years = [y for y in years if y not in skip_years]
     totals = {"ok": 0, "empty": 0, "cached": 0, "error": 0}
     errors: list[tuple] = []
     total_jobs = len(catalog) * len(years)
@@ -82,16 +89,13 @@ def bulk_pull(
         for stat in catalog:
             done += 1
             try:
-                status = pull_stat_to_disk(
-                    stat["stat_id"], year, stat["category"],
-                    stat["stat_title"], out_root, overwrite,
-                )
+                status = pull_one(stat["stat_id"], year, stat["category"], stat["stat_title"])
             except Exception as exc:  # noqa: BLE001 — keep the run alive
                 status = "error"
                 errors.append((year, stat["stat_id"], str(exc)[:100]))
             totals[status] += 1
             if status != "cached":
-                time.sleep(delay)  # only rate-limit real network calls
+                time.sleep(delay)
             if done % 100 == 0:
                 print(f"[{done}/{total_jobs}] {totals}")
 
@@ -101,5 +105,25 @@ def bulk_pull(
     return {"totals": totals, "errors": errors}
 
 
+def bulk_pull_season(years, out_root=SEASON_ROOT, delay=0.3, overwrite=False) -> dict:
+    """Collect every catalog stat, full-season Tour-wide, for each year."""
+    return _bulk(
+        years,
+        lambda sid, yr, cat, title: pull_season_stat_to_disk(sid, yr, cat, title, out_root, overwrite),
+        delay,
+    )
+
+
+def bulk_pull_event(years, out_root=EVENT_ROOT, delay=0.3, overwrite=False) -> dict:
+    """Collect every catalog stat at THE PLAYERS for each year (skips cancelled years)."""
+    return _bulk(
+        years,
+        lambda sid, yr, cat, title: pull_event_stat_to_disk(sid, yr, cat, title, out_root, overwrite),
+        delay,
+        skip_years=CANCELLED_YEARS,
+    )
+
+
 if __name__ == "__main__":
-    bulk_pull(years=[2022, 2023, 2024, 2025, 2026])
+    # Stage 1 input: full-season Tour stats for clustering.
+    bulk_pull_season(years=[2022, 2023, 2024, 2025, 2026])

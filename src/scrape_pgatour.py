@@ -86,6 +86,24 @@ def _post_graphql(query: str) -> dict:
     return payload["data"]
 
 
+def _flatten_player_rows(rows: list[dict]) -> list[dict]:
+    """Flatten statDetails rows into [{rank, player, <statName>: <value>, ...}].
+
+    Shared by the event and season pulls, which return identical row shapes. Skips
+    non-player rows (section headers, etc.) and spreads each player's nested stats
+    list into flat columns so the result drops straight into pd.DataFrame().
+    """
+    players = []
+    for row in rows:
+        if row.get("__typename") != "StatDetailsPlayer":
+            continue
+        flat = {"rank": row["rank"], "player": row["playerName"]}
+        for stat in row["stats"]:
+            flat[stat["statName"]] = stat["statValue"]
+        players.append(flat)
+    return players
+
+
 def fetch_event_stat(
     stat_id: str,
     tournament_id: str,
@@ -118,15 +136,33 @@ def fetch_event_stat(
       }}
     }}"""
     rows = _post_graphql(query)["statDetails"]["rows"]
-    players = []
-    for row in rows:
-        if row.get("__typename") != "StatDetailsPlayer":
-            continue  # skip any non-player rows (section headers, etc.)
-        flat = {"rank": row["rank"], "player": row["playerName"]}
-        for stat in row["stats"]:
-            flat[stat["statName"]] = stat["statValue"]
-        players.append(flat)
-    return players
+    return _flatten_player_rows(rows)
+
+
+def fetch_season_stat(stat_id: str, year: int = 2026) -> list[dict]:
+    """Pull one stat's full-season Tour leaderboard (no event filter).
+
+    Same statDetails query as fetch_event_stat but with the eventQuery argument
+    removed, so values are season-long and Tour-wide — a player's whole-year number,
+    which is the right signal for clustering players by style (how they play across a
+    season, not how they happened to play one week at Sawgrass).
+
+    Returns the same flat per-player shape as fetch_event_stat. Values stay strings.
+    """
+    query = f"""query {{
+      statDetails(tourCode: R, statId: "{stat_id}", year: {year}) {{
+        rows {{
+          __typename
+          ... on StatDetailsPlayer {{
+            rank
+            playerName
+            stats {{ statName statValue }}
+          }}
+        }}
+      }}
+    }}"""
+    rows = _post_graphql(query)["statDetails"]["rows"]
+    return _flatten_player_rows(rows)
 
 
 def fetch_event_all_stats(
