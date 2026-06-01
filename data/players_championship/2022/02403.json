@@ -1,0 +1,639 @@
+{
+  "stat_id": "02403",
+  "stat_title": "Smash Factor",
+  "category": "Off The Tee",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Shane Lowry",
+      "Avg": "1.514",
+      "Total Smash Factor": "12.110",
+      "Total Attempts": "8",
+      "Highest Value": "1.522",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 2,
+      "player": "Corey Conners",
+      "Avg": "1.512",
+      "Total Smash Factor": "16.627",
+      "Total Attempts": "11",
+      "Highest Value": "1.527",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 2,
+      "player": "Chesson Hadley",
+      "Avg": "1.512",
+      "Total Smash Factor": "22.673",
+      "Total Attempts": "15",
+      "Highest Value": "1.532",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 2,
+      "player": "Hank Lebioda",
+      "Avg": "1.512",
+      "Total Smash Factor": "16.632",
+      "Total Attempts": "11",
+      "Highest Value": "1.525",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 2,
+      "player": "Justin Thomas",
+      "Avg": "1.512",
+      "Total Smash Factor": "22.682",
+      "Total Attempts": "15",
+      "Highest Value": "1.528",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 6,
+      "player": "Abraham Ancer",
+      "Avg": "1.510",
+      "Total Smash Factor": "15.103",
+      "Total Attempts": "10",
+      "Highest Value": "1.524",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 7,
+      "player": "Brice Garnett",
+      "Avg": "1.509",
+      "Total Smash Factor": "24.151",
+      "Total Attempts": "16",
+      "Highest Value": "1.537",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 7,
+      "player": "Russell Knox",
+      "Avg": "1.509",
+      "Total Smash Factor": "15.086",
+      "Total Attempts": "10",
+      "Highest Value": "1.518",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 7,
+      "player": "Denny McCarthy",
+      "Avg": "1.509",
+      "Total Smash Factor": "18.105",
+      "Total Attempts": "12",
+      "Highest Value": "1.525",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 10,
+      "player": "Cameron Smith",
+      "Avg": "1.508",
+      "Total Smash Factor": "9.049",
+      "Total Attempts": "6",
+      "Highest Value": "1.515",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 10,
+      "player": "Nick Watney",
+      "Avg": "1.508",
+      "Total Smash Factor": "13.574",
+      "Total Attempts": "9",
+      "Highest Value": "1.523",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 12,
+      "player": "Viktor Hovland",
+      "Avg": "1.507",
+      "Total Smash Factor": "12.058",
+      "Total Attempts": "8",
+      "Highest Value": "1.515",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 12,
+      "player": "Louis Oosthuizen",
+      "Avg": "1.507",
+      "Total Smash Factor": "13.563",
+      "Total Attempts": "9",
+      "Highest Value": "1.526",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 12,
+      "player": "Sepp Straka",
+      "Avg": "1.507",
+      "Total Smash Factor": "21.103",
+      "Total Attempts": "14",
+      "Highest Value": "1.526",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 15,
+      "player": "Hayden Buckley",
+      "Avg": "1.506",
+      "Total Smash Factor": "9.034",
+      "Total Attempts": "6",
+      "Highest Value": "1.519",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 15,
+      "player": "Harold Varner III",
+      "Avg": "1.506",
+      "Total Smash Factor": "12.048",
+      "Total Attempts": "8",
+      "Highest Value": "1.519",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 17,
+      "player": "Tommy Fleetwood",
+      "Avg": "1.505",
+      "Total Smash Factor": "15.048",
+      "Total Attempts": "10",
+      "Highest Value": "1.531",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 17,
+      "player": "Anirban Lahiri",
+      "Avg": "1.505",
+      "Total Smash Factor": "15.054",
+      "Total Attempts": "10",
+      "Highest Value": "1.519",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 19,
+      "player": "Doug Ghim",
+      "Avg": "1.504",
+      "Total Smash Factor": "16.540",
+      "Total Attempts": "11",
+      "Highest Value": "1.524",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 19,
+      "player": "Tyrrell Hatton",
+      "Avg": "1.504",
+      "Total Smash Factor": "10.531",
+      "Total Attempts": "7",
+      "Highest Value": "1.512",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 19,
+      "player": "Dustin Johnson",
+      "Avg": "1.504",
+      "Total Smash Factor": "18.047",
+      "Total Attempts": "12",
+      "Highest Value": "1.532",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 19,
+      "player": "Patton Kizzire",
+      "Avg": "1.504",
+      "Total Smash Factor": "12.034",
+      "Total Attempts": "8",
+      "Highest Value": "1.525",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 23,
+      "player": "Paul Casey",
+      "Avg": "1.503",
+      "Total Smash Factor": "13.526",
+      "Total Attempts": "9",
+      "Highest Value": "1.523",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 23,
+      "player": "Brian Harman",
+      "Avg": "1.503",
+      "Total Smash Factor": "18.031",
+      "Total Attempts": "12",
+      "Highest Value": "1.514",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 23,
+      "player": "Jason Kokrak",
+      "Avg": "1.503",
+      "Total Smash Factor": "22.539",
+      "Total Attempts": "15",
+      "Highest Value": "1.516",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 26,
+      "player": "Russell Henley",
+      "Avg": "1.502",
+      "Total Smash Factor": "21.030",
+      "Total Attempts": "14",
+      "Highest Value": "1.516",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 26,
+      "player": "Maverick McNealy",
+      "Avg": "1.502",
+      "Total Smash Factor": "18.027",
+      "Total Attempts": "12",
+      "Highest Value": "1.521",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 28,
+      "player": "Adam Hadwin",
+      "Avg": "1.501",
+      "Total Smash Factor": "21.017",
+      "Total Attempts": "14",
+      "Highest Value": "1.526",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 28,
+      "player": "K.H. Lee",
+      "Avg": "1.501",
+      "Total Smash Factor": "12.007",
+      "Total Attempts": "8",
+      "Highest Value": "1.517",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 28,
+      "player": "Joaquin Niemann",
+      "Avg": "1.501",
+      "Total Smash Factor": "12.007",
+      "Total Attempts": "8",
+      "Highest Value": "1.509",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 28,
+      "player": "Ian Poulter",
+      "Avg": "1.501",
+      "Total Smash Factor": "16.508",
+      "Total Attempts": "11",
+      "Highest Value": "1.510",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 28,
+      "player": "Brendan Steele",
+      "Avg": "1.501",
+      "Total Smash Factor": "19.514",
+      "Total Attempts": "13",
+      "Highest Value": "1.524",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 33,
+      "player": "Dylan Frittelli",
+      "Avg": "1.500",
+      "Total Smash Factor": "11.996",
+      "Total Attempts": "8",
+      "Highest Value": "1.516",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 33,
+      "player": "Kramer Hickok",
+      "Avg": "1.500",
+      "Total Smash Factor": "12.002",
+      "Total Attempts": "8",
+      "Highest Value": "1.509",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 33,
+      "player": "Rory McIlroy",
+      "Avg": "1.500",
+      "Total Smash Factor": "20.997",
+      "Total Attempts": "14",
+      "Highest Value": "1.512",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 36,
+      "player": "Keegan Bradley",
+      "Avg": "1.499",
+      "Total Smash Factor": "16.489",
+      "Total Attempts": "11",
+      "Highest Value": "1.513",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 36,
+      "player": "Francesco Molinari",
+      "Avg": "1.499",
+      "Total Smash Factor": "11.990",
+      "Total Attempts": "8",
+      "Highest Value": "1.508",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 36,
+      "player": "Jimmy Walker",
+      "Avg": "1.499",
+      "Total Smash Factor": "10.494",
+      "Total Attempts": "7",
+      "Highest Value": "1.532",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 36,
+      "player": "Bubba Watson",
+      "Avg": "1.499",
+      "Total Smash Factor": "19.492",
+      "Total Attempts": "13",
+      "Highest Value": "1.526",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 36,
+      "player": "Aaron Wise",
+      "Avg": "1.499",
+      "Total Smash Factor": "16.492",
+      "Total Attempts": "11",
+      "Highest Value": "1.508",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 41,
+      "player": "Sam Burns",
+      "Avg": "1.497",
+      "Total Smash Factor": "11.977",
+      "Total Attempts": "8",
+      "Highest Value": "1.521",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 41,
+      "player": "Joel Dahmen",
+      "Avg": "1.497",
+      "Total Smash Factor": "13.473",
+      "Total Attempts": "9",
+      "Highest Value": "1.526",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 41,
+      "player": "Lee Hodges",
+      "Avg": "1.497",
+      "Total Smash Factor": "14.969",
+      "Total Attempts": "10",
+      "Highest Value": "1.515",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 41,
+      "player": "Adam Long",
+      "Avg": "1.497",
+      "Total Smash Factor": "14.969",
+      "Total Attempts": "10",
+      "Highest Value": "1.516",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 41,
+      "player": "Jon Rahm",
+      "Avg": "1.497",
+      "Total Smash Factor": "7.487",
+      "Total Attempts": "5",
+      "Highest Value": "1.512",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 41,
+      "player": "Michael Thompson",
+      "Avg": "1.497",
+      "Total Smash Factor": "20.961",
+      "Total Attempts": "14",
+      "Highest Value": "1.521",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 47,
+      "player": "Sungjae Im",
+      "Avg": "1.495",
+      "Total Smash Factor": "14.952",
+      "Total Attempts": "10",
+      "Highest Value": "1.513",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 47,
+      "player": "Taylor Pendrith",
+      "Avg": "1.495",
+      "Total Smash Factor": "16.443",
+      "Total Attempts": "11",
+      "Highest Value": "1.518",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 49,
+      "player": "Troy Merritt",
+      "Avg": "1.494",
+      "Total Smash Factor": "17.932",
+      "Total Attempts": "12",
+      "Highest Value": "1.539",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 49,
+      "player": "Will Zalatoris",
+      "Avg": "1.494",
+      "Total Smash Factor": "13.442",
+      "Total Attempts": "9",
+      "Highest Value": "1.519",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 51,
+      "player": "Alex Noren",
+      "Avg": "1.491",
+      "Total Smash Factor": "11.930",
+      "Total Attempts": "8",
+      "Highest Value": "1.530",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 52,
+      "player": "Branden Grace",
+      "Avg": "1.490",
+      "Total Smash Factor": "16.393",
+      "Total Attempts": "11",
+      "Highest Value": "1.532",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 53,
+      "player": "Sergio Garcia",
+      "Avg": "1.489",
+      "Total Smash Factor": "10.425",
+      "Total Attempts": "7",
+      "Highest Value": "1.511",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 53,
+      "player": "Tom Hoge",
+      "Avg": "1.489",
+      "Total Smash Factor": "11.910",
+      "Total Attempts": "8",
+      "Highest Value": "1.513",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 55,
+      "player": "Scott Stallings",
+      "Avg": "1.488",
+      "Total Smash Factor": "16.364",
+      "Total Attempts": "11",
+      "Highest Value": "1.515",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 56,
+      "player": "Kevin Kisner",
+      "Avg": "1.483",
+      "Total Smash Factor": "19.284",
+      "Total Attempts": "13",
+      "Highest Value": "1.512",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 57,
+      "player": "Keith Mitchell",
+      "Avg": "1.482",
+      "Total Smash Factor": "8.890",
+      "Total Attempts": "6",
+      "Highest Value": "1.510",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 57,
+      "player": "Scottie Scheffler",
+      "Avg": "1.482",
+      "Total Smash Factor": "23.716",
+      "Total Attempts": "16",
+      "Highest Value": "1.498",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 59,
+      "player": "Sam Ryder",
+      "Avg": "1.481",
+      "Total Smash Factor": "17.774",
+      "Total Attempts": "12",
+      "Highest Value": "1.532",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 60,
+      "player": "Seamus Power",
+      "Avg": "1.479",
+      "Total Smash Factor": "17.743",
+      "Total Attempts": "12",
+      "Highest Value": "1.499",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 61,
+      "player": "Kevin Streelman",
+      "Avg": "1.478",
+      "Total Smash Factor": "13.298",
+      "Total Attempts": "9",
+      "Highest Value": "1.512",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 62,
+      "player": "Daniel Berger",
+      "Avg": "1.474",
+      "Total Smash Factor": "19.163",
+      "Total Attempts": "13",
+      "Highest Value": "1.510",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 63,
+      "player": "Lucas Herbert",
+      "Avg": "1.472",
+      "Total Smash Factor": "20.614",
+      "Total Attempts": "14",
+      "Highest Value": "1.529",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 64,
+      "player": "Erik van Rooyen",
+      "Avg": "1.467",
+      "Total Smash Factor": "11.732",
+      "Total Attempts": "8",
+      "Highest Value": "1.520",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 65,
+      "player": "Doc Redman",
+      "Avg": "1.465",
+      "Total Smash Factor": "13.186",
+      "Total Attempts": "9",
+      "Highest Value": "1.496",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 66,
+      "player": "Max Homa",
+      "Avg": "1.464",
+      "Total Smash Factor": "20.489",
+      "Total Attempts": "14",
+      "Highest Value": "1.523",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 66,
+      "player": "Patrick Reed",
+      "Avg": "1.464",
+      "Total Smash Factor": "13.175",
+      "Total Attempts": "9",
+      "Highest Value": "1.477",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 68,
+      "player": "Peter Malnati",
+      "Avg": "1.463",
+      "Total Smash Factor": "14.630",
+      "Total Attempts": "10",
+      "Highest Value": "1.482",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 69,
+      "player": "Pat Perez",
+      "Avg": "1.456",
+      "Total Smash Factor": "14.562",
+      "Total Attempts": "10",
+      "Highest Value": "1.473",
+      "Lowest Value": ".000"
+    },
+    {
+      "rank": 70,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "1.455",
+      "Total Smash Factor": "10.184",
+      "Total Attempts": "7",
+      "Highest Value": "1.470",
+      "Lowest Value": ".000"
+    }
+  ]
+}

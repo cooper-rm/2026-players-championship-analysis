@@ -1,0 +1,324 @@
+{
+  "stat_id": "211",
+  "stat_title": "First Tee Late Scoring Average",
+  "category": "Scoring",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Daniel Berger",
+      "Avg": "67.00",
+      "Total Strokes": "67",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Kevin Kisner",
+      "Avg": "68.00",
+      "Total Strokes": "136",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 2,
+      "player": "Anirban Lahiri",
+      "Avg": "68.00",
+      "Total Strokes": "136",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 4,
+      "player": "Cameron Smith",
+      "Avg": "68.67",
+      "Total Strokes": "206",
+      "Total 1st Tee Late Rounds": "3"
+    },
+    {
+      "rank": 5,
+      "player": "Paul Casey",
+      "Avg": "69.00",
+      "Total Strokes": "138",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 5,
+      "player": "Russell Henley",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 5,
+      "player": "Dustin Johnson",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 8,
+      "player": "Keegan Bradley",
+      "Avg": "70.00",
+      "Total Strokes": "140",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 8,
+      "player": "Doug Ghim",
+      "Avg": "70.00",
+      "Total Strokes": "210",
+      "Total 1st Tee Late Rounds": "3"
+    },
+    {
+      "rank": 8,
+      "player": "Pat Perez",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 8,
+      "player": "Scottie Scheffler",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 12,
+      "player": "Russell Knox",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 13,
+      "player": "Sergio Garcia",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 13,
+      "player": "Troy Merritt",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 13,
+      "player": "Taylor Pendrith",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 13,
+      "player": "Doc Redman",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 13,
+      "player": "Brendan Steele",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 13,
+      "player": "Harold Varner III",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 19,
+      "player": "Patrick Reed",
+      "Avg": "71.50",
+      "Total Strokes": "143",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 20,
+      "player": "Adam Hadwin",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 20,
+      "player": "Max Homa",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 20,
+      "player": "Hank Lebioda",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 20,
+      "player": "Shane Lowry",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 20,
+      "player": "Jon Rahm",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 20,
+      "player": "Justin Thomas",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 20,
+      "player": "Will Zalatoris",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 27,
+      "player": "Tommy Fleetwood",
+      "Avg": "72.33",
+      "Total Strokes": "217",
+      "Total 1st Tee Late Rounds": "3"
+    },
+    {
+      "rank": 28,
+      "player": "Viktor Hovland",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 28,
+      "player": "Rory McIlroy",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 28,
+      "player": "Joaquin Niemann",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 28,
+      "player": "Ian Poulter",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 28,
+      "player": "Kevin Streelman",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 33,
+      "player": "Sam Burns",
+      "Avg": "73.50",
+      "Total Strokes": "147",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 34,
+      "player": "Abraham Ancer",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 34,
+      "player": "Brian Harman",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 34,
+      "player": "Tom Hoge",
+      "Avg": "74.00",
+      "Total Strokes": "148",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 34,
+      "player": "Keith Mitchell",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 34,
+      "player": "Louis Oosthuizen",
+      "Avg": "74.00",
+      "Total Strokes": "148",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 34,
+      "player": "Erik van Rooyen",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 34,
+      "player": "Aaron Wise",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 41,
+      "player": "Corey Conners",
+      "Avg": "75.00",
+      "Total Strokes": "75",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 41,
+      "player": "Scott Stallings",
+      "Avg": "75.00",
+      "Total Strokes": "75",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 43,
+      "player": "Brice Garnett",
+      "Avg": "76.00",
+      "Total Strokes": "76",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 44,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "77.00",
+      "Total Strokes": "77",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 45,
+      "player": "Bubba Watson",
+      "Avg": "78.00",
+      "Total Strokes": "78",
+      "Total 1st Tee Late Rounds": "1"
+    }
+  ]
+}

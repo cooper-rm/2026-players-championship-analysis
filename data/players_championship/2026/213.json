@@ -1,0 +1,593 @@
+{
+  "stat_id": "213",
+  "stat_title": "Hit Fairway Percentage",
+  "category": "Off The Tee",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Akshay Bhatia",
+      "%": "76.79%",
+      "Fairways Hit": "43",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.26"
+    },
+    {
+      "rank": 1,
+      "player": "Matt Fitzpatrick",
+      "%": "76.79%",
+      "Fairways Hit": "43",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.33"
+    },
+    {
+      "rank": 1,
+      "player": "Andrew Putnam",
+      "%": "76.79%",
+      "Fairways Hit": "43",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.16"
+    },
+    {
+      "rank": 4,
+      "player": "Tommy Fleetwood",
+      "%": "76.36%",
+      "Fairways Hit": "42",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.26"
+    },
+    {
+      "rank": 5,
+      "player": "Taylor Pendrith",
+      "%": "75.00%",
+      "Fairways Hit": "42",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.14"
+    },
+    {
+      "rank": 5,
+      "player": "Austin Smotherman",
+      "%": "75.00%",
+      "Fairways Hit": "42",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.14"
+    },
+    {
+      "rank": 7,
+      "player": "Lee Hodges",
+      "%": "71.43%",
+      "Fairways Hit": "40",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.10"
+    },
+    {
+      "rank": 7,
+      "player": "Si Woo Kim",
+      "%": "71.43%",
+      "Fairways Hit": "40",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.20"
+    },
+    {
+      "rank": 7,
+      "player": "Sam Stevens",
+      "%": "71.43%",
+      "Fairways Hit": "40",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.13"
+    },
+    {
+      "rank": 10,
+      "player": "Wyndham Clark",
+      "%": "70.37%",
+      "Fairways Hit": "38",
+      "Possible Fairways": "54",
+      "Relative to Par": "-0.16"
+    },
+    {
+      "rank": 11,
+      "player": "Corey Conners",
+      "%": "69.64%",
+      "Fairways Hit": "39",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.38"
+    },
+    {
+      "rank": 11,
+      "player": "Russell Henley",
+      "%": "69.64%",
+      "Fairways Hit": "39",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.26"
+    },
+    {
+      "rank": 11,
+      "player": "Robert MacIntyre",
+      "%": "69.64%",
+      "Fairways Hit": "39",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.28"
+    },
+    {
+      "rank": 14,
+      "player": "Patrick Cantlay",
+      "%": "67.86%",
+      "Fairways Hit": "38",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.26"
+    },
+    {
+      "rank": 14,
+      "player": "Brian Harman",
+      "%": "67.86%",
+      "Fairways Hit": "38",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.32"
+    },
+    {
+      "rank": 14,
+      "player": "J.T. Poston",
+      "%": "67.86%",
+      "Fairways Hit": "38",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.18"
+    },
+    {
+      "rank": 14,
+      "player": "Alex Smalley",
+      "%": "67.86%",
+      "Fairways Hit": "38",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.29"
+    },
+    {
+      "rank": 14,
+      "player": "Michael Thorbjornsen",
+      "%": "67.86%",
+      "Fairways Hit": "38",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.47"
+    },
+    {
+      "rank": 19,
+      "player": "Rico Hoey",
+      "%": "66.07%",
+      "Fairways Hit": "37",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.24"
+    },
+    {
+      "rank": 19,
+      "player": "Takumi Kanaya",
+      "%": "66.07%",
+      "Fairways Hit": "37",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.14"
+    },
+    {
+      "rank": 19,
+      "player": "William Mouw",
+      "%": "66.07%",
+      "Fairways Hit": "37",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.30"
+    },
+    {
+      "rank": 19,
+      "player": "Sudarshan Yellamaraju",
+      "%": "66.07%",
+      "Fairways Hit": "37",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.32"
+    },
+    {
+      "rank": 23,
+      "player": "Xander Schauffele",
+      "%": "65.45%",
+      "Fairways Hit": "36",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.36"
+    },
+    {
+      "rank": 24,
+      "player": "Jacob Bridgeman",
+      "%": "64.29%",
+      "Fairways Hit": "36",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.44"
+    },
+    {
+      "rank": 24,
+      "player": "Ryan Gerard",
+      "%": "64.29%",
+      "Fairways Hit": "36",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.31"
+    },
+    {
+      "rank": 24,
+      "player": "Max McGreevy",
+      "%": "64.29%",
+      "Fairways Hit": "36",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.25"
+    },
+    {
+      "rank": 24,
+      "player": "Chad Ramey",
+      "%": "64.29%",
+      "Fairways Hit": "36",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.17"
+    },
+    {
+      "rank": 24,
+      "player": "Patrick Rodgers",
+      "%": "64.29%",
+      "Fairways Hit": "36",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.22"
+    },
+    {
+      "rank": 24,
+      "player": "J.J. Spaun",
+      "%": "64.29%",
+      "Fairways Hit": "36",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.17"
+    },
+    {
+      "rank": 30,
+      "player": "Nico Echavarria",
+      "%": "63.64%",
+      "Fairways Hit": "35",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.26"
+    },
+    {
+      "rank": 31,
+      "player": "Daniel Berger",
+      "%": "62.50%",
+      "Fairways Hit": "35",
+      "Possible Fairways": "56",
+      "Relative to Par": "+0.11"
+    },
+    {
+      "rank": 31,
+      "player": "Kristoffer Reitan",
+      "%": "62.50%",
+      "Fairways Hit": "35",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.20"
+    },
+    {
+      "rank": 33,
+      "player": "Sam Burns",
+      "%": "61.82%",
+      "Fairways Hit": "34",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.24"
+    },
+    {
+      "rank": 33,
+      "player": "Alex Noren",
+      "%": "61.82%",
+      "Fairways Hit": "34",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.21"
+    },
+    {
+      "rank": 35,
+      "player": "Keegan Bradley",
+      "%": "61.11%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "54",
+      "Relative to Par": "-0.36"
+    },
+    {
+      "rank": 36,
+      "player": "Ludvig \u00c5berg",
+      "%": "60.71%",
+      "Fairways Hit": "34",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.29"
+    },
+    {
+      "rank": 36,
+      "player": "Zach Bauchou",
+      "%": "60.71%",
+      "Fairways Hit": "34",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.29"
+    },
+    {
+      "rank": 36,
+      "player": "Justin Rose",
+      "%": "60.71%",
+      "Fairways Hit": "34",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.29"
+    },
+    {
+      "rank": 36,
+      "player": "Nick Taylor",
+      "%": "60.71%",
+      "Fairways Hit": "34",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.26"
+    },
+    {
+      "rank": 36,
+      "player": "Cameron Young",
+      "%": "60.71%",
+      "Fairways Hit": "34",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.24"
+    },
+    {
+      "rank": 41,
+      "player": "Rory McIlroy",
+      "%": "60.00%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.21"
+    },
+    {
+      "rank": 41,
+      "player": "Seamus Power",
+      "%": "60.00%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.06"
+    },
+    {
+      "rank": 43,
+      "player": "Michael Brennan",
+      "%": "58.93%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.18"
+    },
+    {
+      "rank": 43,
+      "player": "Bud Cauley",
+      "%": "58.93%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.27"
+    },
+    {
+      "rank": 43,
+      "player": "Steven Fisk",
+      "%": "58.93%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.33"
+    },
+    {
+      "rank": 43,
+      "player": "Max Homa",
+      "%": "58.93%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.27"
+    },
+    {
+      "rank": 43,
+      "player": "Chris Kirk",
+      "%": "58.93%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.30"
+    },
+    {
+      "rank": 43,
+      "player": "Taylor Moore",
+      "%": "58.93%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.18"
+    },
+    {
+      "rank": 43,
+      "player": "Sepp Straka",
+      "%": "58.93%",
+      "Fairways Hit": "33",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.30"
+    },
+    {
+      "rank": 50,
+      "player": "Hideki Matsuyama",
+      "%": "58.18%",
+      "Fairways Hit": "32",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.38"
+    },
+    {
+      "rank": 50,
+      "player": "Scottie Scheffler",
+      "%": "58.18%",
+      "Fairways Hit": "32",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.38"
+    },
+    {
+      "rank": 52,
+      "player": "Ricky Castillo",
+      "%": "57.14%",
+      "Fairways Hit": "32",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.06"
+    },
+    {
+      "rank": 52,
+      "player": "Rickie Fowler",
+      "%": "57.14%",
+      "Fairways Hit": "32",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.31"
+    },
+    {
+      "rank": 52,
+      "player": "Kevin Roy",
+      "%": "57.14%",
+      "Fairways Hit": "32",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.22"
+    },
+    {
+      "rank": 55,
+      "player": "Stephan Jaeger",
+      "%": "55.56%",
+      "Fairways Hit": "30",
+      "Possible Fairways": "54",
+      "Relative to Par": "-0.07"
+    },
+    {
+      "rank": 56,
+      "player": "Jason Day",
+      "%": "55.36%",
+      "Fairways Hit": "31",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.16"
+    },
+    {
+      "rank": 56,
+      "player": "Viktor Hovland",
+      "%": "55.36%",
+      "Fairways Hit": "31",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.32"
+    },
+    {
+      "rank": 56,
+      "player": "Matti Schmid",
+      "%": "55.36%",
+      "Fairways Hit": "31",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.39"
+    },
+    {
+      "rank": 59,
+      "player": "Justin Thomas",
+      "%": "54.55%",
+      "Fairways Hit": "30",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.43"
+    },
+    {
+      "rank": 60,
+      "player": "Ryo Hisatsune",
+      "%": "53.57%",
+      "Fairways Hit": "30",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.33"
+    },
+    {
+      "rank": 60,
+      "player": "Brooks Koepka",
+      "%": "53.57%",
+      "Fairways Hit": "30",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.37"
+    },
+    {
+      "rank": 60,
+      "player": "Min Woo Lee",
+      "%": "53.57%",
+      "Fairways Hit": "30",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.30"
+    },
+    {
+      "rank": 63,
+      "player": "Joe Highsmith",
+      "%": "52.73%",
+      "Fairways Hit": "29",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.45"
+    },
+    {
+      "rank": 64,
+      "player": "Tony Finau",
+      "%": "50.00%",
+      "Fairways Hit": "28",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.18"
+    },
+    {
+      "rank": 64,
+      "player": "Jordan Spieth",
+      "%": "50.00%",
+      "Fairways Hit": "28",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.39"
+    },
+    {
+      "rank": 66,
+      "player": "Eric Cole",
+      "%": "48.21%",
+      "Fairways Hit": "27",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.33"
+    },
+    {
+      "rank": 66,
+      "player": "Keith Mitchell",
+      "%": "48.21%",
+      "Fairways Hit": "27",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.15"
+    },
+    {
+      "rank": 68,
+      "player": "Maverick McNealy",
+      "%": "46.43%",
+      "Fairways Hit": "26",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.27"
+    },
+    {
+      "rank": 69,
+      "player": "Sahith Theegala",
+      "%": "45.45%",
+      "Fairways Hit": "25",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.48"
+    },
+    {
+      "rank": 70,
+      "player": "Nicolai H\u00f8jgaard",
+      "%": "44.44%",
+      "Fairways Hit": "24",
+      "Possible Fairways": "54",
+      "Relative to Par": "-0.33"
+    },
+    {
+      "rank": 71,
+      "player": "Adam Scott",
+      "%": "43.64%",
+      "Fairways Hit": "24",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.25"
+    },
+    {
+      "rank": 71,
+      "player": "Danny Walker",
+      "%": "43.64%",
+      "Fairways Hit": "24",
+      "Possible Fairways": "55",
+      "Relative to Par": "-0.17"
+    },
+    {
+      "rank": 73,
+      "player": "Chris Gotterup",
+      "%": "37.50%",
+      "Fairways Hit": "21",
+      "Possible Fairways": "56",
+      "Relative to Par": "-0.38"
+    }
+  ]
+}

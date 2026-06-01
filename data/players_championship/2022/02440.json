@@ -1,0 +1,639 @@
+{
+  "stat_id": "02440",
+  "stat_title": "Average Distance of Birdie putts made",
+  "category": "Putting",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "K.H. Lee",
+      "Avg": "17' 5\"",
+      "Tot Dist. (ft)": "191.583",
+      "Tot Birdie Putts Made": "11",
+      "Longest Made (ft)": "46",
+      "Shortest Made (ft)": "3' 10\""
+    },
+    {
+      "rank": 2,
+      "player": "Sergio Garcia",
+      "Avg": "14' 4\"",
+      "Tot Dist. (ft)": "214.917",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "46",
+      "Shortest Made (ft)": "1' 9\""
+    },
+    {
+      "rank": 3,
+      "player": "Chesson Hadley",
+      "Avg": "13' 4\"",
+      "Tot Dist. (ft)": "212.833",
+      "Tot Birdie Putts Made": "16",
+      "Longest Made (ft)": "33",
+      "Shortest Made (ft)": "2' 4\""
+    },
+    {
+      "rank": 4,
+      "player": "Dustin Johnson",
+      "Avg": "13' 1\"",
+      "Tot Dist. (ft)": "287.333",
+      "Tot Birdie Putts Made": "22",
+      "Longest Made (ft)": "42",
+      "Shortest Made (ft)": "8\""
+    },
+    {
+      "rank": 5,
+      "player": "Patrick Reed",
+      "Avg": "13' 0\"",
+      "Tot Dist. (ft)": "208.500",
+      "Tot Birdie Putts Made": "16",
+      "Longest Made (ft)": "33",
+      "Shortest Made (ft)": "2' 3\""
+    },
+    {
+      "rank": 6,
+      "player": "Branden Grace",
+      "Avg": "12' 10\"",
+      "Tot Dist. (ft)": "154.000",
+      "Tot Birdie Putts Made": "12",
+      "Longest Made (ft)": "49",
+      "Shortest Made (ft)": "1' 3\""
+    },
+    {
+      "rank": 7,
+      "player": "Seamus Power",
+      "Avg": "12' 8\"",
+      "Tot Dist. (ft)": "189.750",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "26",
+      "Shortest Made (ft)": "3' 8\""
+    },
+    {
+      "rank": 8,
+      "player": "Francesco Molinari",
+      "Avg": "12' 7\"",
+      "Tot Dist. (ft)": "189.167",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "34",
+      "Shortest Made (ft)": "9\""
+    },
+    {
+      "rank": 9,
+      "player": "Adam Long",
+      "Avg": "12' 6\"",
+      "Tot Dist. (ft)": "149.583",
+      "Tot Birdie Putts Made": "12",
+      "Longest Made (ft)": "42",
+      "Shortest Made (ft)": "3' 2\""
+    },
+    {
+      "rank": 10,
+      "player": "Patton Kizzire",
+      "Avg": "12' 5\"",
+      "Tot Dist. (ft)": "260.083",
+      "Tot Birdie Putts Made": "21",
+      "Longest Made (ft)": "36",
+      "Shortest Made (ft)": "4\""
+    },
+    {
+      "rank": 10,
+      "player": "Troy Merritt",
+      "Avg": "12' 5\"",
+      "Tot Dist. (ft)": "149.083",
+      "Tot Birdie Putts Made": "12",
+      "Longest Made (ft)": "31",
+      "Shortest Made (ft)": "5' 0\""
+    },
+    {
+      "rank": 12,
+      "player": "Will Zalatoris",
+      "Avg": "12' 4\"",
+      "Tot Dist. (ft)": "185.083",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "38",
+      "Shortest Made (ft)": "1' 9\""
+    },
+    {
+      "rank": 13,
+      "player": "Peter Malnati",
+      "Avg": "11' 11\"",
+      "Tot Dist. (ft)": "167.083",
+      "Tot Birdie Putts Made": "14",
+      "Longest Made (ft)": "32",
+      "Shortest Made (ft)": "1' 5\""
+    },
+    {
+      "rank": 14,
+      "player": "Shane Lowry",
+      "Avg": "11' 8\"",
+      "Tot Dist. (ft)": "186.000",
+      "Tot Birdie Putts Made": "16",
+      "Longest Made (ft)": "41",
+      "Shortest Made (ft)": "2' 9\""
+    },
+    {
+      "rank": 15,
+      "player": "Russell Knox",
+      "Avg": "11' 6\"",
+      "Tot Dist. (ft)": "149.917",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "51",
+      "Shortest Made (ft)": "6\""
+    },
+    {
+      "rank": 16,
+      "player": "Denny McCarthy",
+      "Avg": "11' 5\"",
+      "Tot Dist. (ft)": "136.500",
+      "Tot Birdie Putts Made": "12",
+      "Longest Made (ft)": "36",
+      "Shortest Made (ft)": "4' 7\""
+    },
+    {
+      "rank": 17,
+      "player": "Pat Perez",
+      "Avg": "11' 3\"",
+      "Tot Dist. (ft)": "179.833",
+      "Tot Birdie Putts Made": "16",
+      "Longest Made (ft)": "38",
+      "Shortest Made (ft)": "1' 8\""
+    },
+    {
+      "rank": 18,
+      "player": "Taylor Pendrith",
+      "Avg": "11' 2\"",
+      "Tot Dist. (ft)": "200.750",
+      "Tot Birdie Putts Made": "18",
+      "Longest Made (ft)": "51",
+      "Shortest Made (ft)": "7\""
+    },
+    {
+      "rank": 19,
+      "player": "Alex Noren",
+      "Avg": "10' 10\"",
+      "Tot Dist. (ft)": "151.750",
+      "Tot Birdie Putts Made": "14",
+      "Longest Made (ft)": "28",
+      "Shortest Made (ft)": "2\""
+    },
+    {
+      "rank": 20,
+      "player": "Hayden Buckley",
+      "Avg": "10' 9\"",
+      "Tot Dist. (ft)": "140.083",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "33",
+      "Shortest Made (ft)": "1' 0\""
+    },
+    {
+      "rank": 20,
+      "player": "Kevin Kisner",
+      "Avg": "10' 9\"",
+      "Tot Dist. (ft)": "182.083",
+      "Tot Birdie Putts Made": "17",
+      "Longest Made (ft)": "27",
+      "Shortest Made (ft)": "3' 9\""
+    },
+    {
+      "rank": 22,
+      "player": "Joaquin Niemann",
+      "Avg": "10' 5\"",
+      "Tot Dist. (ft)": "145.833",
+      "Tot Birdie Putts Made": "14",
+      "Longest Made (ft)": "30",
+      "Shortest Made (ft)": "2' 11\""
+    },
+    {
+      "rank": 23,
+      "player": "Doug Ghim",
+      "Avg": "10' 4\"",
+      "Tot Dist. (ft)": "185.417",
+      "Tot Birdie Putts Made": "18",
+      "Longest Made (ft)": "32",
+      "Shortest Made (ft)": "1' 7\""
+    },
+    {
+      "rank": 24,
+      "player": "Sam Burns",
+      "Avg": "10' 2\"",
+      "Tot Dist. (ft)": "163.167",
+      "Tot Birdie Putts Made": "16",
+      "Longest Made (ft)": "37",
+      "Shortest Made (ft)": "4\""
+    },
+    {
+      "rank": 24,
+      "player": "Bubba Watson",
+      "Avg": "10' 2\"",
+      "Tot Dist. (ft)": "152.750",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "17",
+      "Shortest Made (ft)": "3' 11\""
+    },
+    {
+      "rank": 26,
+      "player": "Tom Hoge",
+      "Avg": "10' 1\"",
+      "Tot Dist. (ft)": "90.500",
+      "Tot Birdie Putts Made": "9",
+      "Longest Made (ft)": "24",
+      "Shortest Made (ft)": "7\""
+    },
+    {
+      "rank": 26,
+      "player": "Louis Oosthuizen",
+      "Avg": "10' 1\"",
+      "Tot Dist. (ft)": "131.250",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "24",
+      "Shortest Made (ft)": "9\""
+    },
+    {
+      "rank": 28,
+      "player": "Anirban Lahiri",
+      "Avg": "10' 0\"",
+      "Tot Dist. (ft)": "150.333",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "28",
+      "Shortest Made (ft)": "6\""
+    },
+    {
+      "rank": 29,
+      "player": "Hank Lebioda",
+      "Avg": "9' 11\"",
+      "Tot Dist. (ft)": "109.083",
+      "Tot Birdie Putts Made": "11",
+      "Longest Made (ft)": "36",
+      "Shortest Made (ft)": "2' 1\""
+    },
+    {
+      "rank": 30,
+      "player": "Paul Casey",
+      "Avg": "9' 10\"",
+      "Tot Dist. (ft)": "157.750",
+      "Tot Birdie Putts Made": "16",
+      "Longest Made (ft)": "53",
+      "Shortest Made (ft)": "5\""
+    },
+    {
+      "rank": 30,
+      "player": "Lee Hodges",
+      "Avg": "9' 10\"",
+      "Tot Dist. (ft)": "88.833",
+      "Tot Birdie Putts Made": "9",
+      "Longest Made (ft)": "29",
+      "Shortest Made (ft)": "1' 6\""
+    },
+    {
+      "rank": 32,
+      "player": "Joel Dahmen",
+      "Avg": "9' 9\"",
+      "Tot Dist. (ft)": "166.083",
+      "Tot Birdie Putts Made": "17",
+      "Longest Made (ft)": "56",
+      "Shortest Made (ft)": "6\""
+    },
+    {
+      "rank": 32,
+      "player": "Sepp Straka",
+      "Avg": "9' 9\"",
+      "Tot Dist. (ft)": "174.833",
+      "Tot Birdie Putts Made": "18",
+      "Longest Made (ft)": "33",
+      "Shortest Made (ft)": "2' 2\""
+    },
+    {
+      "rank": 34,
+      "player": "Tyrrell Hatton",
+      "Avg": "9' 6\"",
+      "Tot Dist. (ft)": "189.583",
+      "Tot Birdie Putts Made": "20",
+      "Longest Made (ft)": "46",
+      "Shortest Made (ft)": "1' 3\""
+    },
+    {
+      "rank": 34,
+      "player": "Cameron Smith",
+      "Avg": "9' 6\"",
+      "Tot Dist. (ft)": "217.917",
+      "Tot Birdie Putts Made": "23",
+      "Longest Made (ft)": "38",
+      "Shortest Made (ft)": "10\""
+    },
+    {
+      "rank": 36,
+      "player": "Ian Poulter",
+      "Avg": "9' 5\"",
+      "Tot Dist. (ft)": "132.000",
+      "Tot Birdie Putts Made": "14",
+      "Longest Made (ft)": "31",
+      "Shortest Made (ft)": "8\""
+    },
+    {
+      "rank": 37,
+      "player": "Jon Rahm",
+      "Avg": "9' 4\"",
+      "Tot Dist. (ft)": "159.083",
+      "Tot Birdie Putts Made": "17",
+      "Longest Made (ft)": "34",
+      "Shortest Made (ft)": "6\""
+    },
+    {
+      "rank": 38,
+      "player": "Sungjae Im",
+      "Avg": "9' 3\"",
+      "Tot Dist. (ft)": "110.583",
+      "Tot Birdie Putts Made": "12",
+      "Longest Made (ft)": "35",
+      "Shortest Made (ft)": "1' 0\""
+    },
+    {
+      "rank": 38,
+      "player": "Maverick McNealy",
+      "Avg": "9' 3\"",
+      "Tot Dist. (ft)": "138.500",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "23",
+      "Shortest Made (ft)": "7\""
+    },
+    {
+      "rank": 38,
+      "player": "Keith Mitchell",
+      "Avg": "9' 3\"",
+      "Tot Dist. (ft)": "157.750",
+      "Tot Birdie Putts Made": "17",
+      "Longest Made (ft)": "30",
+      "Shortest Made (ft)": "1' 6\""
+    },
+    {
+      "rank": 41,
+      "player": "Keegan Bradley",
+      "Avg": "9' 2\"",
+      "Tot Dist. (ft)": "174.250",
+      "Tot Birdie Putts Made": "19",
+      "Longest Made (ft)": "53",
+      "Shortest Made (ft)": "11\""
+    },
+    {
+      "rank": 42,
+      "player": "Corey Conners",
+      "Avg": "9' 0\"",
+      "Tot Dist. (ft)": "98.750",
+      "Tot Birdie Putts Made": "11",
+      "Longest Made (ft)": "33",
+      "Shortest Made (ft)": "5\""
+    },
+    {
+      "rank": 42,
+      "player": "Sam Ryder",
+      "Avg": "9' 0\"",
+      "Tot Dist. (ft)": "125.417",
+      "Tot Birdie Putts Made": "14",
+      "Longest Made (ft)": "28",
+      "Shortest Made (ft)": "1' 11\""
+    },
+    {
+      "rank": 44,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "8' 10\"",
+      "Tot Dist. (ft)": "132.833",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "34",
+      "Shortest Made (ft)": "9\""
+    },
+    {
+      "rank": 44,
+      "player": "Michael Thompson",
+      "Avg": "8' 10\"",
+      "Tot Dist. (ft)": "131.917",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "32",
+      "Shortest Made (ft)": "7\""
+    },
+    {
+      "rank": 46,
+      "player": "Brice Garnett",
+      "Avg": "8' 8\"",
+      "Tot Dist. (ft)": "112.417",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "30",
+      "Shortest Made (ft)": "9\""
+    },
+    {
+      "rank": 46,
+      "player": "Scottie Scheffler",
+      "Avg": "8' 8\"",
+      "Tot Dist. (ft)": "147.167",
+      "Tot Birdie Putts Made": "17",
+      "Longest Made (ft)": "22",
+      "Shortest Made (ft)": "1' 1\""
+    },
+    {
+      "rank": 48,
+      "player": "Dylan Frittelli",
+      "Avg": "8' 7\"",
+      "Tot Dist. (ft)": "119.917",
+      "Tot Birdie Putts Made": "14",
+      "Longest Made (ft)": "14",
+      "Shortest Made (ft)": "1' 0\""
+    },
+    {
+      "rank": 49,
+      "player": "Jimmy Walker",
+      "Avg": "8' 3\"",
+      "Tot Dist. (ft)": "90.500",
+      "Tot Birdie Putts Made": "11",
+      "Longest Made (ft)": "27",
+      "Shortest Made (ft)": "2' 2\""
+    },
+    {
+      "rank": 50,
+      "player": "Brian Harman",
+      "Avg": "8' 2\"",
+      "Tot Dist. (ft)": "105.750",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "33",
+      "Shortest Made (ft)": "2' 2\""
+    },
+    {
+      "rank": 50,
+      "player": "Max Homa",
+      "Avg": "8' 2\"",
+      "Tot Dist. (ft)": "138.417",
+      "Tot Birdie Putts Made": "17",
+      "Longest Made (ft)": "27",
+      "Shortest Made (ft)": "9\""
+    },
+    {
+      "rank": 50,
+      "player": "Kevin Streelman",
+      "Avg": "8' 2\"",
+      "Tot Dist. (ft)": "147.667",
+      "Tot Birdie Putts Made": "18",
+      "Longest Made (ft)": "19",
+      "Shortest Made (ft)": "4\""
+    },
+    {
+      "rank": 53,
+      "player": "Harold Varner III",
+      "Avg": "8' 1\"",
+      "Tot Dist. (ft)": "145.333",
+      "Tot Birdie Putts Made": "18",
+      "Longest Made (ft)": "22",
+      "Shortest Made (ft)": "6\""
+    },
+    {
+      "rank": 54,
+      "player": "Scott Stallings",
+      "Avg": "7' 11\"",
+      "Tot Dist. (ft)": "102.917",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "21",
+      "Shortest Made (ft)": "1' 3\""
+    },
+    {
+      "rank": 55,
+      "player": "Kramer Hickok",
+      "Avg": "7' 9\"",
+      "Tot Dist. (ft)": "116.000",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "27",
+      "Shortest Made (ft)": "1' 3\""
+    },
+    {
+      "rank": 56,
+      "player": "Daniel Berger",
+      "Avg": "7' 8\"",
+      "Tot Dist. (ft)": "114.750",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "17",
+      "Shortest Made (ft)": "9\""
+    },
+    {
+      "rank": 57,
+      "player": "Doc Redman",
+      "Avg": "7' 6\"",
+      "Tot Dist. (ft)": "82.167",
+      "Tot Birdie Putts Made": "11",
+      "Longest Made (ft)": "20",
+      "Shortest Made (ft)": "1' 3\""
+    },
+    {
+      "rank": 58,
+      "player": "Adam Hadwin",
+      "Avg": "7' 5\"",
+      "Tot Dist. (ft)": "134.167",
+      "Tot Birdie Putts Made": "18",
+      "Longest Made (ft)": "27",
+      "Shortest Made (ft)": "2\""
+    },
+    {
+      "rank": 59,
+      "player": "Viktor Hovland",
+      "Avg": "7' 4\"",
+      "Tot Dist. (ft)": "124.250",
+      "Tot Birdie Putts Made": "17",
+      "Longest Made (ft)": "21",
+      "Shortest Made (ft)": "1' 3\""
+    },
+    {
+      "rank": 59,
+      "player": "Brendan Steele",
+      "Avg": "7' 4\"",
+      "Tot Dist. (ft)": "139.167",
+      "Tot Birdie Putts Made": "19",
+      "Longest Made (ft)": "24",
+      "Shortest Made (ft)": "8\""
+    },
+    {
+      "rank": 59,
+      "player": "Erik van Rooyen",
+      "Avg": "7' 4\"",
+      "Tot Dist. (ft)": "124.083",
+      "Tot Birdie Putts Made": "17",
+      "Longest Made (ft)": "22",
+      "Shortest Made (ft)": "1' 1\""
+    },
+    {
+      "rank": 62,
+      "player": "Nick Watney",
+      "Avg": "7' 2\"",
+      "Tot Dist. (ft)": "79.250",
+      "Tot Birdie Putts Made": "11",
+      "Longest Made (ft)": "26",
+      "Shortest Made (ft)": "1\""
+    },
+    {
+      "rank": 63,
+      "player": "Tommy Fleetwood",
+      "Avg": "7' 0\"",
+      "Tot Dist. (ft)": "104.833",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "24",
+      "Shortest Made (ft)": "1' 2\""
+    },
+    {
+      "rank": 63,
+      "player": "Lucas Herbert",
+      "Avg": "7' 0\"",
+      "Tot Dist. (ft)": "91.083",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "16",
+      "Shortest Made (ft)": "1' 2\""
+    },
+    {
+      "rank": 65,
+      "player": "Abraham Ancer",
+      "Avg": "6' 11\"",
+      "Tot Dist. (ft)": "89.417",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "15",
+      "Shortest Made (ft)": "2' 0\""
+    },
+    {
+      "rank": 66,
+      "player": "Aaron Wise",
+      "Avg": "6' 5\"",
+      "Tot Dist. (ft)": "96.500",
+      "Tot Birdie Putts Made": "15",
+      "Longest Made (ft)": "21",
+      "Shortest Made (ft)": "3\""
+    },
+    {
+      "rank": 67,
+      "player": "Russell Henley",
+      "Avg": "6' 2\"",
+      "Tot Dist. (ft)": "79.667",
+      "Tot Birdie Putts Made": "13",
+      "Longest Made (ft)": "17",
+      "Shortest Made (ft)": "1' 3\""
+    },
+    {
+      "rank": 68,
+      "player": "Rory McIlroy",
+      "Avg": "6' 1\"",
+      "Tot Dist. (ft)": "66.667",
+      "Tot Birdie Putts Made": "11",
+      "Longest Made (ft)": "12",
+      "Shortest Made (ft)": "1' 1\""
+    },
+    {
+      "rank": 69,
+      "player": "Justin Thomas",
+      "Avg": "5' 2\"",
+      "Tot Dist. (ft)": "62.000",
+      "Tot Birdie Putts Made": "12",
+      "Longest Made (ft)": "20",
+      "Shortest Made (ft)": "6\""
+    },
+    {
+      "rank": 70,
+      "player": "Jason Kokrak",
+      "Avg": "4' 11\"",
+      "Tot Dist. (ft)": "54.167",
+      "Tot Birdie Putts Made": "11",
+      "Longest Made (ft)": "9",
+      "Shortest Made (ft)": "1' 1\""
+    }
+  ]
+}

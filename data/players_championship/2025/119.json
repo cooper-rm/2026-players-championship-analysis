@@ -1,0 +1,585 @@
+{
+  "stat_id": "119",
+  "stat_title": "Putts Per Round",
+  "category": "Putting",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Bud Cauley",
+      "Avg": "25.00",
+      "Total Putts": "100",
+      "Total Rounds": "4",
+      "Low Total Putts": "23"
+    },
+    {
+      "rank": 2,
+      "player": "Justin Thomas",
+      "Avg": "25.50",
+      "Total Putts": "102",
+      "Total Rounds": "4",
+      "Low Total Putts": "23"
+    },
+    {
+      "rank": 3,
+      "player": "Tom Hoge",
+      "Avg": "26.25",
+      "Total Putts": "105",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 3,
+      "player": "J.T. Poston",
+      "Avg": "26.25",
+      "Total Putts": "105",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 5,
+      "player": "Akshay Bhatia",
+      "Avg": "26.50",
+      "Total Putts": "106",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 5,
+      "player": "Lucas Glover",
+      "Avg": "26.50",
+      "Total Putts": "106",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 5,
+      "player": "Jesper Svensson",
+      "Avg": "26.50",
+      "Total Putts": "106",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 5,
+      "player": "Camilo Villegas",
+      "Avg": "26.50",
+      "Total Putts": "106",
+      "Total Rounds": "4",
+      "Low Total Putts": "22"
+    },
+    {
+      "rank": 9,
+      "player": "Kurt Kitayama",
+      "Avg": "26.75",
+      "Total Putts": "107",
+      "Total Rounds": "4",
+      "Low Total Putts": "23"
+    },
+    {
+      "rank": 9,
+      "player": "Jake Knapp",
+      "Avg": "26.75",
+      "Total Putts": "107",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 9,
+      "player": "Rory McIlroy",
+      "Avg": "26.75",
+      "Total Putts": "107",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 9,
+      "player": "Davis Thompson",
+      "Avg": "26.75",
+      "Total Putts": "107",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 13,
+      "player": "Billy Horschel",
+      "Avg": "27.00",
+      "Total Putts": "108",
+      "Total Rounds": "4",
+      "Low Total Putts": "23"
+    },
+    {
+      "rank": 13,
+      "player": "Mac Meissner",
+      "Avg": "27.00",
+      "Total Putts": "108",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 15,
+      "player": "Rickie Fowler",
+      "Avg": "27.25",
+      "Total Putts": "109",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 15,
+      "player": "Taylor Pendrith",
+      "Avg": "27.25",
+      "Total Putts": "109",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 17,
+      "player": "Ryan Fox",
+      "Avg": "27.50",
+      "Total Putts": "110",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 17,
+      "player": "Joe Highsmith",
+      "Avg": "27.50",
+      "Total Putts": "110",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 17,
+      "player": "Stephan Jaeger",
+      "Avg": "27.50",
+      "Total Putts": "110",
+      "Total Rounds": "4",
+      "Low Total Putts": "23"
+    },
+    {
+      "rank": 17,
+      "player": "Min Woo Lee",
+      "Avg": "27.50",
+      "Total Putts": "110",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 21,
+      "player": "Charley Hoffman",
+      "Avg": "27.75",
+      "Total Putts": "111",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 21,
+      "player": "Beau Hossler",
+      "Avg": "27.75",
+      "Total Putts": "111",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 21,
+      "player": "Matt Kuchar",
+      "Avg": "27.75",
+      "Total Putts": "111",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 21,
+      "player": "Sam Ryder",
+      "Avg": "27.75",
+      "Total Putts": "111",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 21,
+      "player": "Alex Smalley",
+      "Avg": "27.75",
+      "Total Putts": "111",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 21,
+      "player": "Danny Walker",
+      "Avg": "27.75",
+      "Total Putts": "111",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 27,
+      "player": "Byeong Hun An",
+      "Avg": "28.00",
+      "Total Putts": "112",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 27,
+      "player": "Daniel Berger",
+      "Avg": "28.00",
+      "Total Putts": "112",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 27,
+      "player": "Si Woo Kim",
+      "Avg": "28.00",
+      "Total Putts": "112",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 27,
+      "player": "Aaron Rai",
+      "Avg": "28.00",
+      "Total Putts": "112",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 27,
+      "player": "J.J. Spaun",
+      "Avg": "28.00",
+      "Total Putts": "112",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 32,
+      "player": "Keegan Bradley",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 32,
+      "player": "Will Chandler",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 32,
+      "player": "Corey Conners",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 32,
+      "player": "Austin Eckroat",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 32,
+      "player": "Sungjae Im",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 32,
+      "player": "Robert MacIntyre",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 32,
+      "player": "Denny McCarthy",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 32,
+      "player": "Jordan Spieth",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "23"
+    },
+    {
+      "rank": 32,
+      "player": "Sepp Straka",
+      "Avg": "28.25",
+      "Total Putts": "113",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 41,
+      "player": "Ryan Gerard",
+      "Avg": "28.50",
+      "Total Putts": "114",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 41,
+      "player": "Shane Lowry",
+      "Avg": "28.50",
+      "Total Putts": "114",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 41,
+      "player": "Cameron Young",
+      "Avg": "28.50",
+      "Total Putts": "114",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 41,
+      "player": "Will Zalatoris",
+      "Avg": "28.50",
+      "Total Putts": "114",
+      "Total Rounds": "4",
+      "Low Total Putts": "28"
+    },
+    {
+      "rank": 45,
+      "player": "Tommy Fleetwood",
+      "Avg": "28.75",
+      "Total Putts": "115",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 45,
+      "player": "Collin Morikawa",
+      "Avg": "28.75",
+      "Total Putts": "115",
+      "Total Rounds": "4",
+      "Low Total Putts": "23"
+    },
+    {
+      "rank": 45,
+      "player": "Isaiah Salinda",
+      "Avg": "28.75",
+      "Total Putts": "115",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 45,
+      "player": "Hayden Springer",
+      "Avg": "28.75",
+      "Total Putts": "115",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 49,
+      "player": "Matt McCarty",
+      "Avg": "29.00",
+      "Total Putts": "116",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 49,
+      "player": "Matthieu Pavon",
+      "Avg": "29.00",
+      "Total Putts": "116",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 49,
+      "player": "Davis Riley",
+      "Avg": "29.00",
+      "Total Putts": "116",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 49,
+      "player": "Sahith Theegala",
+      "Avg": "29.00",
+      "Total Putts": "116",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 53,
+      "player": "Justin Lower",
+      "Avg": "29.25",
+      "Total Putts": "117",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 54,
+      "player": "Jacob Bridgeman",
+      "Avg": "29.50",
+      "Total Putts": "118",
+      "Total Rounds": "4",
+      "Low Total Putts": "28"
+    },
+    {
+      "rank": 54,
+      "player": "Harris English",
+      "Avg": "29.50",
+      "Total Putts": "118",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 54,
+      "player": "Tom Kim",
+      "Avg": "29.50",
+      "Total Putts": "118",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 54,
+      "player": "Taylor Moore",
+      "Avg": "29.50",
+      "Total Putts": "118",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 54,
+      "player": "Sami Valimaki",
+      "Avg": "29.50",
+      "Total Putts": "118",
+      "Total Rounds": "4",
+      "Low Total Putts": "26"
+    },
+    {
+      "rank": 59,
+      "player": "Emiliano Grillo",
+      "Avg": "29.75",
+      "Total Putts": "119",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 59,
+      "player": "Chris Kirk",
+      "Avg": "29.75",
+      "Total Putts": "119",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 59,
+      "player": "Chandler Phillips",
+      "Avg": "29.75",
+      "Total Putts": "119",
+      "Total Rounds": "4",
+      "Low Total Putts": "25"
+    },
+    {
+      "rank": 59,
+      "player": "Xander Schauffele",
+      "Avg": "29.75",
+      "Total Putts": "119",
+      "Total Rounds": "4",
+      "Low Total Putts": "28"
+    },
+    {
+      "rank": 59,
+      "player": "Scottie Scheffler",
+      "Avg": "29.75",
+      "Total Putts": "119",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 64,
+      "player": "Joel Dahmen",
+      "Avg": "30.00",
+      "Total Putts": "120",
+      "Total Rounds": "4",
+      "Low Total Putts": "24"
+    },
+    {
+      "rank": 64,
+      "player": "Max McGreevy",
+      "Avg": "30.00",
+      "Total Putts": "120",
+      "Total Rounds": "4",
+      "Low Total Putts": "28"
+    },
+    {
+      "rank": 66,
+      "player": "Trey Mullinax",
+      "Avg": "30.25",
+      "Total Putts": "121",
+      "Total Rounds": "4",
+      "Low Total Putts": "29"
+    },
+    {
+      "rank": 67,
+      "player": "Patrick Cantlay",
+      "Avg": "30.50",
+      "Total Putts": "122",
+      "Total Rounds": "4",
+      "Low Total Putts": "28"
+    },
+    {
+      "rank": 67,
+      "player": "Jhonattan Vegas",
+      "Avg": "30.50",
+      "Total Putts": "122",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 69,
+      "player": "Russell Henley",
+      "Avg": "31.00",
+      "Total Putts": "124",
+      "Total Rounds": "4",
+      "Low Total Putts": "28"
+    },
+    {
+      "rank": 69,
+      "player": "Rico Hoey",
+      "Avg": "31.00",
+      "Total Putts": "124",
+      "Total Rounds": "4",
+      "Low Total Putts": "27"
+    },
+    {
+      "rank": 69,
+      "player": "C.T. Pan",
+      "Avg": "31.00",
+      "Total Putts": "124",
+      "Total Rounds": "4",
+      "Low Total Putts": "29"
+    },
+    {
+      "rank": 69,
+      "player": "Carson Young",
+      "Avg": "31.00",
+      "Total Putts": "124",
+      "Total Rounds": "4",
+      "Low Total Putts": "29"
+    }
+  ]
+}

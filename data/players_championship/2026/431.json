@@ -1,0 +1,593 @@
+{
+  "stat_id": "431",
+  "stat_title": "Fairway Proximity",
+  "category": "Approach the Green",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Joe Highsmith",
+      "Avg": "27' 5\"",
+      "Attempts": "57",
+      "Total Distance (feet)": "1,563.250",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 1,
+      "player": "Brooks Koepka",
+      "Avg": "27' 5\"",
+      "Attempts": "48",
+      "Total Distance (feet)": "1,315.833",
+      "Relative to par": "-11.00"
+    },
+    {
+      "rank": 3,
+      "player": "Min Woo Lee",
+      "Avg": "27' 6\"",
+      "Attempts": "51",
+      "Total Distance (feet)": "1,400.417",
+      "Relative to par": "-10.00"
+    },
+    {
+      "rank": 4,
+      "player": "Nick Taylor",
+      "Avg": "27' 8\"",
+      "Attempts": "54",
+      "Total Distance (feet)": "1,493.000",
+      "Relative to par": "-6.00"
+    },
+    {
+      "rank": 5,
+      "player": "Cameron Young",
+      "Avg": "27' 11\"",
+      "Attempts": "57",
+      "Total Distance (feet)": "1,590.083",
+      "Relative to par": "-12.00"
+    },
+    {
+      "rank": 6,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "28' 1\"",
+      "Attempts": "53",
+      "Total Distance (feet)": "1,488.333",
+      "Relative to par": "-12.00"
+    },
+    {
+      "rank": 7,
+      "player": "Sepp Straka",
+      "Avg": "28' 5\"",
+      "Attempts": "54",
+      "Total Distance (feet)": "1,536.417",
+      "Relative to par": "-10.00"
+    },
+    {
+      "rank": 8,
+      "player": "Adam Scott",
+      "Avg": "28' 6\"",
+      "Attempts": "52",
+      "Total Distance (feet)": "1,484.000",
+      "Relative to par": "-3.00"
+    },
+    {
+      "rank": 9,
+      "player": "Rory McIlroy",
+      "Avg": "28' 9\"",
+      "Attempts": "52",
+      "Total Distance (feet)": "1,496.083",
+      "Relative to par": "-3.00"
+    },
+    {
+      "rank": 10,
+      "player": "Justin Thomas",
+      "Avg": "28' 10\"",
+      "Attempts": "50",
+      "Total Distance (feet)": "1,440.667",
+      "Relative to par": "-14.00"
+    },
+    {
+      "rank": 11,
+      "player": "Sudarshan Yellamaraju",
+      "Avg": "29' 1\"",
+      "Attempts": "58",
+      "Total Distance (feet)": "1,686.583",
+      "Relative to par": "-11.00"
+    },
+    {
+      "rank": 12,
+      "player": "Akshay Bhatia",
+      "Avg": "29' 4\"",
+      "Attempts": "61",
+      "Total Distance (feet)": "1,786.833",
+      "Relative to par": "-10.00"
+    },
+    {
+      "rank": 13,
+      "player": "Tommy Fleetwood",
+      "Avg": "29' 6\"",
+      "Attempts": "62",
+      "Total Distance (feet)": "1,831.000",
+      "Relative to par": "-12.00"
+    },
+    {
+      "rank": 14,
+      "player": "Xander Schauffele",
+      "Avg": "30' 2\"",
+      "Attempts": "59",
+      "Total Distance (feet)": "1,780.250",
+      "Relative to par": "-10.00"
+    },
+    {
+      "rank": 15,
+      "player": "Corey Conners",
+      "Avg": "30' 4\"",
+      "Attempts": "60",
+      "Total Distance (feet)": "1,820.667",
+      "Relative to par": "-9.00"
+    },
+    {
+      "rank": 15,
+      "player": "Hideki Matsuyama",
+      "Avg": "30' 4\"",
+      "Attempts": "52",
+      "Total Distance (feet)": "1,579.250",
+      "Relative to par": "-6.00"
+    },
+    {
+      "rank": 17,
+      "player": "Nicolai H\u00f8jgaard",
+      "Avg": "30' 5\"",
+      "Attempts": "45",
+      "Total Distance (feet)": "1,369.500",
+      "Relative to par": "-9.00"
+    },
+    {
+      "rank": 18,
+      "player": "Rickie Fowler",
+      "Avg": "30' 8\"",
+      "Attempts": "47",
+      "Total Distance (feet)": "1,440.250",
+      "Relative to par": "-5.00"
+    },
+    {
+      "rank": 19,
+      "player": "Daniel Berger",
+      "Avg": "31' 1\"",
+      "Attempts": "55",
+      "Total Distance (feet)": "1,707.417",
+      "Relative to par": "+4.00"
+    },
+    {
+      "rank": 20,
+      "player": "Chad Ramey",
+      "Avg": "31' 2\"",
+      "Attempts": "58",
+      "Total Distance (feet)": "1,808.917",
+      "Relative to par": "-4.00"
+    },
+    {
+      "rank": 21,
+      "player": "Chris Kirk",
+      "Avg": "31' 4\"",
+      "Attempts": "56",
+      "Total Distance (feet)": "1,756.583",
+      "Relative to par": "-11.00"
+    },
+    {
+      "rank": 22,
+      "player": "Si Woo Kim",
+      "Avg": "31' 9\"",
+      "Attempts": "59",
+      "Total Distance (feet)": "1,874.917",
+      "Relative to par": "-9.00"
+    },
+    {
+      "rank": 23,
+      "player": "William Mouw",
+      "Avg": "31' 11\"",
+      "Attempts": "59",
+      "Total Distance (feet)": "1,880.917",
+      "Relative to par": "-5.00"
+    },
+    {
+      "rank": 24,
+      "player": "Brian Harman",
+      "Avg": "32' 0\"",
+      "Attempts": "57",
+      "Total Distance (feet)": "1,822.250",
+      "Relative to par": "-13.00"
+    },
+    {
+      "rank": 25,
+      "player": "Zach Bauchou",
+      "Avg": "32' 1\"",
+      "Attempts": "49",
+      "Total Distance (feet)": "1,571.500",
+      "Relative to par": "-6.00"
+    },
+    {
+      "rank": 26,
+      "player": "Sam Stevens",
+      "Avg": "32' 2\"",
+      "Attempts": "57",
+      "Total Distance (feet)": "1,832.333",
+      "Relative to par": "-2.00"
+    },
+    {
+      "rank": 27,
+      "player": "Chris Gotterup",
+      "Avg": "32' 3\"",
+      "Attempts": "45",
+      "Total Distance (feet)": "1,449.917",
+      "Relative to par": "-4.00"
+    },
+    {
+      "rank": 28,
+      "player": "Michael Brennan",
+      "Avg": "32' 5\"",
+      "Attempts": "53",
+      "Total Distance (feet)": "1,718.333",
+      "Relative to par": "-2.00"
+    },
+    {
+      "rank": 28,
+      "player": "Michael Thorbjornsen",
+      "Avg": "32' 5\"",
+      "Attempts": "53",
+      "Total Distance (feet)": "1,719.167",
+      "Relative to par": "-16.00"
+    },
+    {
+      "rank": 30,
+      "player": "Wyndham Clark",
+      "Avg": "32' 6\"",
+      "Attempts": "61",
+      "Total Distance (feet)": "1,982.083",
+      "Relative to par": "-2.00"
+    },
+    {
+      "rank": 31,
+      "player": "Sam Burns",
+      "Avg": "32' 11\"",
+      "Attempts": "60",
+      "Total Distance (feet)": "1,973.250",
+      "Relative to par": "-5.00"
+    },
+    {
+      "rank": 32,
+      "player": "Sahith Theegala",
+      "Avg": "33' 0\"",
+      "Attempts": "43",
+      "Total Distance (feet)": "1,418.750",
+      "Relative to par": "-14.00"
+    },
+    {
+      "rank": 33,
+      "player": "Bud Cauley",
+      "Avg": "33' 1\"",
+      "Attempts": "60",
+      "Total Distance (feet)": "1,983.583",
+      "Relative to par": "-4.00"
+    },
+    {
+      "rank": 33,
+      "player": "Jason Day",
+      "Avg": "33' 1\"",
+      "Attempts": "47",
+      "Total Distance (feet)": "1,554.667",
+      "Relative to par": "-3.00"
+    },
+    {
+      "rank": 33,
+      "player": "Taylor Pendrith",
+      "Avg": "33' 1\"",
+      "Attempts": "58",
+      "Total Distance (feet)": "1,917.750",
+      "Relative to par": "-7.00"
+    },
+    {
+      "rank": 33,
+      "player": "Kevin Roy",
+      "Avg": "33' 1\"",
+      "Attempts": "55",
+      "Total Distance (feet)": "1,820.667",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 37,
+      "player": "Patrick Rodgers",
+      "Avg": "33' 3\"",
+      "Attempts": "53",
+      "Total Distance (feet)": "1,760.750",
+      "Relative to par": "-12.00"
+    },
+    {
+      "rank": 37,
+      "player": "Alex Smalley",
+      "Avg": "33' 3\"",
+      "Attempts": "60",
+      "Total Distance (feet)": "1,992.500",
+      "Relative to par": "-3.00"
+    },
+    {
+      "rank": 37,
+      "player": "Danny Walker",
+      "Avg": "33' 3\"",
+      "Attempts": "48",
+      "Total Distance (feet)": "1,594.917",
+      "Relative to par": "-2.00"
+    },
+    {
+      "rank": 40,
+      "player": "Tony Finau",
+      "Avg": "33' 7\"",
+      "Attempts": "50",
+      "Total Distance (feet)": "1,679.250",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 40,
+      "player": "Steven Fisk",
+      "Avg": "33' 7\"",
+      "Attempts": "54",
+      "Total Distance (feet)": "1,813.500",
+      "Relative to par": "-3.00"
+    },
+    {
+      "rank": 40,
+      "player": "Taylor Moore",
+      "Avg": "33' 7\"",
+      "Attempts": "47",
+      "Total Distance (feet)": "1,579.167",
+      "Relative to par": "-8.00"
+    },
+    {
+      "rank": 43,
+      "player": "Lee Hodges",
+      "Avg": "33' 10\"",
+      "Attempts": "58",
+      "Total Distance (feet)": "1,964.667",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 44,
+      "player": "Jordan Spieth",
+      "Avg": "34' 0\"",
+      "Attempts": "53",
+      "Total Distance (feet)": "1,803.500",
+      "Relative to par": "-5.00"
+    },
+    {
+      "rank": 45,
+      "player": "Viktor Hovland",
+      "Avg": "34' 1\"",
+      "Attempts": "53",
+      "Total Distance (feet)": "1,806.250",
+      "Relative to par": "-9.00"
+    },
+    {
+      "rank": 46,
+      "player": "Alex Noren",
+      "Avg": "34' 5\"",
+      "Attempts": "55",
+      "Total Distance (feet)": "1,894.167",
+      "Relative to par": "-8.00"
+    },
+    {
+      "rank": 47,
+      "player": "Matt Fitzpatrick",
+      "Avg": "34' 6\"",
+      "Attempts": "63",
+      "Total Distance (feet)": "2,174.917",
+      "Relative to par": "-11.00"
+    },
+    {
+      "rank": 47,
+      "player": "Keith Mitchell",
+      "Avg": "34' 6\"",
+      "Attempts": "45",
+      "Total Distance (feet)": "1,552.500",
+      "Relative to par": "-6.00"
+    },
+    {
+      "rank": 49,
+      "player": "J.J. Spaun",
+      "Avg": "34' 8\"",
+      "Attempts": "57",
+      "Total Distance (feet)": "1,974.833",
+      "Relative to par": "-3.00"
+    },
+    {
+      "rank": 50,
+      "player": "Scottie Scheffler",
+      "Avg": "35' 1\"",
+      "Attempts": "54",
+      "Total Distance (feet)": "1,894.667",
+      "Relative to par": "-10.00"
+    },
+    {
+      "rank": 51,
+      "player": "Patrick Cantlay",
+      "Avg": "35' 2\"",
+      "Attempts": "58",
+      "Total Distance (feet)": "2,041.833",
+      "Relative to par": "-7.00"
+    },
+    {
+      "rank": 52,
+      "player": "Ryo Hisatsune",
+      "Avg": "35' 4\"",
+      "Attempts": "49",
+      "Total Distance (feet)": "1,731.750",
+      "Relative to par": "-11.00"
+    },
+    {
+      "rank": 53,
+      "player": "Keegan Bradley",
+      "Avg": "35' 6\"",
+      "Attempts": "56",
+      "Total Distance (feet)": "1,988.750",
+      "Relative to par": "-2.00"
+    },
+    {
+      "rank": 53,
+      "player": "Ryan Gerard",
+      "Avg": "35' 6\"",
+      "Attempts": "51",
+      "Total Distance (feet)": "1,812.000",
+      "Relative to par": "-8.00"
+    },
+    {
+      "rank": 55,
+      "player": "Jacob Bridgeman",
+      "Avg": "35' 7\"",
+      "Attempts": "54",
+      "Total Distance (feet)": "1,919.583",
+      "Relative to par": "-12.00"
+    },
+    {
+      "rank": 56,
+      "player": "Rico Hoey",
+      "Avg": "35' 10\"",
+      "Attempts": "50",
+      "Total Distance (feet)": "1,792.833",
+      "Relative to par": "-5.00"
+    },
+    {
+      "rank": 57,
+      "player": "Max Homa",
+      "Avg": "36' 7\"",
+      "Attempts": "53",
+      "Total Distance (feet)": "1,938.167",
+      "Relative to par": "-6.00"
+    },
+    {
+      "rank": 58,
+      "player": "Eric Cole",
+      "Avg": "36' 8\"",
+      "Attempts": "46",
+      "Total Distance (feet)": "1,687.750",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 59,
+      "player": "Seamus Power",
+      "Avg": "36' 9\"",
+      "Attempts": "52",
+      "Total Distance (feet)": "1,911.167",
+      "Relative to par": "-3.00"
+    },
+    {
+      "rank": 60,
+      "player": "Austin Smotherman",
+      "Avg": "36' 10\"",
+      "Attempts": "59",
+      "Total Distance (feet)": "2,172.083",
+      "Relative to par": "-8.00"
+    },
+    {
+      "rank": 61,
+      "player": "Russell Henley",
+      "Avg": "37' 1\"",
+      "Attempts": "57",
+      "Total Distance (feet)": "2,114.083",
+      "Relative to par": "-10.00"
+    },
+    {
+      "rank": 62,
+      "player": "Justin Rose",
+      "Avg": "37' 6\"",
+      "Attempts": "55",
+      "Total Distance (feet)": "2,063.083",
+      "Relative to par": "-8.00"
+    },
+    {
+      "rank": 63,
+      "player": "Kristoffer Reitan",
+      "Avg": "37' 11\"",
+      "Attempts": "50",
+      "Total Distance (feet)": "1,896.833",
+      "Relative to par": "-6.00"
+    },
+    {
+      "rank": 63,
+      "player": "Matti Schmid",
+      "Avg": "37' 11\"",
+      "Attempts": "51",
+      "Total Distance (feet)": "1,935.833",
+      "Relative to par": "-8.00"
+    },
+    {
+      "rank": 65,
+      "player": "Nico Echavarria",
+      "Avg": "38' 4\"",
+      "Attempts": "58",
+      "Total Distance (feet)": "2,222.167",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 66,
+      "player": "Takumi Kanaya",
+      "Avg": "38' 5\"",
+      "Attempts": "55",
+      "Total Distance (feet)": "2,115.083",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 67,
+      "player": "Maverick McNealy",
+      "Avg": "38' 6\"",
+      "Attempts": "46",
+      "Total Distance (feet)": "1,772.000",
+      "Relative to par": "-6.00"
+    },
+    {
+      "rank": 68,
+      "player": "Max McGreevy",
+      "Avg": "39' 2\"",
+      "Attempts": "52",
+      "Total Distance (feet)": "2,038.000",
+      "Relative to par": "-5.00"
+    },
+    {
+      "rank": 68,
+      "player": "J.T. Poston",
+      "Avg": "39' 2\"",
+      "Attempts": "56",
+      "Total Distance (feet)": "2,194.917",
+      "Relative to par": "-4.00"
+    },
+    {
+      "rank": 70,
+      "player": "Robert MacIntyre",
+      "Avg": "39' 6\"",
+      "Attempts": "59",
+      "Total Distance (feet)": "2,331.333",
+      "Relative to par": "-8.00"
+    },
+    {
+      "rank": 71,
+      "player": "Ricky Castillo",
+      "Avg": "40' 1\"",
+      "Attempts": "53",
+      "Total Distance (feet)": "2,123.083",
+      "Relative to par": "+6.00"
+    },
+    {
+      "rank": 72,
+      "player": "Stephan Jaeger",
+      "Avg": "41' 8\"",
+      "Attempts": "47",
+      "Total Distance (feet)": "1,959.167",
+      "Relative to par": "-3.00"
+    },
+    {
+      "rank": 73,
+      "player": "Andrew Putnam",
+      "Avg": "41' 10\"",
+      "Attempts": "61",
+      "Total Distance (feet)": "2,554.000",
+      "Relative to par": "-2.00"
+    }
+  ]
+}

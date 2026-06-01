@@ -1,0 +1,657 @@
+{
+  "stat_id": "438",
+  "stat_title": "Average Distance of Putts made",
+  "category": "Putting",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Jake Knapp",
+      "Avg": "107' 7\"",
+      "Total Dist. (inches)": "5,165",
+      "Total Rounds": "4",
+      "Avg Dist.": "50' 6\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 2,
+      "player": "Sam Ryder",
+      "Avg": "100' 3\"",
+      "Total Dist. (inches)": "4,811",
+      "Total Rounds": "4",
+      "Avg Dist.": "46' 5\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 3,
+      "player": "Akshay Bhatia",
+      "Avg": "93' 3\"",
+      "Total Dist. (inches)": "4,477",
+      "Total Rounds": "4",
+      "Avg Dist.": "44' 5\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 4,
+      "player": "Cameron Young",
+      "Avg": "91' 6\"",
+      "Total Dist. (inches)": "4,391",
+      "Total Rounds": "4",
+      "Avg Dist.": "42' 11\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 5,
+      "player": "Hayden Springer",
+      "Avg": "91' 4\"",
+      "Total Dist. (inches)": "4,382",
+      "Total Rounds": "4",
+      "Avg Dist.": "42' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 6,
+      "player": "Patrick Cantlay",
+      "Avg": "87' 8\"",
+      "Total Dist. (inches)": "4,207",
+      "Total Rounds": "4",
+      "Avg Dist.": "41' 2\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 7,
+      "player": "Corey Conners",
+      "Avg": "86' 8\"",
+      "Total Dist. (inches)": "4,160",
+      "Total Rounds": "4",
+      "Avg Dist.": "40' 8\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 8,
+      "player": "Ryan Fox",
+      "Avg": "85' 9\"",
+      "Total Dist. (inches)": "4,116",
+      "Total Rounds": "4",
+      "Avg Dist.": "40' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 9,
+      "player": "Taylor Pendrith",
+      "Avg": "84' 7\"",
+      "Total Dist. (inches)": "4,061",
+      "Total Rounds": "4",
+      "Avg Dist.": "39' 2\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 10,
+      "player": "Chris Kirk",
+      "Avg": "83' 7\"",
+      "Total Dist. (inches)": "4,010",
+      "Total Rounds": "4",
+      "Avg Dist.": "38' 8\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 11,
+      "player": "Ryan Gerard",
+      "Avg": "83' 5\"",
+      "Total Dist. (inches)": "4,002",
+      "Total Rounds": "4",
+      "Avg Dist.": "39' 2\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 12,
+      "player": "Aaron Rai",
+      "Avg": "82' 10\"",
+      "Total Dist. (inches)": "3,977",
+      "Total Rounds": "4",
+      "Avg Dist.": "39' 5\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 13,
+      "player": "Will Zalatoris",
+      "Avg": "80' 8\"",
+      "Total Dist. (inches)": "3,871",
+      "Total Rounds": "4",
+      "Avg Dist.": "37' 4\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 14,
+      "player": "Bud Cauley",
+      "Avg": "79' 9\"",
+      "Total Dist. (inches)": "3,826",
+      "Total Rounds": "4",
+      "Avg Dist.": "38' 6\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 15,
+      "player": "Danny Walker",
+      "Avg": "79' 6\"",
+      "Total Dist. (inches)": "3,817",
+      "Total Rounds": "4",
+      "Avg Dist.": "37' 4\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 16,
+      "player": "Matthieu Pavon",
+      "Avg": "79' 1\"",
+      "Total Dist. (inches)": "3,796",
+      "Total Rounds": "4",
+      "Avg Dist.": "37' 2\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 16,
+      "player": "Davis Thompson",
+      "Avg": "79' 1\"",
+      "Total Dist. (inches)": "3,796",
+      "Total Rounds": "4",
+      "Avg Dist.": "36' 7\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 18,
+      "player": "Stephan Jaeger",
+      "Avg": "78' 6\"",
+      "Total Dist. (inches)": "3,768",
+      "Total Rounds": "4",
+      "Avg Dist.": "37' 5\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 19,
+      "player": "Min Woo Lee",
+      "Avg": "78' 2\"",
+      "Total Dist. (inches)": "3,752",
+      "Total Rounds": "4",
+      "Avg Dist.": "36' 8\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 20,
+      "player": "J.T. Poston",
+      "Avg": "77' 11\"",
+      "Total Dist. (inches)": "3,741",
+      "Total Rounds": "4",
+      "Avg Dist.": "36' 7\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 21,
+      "player": "Sahith Theegala",
+      "Avg": "77' 10\"",
+      "Total Dist. (inches)": "3,737",
+      "Total Rounds": "4",
+      "Avg Dist.": "36' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 22,
+      "player": "Justin Lower",
+      "Avg": "77' 9\"",
+      "Total Dist. (inches)": "3,730",
+      "Total Rounds": "4",
+      "Avg Dist.": "36' 6\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 23,
+      "player": "Denny McCarthy",
+      "Avg": "77' 6\"",
+      "Total Dist. (inches)": "3,718",
+      "Total Rounds": "4",
+      "Avg Dist.": "36' 4\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 24,
+      "player": "Jacob Bridgeman",
+      "Avg": "76' 7\"",
+      "Total Dist. (inches)": "3,675",
+      "Total Rounds": "4",
+      "Avg Dist.": "35' 11\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 25,
+      "player": "Rory McIlroy",
+      "Avg": "76' 5\"",
+      "Total Dist. (inches)": "3,668",
+      "Total Rounds": "4",
+      "Avg Dist.": "35' 11\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 26,
+      "player": "Daniel Berger",
+      "Avg": "76' 3\"",
+      "Total Dist. (inches)": "3,658",
+      "Total Rounds": "4",
+      "Avg Dist.": "35' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 27,
+      "player": "Jesper Svensson",
+      "Avg": "75' 8\"",
+      "Total Dist. (inches)": "3,633",
+      "Total Rounds": "4",
+      "Avg Dist.": "36' 7\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 28,
+      "player": "Mac Meissner",
+      "Avg": "74' 6\"",
+      "Total Dist. (inches)": "3,574",
+      "Total Rounds": "4",
+      "Avg Dist.": "34' 11\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 29,
+      "player": "Justin Thomas",
+      "Avg": "74' 5\"",
+      "Total Dist. (inches)": "3,571",
+      "Total Rounds": "4",
+      "Avg Dist.": "34' 11\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 30,
+      "player": "Chandler Phillips",
+      "Avg": "74' 2\"",
+      "Total Dist. (inches)": "3,561",
+      "Total Rounds": "4",
+      "Avg Dist.": "34' 10\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 31,
+      "player": "Sami Valimaki",
+      "Avg": "74' 0\"",
+      "Total Dist. (inches)": "3,552",
+      "Total Rounds": "4",
+      "Avg Dist.": "34' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 32,
+      "player": "Tommy Fleetwood",
+      "Avg": "73' 3\"",
+      "Total Dist. (inches)": "3,516",
+      "Total Rounds": "4",
+      "Avg Dist.": "33' 11\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 33,
+      "player": "Billy Horschel",
+      "Avg": "72' 7\"",
+      "Total Dist. (inches)": "3,484",
+      "Total Rounds": "4",
+      "Avg Dist.": "33' 7\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 34,
+      "player": "Joe Highsmith",
+      "Avg": "71' 5\"",
+      "Total Dist. (inches)": "3,429",
+      "Total Rounds": "4",
+      "Avg Dist.": "33' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 35,
+      "player": "Kurt Kitayama",
+      "Avg": "70' 9\"",
+      "Total Dist. (inches)": "3,396",
+      "Total Rounds": "4",
+      "Avg Dist.": "34' 2\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 35,
+      "player": "Carson Young",
+      "Avg": "70' 9\"",
+      "Total Dist. (inches)": "3,395",
+      "Total Rounds": "4",
+      "Avg Dist.": "32' 9\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 37,
+      "player": "Emiliano Grillo",
+      "Avg": "70' 4\"",
+      "Total Dist. (inches)": "3,377",
+      "Total Rounds": "4",
+      "Avg Dist.": "32' 7\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 38,
+      "player": "Matt McCarty",
+      "Avg": "70' 3\"",
+      "Total Dist. (inches)": "3,372",
+      "Total Rounds": "4",
+      "Avg Dist.": "33' 5\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 39,
+      "player": "Beau Hossler",
+      "Avg": "70' 0\"",
+      "Total Dist. (inches)": "3,358",
+      "Total Rounds": "4",
+      "Avg Dist.": "33' 4\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 39,
+      "player": "Trey Mullinax",
+      "Avg": "70' 0\"",
+      "Total Dist. (inches)": "3,360",
+      "Total Rounds": "4",
+      "Avg Dist.": "32' 10\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 41,
+      "player": "Byeong Hun An",
+      "Avg": "69' 11\"",
+      "Total Dist. (inches)": "3,357",
+      "Total Rounds": "4",
+      "Avg Dist.": "32' 10\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 42,
+      "player": "Lucas Glover",
+      "Avg": "69' 2\"",
+      "Total Dist. (inches)": "3,321",
+      "Total Rounds": "4",
+      "Avg Dist.": "33' 11\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 42,
+      "player": "Sepp Straka",
+      "Avg": "69' 2\"",
+      "Total Dist. (inches)": "3,319",
+      "Total Rounds": "4",
+      "Avg Dist.": "32' 0\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 44,
+      "player": "Harris English",
+      "Avg": "68' 11\"",
+      "Total Dist. (inches)": "3,306",
+      "Total Rounds": "4",
+      "Avg Dist.": "32' 10\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 45,
+      "player": "Isaiah Salinda",
+      "Avg": "68' 10\"",
+      "Total Dist. (inches)": "3,303",
+      "Total Rounds": "4",
+      "Avg Dist.": "32' 4\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 46,
+      "player": "J.J. Spaun",
+      "Avg": "67' 4\"",
+      "Total Dist. (inches)": "3,233",
+      "Total Rounds": "4",
+      "Avg Dist.": "32' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 47,
+      "player": "Davis Riley",
+      "Avg": "67' 3\"",
+      "Total Dist. (inches)": "3,226",
+      "Total Rounds": "4",
+      "Avg Dist.": "31' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 48,
+      "player": "Robert MacIntyre",
+      "Avg": "67' 2\"",
+      "Total Dist. (inches)": "3,225",
+      "Total Rounds": "4",
+      "Avg Dist.": "31' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 49,
+      "player": "Sungjae Im",
+      "Avg": "66' 3\"",
+      "Total Dist. (inches)": "3,178",
+      "Total Rounds": "4",
+      "Avg Dist.": "31' 6\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 49,
+      "player": "Jhonattan Vegas",
+      "Avg": "66' 3\"",
+      "Total Dist. (inches)": "3,178",
+      "Total Rounds": "4",
+      "Avg Dist.": "31' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 51,
+      "player": "Tom Hoge",
+      "Avg": "66' 0\"",
+      "Total Dist. (inches)": "3,166",
+      "Total Rounds": "4",
+      "Avg Dist.": "30' 6\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 52,
+      "player": "Collin Morikawa",
+      "Avg": "65' 2\"",
+      "Total Dist. (inches)": "3,126",
+      "Total Rounds": "4",
+      "Avg Dist.": "31' 0\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 53,
+      "player": "Max McGreevy",
+      "Avg": "65' 0\"",
+      "Total Dist. (inches)": "3,118",
+      "Total Rounds": "4",
+      "Avg Dist.": "30' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 54,
+      "player": "Alex Smalley",
+      "Avg": "63' 8\"",
+      "Total Dist. (inches)": "3,056",
+      "Total Rounds": "4",
+      "Avg Dist.": "29' 11\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 55,
+      "player": "Keegan Bradley",
+      "Avg": "63' 5\"",
+      "Total Dist. (inches)": "3,045",
+      "Total Rounds": "4",
+      "Avg Dist.": "29' 9\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 56,
+      "player": "Scottie Scheffler",
+      "Avg": "63' 1\"",
+      "Total Dist. (inches)": "3,029",
+      "Total Rounds": "4",
+      "Avg Dist.": "29' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 57,
+      "player": "Taylor Moore",
+      "Avg": "61' 9\"",
+      "Total Dist. (inches)": "2,962",
+      "Total Rounds": "4",
+      "Avg Dist.": "28' 7\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 58,
+      "player": "Will Chandler",
+      "Avg": "61' 7\"",
+      "Total Dist. (inches)": "2,957",
+      "Total Rounds": "4",
+      "Avg Dist.": "29' 4\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 59,
+      "player": "Xander Schauffele",
+      "Avg": "61' 2\"",
+      "Total Dist. (inches)": "2,934",
+      "Total Rounds": "4",
+      "Avg Dist.": "28' 8\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 60,
+      "player": "Shane Lowry",
+      "Avg": "60' 9\"",
+      "Total Dist. (inches)": "2,917",
+      "Total Rounds": "4",
+      "Avg Dist.": "28' 6\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 61,
+      "player": "Matt Kuchar",
+      "Avg": "60' 1\"",
+      "Total Dist. (inches)": "2,885",
+      "Total Rounds": "4",
+      "Avg Dist.": "29' 0\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 62,
+      "player": "Rickie Fowler",
+      "Avg": "59' 9\"",
+      "Total Dist. (inches)": "2,868",
+      "Total Rounds": "4",
+      "Avg Dist.": "28' 5\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 63,
+      "player": "Camilo Villegas",
+      "Avg": "59' 5\"",
+      "Total Dist. (inches)": "2,852",
+      "Total Rounds": "4",
+      "Avg Dist.": "28' 8\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 64,
+      "player": "C.T. Pan",
+      "Avg": "59' 4\"",
+      "Total Dist. (inches)": "2,848",
+      "Total Rounds": "4",
+      "Avg Dist.": "27' 6\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 65,
+      "player": "Russell Henley",
+      "Avg": "58' 6\"",
+      "Total Dist. (inches)": "2,807",
+      "Total Rounds": "4",
+      "Avg Dist.": "27' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 66,
+      "player": "Si Woo Kim",
+      "Avg": "54' 4\"",
+      "Total Dist. (inches)": "2,608",
+      "Total Rounds": "4",
+      "Avg Dist.": "26' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 67,
+      "player": "Joel Dahmen",
+      "Avg": "53' 10\"",
+      "Total Dist. (inches)": "2,583",
+      "Total Rounds": "4",
+      "Avg Dist.": "25' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 67,
+      "player": "Tom Kim",
+      "Avg": "53' 10\"",
+      "Total Dist. (inches)": "2,583",
+      "Total Rounds": "4",
+      "Avg Dist.": "25' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 67,
+      "player": "Jordan Spieth",
+      "Avg": "53' 10\"",
+      "Total Dist. (inches)": "2,583",
+      "Total Rounds": "4",
+      "Avg Dist.": "26' 0\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 70,
+      "player": "Rico Hoey",
+      "Avg": "51' 0\"",
+      "Total Dist. (inches)": "2,446",
+      "Total Rounds": "4",
+      "Avg Dist.": "24' 3\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 71,
+      "player": "Austin Eckroat",
+      "Avg": "50' 7\"",
+      "Total Dist. (inches)": "2,427",
+      "Total Rounds": "4",
+      "Avg Dist.": "24' 1\"",
+      "Best Round": "120"
+    },
+    {
+      "rank": 72,
+      "player": "Charley Hoffman",
+      "Avg": "48' 1\"",
+      "Total Dist. (inches)": "2,307",
+      "Total Rounds": "4",
+      "Avg Dist.": "23' 3\"",
+      "Best Round": "120"
+    }
+  ]
+}

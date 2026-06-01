@@ -1,0 +1,359 @@
+{
+  "stat_id": "085",
+  "stat_title": "Power Rating",
+  "category": "Points/Rankings",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Taylor Pendrith",
+      "Rating": "9.8"
+    },
+    {
+      "rank": 2,
+      "player": "Rory McIlroy",
+      "Rating": "9.3"
+    },
+    {
+      "rank": 3,
+      "player": "Lucas Herbert",
+      "Rating": "9.2"
+    },
+    {
+      "rank": 3,
+      "player": "Joaquin Niemann",
+      "Rating": "9.2"
+    },
+    {
+      "rank": 5,
+      "player": "Jon Rahm",
+      "Rating": "9.1"
+    },
+    {
+      "rank": 6,
+      "player": "Scottie Scheffler",
+      "Rating": "8.9"
+    },
+    {
+      "rank": 7,
+      "player": "Keegan Bradley",
+      "Rating": "8.8"
+    },
+    {
+      "rank": 7,
+      "player": "Sam Burns",
+      "Rating": "8.8"
+    },
+    {
+      "rank": 9,
+      "player": "Max Homa",
+      "Rating": "8.6"
+    },
+    {
+      "rank": 9,
+      "player": "Aaron Wise",
+      "Rating": "8.6"
+    },
+    {
+      "rank": 11,
+      "player": "Brendan Steele",
+      "Rating": "8.5"
+    },
+    {
+      "rank": 12,
+      "player": "Tyrrell Hatton",
+      "Rating": "8.3"
+    },
+    {
+      "rank": 12,
+      "player": "Keith Mitchell",
+      "Rating": "8.3"
+    },
+    {
+      "rank": 14,
+      "player": "Viktor Hovland",
+      "Rating": "8.2"
+    },
+    {
+      "rank": 14,
+      "player": "Jason Kokrak",
+      "Rating": "8.2"
+    },
+    {
+      "rank": 16,
+      "player": "Will Zalatoris",
+      "Rating": "8.1"
+    },
+    {
+      "rank": 17,
+      "player": "Dustin Johnson",
+      "Rating": "8.0"
+    },
+    {
+      "rank": 17,
+      "player": "Justin Thomas",
+      "Rating": "8.0"
+    },
+    {
+      "rank": 19,
+      "player": "Sergio Garcia",
+      "Rating": "7.7"
+    },
+    {
+      "rank": 19,
+      "player": "Cameron Smith",
+      "Rating": "7.7"
+    },
+    {
+      "rank": 21,
+      "player": "Sepp Straka",
+      "Rating": "7.6"
+    },
+    {
+      "rank": 22,
+      "player": "Tommy Fleetwood",
+      "Rating": "7.4"
+    },
+    {
+      "rank": 22,
+      "player": "Chesson Hadley",
+      "Rating": "7.4"
+    },
+    {
+      "rank": 24,
+      "player": "Patton Kizzire",
+      "Rating": "7.0"
+    },
+    {
+      "rank": 24,
+      "player": "Shane Lowry",
+      "Rating": "7.0"
+    },
+    {
+      "rank": 26,
+      "player": "Paul Casey",
+      "Rating": "6.9"
+    },
+    {
+      "rank": 26,
+      "player": "Adam Hadwin",
+      "Rating": "6.9"
+    },
+    {
+      "rank": 28,
+      "player": "Seamus Power",
+      "Rating": "6.6"
+    },
+    {
+      "rank": 29,
+      "player": "Dylan Frittelli",
+      "Rating": "6.5"
+    },
+    {
+      "rank": 29,
+      "player": "Maverick McNealy",
+      "Rating": "6.5"
+    },
+    {
+      "rank": 29,
+      "player": "Bubba Watson",
+      "Rating": "6.5"
+    },
+    {
+      "rank": 32,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Rating": "6.3"
+    },
+    {
+      "rank": 32,
+      "player": "Nick Watney",
+      "Rating": "6.3"
+    },
+    {
+      "rank": 34,
+      "player": "Scott Stallings",
+      "Rating": "5.9"
+    },
+    {
+      "rank": 34,
+      "player": "Harold Varner III",
+      "Rating": "5.9"
+    },
+    {
+      "rank": 36,
+      "player": "Alex Noren",
+      "Rating": "5.8"
+    },
+    {
+      "rank": 37,
+      "player": "Peter Malnati",
+      "Rating": "5.7"
+    },
+    {
+      "rank": 38,
+      "player": "Sungjae Im",
+      "Rating": "5.4"
+    },
+    {
+      "rank": 38,
+      "player": "Erik van Rooyen",
+      "Rating": "5.4"
+    },
+    {
+      "rank": 40,
+      "player": "Corey Conners",
+      "Rating": "5.3"
+    },
+    {
+      "rank": 40,
+      "player": "Branden Grace",
+      "Rating": "5.3"
+    },
+    {
+      "rank": 40,
+      "player": "Louis Oosthuizen",
+      "Rating": "5.3"
+    },
+    {
+      "rank": 40,
+      "player": "Jimmy Walker",
+      "Rating": "5.3"
+    },
+    {
+      "rank": 44,
+      "player": "K.H. Lee",
+      "Rating": "5.1"
+    },
+    {
+      "rank": 44,
+      "player": "Doc Redman",
+      "Rating": "5.1"
+    },
+    {
+      "rank": 46,
+      "player": "Tom Hoge",
+      "Rating": "4.9"
+    },
+    {
+      "rank": 46,
+      "player": "Sam Ryder",
+      "Rating": "4.9"
+    },
+    {
+      "rank": 48,
+      "player": "Anirban Lahiri",
+      "Rating": "4.7"
+    },
+    {
+      "rank": 49,
+      "player": "Hayden Buckley",
+      "Rating": "4.6"
+    },
+    {
+      "rank": 50,
+      "player": "Brice Garnett",
+      "Rating": "4.5"
+    },
+    {
+      "rank": 50,
+      "player": "Russell Knox",
+      "Rating": "4.5"
+    },
+    {
+      "rank": 50,
+      "player": "Troy Merritt",
+      "Rating": "4.5"
+    },
+    {
+      "rank": 53,
+      "player": "Kevin Streelman",
+      "Rating": "4.4"
+    },
+    {
+      "rank": 54,
+      "player": "Daniel Berger",
+      "Rating": "4.0"
+    },
+    {
+      "rank": 55,
+      "player": "Patrick Reed",
+      "Rating": "3.8"
+    },
+    {
+      "rank": 56,
+      "player": "Abraham Ancer",
+      "Rating": "3.7"
+    },
+    {
+      "rank": 56,
+      "player": "Kramer Hickok",
+      "Rating": "3.7"
+    },
+    {
+      "rank": 58,
+      "player": "Russell Henley",
+      "Rating": "3.6"
+    },
+    {
+      "rank": 58,
+      "player": "Lee Hodges",
+      "Rating": "3.6"
+    },
+    {
+      "rank": 58,
+      "player": "Denny McCarthy",
+      "Rating": "3.6"
+    },
+    {
+      "rank": 61,
+      "player": "Joel Dahmen",
+      "Rating": "3.5"
+    },
+    {
+      "rank": 62,
+      "player": "Francesco Molinari",
+      "Rating": "3.4"
+    },
+    {
+      "rank": 63,
+      "player": "Ian Poulter",
+      "Rating": "3.3"
+    },
+    {
+      "rank": 64,
+      "player": "Hank Lebioda",
+      "Rating": "3.2"
+    },
+    {
+      "rank": 65,
+      "player": "Doug Ghim",
+      "Rating": "2.6"
+    },
+    {
+      "rank": 66,
+      "player": "Adam Long",
+      "Rating": "2.5"
+    },
+    {
+      "rank": 67,
+      "player": "Brian Harman",
+      "Rating": "2.4"
+    },
+    {
+      "rank": 67,
+      "player": "Pat Perez",
+      "Rating": "2.4"
+    },
+    {
+      "rank": 69,
+      "player": "Kevin Kisner",
+      "Rating": "2.2"
+    },
+    {
+      "rank": 70,
+      "player": "Michael Thompson",
+      "Rating": "2.0"
+    }
+  ]
+}

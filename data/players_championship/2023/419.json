@@ -1,0 +1,684 @@
+{
+  "stat_id": "419",
+  "stat_title": "Going for the Green",
+  "category": "Approach the Green",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Hideki Matsuyama",
+      "%": "94.44",
+      "Attempts": "17",
+      "Non-Attempts": "1",
+      "RTP-Going for the green": "-12",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 1,
+      "player": "Scottie Scheffler",
+      "%": "94.44",
+      "Attempts": "17",
+      "Non-Attempts": "1",
+      "RTP-Going for the green": "-12",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 3,
+      "player": "Chesson Hadley",
+      "%": "88.89",
+      "Attempts": "16",
+      "Non-Attempts": "2",
+      "RTP-Going for the green": "-10",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 3,
+      "player": "Tom Kim",
+      "%": "88.89",
+      "Attempts": "16",
+      "Non-Attempts": "2",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 3,
+      "player": "Gary Woodland",
+      "%": "88.89",
+      "Attempts": "16",
+      "Non-Attempts": "2",
+      "RTP-Going for the green": "-11",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 6,
+      "player": "Patrick Cantlay",
+      "%": "83.33",
+      "Attempts": "15",
+      "Non-Attempts": "3",
+      "RTP-Going for the green": "-11",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 6,
+      "player": "Wyndham Clark",
+      "%": "83.33",
+      "Attempts": "15",
+      "Non-Attempts": "3",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 6,
+      "player": "Sungjae Im",
+      "%": "83.33",
+      "Attempts": "15",
+      "Non-Attempts": "3",
+      "RTP-Going for the green": "-11",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 6,
+      "player": "Davis Thompson",
+      "%": "83.33",
+      "Attempts": "15",
+      "Non-Attempts": "3",
+      "RTP-Going for the green": "-8",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 10,
+      "player": "Sam Burns",
+      "%": "77.78",
+      "Attempts": "14",
+      "Non-Attempts": "4",
+      "RTP-Going for the green": "-10",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 10,
+      "player": "Tyler Duncan",
+      "%": "77.78",
+      "Attempts": "14",
+      "Non-Attempts": "4",
+      "RTP-Going for the green": "-2",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 10,
+      "player": "Adam Hadwin",
+      "%": "77.78",
+      "Attempts": "14",
+      "Non-Attempts": "4",
+      "RTP-Going for the green": "-8",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 10,
+      "player": "Garrick Higgo",
+      "%": "77.78",
+      "Attempts": "14",
+      "Non-Attempts": "4",
+      "RTP-Going for the green": "-8",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 10,
+      "player": "Viktor Hovland",
+      "%": "77.78",
+      "Attempts": "14",
+      "Non-Attempts": "4",
+      "RTP-Going for the green": "-10",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 10,
+      "player": "Keith Mitchell",
+      "%": "77.78",
+      "Attempts": "14",
+      "Non-Attempts": "4",
+      "RTP-Going for the green": "-10",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 10,
+      "player": "Taylor Moore",
+      "%": "77.78",
+      "Attempts": "14",
+      "Non-Attempts": "4",
+      "RTP-Going for the green": "-11",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 10,
+      "player": "Justin Thomas",
+      "%": "77.78",
+      "Attempts": "14",
+      "Non-Attempts": "4",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 18,
+      "player": "Eric Cole",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 18,
+      "player": "Will Gordon",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-2",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 18,
+      "player": "Tom Hoge",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-10",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 18,
+      "player": "Max Homa",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-9",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 18,
+      "player": "Shane Lowry",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-10",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 18,
+      "player": "Aaron Rai",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 18,
+      "player": "Xander Schauffele",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-14",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 18,
+      "player": "Adam Scott",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-9",
+      "RTP-Not going for the grn": "+2"
+    },
+    {
+      "rank": 18,
+      "player": "Alex Smalley",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-4",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 18,
+      "player": "Jordan Spieth",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-4",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 18,
+      "player": "Cameron Young",
+      "%": "72.22",
+      "Attempts": "13",
+      "Non-Attempts": "5",
+      "RTP-Going for the green": "-9",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 29,
+      "player": "Tommy Fleetwood",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-11",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 29,
+      "player": "Rickie Fowler",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 29,
+      "player": "Ben Griffin",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-1",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 29,
+      "player": "Tyrrell Hatton",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-9",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 29,
+      "player": "Mark Hubbard",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-9",
+      "RTP-Not going for the grn": "+2"
+    },
+    {
+      "rank": 29,
+      "player": "Min Woo Lee",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-8",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 29,
+      "player": "David Lingmerth",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "-3"
+    },
+    {
+      "rank": 29,
+      "player": "Ben Martin",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 29,
+      "player": "Denny McCarthy",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 29,
+      "player": "Collin Morikawa",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-8",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 29,
+      "player": "Sam Ryder",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "-3"
+    },
+    {
+      "rank": 29,
+      "player": "Austin Smotherman",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-8",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 29,
+      "player": "Sahith Theegala",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-3",
+      "RTP-Not going for the grn": "+5"
+    },
+    {
+      "rank": 29,
+      "player": "Brendon Todd",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-4",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 29,
+      "player": "Brandon Wu",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-9",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 29,
+      "player": "Dylan Wu",
+      "%": "66.67",
+      "Attempts": "12",
+      "Non-Attempts": "6",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 45,
+      "player": "Christiaan Bezuidenhout",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-8",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 45,
+      "player": "Jason Day",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-4",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 45,
+      "player": "Ryan Fox",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-4",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 45,
+      "player": "Kramer Hickok",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-7",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 45,
+      "player": "Si Woo Kim",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 45,
+      "player": "Maverick McNealy",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "+2"
+    },
+    {
+      "rank": 45,
+      "player": "Francesco Molinari",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-4",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 45,
+      "player": "Taylor Montgomery",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 45,
+      "player": "Taylor Pendrith",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-7",
+      "RTP-Not going for the grn": "+2"
+    },
+    {
+      "rank": 45,
+      "player": "Justin Rose",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-8",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 45,
+      "player": "Matthias Schwab",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-2",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 45,
+      "player": "Sepp Straka",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 45,
+      "player": "Adam Svensson",
+      "%": "61.11",
+      "Attempts": "11",
+      "Non-Attempts": "7",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 58,
+      "player": "Byeong Hun An",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-9",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 58,
+      "player": "Joel Dahmen",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 58,
+      "player": "Tony Finau",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-10",
+      "RTP-Not going for the grn": "+4"
+    },
+    {
+      "rank": 58,
+      "player": "Brian Harman",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "-4"
+    },
+    {
+      "rank": 58,
+      "player": "Russell Henley",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "-1"
+    },
+    {
+      "rank": 58,
+      "player": "Stephan Jaeger",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "+6"
+    },
+    {
+      "rank": 58,
+      "player": "Chad Ramey",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 58,
+      "player": "Justin Suh",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-3",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 58,
+      "player": "Danny Willett",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 58,
+      "player": "Will Zalatoris",
+      "%": "55.56",
+      "Attempts": "10",
+      "Non-Attempts": "8",
+      "RTP-Going for the green": "-4",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 68,
+      "player": "Cam Davis",
+      "%": "50.00",
+      "Attempts": "9",
+      "Non-Attempts": "9",
+      "RTP-Going for the green": "-6",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 68,
+      "player": "Lucas Glover",
+      "%": "50.00",
+      "Attempts": "9",
+      "Non-Attempts": "9",
+      "RTP-Going for the green": "-3",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 68,
+      "player": "Patton Kizzire",
+      "%": "50.00",
+      "Attempts": "9",
+      "Non-Attempts": "9",
+      "RTP-Going for the green": "-5",
+      "RTP-Not going for the grn": "-4"
+    },
+    {
+      "rank": 71,
+      "player": "Nate Lashley",
+      "%": "44.44",
+      "Attempts": "8",
+      "Non-Attempts": "10",
+      "RTP-Going for the green": "-7",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 71,
+      "player": "Scott Stallings",
+      "%": "44.44",
+      "Attempts": "8",
+      "Non-Attempts": "10",
+      "RTP-Going for the green": "-3",
+      "RTP-Not going for the grn": "-2"
+    },
+    {
+      "rank": 73,
+      "player": "Kevin Kisner",
+      "%": "38.89",
+      "Attempts": "7",
+      "Non-Attempts": "11",
+      "RTP-Going for the green": "-3",
+      "RTP-Not going for the grn": "E"
+    },
+    {
+      "rank": 74,
+      "player": "Aaron Baddeley",
+      "%": "27.78",
+      "Attempts": "5",
+      "Non-Attempts": "13",
+      "RTP-Going for the green": "-4",
+      "RTP-Not going for the grn": "+1"
+    },
+    {
+      "rank": 75,
+      "player": "Jerry Kelly",
+      "%": "22.22",
+      "Attempts": "4",
+      "Non-Attempts": "14",
+      "RTP-Going for the green": "-1",
+      "RTP-Not going for the grn": "-4"
+    }
+  ]
+}

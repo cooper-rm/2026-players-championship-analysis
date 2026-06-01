@@ -1,0 +1,520 @@
+{
+  "stat_id": "158",
+  "stat_title": "Ball Striking",
+  "category": "Approach the Green",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Austin Smotherman",
+      "Value": "6",
+      "Total Drv Rank": "5",
+      "GIR Rank": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Patrick Rodgers",
+      "Value": "10",
+      "Total Drv Rank": "7",
+      "GIR Rank": "3"
+    },
+    {
+      "rank": 3,
+      "player": "Sam Stevens",
+      "Value": "18",
+      "Total Drv Rank": "15",
+      "GIR Rank": "3"
+    },
+    {
+      "rank": 4,
+      "player": "Ludvig \u00c5berg",
+      "Value": "21",
+      "Total Drv Rank": "10",
+      "GIR Rank": "11"
+    },
+    {
+      "rank": 5,
+      "player": "Matt Fitzpatrick",
+      "Value": "23",
+      "Total Drv Rank": "1",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 6,
+      "player": "Sudarshan Yellamaraju",
+      "Value": "25",
+      "Total Drv Rank": "3",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 7,
+      "player": "Akshay Bhatia",
+      "Value": "27",
+      "Total Drv Rank": "18",
+      "GIR Rank": "9"
+    },
+    {
+      "rank": 8,
+      "player": "Cameron Young",
+      "Value": "29",
+      "Total Drv Rank": "21",
+      "GIR Rank": "8"
+    },
+    {
+      "rank": 9,
+      "player": "Tommy Fleetwood",
+      "Value": "30",
+      "Total Drv Rank": "25",
+      "GIR Rank": "5"
+    },
+    {
+      "rank": 10,
+      "player": "Rory McIlroy",
+      "Value": "32",
+      "Total Drv Rank": "16",
+      "GIR Rank": "16"
+    },
+    {
+      "rank": 10,
+      "player": "Xander Schauffele",
+      "Value": "32",
+      "Total Drv Rank": "27",
+      "GIR Rank": "5"
+    },
+    {
+      "rank": 12,
+      "player": "Alex Smalley",
+      "Value": "33",
+      "Total Drv Rank": "11",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 13,
+      "player": "J.J. Spaun",
+      "Value": "35",
+      "Total Drv Rank": "19",
+      "GIR Rank": "16"
+    },
+    {
+      "rank": 14,
+      "player": "Michael Thorbjornsen",
+      "Value": "36",
+      "Total Drv Rank": "8",
+      "GIR Rank": "28"
+    },
+    {
+      "rank": 15,
+      "player": "William Mouw",
+      "Value": "37",
+      "Total Drv Rank": "4",
+      "GIR Rank": "33"
+    },
+    {
+      "rank": 16,
+      "player": "Sam Burns",
+      "Value": "39",
+      "Total Drv Rank": "11",
+      "GIR Rank": "28"
+    },
+    {
+      "rank": 17,
+      "player": "Corey Conners",
+      "Value": "41",
+      "Total Drv Rank": "25",
+      "GIR Rank": "16"
+    },
+    {
+      "rank": 18,
+      "player": "Ryan Gerard",
+      "Value": "43",
+      "Total Drv Rank": "32",
+      "GIR Rank": "11"
+    },
+    {
+      "rank": 19,
+      "player": "Robert MacIntyre",
+      "Value": "45",
+      "Total Drv Rank": "34",
+      "GIR Rank": "11"
+    },
+    {
+      "rank": 20,
+      "player": "Brooks Koepka",
+      "Value": "48",
+      "Total Drv Rank": "39",
+      "GIR Rank": "9"
+    },
+    {
+      "rank": 21,
+      "player": "Chad Ramey",
+      "Value": "51",
+      "Total Drv Rank": "29",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 22,
+      "player": "Steven Fisk",
+      "Value": "52",
+      "Total Drv Rank": "19",
+      "GIR Rank": "33"
+    },
+    {
+      "rank": 22,
+      "player": "Taylor Pendrith",
+      "Value": "52",
+      "Total Drv Rank": "5",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 24,
+      "player": "Jacob Bridgeman",
+      "Value": "55",
+      "Total Drv Rank": "17",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 24,
+      "player": "Nick Taylor",
+      "Value": "55",
+      "Total Drv Rank": "44",
+      "GIR Rank": "11"
+    },
+    {
+      "rank": 26,
+      "player": "Justin Rose",
+      "Value": "56",
+      "Total Drv Rank": "28",
+      "GIR Rank": "28"
+    },
+    {
+      "rank": 27,
+      "player": "Wyndham Clark",
+      "Value": "60",
+      "Total Drv Rank": "2",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 27,
+      "player": "Russell Henley",
+      "Value": "60",
+      "Total Drv Rank": "44",
+      "GIR Rank": "16"
+    },
+    {
+      "rank": 27,
+      "player": "Andrew Putnam",
+      "Value": "60",
+      "Total Drv Rank": "38",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 30,
+      "player": "Patrick Cantlay",
+      "Value": "61",
+      "Total Drv Rank": "23",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 30,
+      "player": "Justin Thomas",
+      "Value": "61",
+      "Total Drv Rank": "54",
+      "GIR Rank": "7"
+    },
+    {
+      "rank": 32,
+      "player": "Zach Bauchou",
+      "Value": "62",
+      "Total Drv Rank": "34",
+      "GIR Rank": "28"
+    },
+    {
+      "rank": 33,
+      "player": "Ryo Hisatsune",
+      "Value": "67",
+      "Total Drv Rank": "66",
+      "GIR Rank": "1"
+    },
+    {
+      "rank": 34,
+      "player": "Keegan Bradley",
+      "Value": "71",
+      "Total Drv Rank": "24",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 34,
+      "player": "Michael Brennan",
+      "Value": "71",
+      "Total Drv Rank": "13",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 34,
+      "player": "Max Homa",
+      "Value": "71",
+      "Total Drv Rank": "55",
+      "GIR Rank": "16"
+    },
+    {
+      "rank": 34,
+      "player": "Kristoffer Reitan",
+      "Value": "71",
+      "Total Drv Rank": "13",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 38,
+      "player": "Min Woo Lee",
+      "Value": "74",
+      "Total Drv Rank": "36",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 39,
+      "player": "Seamus Power",
+      "Value": "77",
+      "Total Drv Rank": "55",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 39,
+      "player": "Kevin Roy",
+      "Value": "77",
+      "Total Drv Rank": "61",
+      "GIR Rank": "16"
+    },
+    {
+      "rank": 41,
+      "player": "Lee Hodges",
+      "Value": "78",
+      "Total Drv Rank": "31",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 41,
+      "player": "Rico Hoey",
+      "Value": "78",
+      "Total Drv Rank": "8",
+      "GIR Rank": "70"
+    },
+    {
+      "rank": 41,
+      "player": "Max McGreevy",
+      "Value": "78",
+      "Total Drv Rank": "40",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 41,
+      "player": "Jordan Spieth",
+      "Value": "78",
+      "Total Drv Rank": "40",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 45,
+      "player": "Ricky Castillo",
+      "Value": "79",
+      "Total Drv Rank": "32",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 46,
+      "player": "Joe Highsmith",
+      "Value": "80",
+      "Total Drv Rank": "42",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 47,
+      "player": "Sepp Straka",
+      "Value": "82",
+      "Total Drv Rank": "44",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 48,
+      "player": "Hideki Matsuyama",
+      "Value": "83",
+      "Total Drv Rank": "72",
+      "GIR Rank": "11"
+    },
+    {
+      "rank": 49,
+      "player": "Taylor Moore",
+      "Value": "84",
+      "Total Drv Rank": "29",
+      "GIR Rank": "55"
+    },
+    {
+      "rank": 50,
+      "player": "Daniel Berger",
+      "Value": "86",
+      "Total Drv Rank": "21",
+      "GIR Rank": "65"
+    },
+    {
+      "rank": 51,
+      "player": "J.T. Poston",
+      "Value": "90",
+      "Total Drv Rank": "43",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 51,
+      "player": "Sahith Theegala",
+      "Value": "90",
+      "Total Drv Rank": "62",
+      "GIR Rank": "28"
+    },
+    {
+      "rank": 53,
+      "player": "Chris Kirk",
+      "Value": "91",
+      "Total Drv Rank": "58",
+      "GIR Rank": "33"
+    },
+    {
+      "rank": 54,
+      "player": "Bud Cauley",
+      "Value": "93",
+      "Total Drv Rank": "60",
+      "GIR Rank": "33"
+    },
+    {
+      "rank": 55,
+      "player": "Nico Echavarria",
+      "Value": "95",
+      "Total Drv Rank": "57",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 55,
+      "player": "Brian Harman",
+      "Value": "95",
+      "Total Drv Rank": "48",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 55,
+      "player": "Si Woo Kim",
+      "Value": "95",
+      "Total Drv Rank": "37",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 58,
+      "player": "Scottie Scheffler",
+      "Value": "97",
+      "Total Drv Rank": "50",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 59,
+      "player": "Adam Scott",
+      "Value": "98",
+      "Total Drv Rank": "65",
+      "GIR Rank": "33"
+    },
+    {
+      "rank": 60,
+      "player": "Chris Gotterup",
+      "Value": "103",
+      "Total Drv Rank": "48",
+      "GIR Rank": "55"
+    },
+    {
+      "rank": 61,
+      "player": "Tony Finau",
+      "Value": "107",
+      "Total Drv Rank": "52",
+      "GIR Rank": "55"
+    },
+    {
+      "rank": 62,
+      "player": "Takumi Kanaya",
+      "Value": "109",
+      "Total Drv Rank": "51",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 63,
+      "player": "Danny Walker",
+      "Value": "111",
+      "Total Drv Rank": "73",
+      "GIR Rank": "38"
+    },
+    {
+      "rank": 64,
+      "player": "Viktor Hovland",
+      "Value": "112",
+      "Total Drv Rank": "47",
+      "GIR Rank": "65"
+    },
+    {
+      "rank": 65,
+      "player": "Jason Day",
+      "Value": "117",
+      "Total Drv Rank": "70",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 66,
+      "player": "Rickie Fowler",
+      "Value": "125",
+      "Total Drv Rank": "67",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 66,
+      "player": "Stephan Jaeger",
+      "Value": "125",
+      "Total Drv Rank": "53",
+      "GIR Rank": "72"
+    },
+    {
+      "rank": 68,
+      "player": "Nicolai H\u00f8jgaard",
+      "Value": "127",
+      "Total Drv Rank": "69",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 68,
+      "player": "Matti Schmid",
+      "Value": "127",
+      "Total Drv Rank": "58",
+      "GIR Rank": "69"
+    },
+    {
+      "rank": 70,
+      "player": "Alex Noren",
+      "Value": "128",
+      "Total Drv Rank": "63",
+      "GIR Rank": "65"
+    },
+    {
+      "rank": 71,
+      "player": "Maverick McNealy",
+      "Value": "129",
+      "Total Drv Rank": "64",
+      "GIR Rank": "65"
+    },
+    {
+      "rank": 72,
+      "player": "Eric Cole",
+      "Value": "140",
+      "Total Drv Rank": "70",
+      "GIR Rank": "70"
+    },
+    {
+      "rank": 73,
+      "player": "Keith Mitchell",
+      "Value": "141",
+      "Total Drv Rank": "68",
+      "GIR Rank": "73"
+    }
+  ]
+}

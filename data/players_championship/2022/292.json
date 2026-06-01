@@ -1,0 +1,499 @@
+{
+  "stat_id": "292",
+  "stat_title": "Early Scoring Average",
+  "category": "Scoring",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tommy Fleetwood",
+      "Avg": "66.00",
+      "Total Strokes": "66",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "67.50",
+      "Total Strokes": "135",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 3,
+      "player": "Bubba Watson",
+      "Avg": "68.00",
+      "Total Strokes": "68",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 4,
+      "player": "Sam Burns",
+      "Avg": "68.50",
+      "Total Strokes": "137",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 4,
+      "player": "Adam Hadwin",
+      "Avg": "68.50",
+      "Total Strokes": "137",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 4,
+      "player": "Tom Hoge",
+      "Avg": "68.50",
+      "Total Strokes": "137",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 4,
+      "player": "Joaquin Niemann",
+      "Avg": "68.50",
+      "Total Strokes": "137",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 8,
+      "player": "Louis Oosthuizen",
+      "Avg": "69.00",
+      "Total Strokes": "138",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 8,
+      "player": "Cameron Smith",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 8,
+      "player": "Harold Varner III",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 8,
+      "player": "Will Zalatoris",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 12,
+      "player": "Keith Mitchell",
+      "Avg": "69.33",
+      "Total Strokes": "208",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 13,
+      "player": "Keegan Bradley",
+      "Avg": "69.50",
+      "Total Strokes": "139",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 13,
+      "player": "Paul Casey",
+      "Avg": "69.50",
+      "Total Strokes": "139",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 13,
+      "player": "Max Homa",
+      "Avg": "69.50",
+      "Total Strokes": "139",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 13,
+      "player": "Russell Knox",
+      "Avg": "69.50",
+      "Total Strokes": "139",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 17,
+      "player": "Corey Conners",
+      "Avg": "69.67",
+      "Total Strokes": "209",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 18,
+      "player": "Doug Ghim",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 18,
+      "player": "Viktor Hovland",
+      "Avg": "70.00",
+      "Total Strokes": "140",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 18,
+      "player": "Shane Lowry",
+      "Avg": "70.00",
+      "Total Strokes": "210",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 18,
+      "player": "Denny McCarthy",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 18,
+      "player": "Taylor Pendrith",
+      "Avg": "70.00",
+      "Total Strokes": "140",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 23,
+      "player": "Abraham Ancer",
+      "Avg": "70.33",
+      "Total Strokes": "211",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 23,
+      "player": "Kramer Hickok",
+      "Avg": "70.33",
+      "Total Strokes": "211",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 25,
+      "player": "Tyrrell Hatton",
+      "Avg": "70.50",
+      "Total Strokes": "282",
+      "Total Early Rounds": "4"
+    },
+    {
+      "rank": 25,
+      "player": "Maverick McNealy",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 25,
+      "player": "Patrick Reed",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 25,
+      "player": "Justin Thomas",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 25,
+      "player": "Erik van Rooyen",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 30,
+      "player": "Ian Poulter",
+      "Avg": "70.67",
+      "Total Strokes": "212",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 30,
+      "player": "Sepp Straka",
+      "Avg": "70.67",
+      "Total Strokes": "212",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Sergio Garcia",
+      "Avg": "71.00",
+      "Total Strokes": "213",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Russell Henley",
+      "Avg": "71.00",
+      "Total Strokes": "213",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Kevin Kisner",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Francesco Molinari",
+      "Avg": "71.00",
+      "Total Strokes": "213",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Doc Redman",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Brendan Steele",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Nick Watney",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Aaron Wise",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 40,
+      "player": "Joel Dahmen",
+      "Avg": "71.25",
+      "Total Strokes": "285",
+      "Total Early Rounds": "4"
+    },
+    {
+      "rank": 41,
+      "player": "Seamus Power",
+      "Avg": "71.33",
+      "Total Strokes": "214",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 42,
+      "player": "Brian Harman",
+      "Avg": "71.50",
+      "Total Strokes": "143",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 43,
+      "player": "Daniel Berger",
+      "Avg": "71.67",
+      "Total Strokes": "215",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 43,
+      "player": "Patton Kizzire",
+      "Avg": "71.67",
+      "Total Strokes": "215",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 45,
+      "player": "Lee Hodges",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 45,
+      "player": "Alex Noren",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 45,
+      "player": "Michael Thompson",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 48,
+      "player": "Jason Kokrak",
+      "Avg": "72.33",
+      "Total Strokes": "217",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 48,
+      "player": "Jimmy Walker",
+      "Avg": "72.33",
+      "Total Strokes": "217",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 50,
+      "player": "Brice Garnett",
+      "Avg": "72.50",
+      "Total Strokes": "145",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 50,
+      "player": "Troy Merritt",
+      "Avg": "72.50",
+      "Total Strokes": "145",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 52,
+      "player": "Branden Grace",
+      "Avg": "72.67",
+      "Total Strokes": "218",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 52,
+      "player": "Jon Rahm",
+      "Avg": "72.67",
+      "Total Strokes": "218",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 54,
+      "player": "Dylan Frittelli",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "Anirban Lahiri",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "K.H. Lee",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 54,
+      "player": "Adam Long",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 54,
+      "player": "Rory McIlroy",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "Scott Stallings",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 54,
+      "player": "Kevin Streelman",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 61,
+      "player": "Hank Lebioda",
+      "Avg": "73.33",
+      "Total Strokes": "220",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 62,
+      "player": "Hayden Buckley",
+      "Avg": "73.50",
+      "Total Strokes": "147",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 62,
+      "player": "Pat Perez",
+      "Avg": "73.50",
+      "Total Strokes": "147",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 64,
+      "player": "Chesson Hadley",
+      "Avg": "74.00",
+      "Total Strokes": "222",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 64,
+      "player": "Sungjae Im",
+      "Avg": "74.00",
+      "Total Strokes": "148",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 64,
+      "player": "Sam Ryder",
+      "Avg": "74.00",
+      "Total Strokes": "222",
+      "Total Early Rounds": "3"
+    },
+    {
+      "rank": 67,
+      "player": "Lucas Herbert",
+      "Avg": "74.50",
+      "Total Strokes": "149",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 67,
+      "player": "Dustin Johnson",
+      "Avg": "74.50",
+      "Total Strokes": "149",
+      "Total Early Rounds": "2"
+    },
+    {
+      "rank": 69,
+      "player": "Peter Malnati",
+      "Avg": "75.00",
+      "Total Strokes": "75",
+      "Total Early Rounds": "1"
+    },
+    {
+      "rank": 70,
+      "player": "Scottie Scheffler",
+      "Avg": "76.00",
+      "Total Strokes": "152",
+      "Total Early Rounds": "2"
+    }
+  ]
+}

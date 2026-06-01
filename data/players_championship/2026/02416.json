@@ -1,0 +1,520 @@
+{
+  "stat_id": "02416",
+  "stat_title": "Reverse Bounce Back",
+  "category": "Scoring",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Ludvig \u00c5berg",
+      "% under then over par": ".00%",
+      "Total under then over Par": "0",
+      "Under Par": "12"
+    },
+    {
+      "rank": 1,
+      "player": "Viktor Hovland",
+      "% under then over par": ".00%",
+      "Total under then over Par": "0",
+      "Under Par": "13"
+    },
+    {
+      "rank": 1,
+      "player": "Xander Schauffele",
+      "% under then over par": ".00%",
+      "Total under then over Par": "0",
+      "Under Par": "17"
+    },
+    {
+      "rank": 1,
+      "player": "Austin Smotherman",
+      "% under then over par": ".00%",
+      "Total under then over Par": "0",
+      "Under Par": "14"
+    },
+    {
+      "rank": 1,
+      "player": "Nick Taylor",
+      "% under then over par": ".00%",
+      "Total under then over Par": "0",
+      "Under Par": "11"
+    },
+    {
+      "rank": 6,
+      "player": "Sudarshan Yellamaraju",
+      "% under then over par": "5.26%",
+      "Total under then over Par": "1",
+      "Under Par": "19"
+    },
+    {
+      "rank": 7,
+      "player": "Patrick Rodgers",
+      "% under then over par": "5.56%",
+      "Total under then over Par": "1",
+      "Under Par": "18"
+    },
+    {
+      "rank": 8,
+      "player": "Hideki Matsuyama",
+      "% under then over par": "5.88%",
+      "Total under then over Par": "1",
+      "Under Par": "17"
+    },
+    {
+      "rank": 8,
+      "player": "Sepp Straka",
+      "% under then over par": "5.88%",
+      "Total under then over Par": "1",
+      "Under Par": "17"
+    },
+    {
+      "rank": 10,
+      "player": "Maverick McNealy",
+      "% under then over par": "6.25%",
+      "Total under then over Par": "1",
+      "Under Par": "16"
+    },
+    {
+      "rank": 10,
+      "player": "Justin Rose",
+      "% under then over par": "6.25%",
+      "Total under then over Par": "1",
+      "Under Par": "16"
+    },
+    {
+      "rank": 12,
+      "player": "Taylor Pendrith",
+      "% under then over par": "7.69%",
+      "Total under then over Par": "1",
+      "Under Par": "13"
+    },
+    {
+      "rank": 12,
+      "player": "Andrew Putnam",
+      "% under then over par": "7.69%",
+      "Total under then over Par": "1",
+      "Under Par": "13"
+    },
+    {
+      "rank": 14,
+      "player": "Seamus Power",
+      "% under then over par": "8.33%",
+      "Total under then over Par": "1",
+      "Under Par": "12"
+    },
+    {
+      "rank": 14,
+      "player": "Kevin Roy",
+      "% under then over par": "8.33%",
+      "Total under then over Par": "1",
+      "Under Par": "12"
+    },
+    {
+      "rank": 16,
+      "player": "Patrick Cantlay",
+      "% under then over par": "9.09%",
+      "Total under then over Par": "1",
+      "Under Par": "11"
+    },
+    {
+      "rank": 17,
+      "player": "Jason Day",
+      "% under then over par": "11.11%",
+      "Total under then over Par": "1",
+      "Under Par": "9"
+    },
+    {
+      "rank": 17,
+      "player": "Russell Henley",
+      "% under then over par": "11.11%",
+      "Total under then over Par": "2",
+      "Under Par": "18"
+    },
+    {
+      "rank": 19,
+      "player": "Ryo Hisatsune",
+      "% under then over par": "12.50%",
+      "Total under then over Par": "2",
+      "Under Par": "16"
+    },
+    {
+      "rank": 20,
+      "player": "Scottie Scheffler",
+      "% under then over par": "13.33%",
+      "Total under then over Par": "2",
+      "Under Par": "15"
+    },
+    {
+      "rank": 20,
+      "player": "Sahith Theegala",
+      "% under then over par": "13.33%",
+      "Total under then over Par": "2",
+      "Under Par": "15"
+    },
+    {
+      "rank": 22,
+      "player": "Zach Bauchou",
+      "% under then over par": "14.29%",
+      "Total under then over Par": "2",
+      "Under Par": "14"
+    },
+    {
+      "rank": 22,
+      "player": "Chad Ramey",
+      "% under then over par": "14.29%",
+      "Total under then over Par": "2",
+      "Under Par": "14"
+    },
+    {
+      "rank": 22,
+      "player": "Danny Walker",
+      "% under then over par": "14.29%",
+      "Total under then over Par": "2",
+      "Under Par": "14"
+    },
+    {
+      "rank": 25,
+      "player": "Chris Gotterup",
+      "% under then over par": "15.38%",
+      "Total under then over Par": "2",
+      "Under Par": "13"
+    },
+    {
+      "rank": 25,
+      "player": "Adam Scott",
+      "% under then over par": "15.38%",
+      "Total under then over Par": "2",
+      "Under Par": "13"
+    },
+    {
+      "rank": 25,
+      "player": "Alex Smalley",
+      "% under then over par": "15.38%",
+      "Total under then over Par": "2",
+      "Under Par": "13"
+    },
+    {
+      "rank": 28,
+      "player": "Brian Harman",
+      "% under then over par": "15.79%",
+      "Total under then over Par": "3",
+      "Under Par": "19"
+    },
+    {
+      "rank": 28,
+      "player": "Robert MacIntyre",
+      "% under then over par": "15.79%",
+      "Total under then over Par": "3",
+      "Under Par": "19"
+    },
+    {
+      "rank": 28,
+      "player": "Cameron Young",
+      "% under then over par": "15.79%",
+      "Total under then over Par": "3",
+      "Under Par": "19"
+    },
+    {
+      "rank": 31,
+      "player": "Ricky Castillo",
+      "% under then over par": "16.67%",
+      "Total under then over Par": "2",
+      "Under Par": "12"
+    },
+    {
+      "rank": 31,
+      "player": "Nico Echavarria",
+      "% under then over par": "16.67%",
+      "Total under then over Par": "2",
+      "Under Par": "12"
+    },
+    {
+      "rank": 31,
+      "player": "Lee Hodges",
+      "% under then over par": "16.67%",
+      "Total under then over Par": "2",
+      "Under Par": "12"
+    },
+    {
+      "rank": 31,
+      "player": "Brooks Koepka",
+      "% under then over par": "16.67%",
+      "Total under then over Par": "3",
+      "Under Par": "18"
+    },
+    {
+      "rank": 31,
+      "player": "Jordan Spieth",
+      "% under then over par": "16.67%",
+      "Total under then over Par": "3",
+      "Under Par": "18"
+    },
+    {
+      "rank": 36,
+      "player": "Tony Finau",
+      "% under then over par": "18.18%",
+      "Total under then over Par": "2",
+      "Under Par": "11"
+    },
+    {
+      "rank": 36,
+      "player": "Steven Fisk",
+      "% under then over par": "18.18%",
+      "Total under then over Par": "2",
+      "Under Par": "11"
+    },
+    {
+      "rank": 36,
+      "player": "Nicolai H\u00f8jgaard",
+      "% under then over par": "18.18%",
+      "Total under then over Par": "2",
+      "Under Par": "11"
+    },
+    {
+      "rank": 36,
+      "player": "Rory McIlroy",
+      "% under then over par": "18.18%",
+      "Total under then over Par": "2",
+      "Under Par": "11"
+    },
+    {
+      "rank": 36,
+      "player": "Sam Stevens",
+      "% under then over par": "18.18%",
+      "Total under then over Par": "2",
+      "Under Par": "11"
+    },
+    {
+      "rank": 41,
+      "player": "Daniel Berger",
+      "% under then over par": "18.75%",
+      "Total under then over Par": "3",
+      "Under Par": "16"
+    },
+    {
+      "rank": 41,
+      "player": "Keegan Bradley",
+      "% under then over par": "18.75%",
+      "Total under then over Par": "3",
+      "Under Par": "16"
+    },
+    {
+      "rank": 41,
+      "player": "Eric Cole",
+      "% under then over par": "18.75%",
+      "Total under then over Par": "3",
+      "Under Par": "16"
+    },
+    {
+      "rank": 41,
+      "player": "J.T. Poston",
+      "% under then over par": "18.75%",
+      "Total under then over Par": "3",
+      "Under Par": "16"
+    },
+    {
+      "rank": 41,
+      "player": "Justin Thomas",
+      "% under then over par": "18.75%",
+      "Total under then over Par": "3",
+      "Under Par": "16"
+    },
+    {
+      "rank": 46,
+      "player": "Michael Thorbjornsen",
+      "% under then over par": "19.05%",
+      "Total under then over Par": "4",
+      "Under Par": "21"
+    },
+    {
+      "rank": 47,
+      "player": "Takumi Kanaya",
+      "% under then over par": "20.00%",
+      "Total under then over Par": "2",
+      "Under Par": "10"
+    },
+    {
+      "rank": 48,
+      "player": "Corey Conners",
+      "% under then over par": "21.05%",
+      "Total under then over Par": "4",
+      "Under Par": "19"
+    },
+    {
+      "rank": 49,
+      "player": "Joe Highsmith",
+      "% under then over par": "21.43%",
+      "Total under then over Par": "3",
+      "Under Par": "14"
+    },
+    {
+      "rank": 49,
+      "player": "Taylor Moore",
+      "% under then over par": "21.43%",
+      "Total under then over Par": "3",
+      "Under Par": "14"
+    },
+    {
+      "rank": 49,
+      "player": "J.J. Spaun",
+      "% under then over par": "21.43%",
+      "Total under then over Par": "3",
+      "Under Par": "14"
+    },
+    {
+      "rank": 52,
+      "player": "Min Woo Lee",
+      "% under then over par": "22.73%",
+      "Total under then over Par": "5",
+      "Under Par": "22"
+    },
+    {
+      "rank": 53,
+      "player": "Rickie Fowler",
+      "% under then over par": "23.08%",
+      "Total under then over Par": "3",
+      "Under Par": "13"
+    },
+    {
+      "rank": 53,
+      "player": "Si Woo Kim",
+      "% under then over par": "23.08%",
+      "Total under then over Par": "3",
+      "Under Par": "13"
+    },
+    {
+      "rank": 55,
+      "player": "Bud Cauley",
+      "% under then over par": "25.00%",
+      "Total under then over Par": "3",
+      "Under Par": "12"
+    },
+    {
+      "rank": 55,
+      "player": "Matt Fitzpatrick",
+      "% under then over par": "25.00%",
+      "Total under then over Par": "6",
+      "Under Par": "24"
+    },
+    {
+      "rank": 55,
+      "player": "Rico Hoey",
+      "% under then over par": "25.00%",
+      "Total under then over Par": "5",
+      "Under Par": "20"
+    },
+    {
+      "rank": 55,
+      "player": "Stephan Jaeger",
+      "% under then over par": "25.00%",
+      "Total under then over Par": "3",
+      "Under Par": "12"
+    },
+    {
+      "rank": 59,
+      "player": "Max Homa",
+      "% under then over par": "26.09%",
+      "Total under then over Par": "6",
+      "Under Par": "23"
+    },
+    {
+      "rank": 60,
+      "player": "Akshay Bhatia",
+      "% under then over par": "26.32%",
+      "Total under then over Par": "5",
+      "Under Par": "19"
+    },
+    {
+      "rank": 60,
+      "player": "William Mouw",
+      "% under then over par": "26.32%",
+      "Total under then over Par": "5",
+      "Under Par": "19"
+    },
+    {
+      "rank": 60,
+      "player": "Matti Schmid",
+      "% under then over par": "26.32%",
+      "Total under then over Par": "5",
+      "Under Par": "19"
+    },
+    {
+      "rank": 63,
+      "player": "Jacob Bridgeman",
+      "% under then over par": "28.57%",
+      "Total under then over Par": "6",
+      "Under Par": "21"
+    },
+    {
+      "rank": 63,
+      "player": "Chris Kirk",
+      "% under then over par": "28.57%",
+      "Total under then over Par": "4",
+      "Under Par": "14"
+    },
+    {
+      "rank": 63,
+      "player": "Keith Mitchell",
+      "% under then over par": "28.57%",
+      "Total under then over Par": "4",
+      "Under Par": "14"
+    },
+    {
+      "rank": 66,
+      "player": "Sam Burns",
+      "% under then over par": "29.41%",
+      "Total under then over Par": "5",
+      "Under Par": "17"
+    },
+    {
+      "rank": 67,
+      "player": "Kristoffer Reitan",
+      "% under then over par": "30.77%",
+      "Total under then over Par": "4",
+      "Under Par": "13"
+    },
+    {
+      "rank": 68,
+      "player": "Tommy Fleetwood",
+      "% under then over par": "31.25%",
+      "Total under then over Par": "5",
+      "Under Par": "16"
+    },
+    {
+      "rank": 69,
+      "player": "Ryan Gerard",
+      "% under then over par": "31.58%",
+      "Total under then over Par": "6",
+      "Under Par": "19"
+    },
+    {
+      "rank": 70,
+      "player": "Max McGreevy",
+      "% under then over par": "33.33%",
+      "Total under then over Par": "5",
+      "Under Par": "15"
+    },
+    {
+      "rank": 71,
+      "player": "Alex Noren",
+      "% under then over par": "35.29%",
+      "Total under then over Par": "6",
+      "Under Par": "17"
+    },
+    {
+      "rank": 72,
+      "player": "Wyndham Clark",
+      "% under then over par": "37.50%",
+      "Total under then over Par": "6",
+      "Under Par": "16"
+    },
+    {
+      "rank": 73,
+      "player": "Michael Brennan",
+      "% under then over par": "40.00%",
+      "Total under then over Par": "6",
+      "Under Par": "15"
+    }
+  ]
+}

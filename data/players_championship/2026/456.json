@@ -1,0 +1,593 @@
+{
+  "stat_id": "456",
+  "stat_title": "Driving Pct. 260-280 (Measured)",
+  "category": "Off The Tee",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Bud Cauley",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 1,
+      "player": "Nico Echavarria",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 1,
+      "player": "Tommy Fleetwood",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+0.67"
+    },
+    {
+      "rank": 1,
+      "player": "Russell Henley",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-0.67"
+    },
+    {
+      "rank": 1,
+      "player": "Rico Hoey",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+0.33"
+    },
+    {
+      "rank": 1,
+      "player": "Takumi Kanaya",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+0.33"
+    },
+    {
+      "rank": 1,
+      "player": "Si Woo Kim",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 1,
+      "player": "Chris Kirk",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+0.33"
+    },
+    {
+      "rank": 1,
+      "player": "Hideki Matsuyama",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 1,
+      "player": "Max McGreevy",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 1,
+      "player": "Seamus Power",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 1,
+      "player": "Andrew Putnam",
+      "%": "37.50%",
+      "Total Drives for 260-280": "3",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Daniel Berger",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Akshay Bhatia",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 13,
+      "player": "Patrick Cantlay",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Eric Cole",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Corey Conners",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 13,
+      "player": "Ryan Gerard",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 13,
+      "player": "Brian Harman",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 13,
+      "player": "Ryo Hisatsune",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Max Homa",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 13,
+      "player": "Viktor Hovland",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Robert MacIntyre",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 13,
+      "player": "Taylor Pendrith",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Kevin Roy",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Danny Walker",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Cameron Young",
+      "%": "25.00%",
+      "Total Drives for 260-280": "2",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Ludvig \u00c5berg",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Zach Bauchou",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Keegan Bradley",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Ricky Castillo",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+2.00"
+    },
+    {
+      "rank": 28,
+      "player": "Jason Day",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Tony Finau",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Matt Fitzpatrick",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 28,
+      "player": "Rickie Fowler",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Chris Gotterup",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 28,
+      "player": "Lee Hodges",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 28,
+      "player": "Nicolai H\u00f8jgaard",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Stephan Jaeger",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Brooks Koepka",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 28,
+      "player": "Keith Mitchell",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+2.00"
+    },
+    {
+      "rank": 28,
+      "player": "William Mouw",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Alex Noren",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 28,
+      "player": "J.T. Poston",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Justin Rose",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 28,
+      "player": "Xander Schauffele",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 28,
+      "player": "Matti Schmid",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 28,
+      "player": "Adam Scott",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Alex Smalley",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Austin Smotherman",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 28,
+      "player": "Jordan Spieth",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Nick Taylor",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Sahith Theegala",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Justin Thomas",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Michael Thorbjornsen",
+      "%": "12.50%",
+      "Total Drives for 260-280": "1",
+      "Total Drvs - overall": "8",
+      "Relative to par": "-1.00"
+    },
+    {
+      "rank": 56,
+      "player": "Michael Brennan",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Jacob Bridgeman",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Sam Burns",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Wyndham Clark",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Steven Fisk",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Joe Highsmith",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Min Woo Lee",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Rory McIlroy",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Maverick McNealy",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Taylor Moore",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Chad Ramey",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Kristoffer Reitan",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Patrick Rodgers",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Scottie Scheffler",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "J.J. Spaun",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Sam Stevens",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Sepp Straka",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 56,
+      "player": "Sudarshan Yellamaraju",
+      "%": ".00%",
+      "Total Drives for 260-280": "0",
+      "Total Drvs - overall": "8",
+      "Relative to par": "E"
+    }
+  ]
+}

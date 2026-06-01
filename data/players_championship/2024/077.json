@@ -1,0 +1,593 @@
+{
+  "stat_id": "077",
+  "stat_title": "GIR Percentage - 100-125 yards",
+  "category": "Approach the Green",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Christiaan Bezuidenhout",
+      "%": "100.00%",
+      "Greens Hit": "10",
+      "Total Holes": "10",
+      "Relative to par": "-0.70"
+    },
+    {
+      "rank": 1,
+      "player": "Brian Harman",
+      "%": "100.00%",
+      "Greens Hit": "11",
+      "Total Holes": "11",
+      "Relative to par": "-0.27"
+    },
+    {
+      "rank": 1,
+      "player": "Scottie Scheffler",
+      "%": "100.00%",
+      "Greens Hit": "8",
+      "Total Holes": "8",
+      "Relative to par": "-0.38"
+    },
+    {
+      "rank": 4,
+      "player": "J.T. Poston",
+      "%": "90.91%",
+      "Greens Hit": "10",
+      "Total Holes": "11",
+      "Relative to par": "-0.40"
+    },
+    {
+      "rank": 5,
+      "player": "Sahith Theegala",
+      "%": "90.00%",
+      "Greens Hit": "9",
+      "Total Holes": "10",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 5,
+      "player": "Dylan Wu",
+      "%": "90.00%",
+      "Greens Hit": "9",
+      "Total Holes": "10",
+      "Relative to par": "-0.11"
+    },
+    {
+      "rank": 7,
+      "player": "Sam Burns",
+      "%": "88.89%",
+      "Greens Hit": "8",
+      "Total Holes": "9",
+      "Relative to par": "-0.38"
+    },
+    {
+      "rank": 7,
+      "player": "Maverick McNealy",
+      "%": "88.89%",
+      "Greens Hit": "8",
+      "Total Holes": "9",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 7,
+      "player": "Ryan Moore",
+      "%": "88.89%",
+      "Greens Hit": "8",
+      "Total Holes": "9",
+      "Relative to par": "-0.13"
+    },
+    {
+      "rank": 10,
+      "player": "Joel Dahmen",
+      "%": "85.71%",
+      "Greens Hit": "12",
+      "Total Holes": "14",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 10,
+      "player": "Tommy Fleetwood",
+      "%": "85.71%",
+      "Greens Hit": "6",
+      "Total Holes": "7",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 10,
+      "player": "Francesco Molinari",
+      "%": "85.71%",
+      "Greens Hit": "6",
+      "Total Holes": "7",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 10,
+      "player": "Taylor Montgomery",
+      "%": "85.71%",
+      "Greens Hit": "12",
+      "Total Holes": "14",
+      "Relative to par": "-0.42"
+    },
+    {
+      "rank": 10,
+      "player": "Taylor Moore",
+      "%": "85.71%",
+      "Greens Hit": "6",
+      "Total Holes": "7",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 15,
+      "player": "Max Homa",
+      "%": "83.33%",
+      "Greens Hit": "10",
+      "Total Holes": "12",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 15,
+      "player": "Sungjae Im",
+      "%": "83.33%",
+      "Greens Hit": "5",
+      "Total Holes": "6",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 15,
+      "player": "Jake Knapp",
+      "%": "83.33%",
+      "Greens Hit": "10",
+      "Total Holes": "12",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 15,
+      "player": "Alex Noren",
+      "%": "83.33%",
+      "Greens Hit": "10",
+      "Total Holes": "12",
+      "Relative to par": "-0.30"
+    },
+    {
+      "rank": 19,
+      "player": "Hideki Matsuyama",
+      "%": "81.82%",
+      "Greens Hit": "9",
+      "Total Holes": "11",
+      "Relative to par": "-0.44"
+    },
+    {
+      "rank": 19,
+      "player": "Seamus Power",
+      "%": "81.82%",
+      "Greens Hit": "9",
+      "Total Holes": "11",
+      "Relative to par": "-0.22"
+    },
+    {
+      "rank": 21,
+      "player": "Min Woo Lee",
+      "%": "80.00%",
+      "Greens Hit": "8",
+      "Total Holes": "10",
+      "Relative to par": "-0.13"
+    },
+    {
+      "rank": 22,
+      "player": "C.T. Pan",
+      "%": "78.57%",
+      "Greens Hit": "11",
+      "Total Holes": "14",
+      "Relative to par": "-0.45"
+    },
+    {
+      "rank": 23,
+      "player": "Nate Lashley",
+      "%": "77.78%",
+      "Greens Hit": "7",
+      "Total Holes": "9",
+      "Relative to par": "-0.43"
+    },
+    {
+      "rank": 23,
+      "player": "Xander Schauffele",
+      "%": "77.78%",
+      "Greens Hit": "7",
+      "Total Holes": "9",
+      "Relative to par": "-0.43"
+    },
+    {
+      "rank": 23,
+      "player": "Adam Schenk",
+      "%": "77.78%",
+      "Greens Hit": "7",
+      "Total Holes": "9",
+      "Relative to par": "-0.43"
+    },
+    {
+      "rank": 26,
+      "player": "Matt Fitzpatrick",
+      "%": "76.92%",
+      "Greens Hit": "10",
+      "Total Holes": "13",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 26,
+      "player": "Shane Lowry",
+      "%": "76.92%",
+      "Greens Hit": "10",
+      "Total Holes": "13",
+      "Relative to par": "-0.10"
+    },
+    {
+      "rank": 26,
+      "player": "Ben Martin",
+      "%": "76.92%",
+      "Greens Hit": "10",
+      "Total Holes": "13",
+      "Relative to par": "-0.20"
+    },
+    {
+      "rank": 29,
+      "player": "Emiliano Grillo",
+      "%": "75.00%",
+      "Greens Hit": "9",
+      "Total Holes": "12",
+      "Relative to par": "-0.22"
+    },
+    {
+      "rank": 29,
+      "player": "Peter Malnati",
+      "%": "75.00%",
+      "Greens Hit": "6",
+      "Total Holes": "8",
+      "Relative to par": "-0.67"
+    },
+    {
+      "rank": 29,
+      "player": "Cameron Young",
+      "%": "75.00%",
+      "Greens Hit": "9",
+      "Total Holes": "12",
+      "Relative to par": "-0.56"
+    },
+    {
+      "rank": 32,
+      "player": "Austin Eckroat",
+      "%": "73.33%",
+      "Greens Hit": "11",
+      "Total Holes": "15",
+      "Relative to par": "-0.09"
+    },
+    {
+      "rank": 33,
+      "player": "Rory McIlroy",
+      "%": "72.73%",
+      "Greens Hit": "8",
+      "Total Holes": "11",
+      "Relative to par": "-0.88"
+    },
+    {
+      "rank": 34,
+      "player": "Kurt Kitayama",
+      "%": "70.59%",
+      "Greens Hit": "12",
+      "Total Holes": "17",
+      "Relative to par": "-0.42"
+    },
+    {
+      "rank": 35,
+      "player": "Corey Conners",
+      "%": "70.00%",
+      "Greens Hit": "7",
+      "Total Holes": "10",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 35,
+      "player": "Sam Ryder",
+      "%": "70.00%",
+      "Greens Hit": "7",
+      "Total Holes": "10",
+      "Relative to par": "-0.57"
+    },
+    {
+      "rank": 37,
+      "player": "Tony Finau",
+      "%": "69.23%",
+      "Greens Hit": "9",
+      "Total Holes": "13",
+      "Relative to par": "-0.22"
+    },
+    {
+      "rank": 38,
+      "player": "Ludvig \u00c5berg",
+      "%": "66.67%",
+      "Greens Hit": "8",
+      "Total Holes": "12",
+      "Relative to par": "-0.13"
+    },
+    {
+      "rank": 38,
+      "player": "Matt NeSmith",
+      "%": "66.67%",
+      "Greens Hit": "8",
+      "Total Holes": "12",
+      "Relative to par": "-0.25"
+    },
+    {
+      "rank": 38,
+      "player": "Aaron Rai",
+      "%": "66.67%",
+      "Greens Hit": "4",
+      "Total Holes": "6",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 38,
+      "player": "Matti Schmid",
+      "%": "66.67%",
+      "Greens Hit": "6",
+      "Total Holes": "9",
+      "Relative to par": "+0.17"
+    },
+    {
+      "rank": 38,
+      "player": "Sepp Straka",
+      "%": "66.67%",
+      "Greens Hit": "6",
+      "Total Holes": "9",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 38,
+      "player": "Nick Taylor",
+      "%": "66.67%",
+      "Greens Hit": "10",
+      "Total Holes": "15",
+      "Relative to par": "-0.60"
+    },
+    {
+      "rank": 44,
+      "player": "Denny McCarthy",
+      "%": "64.29%",
+      "Greens Hit": "9",
+      "Total Holes": "14",
+      "Relative to par": "-0.56"
+    },
+    {
+      "rank": 45,
+      "player": "Andrew Putnam",
+      "%": "63.64%",
+      "Greens Hit": "7",
+      "Total Holes": "11",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 46,
+      "player": "Viktor Hovland",
+      "%": "62.50%",
+      "Greens Hit": "5",
+      "Total Holes": "8",
+      "Relative to par": "-0.40"
+    },
+    {
+      "rank": 46,
+      "player": "Si Woo Kim",
+      "%": "62.50%",
+      "Greens Hit": "5",
+      "Total Holes": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 48,
+      "player": "Thomas Detry",
+      "%": "61.54%",
+      "Greens Hit": "8",
+      "Total Holes": "13",
+      "Relative to par": "-0.38"
+    },
+    {
+      "rank": 48,
+      "player": "Grayson Murray",
+      "%": "61.54%",
+      "Greens Hit": "8",
+      "Total Holes": "13",
+      "Relative to par": "-0.38"
+    },
+    {
+      "rank": 50,
+      "player": "Harris English",
+      "%": "60.00%",
+      "Greens Hit": "6",
+      "Total Holes": "10",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 50,
+      "player": "Brice Garnett",
+      "%": "60.00%",
+      "Greens Hit": "6",
+      "Total Holes": "10",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 50,
+      "player": "Doug Ghim",
+      "%": "60.00%",
+      "Greens Hit": "6",
+      "Total Holes": "10",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 50,
+      "player": "Tom Hoge",
+      "%": "60.00%",
+      "Greens Hit": "3",
+      "Total Holes": "5",
+      "Relative to par": "-0.67"
+    },
+    {
+      "rank": 50,
+      "player": "Martin Laird",
+      "%": "60.00%",
+      "Greens Hit": "6",
+      "Total Holes": "10",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 50,
+      "player": "Sami Valimaki",
+      "%": "60.00%",
+      "Greens Hit": "6",
+      "Total Holes": "10",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 50,
+      "player": "Gary Woodland",
+      "%": "60.00%",
+      "Greens Hit": "6",
+      "Total Holes": "10",
+      "Relative to par": "-0.17"
+    },
+    {
+      "rank": 57,
+      "player": "Jason Day",
+      "%": "58.33%",
+      "Greens Hit": "7",
+      "Total Holes": "12",
+      "Relative to par": "-0.14"
+    },
+    {
+      "rank": 57,
+      "player": "Mark Hubbard",
+      "%": "58.33%",
+      "Greens Hit": "7",
+      "Total Holes": "12",
+      "Relative to par": "-0.29"
+    },
+    {
+      "rank": 59,
+      "player": "Wyndham Clark",
+      "%": "57.14%",
+      "Greens Hit": "4",
+      "Total Holes": "7",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 60,
+      "player": "Lee Hodges",
+      "%": "55.56%",
+      "Greens Hit": "5",
+      "Total Holes": "9",
+      "Relative to par": "-0.20"
+    },
+    {
+      "rank": 61,
+      "player": "Adam Scott",
+      "%": "53.85%",
+      "Greens Hit": "7",
+      "Total Holes": "13",
+      "Relative to par": "-0.29"
+    },
+    {
+      "rank": 62,
+      "player": "Keith Mitchell",
+      "%": "53.33%",
+      "Greens Hit": "8",
+      "Total Holes": "15",
+      "Relative to par": "-0.13"
+    },
+    {
+      "rank": 63,
+      "player": "Chris Kirk",
+      "%": "50.00%",
+      "Greens Hit": "7",
+      "Total Holes": "14",
+      "Relative to par": "-0.43"
+    },
+    {
+      "rank": 63,
+      "player": "David Lipsky",
+      "%": "50.00%",
+      "Greens Hit": "4",
+      "Total Holes": "8",
+      "Relative to par": "-0.25"
+    },
+    {
+      "rank": 63,
+      "player": "J.J. Spaun",
+      "%": "50.00%",
+      "Greens Hit": "6",
+      "Total Holes": "12",
+      "Relative to par": "-0.33"
+    },
+    {
+      "rank": 66,
+      "player": "Rickie Fowler",
+      "%": "46.67%",
+      "Greens Hit": "7",
+      "Total Holes": "15",
+      "Relative to par": "-0.14"
+    },
+    {
+      "rank": 67,
+      "player": "Mackenzie Hughes",
+      "%": "45.45%",
+      "Greens Hit": "5",
+      "Total Holes": "11",
+      "Relative to par": "-0.60"
+    },
+    {
+      "rank": 67,
+      "player": "Chan Kim",
+      "%": "45.45%",
+      "Greens Hit": "5",
+      "Total Holes": "11",
+      "Relative to par": "-0.40"
+    },
+    {
+      "rank": 69,
+      "player": "Zac Blair",
+      "%": "41.67%",
+      "Greens Hit": "5",
+      "Total Holes": "12",
+      "Relative to par": "-0.40"
+    },
+    {
+      "rank": 70,
+      "player": "Collin Morikawa",
+      "%": "33.33%",
+      "Greens Hit": "4",
+      "Total Holes": "12",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 71,
+      "player": "Jimmy Stanger",
+      "%": "25.00%",
+      "Greens Hit": "2",
+      "Total Holes": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 72,
+      "player": "Patrick Cantlay",
+      "%": "22.22%",
+      "Greens Hit": "2",
+      "Total Holes": "9",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 73,
+      "player": "Tyler Duncan",
+      "%": "20.00%",
+      "Greens Hit": "1",
+      "Total Holes": "5",
+      "Relative to par": "E"
+    }
+  ]
+}

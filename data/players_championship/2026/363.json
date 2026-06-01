@@ -1,0 +1,520 @@
+{
+  "stat_id": "363",
+  "stat_title": "Scrambling from Rough",
+  "category": "Around the Green",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Bud Cauley",
+      "%": "83.33%",
+      "Successes": "5",
+      "Attempts": "6"
+    },
+    {
+      "rank": 1,
+      "player": "Viktor Hovland",
+      "%": "83.33%",
+      "Successes": "5",
+      "Attempts": "6"
+    },
+    {
+      "rank": 3,
+      "player": "Matt Fitzpatrick",
+      "%": "75.00%",
+      "Successes": "3",
+      "Attempts": "4"
+    },
+    {
+      "rank": 3,
+      "player": "Nick Taylor",
+      "%": "75.00%",
+      "Successes": "3",
+      "Attempts": "4"
+    },
+    {
+      "rank": 5,
+      "player": "Nicolai H\u00f8jgaard",
+      "%": "71.43%",
+      "Successes": "5",
+      "Attempts": "7"
+    },
+    {
+      "rank": 5,
+      "player": "Chad Ramey",
+      "%": "71.43%",
+      "Successes": "5",
+      "Attempts": "7"
+    },
+    {
+      "rank": 5,
+      "player": "Sepp Straka",
+      "%": "71.43%",
+      "Successes": "5",
+      "Attempts": "7"
+    },
+    {
+      "rank": 8,
+      "player": "Joe Highsmith",
+      "%": "66.67%",
+      "Successes": "6",
+      "Attempts": "9"
+    },
+    {
+      "rank": 8,
+      "player": "Ryo Hisatsune",
+      "%": "66.67%",
+      "Successes": "4",
+      "Attempts": "6"
+    },
+    {
+      "rank": 8,
+      "player": "Adam Scott",
+      "%": "66.67%",
+      "Successes": "6",
+      "Attempts": "9"
+    },
+    {
+      "rank": 8,
+      "player": "Danny Walker",
+      "%": "66.67%",
+      "Successes": "6",
+      "Attempts": "9"
+    },
+    {
+      "rank": 12,
+      "player": "Brian Harman",
+      "%": "63.64%",
+      "Successes": "7",
+      "Attempts": "11"
+    },
+    {
+      "rank": 12,
+      "player": "Rory McIlroy",
+      "%": "63.64%",
+      "Successes": "7",
+      "Attempts": "11"
+    },
+    {
+      "rank": 14,
+      "player": "Si Woo Kim",
+      "%": "62.50%",
+      "Successes": "5",
+      "Attempts": "8"
+    },
+    {
+      "rank": 15,
+      "player": "Stephan Jaeger",
+      "%": "61.54%",
+      "Successes": "8",
+      "Attempts": "13"
+    },
+    {
+      "rank": 16,
+      "player": "Jason Day",
+      "%": "60.00%",
+      "Successes": "6",
+      "Attempts": "10"
+    },
+    {
+      "rank": 16,
+      "player": "Lee Hodges",
+      "%": "60.00%",
+      "Successes": "6",
+      "Attempts": "10"
+    },
+    {
+      "rank": 16,
+      "player": "Andrew Putnam",
+      "%": "60.00%",
+      "Successes": "3",
+      "Attempts": "5"
+    },
+    {
+      "rank": 16,
+      "player": "Cameron Young",
+      "%": "60.00%",
+      "Successes": "3",
+      "Attempts": "5"
+    },
+    {
+      "rank": 20,
+      "player": "Ryan Gerard",
+      "%": "57.14%",
+      "Successes": "4",
+      "Attempts": "7"
+    },
+    {
+      "rank": 20,
+      "player": "Hideki Matsuyama",
+      "%": "57.14%",
+      "Successes": "4",
+      "Attempts": "7"
+    },
+    {
+      "rank": 20,
+      "player": "Justin Rose",
+      "%": "57.14%",
+      "Successes": "4",
+      "Attempts": "7"
+    },
+    {
+      "rank": 23,
+      "player": "Keegan Bradley",
+      "%": "55.56%",
+      "Successes": "5",
+      "Attempts": "9"
+    },
+    {
+      "rank": 23,
+      "player": "Tony Finau",
+      "%": "55.56%",
+      "Successes": "5",
+      "Attempts": "9"
+    },
+    {
+      "rank": 23,
+      "player": "Min Woo Lee",
+      "%": "55.56%",
+      "Successes": "5",
+      "Attempts": "9"
+    },
+    {
+      "rank": 23,
+      "player": "Robert MacIntyre",
+      "%": "55.56%",
+      "Successes": "5",
+      "Attempts": "9"
+    },
+    {
+      "rank": 27,
+      "player": "Nico Echavarria",
+      "%": "54.55%",
+      "Successes": "6",
+      "Attempts": "11"
+    },
+    {
+      "rank": 27,
+      "player": "Rickie Fowler",
+      "%": "54.55%",
+      "Successes": "6",
+      "Attempts": "11"
+    },
+    {
+      "rank": 29,
+      "player": "Takumi Kanaya",
+      "%": "53.33%",
+      "Successes": "8",
+      "Attempts": "15"
+    },
+    {
+      "rank": 30,
+      "player": "Ludvig \u00c5berg",
+      "%": "50.00%",
+      "Successes": "3",
+      "Attempts": "6"
+    },
+    {
+      "rank": 30,
+      "player": "Zach Bauchou",
+      "%": "50.00%",
+      "Successes": "5",
+      "Attempts": "10"
+    },
+    {
+      "rank": 30,
+      "player": "Akshay Bhatia",
+      "%": "50.00%",
+      "Successes": "4",
+      "Attempts": "8"
+    },
+    {
+      "rank": 30,
+      "player": "Wyndham Clark",
+      "%": "50.00%",
+      "Successes": "6",
+      "Attempts": "12"
+    },
+    {
+      "rank": 30,
+      "player": "Eric Cole",
+      "%": "50.00%",
+      "Successes": "3",
+      "Attempts": "6"
+    },
+    {
+      "rank": 30,
+      "player": "Alex Noren",
+      "%": "50.00%",
+      "Successes": "5",
+      "Attempts": "10"
+    },
+    {
+      "rank": 30,
+      "player": "Taylor Pendrith",
+      "%": "50.00%",
+      "Successes": "3",
+      "Attempts": "6"
+    },
+    {
+      "rank": 30,
+      "player": "Seamus Power",
+      "%": "50.00%",
+      "Successes": "4",
+      "Attempts": "8"
+    },
+    {
+      "rank": 30,
+      "player": "Kevin Roy",
+      "%": "50.00%",
+      "Successes": "2",
+      "Attempts": "4"
+    },
+    {
+      "rank": 30,
+      "player": "Sahith Theegala",
+      "%": "50.00%",
+      "Successes": "5",
+      "Attempts": "10"
+    },
+    {
+      "rank": 30,
+      "player": "Sudarshan Yellamaraju",
+      "%": "50.00%",
+      "Successes": "3",
+      "Attempts": "6"
+    },
+    {
+      "rank": 41,
+      "player": "Russell Henley",
+      "%": "42.86%",
+      "Successes": "3",
+      "Attempts": "7"
+    },
+    {
+      "rank": 41,
+      "player": "Max Homa",
+      "%": "42.86%",
+      "Successes": "3",
+      "Attempts": "7"
+    },
+    {
+      "rank": 41,
+      "player": "Alex Smalley",
+      "%": "42.86%",
+      "Successes": "3",
+      "Attempts": "7"
+    },
+    {
+      "rank": 44,
+      "player": "Keith Mitchell",
+      "%": "41.67%",
+      "Successes": "5",
+      "Attempts": "12"
+    },
+    {
+      "rank": 45,
+      "player": "Jacob Bridgeman",
+      "%": "40.00%",
+      "Successes": "2",
+      "Attempts": "5"
+    },
+    {
+      "rank": 45,
+      "player": "Rico Hoey",
+      "%": "40.00%",
+      "Successes": "4",
+      "Attempts": "10"
+    },
+    {
+      "rank": 45,
+      "player": "Scottie Scheffler",
+      "%": "40.00%",
+      "Successes": "2",
+      "Attempts": "5"
+    },
+    {
+      "rank": 48,
+      "player": "Taylor Moore",
+      "%": "37.50%",
+      "Successes": "3",
+      "Attempts": "8"
+    },
+    {
+      "rank": 48,
+      "player": "Justin Thomas",
+      "%": "37.50%",
+      "Successes": "3",
+      "Attempts": "8"
+    },
+    {
+      "rank": 50,
+      "player": "Kristoffer Reitan",
+      "%": "35.29%",
+      "Successes": "6",
+      "Attempts": "17"
+    },
+    {
+      "rank": 51,
+      "player": "Corey Conners",
+      "%": "33.33%",
+      "Successes": "3",
+      "Attempts": "9"
+    },
+    {
+      "rank": 51,
+      "player": "Tommy Fleetwood",
+      "%": "33.33%",
+      "Successes": "2",
+      "Attempts": "6"
+    },
+    {
+      "rank": 51,
+      "player": "William Mouw",
+      "%": "33.33%",
+      "Successes": "2",
+      "Attempts": "6"
+    },
+    {
+      "rank": 51,
+      "player": "J.T. Poston",
+      "%": "33.33%",
+      "Successes": "1",
+      "Attempts": "3"
+    },
+    {
+      "rank": 51,
+      "player": "Patrick Rodgers",
+      "%": "33.33%",
+      "Successes": "2",
+      "Attempts": "6"
+    },
+    {
+      "rank": 51,
+      "player": "Xander Schauffele",
+      "%": "33.33%",
+      "Successes": "1",
+      "Attempts": "3"
+    },
+    {
+      "rank": 51,
+      "player": "Austin Smotherman",
+      "%": "33.33%",
+      "Successes": "1",
+      "Attempts": "3"
+    },
+    {
+      "rank": 58,
+      "player": "Maverick McNealy",
+      "%": "28.57%",
+      "Successes": "2",
+      "Attempts": "7"
+    },
+    {
+      "rank": 58,
+      "player": "Jordan Spieth",
+      "%": "28.57%",
+      "Successes": "2",
+      "Attempts": "7"
+    },
+    {
+      "rank": 60,
+      "player": "Michael Brennan",
+      "%": "27.27%",
+      "Successes": "3",
+      "Attempts": "11"
+    },
+    {
+      "rank": 61,
+      "player": "Ricky Castillo",
+      "%": "25.00%",
+      "Successes": "2",
+      "Attempts": "8"
+    },
+    {
+      "rank": 61,
+      "player": "Matti Schmid",
+      "%": "25.00%",
+      "Successes": "2",
+      "Attempts": "8"
+    },
+    {
+      "rank": 61,
+      "player": "J.J. Spaun",
+      "%": "25.00%",
+      "Successes": "1",
+      "Attempts": "4"
+    },
+    {
+      "rank": 64,
+      "player": "Sam Stevens",
+      "%": "20.00%",
+      "Successes": "1",
+      "Attempts": "5"
+    },
+    {
+      "rank": 65,
+      "player": "Sam Burns",
+      "%": "16.67%",
+      "Successes": "1",
+      "Attempts": "6"
+    },
+    {
+      "rank": 65,
+      "player": "Chris Gotterup",
+      "%": "16.67%",
+      "Successes": "2",
+      "Attempts": "12"
+    },
+    {
+      "rank": 65,
+      "player": "Chris Kirk",
+      "%": "16.67%",
+      "Successes": "1",
+      "Attempts": "6"
+    },
+    {
+      "rank": 68,
+      "player": "Daniel Berger",
+      "%": "14.29%",
+      "Successes": "1",
+      "Attempts": "7"
+    },
+    {
+      "rank": 68,
+      "player": "Max McGreevy",
+      "%": "14.29%",
+      "Successes": "1",
+      "Attempts": "7"
+    },
+    {
+      "rank": 70,
+      "player": "Steven Fisk",
+      "%": "11.11%",
+      "Successes": "1",
+      "Attempts": "9"
+    },
+    {
+      "rank": 71,
+      "player": "Patrick Cantlay",
+      "%": ".00%",
+      "Successes": "0",
+      "Attempts": "3"
+    },
+    {
+      "rank": 71,
+      "player": "Brooks Koepka",
+      "%": ".00%",
+      "Successes": "0",
+      "Attempts": "1"
+    },
+    {
+      "rank": 71,
+      "player": "Michael Thorbjornsen",
+      "%": ".00%",
+      "Successes": "0",
+      "Attempts": "3"
+    }
+  ]
+}

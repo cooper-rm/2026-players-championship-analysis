@@ -1,0 +1,520 @@
+{
+  "stat_id": "02334",
+  "stat_title": "Birdie or Better Percentage - Left Rough",
+  "category": "Approach the Green",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Adam Hadwin",
+      "%": "66.67",
+      "Total Birdies": "2",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 2,
+      "player": "Christiaan Bezuidenhout",
+      "%": "50.00",
+      "Total Birdies": "2",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 2,
+      "player": "Keith Mitchell",
+      "%": "50.00",
+      "Total Birdies": "2",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 2,
+      "player": "Taylor Montgomery",
+      "%": "50.00",
+      "Total Birdies": "1",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 2,
+      "player": "Aaron Rai",
+      "%": "50.00",
+      "Total Birdies": "1",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 2,
+      "player": "Chad Ramey",
+      "%": "50.00",
+      "Total Birdies": "1",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 2,
+      "player": "Justin Thomas",
+      "%": "50.00",
+      "Total Birdies": "1",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 2,
+      "player": "Danny Willett",
+      "%": "50.00",
+      "Total Birdies": "1",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 9,
+      "player": "Byeong Hun An",
+      "%": "33.33",
+      "Total Birdies": "1",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 9,
+      "player": "Wyndham Clark",
+      "%": "33.33",
+      "Total Birdies": "1",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 9,
+      "player": "Tom Hoge",
+      "%": "33.33",
+      "Total Birdies": "1",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 9,
+      "player": "Francesco Molinari",
+      "%": "33.33",
+      "Total Birdies": "1",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 9,
+      "player": "Scottie Scheffler",
+      "%": "33.33",
+      "Total Birdies": "1",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 9,
+      "player": "Scott Stallings",
+      "%": "33.33",
+      "Total Birdies": "1",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 9,
+      "player": "Brendon Todd",
+      "%": "33.33",
+      "Total Birdies": "1",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 9,
+      "player": "Will Zalatoris",
+      "%": "33.33",
+      "Total Birdies": "1",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 17,
+      "player": "Tyrrell Hatton",
+      "%": "25.00",
+      "Total Birdies": "1",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 17,
+      "player": "Ben Martin",
+      "%": "25.00",
+      "Total Birdies": "1",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 17,
+      "player": "Taylor Moore",
+      "%": "25.00",
+      "Total Birdies": "1",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 17,
+      "player": "Xander Schauffele",
+      "%": "25.00",
+      "Total Birdies": "1",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 17,
+      "player": "Adam Scott",
+      "%": "25.00",
+      "Total Birdies": "1",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 17,
+      "player": "Cameron Young",
+      "%": "25.00",
+      "Total Birdies": "1",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 23,
+      "player": "Ryan Fox",
+      "%": "20.00",
+      "Total Birdies": "1",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 23,
+      "player": "Brian Harman",
+      "%": "20.00",
+      "Total Birdies": "1",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 23,
+      "player": "Garrick Higgo",
+      "%": "20.00",
+      "Total Birdies": "1",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 23,
+      "player": "Stephan Jaeger",
+      "%": "20.00",
+      "Total Birdies": "1",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 23,
+      "player": "Min Woo Lee",
+      "%": "20.00",
+      "Total Birdies": "1",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 23,
+      "player": "Brandon Wu",
+      "%": "20.00",
+      "Total Birdies": "1",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 29,
+      "player": "Austin Smotherman",
+      "%": "16.67",
+      "Total Birdies": "1",
+      "Total Holes": "6"
+    },
+    {
+      "rank": 29,
+      "player": "Dylan Wu",
+      "%": "16.67",
+      "Total Birdies": "1",
+      "Total Holes": "6"
+    },
+    {
+      "rank": 31,
+      "player": "Jordan Spieth",
+      "%": "12.50",
+      "Total Birdies": "1",
+      "Total Holes": "8"
+    },
+    {
+      "rank": 32,
+      "player": "Aaron Baddeley",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Sam Burns",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 32,
+      "player": "Patrick Cantlay",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Eric Cole",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "10"
+    },
+    {
+      "rank": 32,
+      "player": "Joel Dahmen",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 32,
+      "player": "Cam Davis",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "7"
+    },
+    {
+      "rank": 32,
+      "player": "Jason Day",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Tyler Duncan",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Tony Finau",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Tommy Fleetwood",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Rickie Fowler",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Lucas Glover",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Will Gordon",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "4"
+    },
+    {
+      "rank": 32,
+      "player": "Ben Griffin",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Chesson Hadley",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Russell Henley",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Kramer Hickok",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Max Homa",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Viktor Hovland",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Mark Hubbard",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Sungjae Im",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Jerry Kelly",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Si Woo Kim",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Tom Kim",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Kevin Kisner",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Patton Kizzire",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Nate Lashley",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "David Lingmerth",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Shane Lowry",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Denny McCarthy",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Maverick McNealy",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Collin Morikawa",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Taylor Pendrith",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Sam Ryder",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Matthias Schwab",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Alex Smalley",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Sepp Straka",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Justin Suh",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "2"
+    },
+    {
+      "rank": 32,
+      "player": "Adam Svensson",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "3"
+    },
+    {
+      "rank": 32,
+      "player": "Sahith Theegala",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "1"
+    },
+    {
+      "rank": 32,
+      "player": "Davis Thompson",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "5"
+    },
+    {
+      "rank": 32,
+      "player": "Gary Woodland",
+      "%": ".00",
+      "Total Birdies": "0",
+      "Total Holes": "4"
+    }
+  ]
+}

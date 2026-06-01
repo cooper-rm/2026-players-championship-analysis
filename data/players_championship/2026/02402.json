@@ -1,0 +1,520 @@
+{
+  "stat_id": "02402",
+  "stat_title": "Ball Speed",
+  "category": "Off The Tee",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Rory McIlroy",
+      "Avg": "187.25",
+      "Total Ball Speed": "6,928.26",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 2,
+      "player": "Michael Brennan",
+      "Avg": "186.66",
+      "Total Ball Speed": "5,039.85",
+      "Total Attempts": "27"
+    },
+    {
+      "rank": 3,
+      "player": "Nicolai H\u00f8jgaard",
+      "Avg": "186.24",
+      "Total Ball Speed": "5,028.51",
+      "Total Attempts": "27"
+    },
+    {
+      "rank": 4,
+      "player": "Min Woo Lee",
+      "Avg": "184.16",
+      "Total Ball Speed": "6,629.86",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 5,
+      "player": "Adam Scott",
+      "Avg": "184.14",
+      "Total Ball Speed": "6,076.52",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 6,
+      "player": "Sudarshan Yellamaraju",
+      "Avg": "183.76",
+      "Total Ball Speed": "5,696.70",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 7,
+      "player": "Wyndham Clark",
+      "Avg": "183.62",
+      "Total Ball Speed": "5,508.64",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 8,
+      "player": "Xander Schauffele",
+      "Avg": "182.82",
+      "Total Ball Speed": "5,850.38",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 9,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "182.79",
+      "Total Ball Speed": "6,397.75",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 10,
+      "player": "Cameron Young",
+      "Avg": "182.73",
+      "Total Ball Speed": "7,491.85",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 11,
+      "player": "Chris Gotterup",
+      "Avg": "182.69",
+      "Total Ball Speed": "6,942.15",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 12,
+      "player": "Brooks Koepka",
+      "Avg": "182.53",
+      "Total Ball Speed": "6,753.73",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 13,
+      "player": "Matti Schmid",
+      "Avg": "182.46",
+      "Total Ball Speed": "3,831.71",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 14,
+      "player": "Sam Burns",
+      "Avg": "182.42",
+      "Total Ball Speed": "7,114.38",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 15,
+      "player": "Tony Finau",
+      "Avg": "182.12",
+      "Total Ball Speed": "6,374.18",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 16,
+      "player": "Max Homa",
+      "Avg": "180.94",
+      "Total Ball Speed": "5,790.07",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 17,
+      "player": "Stephan Jaeger",
+      "Avg": "180.49",
+      "Total Ball Speed": "7,039.03",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 18,
+      "player": "Keith Mitchell",
+      "Avg": "179.88",
+      "Total Ball Speed": "6,655.68",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 19,
+      "player": "Michael Thorbjornsen",
+      "Avg": "179.59",
+      "Total Ball Speed": "5,387.68",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 20,
+      "player": "Robert MacIntyre",
+      "Avg": "179.10",
+      "Total Ball Speed": "6,984.99",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 21,
+      "player": "Taylor Moore",
+      "Avg": "178.88",
+      "Total Ball Speed": "5,724.03",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 22,
+      "player": "Taylor Pendrith",
+      "Avg": "178.79",
+      "Total Ball Speed": "8,581.78",
+      "Total Attempts": "48"
+    },
+    {
+      "rank": 23,
+      "player": "Scottie Scheffler",
+      "Avg": "178.73",
+      "Total Ball Speed": "6,255.55",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 24,
+      "player": "Daniel Berger",
+      "Avg": "178.37",
+      "Total Ball Speed": "6,421.49",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 25,
+      "player": "Sam Stevens",
+      "Avg": "178.34",
+      "Total Ball Speed": "6,777.06",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 26,
+      "player": "Kristoffer Reitan",
+      "Avg": "178.16",
+      "Total Ball Speed": "7,126.23",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 27,
+      "player": "Matt Fitzpatrick",
+      "Avg": "178.08",
+      "Total Ball Speed": "6,054.69",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 28,
+      "player": "Maverick McNealy",
+      "Avg": "178.00",
+      "Total Ball Speed": "6,407.84",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 29,
+      "player": "Rico Hoey",
+      "Avg": "177.89",
+      "Total Ball Speed": "7,827.38",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 29,
+      "player": "Justin Thomas",
+      "Avg": "177.89",
+      "Total Ball Speed": "6,226.11",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 31,
+      "player": "Ryan Gerard",
+      "Avg": "177.07",
+      "Total Ball Speed": "5,135.04",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 32,
+      "player": "William Mouw",
+      "Avg": "176.97",
+      "Total Ball Speed": "6,016.95",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 33,
+      "player": "Danny Walker",
+      "Avg": "176.53",
+      "Total Ball Speed": "8,650.19",
+      "Total Attempts": "49"
+    },
+    {
+      "rank": 34,
+      "player": "Steven Fisk",
+      "Avg": "176.50",
+      "Total Ball Speed": "6,353.86",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 35,
+      "player": "Jordan Spieth",
+      "Avg": "176.39",
+      "Total Ball Speed": "7,937.77",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 36,
+      "player": "Patrick Rodgers",
+      "Avg": "176.36",
+      "Total Ball Speed": "7,759.84",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 37,
+      "player": "Sahith Theegala",
+      "Avg": "176.19",
+      "Total Ball Speed": "6,695.30",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 38,
+      "player": "Joe Highsmith",
+      "Avg": "176.13",
+      "Total Ball Speed": "6,869.18",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 39,
+      "player": "Akshay Bhatia",
+      "Avg": "176.01",
+      "Total Ball Speed": "6,512.47",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 40,
+      "player": "J.J. Spaun",
+      "Avg": "175.49",
+      "Total Ball Speed": "5,615.56",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 41,
+      "player": "Alex Smalley",
+      "Avg": "175.15",
+      "Total Ball Speed": "5,955.12",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 42,
+      "player": "Justin Rose",
+      "Avg": "174.97",
+      "Total Ball Speed": "7,698.73",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 43,
+      "player": "Ricky Castillo",
+      "Avg": "174.83",
+      "Total Ball Speed": "8,042.02",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 44,
+      "player": "Austin Smotherman",
+      "Avg": "174.58",
+      "Total Ball Speed": "5,761.08",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 45,
+      "player": "Jason Day",
+      "Avg": "174.44",
+      "Total Ball Speed": "7,326.38",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 46,
+      "player": "Jacob Bridgeman",
+      "Avg": "174.33",
+      "Total Ball Speed": "6,624.61",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 47,
+      "player": "Chad Ramey",
+      "Avg": "174.02",
+      "Total Ball Speed": "5,220.60",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 48,
+      "player": "Tommy Fleetwood",
+      "Avg": "174.01",
+      "Total Ball Speed": "5,568.41",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 49,
+      "player": "Ryo Hisatsune",
+      "Avg": "173.82",
+      "Total Ball Speed": "6,605.08",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 50,
+      "player": "Corey Conners",
+      "Avg": "173.78",
+      "Total Ball Speed": "7,993.67",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 51,
+      "player": "Hideki Matsuyama",
+      "Avg": "173.56",
+      "Total Ball Speed": "6,595.10",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 52,
+      "player": "Keegan Bradley",
+      "Avg": "173.43",
+      "Total Ball Speed": "6,590.27",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 53,
+      "player": "Seamus Power",
+      "Avg": "173.18",
+      "Total Ball Speed": "6,407.80",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 54,
+      "player": "Kevin Roy",
+      "Avg": "172.85",
+      "Total Ball Speed": "7,778.34",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 55,
+      "player": "Patrick Cantlay",
+      "Avg": "172.63",
+      "Total Ball Speed": "6,732.63",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 55,
+      "player": "Rickie Fowler",
+      "Avg": "172.63",
+      "Total Ball Speed": "4,488.29",
+      "Total Attempts": "26"
+    },
+    {
+      "rank": 57,
+      "player": "Bud Cauley",
+      "Avg": "172.57",
+      "Total Ball Speed": "7,075.52",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 58,
+      "player": "Viktor Hovland",
+      "Avg": "172.38",
+      "Total Ball Speed": "4,999.09",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 59,
+      "player": "Zach Bauchou",
+      "Avg": "172.26",
+      "Total Ball Speed": "7,751.90",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 60,
+      "player": "Chris Kirk",
+      "Avg": "172.01",
+      "Total Ball Speed": "7,224.26",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 61,
+      "player": "Lee Hodges",
+      "Avg": "171.99",
+      "Total Ball Speed": "7,567.68",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 62,
+      "player": "J.T. Poston",
+      "Avg": "171.84",
+      "Total Ball Speed": "6,529.89",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 63,
+      "player": "Alex Noren",
+      "Avg": "171.61",
+      "Total Ball Speed": "5,834.90",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 64,
+      "player": "Sepp Straka",
+      "Avg": "171.55",
+      "Total Ball Speed": "6,690.60",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 65,
+      "player": "Eric Cole",
+      "Avg": "170.64",
+      "Total Ball Speed": "7,166.90",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 66,
+      "player": "Nico Echavarria",
+      "Avg": "170.15",
+      "Total Ball Speed": "6,465.53",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 67,
+      "player": "Si Woo Kim",
+      "Avg": "169.98",
+      "Total Ball Speed": "7,649.24",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 68,
+      "player": "Nick Taylor",
+      "Avg": "169.96",
+      "Total Ball Speed": "7,478.40",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 69,
+      "player": "Brian Harman",
+      "Avg": "169.35",
+      "Total Ball Speed": "7,790.20",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 70,
+      "player": "Max McGreevy",
+      "Avg": "168.01",
+      "Total Ball Speed": "6,552.30",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 71,
+      "player": "Russell Henley",
+      "Avg": "168.00",
+      "Total Ball Speed": "6,384.11",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 72,
+      "player": "Takumi Kanaya",
+      "Avg": "167.09",
+      "Total Ball Speed": "6,015.25",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 73,
+      "player": "Andrew Putnam",
+      "Avg": "166.55",
+      "Total Ball Speed": "6,995.26",
+      "Total Attempts": "42"
+    }
+  ]
+}

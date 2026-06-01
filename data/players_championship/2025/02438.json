@@ -1,0 +1,513 @@
+{
+  "stat_id": "02438",
+  "stat_title": "Good Drive Percentage",
+  "category": "Off The Tee",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Max McGreevy",
+      "%": "91.07%",
+      "# Hit": "51",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 2,
+      "player": "Aaron Rai",
+      "%": "89.29%",
+      "# Hit": "50",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 3,
+      "player": "Akshay Bhatia",
+      "%": "87.50%",
+      "# Hit": "49",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 3,
+      "player": "Patrick Cantlay",
+      "%": "87.50%",
+      "# Hit": "49",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 3,
+      "player": "Corey Conners",
+      "%": "87.50%",
+      "# Hit": "49",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 3,
+      "player": "Matt McCarty",
+      "%": "87.50%",
+      "# Hit": "49",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 3,
+      "player": "Sam Ryder",
+      "%": "87.50%",
+      "# Hit": "49",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 3,
+      "player": "Danny Walker",
+      "%": "87.50%",
+      "# Hit": "49",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 9,
+      "player": "Daniel Berger",
+      "%": "85.71%",
+      "# Hit": "48",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 9,
+      "player": "Jacob Bridgeman",
+      "%": "85.71%",
+      "# Hit": "48",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 9,
+      "player": "Ryan Gerard",
+      "%": "85.71%",
+      "# Hit": "48",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 9,
+      "player": "Lucas Glover",
+      "%": "85.71%",
+      "# Hit": "48",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 9,
+      "player": "Russell Henley",
+      "%": "85.71%",
+      "# Hit": "48",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 9,
+      "player": "Rico Hoey",
+      "%": "85.71%",
+      "# Hit": "48",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 9,
+      "player": "Min Woo Lee",
+      "%": "85.71%",
+      "# Hit": "48",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 16,
+      "player": "Harris English",
+      "%": "83.93%",
+      "# Hit": "47",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 16,
+      "player": "Tom Hoge",
+      "%": "83.93%",
+      "# Hit": "47",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 16,
+      "player": "Justin Lower",
+      "%": "83.93%",
+      "# Hit": "47",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 16,
+      "player": "Collin Morikawa",
+      "%": "83.93%",
+      "# Hit": "47",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 16,
+      "player": "J.J. Spaun",
+      "%": "83.93%",
+      "# Hit": "47",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 16,
+      "player": "Carson Young",
+      "%": "83.93%",
+      "# Hit": "47",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 22,
+      "player": "Bud Cauley",
+      "%": "82.14%",
+      "# Hit": "46",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 22,
+      "player": "Tommy Fleetwood",
+      "%": "82.14%",
+      "# Hit": "46",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 22,
+      "player": "Rory McIlroy",
+      "%": "82.14%",
+      "# Hit": "46",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 22,
+      "player": "Chandler Phillips",
+      "%": "82.14%",
+      "# Hit": "46",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 22,
+      "player": "Davis Riley",
+      "%": "82.14%",
+      "# Hit": "46",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 22,
+      "player": "Hayden Springer",
+      "%": "82.14%",
+      "# Hit": "46",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Joel Dahmen",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Joe Highsmith",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Tom Kim",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Chris Kirk",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Shane Lowry",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Taylor Moore",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Matthieu Pavon",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Alex Smalley",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Jordan Spieth",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Sepp Straka",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Sahith Theegala",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Jhonattan Vegas",
+      "%": "80.36%",
+      "# Hit": "45",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 40,
+      "player": "Rickie Fowler",
+      "%": "78.57%",
+      "# Hit": "44",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 40,
+      "player": "Sungjae Im",
+      "%": "78.57%",
+      "# Hit": "44",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 40,
+      "player": "Matt Kuchar",
+      "%": "78.57%",
+      "# Hit": "44",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 40,
+      "player": "C.T. Pan",
+      "%": "78.57%",
+      "# Hit": "44",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 40,
+      "player": "Scottie Scheffler",
+      "%": "78.57%",
+      "# Hit": "44",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 40,
+      "player": "Davis Thompson",
+      "%": "78.57%",
+      "# Hit": "44",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 46,
+      "player": "Keegan Bradley",
+      "%": "76.79%",
+      "# Hit": "43",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 46,
+      "player": "Austin Eckroat",
+      "%": "76.79%",
+      "# Hit": "43",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 46,
+      "player": "Denny McCarthy",
+      "%": "76.79%",
+      "# Hit": "43",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 46,
+      "player": "Sami Valimaki",
+      "%": "76.79%",
+      "# Hit": "43",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 50,
+      "player": "Will Chandler",
+      "%": "75.00%",
+      "# Hit": "42",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 50,
+      "player": "Si Woo Kim",
+      "%": "75.00%",
+      "# Hit": "42",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 50,
+      "player": "Will Zalatoris",
+      "%": "75.00%",
+      "# Hit": "42",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 53,
+      "player": "Byeong Hun An",
+      "%": "73.21%",
+      "# Hit": "41",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 53,
+      "player": "Charley Hoffman",
+      "%": "73.21%",
+      "# Hit": "41",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 53,
+      "player": "Billy Horschel",
+      "%": "73.21%",
+      "# Hit": "41",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 53,
+      "player": "Kurt Kitayama",
+      "%": "73.21%",
+      "# Hit": "41",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 53,
+      "player": "Jake Knapp",
+      "%": "73.21%",
+      "# Hit": "41",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 53,
+      "player": "Trey Mullinax",
+      "%": "73.21%",
+      "# Hit": "41",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 53,
+      "player": "Camilo Villegas",
+      "%": "73.21%",
+      "# Hit": "41",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 53,
+      "player": "Cameron Young",
+      "%": "73.21%",
+      "# Hit": "41",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 61,
+      "player": "Emiliano Grillo",
+      "%": "71.43%",
+      "# Hit": "40",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 61,
+      "player": "Mac Meissner",
+      "%": "71.43%",
+      "# Hit": "40",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 61,
+      "player": "Taylor Pendrith",
+      "%": "71.43%",
+      "# Hit": "40",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 64,
+      "player": "Ryan Fox",
+      "%": "69.64%",
+      "# Hit": "39",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 64,
+      "player": "Robert MacIntyre",
+      "%": "69.64%",
+      "# Hit": "39",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 64,
+      "player": "J.T. Poston",
+      "%": "69.64%",
+      "# Hit": "39",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 64,
+      "player": "Xander Schauffele",
+      "%": "69.64%",
+      "# Hit": "39",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 64,
+      "player": "Justin Thomas",
+      "%": "69.64%",
+      "# Hit": "39",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 69,
+      "player": "Isaiah Salinda",
+      "%": "67.86%",
+      "# Hit": "38",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 69,
+      "player": "Jesper Svensson",
+      "%": "67.86%",
+      "# Hit": "38",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 71,
+      "player": "Beau Hossler",
+      "%": "66.07%",
+      "# Hit": "37",
+      "Total Attempts": "56"
+    },
+    {
+      "rank": 71,
+      "player": "Stephan Jaeger",
+      "%": "66.07%",
+      "# Hit": "37",
+      "Total Attempts": "56"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "stat_id": "401",
+  "stat_title": "3+ Putts per Round",
+  "category": "Putting",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tommy Fleetwood",
+      "Avg": ".25",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 1,
+      "player": "Lucas Glover",
+      "Avg": ".25",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 1,
+      "player": "Justin Suh",
+      "Avg": ".25",
+      "Total 3+ Putts": "1",
+      "Total Rounds": "4"
+    }
+  ]
+}

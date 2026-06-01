@@ -1,0 +1,534 @@
+{
+  "stat_id": "468",
+  "stat_title": "Scrambling 10-20 yds (RTP Score)",
+  "category": "Around the Green",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Ben Griffin",
+      "Avg RTP": "-.091",
+      "Total Holes": "11",
+      "Total RTP": "-1.00"
+    },
+    {
+      "rank": 2,
+      "player": "Francesco Molinari",
+      "Avg RTP": "E",
+      "Total Holes": "7",
+      "Total RTP": "E"
+    },
+    {
+      "rank": 3,
+      "player": "Maverick McNealy",
+      "Avg RTP": "+.071",
+      "Total Holes": "14",
+      "Total RTP": "+1.00"
+    },
+    {
+      "rank": 4,
+      "player": "Christiaan Bezuidenhout",
+      "Avg RTP": "+.083",
+      "Total Holes": "12",
+      "Total RTP": "+1.00"
+    },
+    {
+      "rank": 5,
+      "player": "Jordan Spieth",
+      "Avg RTP": "+.111",
+      "Total Holes": "9",
+      "Total RTP": "+1.00"
+    },
+    {
+      "rank": 6,
+      "player": "Wyndham Clark",
+      "Avg RTP": "+.125",
+      "Total Holes": "8",
+      "Total RTP": "+1.00"
+    },
+    {
+      "rank": 6,
+      "player": "Tyler Duncan",
+      "Avg RTP": "+.125",
+      "Total Holes": "8",
+      "Total RTP": "+1.00"
+    },
+    {
+      "rank": 6,
+      "player": "Hideki Matsuyama",
+      "Avg RTP": "+.125",
+      "Total Holes": "16",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 9,
+      "player": "Danny Willett",
+      "Avg RTP": "+.133",
+      "Total Holes": "15",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 10,
+      "player": "Scottie Scheffler",
+      "Avg RTP": "+.143",
+      "Total Holes": "7",
+      "Total RTP": "+1.00"
+    },
+    {
+      "rank": 11,
+      "player": "Jason Day",
+      "Avg RTP": "+.167",
+      "Total Holes": "12",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 11,
+      "player": "Mark Hubbard",
+      "Avg RTP": "+.167",
+      "Total Holes": "12",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 11,
+      "player": "Nate Lashley",
+      "Avg RTP": "+.167",
+      "Total Holes": "12",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 11,
+      "player": "Min Woo Lee",
+      "Avg RTP": "+.167",
+      "Total Holes": "6",
+      "Total RTP": "+1.00"
+    },
+    {
+      "rank": 15,
+      "player": "Cam Davis",
+      "Avg RTP": "+.182",
+      "Total Holes": "11",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 15,
+      "player": "Max Homa",
+      "Avg RTP": "+.182",
+      "Total Holes": "11",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 15,
+      "player": "Matthias Schwab",
+      "Avg RTP": "+.182",
+      "Total Holes": "11",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 18,
+      "player": "Chad Ramey",
+      "Avg RTP": "+.188",
+      "Total Holes": "16",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 19,
+      "player": "Eric Cole",
+      "Avg RTP": "+.200",
+      "Total Holes": "10",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 19,
+      "player": "Lucas Glover",
+      "Avg RTP": "+.200",
+      "Total Holes": "10",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 19,
+      "player": "Chesson Hadley",
+      "Avg RTP": "+.200",
+      "Total Holes": "10",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 19,
+      "player": "Brian Harman",
+      "Avg RTP": "+.200",
+      "Total Holes": "10",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 19,
+      "player": "Sungjae Im",
+      "Avg RTP": "+.200",
+      "Total Holes": "10",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 19,
+      "player": "Denny McCarthy",
+      "Avg RTP": "+.200",
+      "Total Holes": "10",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 19,
+      "player": "Sam Ryder",
+      "Avg RTP": "+.200",
+      "Total Holes": "10",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 26,
+      "player": "David Lingmerth",
+      "Avg RTP": "+.214",
+      "Total Holes": "14",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 26,
+      "player": "Adam Scott",
+      "Avg RTP": "+.214",
+      "Total Holes": "14",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 28,
+      "player": "Alex Smalley",
+      "Avg RTP": "+.222",
+      "Total Holes": "18",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 29,
+      "player": "Stephan Jaeger",
+      "Avg RTP": "+.231",
+      "Total Holes": "13",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 29,
+      "player": "Tom Kim",
+      "Avg RTP": "+.231",
+      "Total Holes": "13",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 31,
+      "player": "Russell Henley",
+      "Avg RTP": "+.250",
+      "Total Holes": "8",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 31,
+      "player": "Scott Stallings",
+      "Avg RTP": "+.250",
+      "Total Holes": "12",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 33,
+      "player": "Justin Suh",
+      "Avg RTP": "+.267",
+      "Total Holes": "15",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 34,
+      "player": "Taylor Montgomery",
+      "Avg RTP": "+.294",
+      "Total Holes": "17",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 35,
+      "player": "Brendon Todd",
+      "Avg RTP": "+.300",
+      "Total Holes": "10",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 36,
+      "player": "Davis Thompson",
+      "Avg RTP": "+.313",
+      "Total Holes": "16",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 37,
+      "player": "Sam Burns",
+      "Avg RTP": "+.333",
+      "Total Holes": "12",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 37,
+      "player": "Kramer Hickok",
+      "Avg RTP": "+.333",
+      "Total Holes": "9",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 37,
+      "player": "Keith Mitchell",
+      "Avg RTP": "+.333",
+      "Total Holes": "9",
+      "Total RTP": "+3.00"
+    },
+    {
+      "rank": 37,
+      "player": "Collin Morikawa",
+      "Avg RTP": "+.333",
+      "Total Holes": "12",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 37,
+      "player": "Taylor Pendrith",
+      "Avg RTP": "+.333",
+      "Total Holes": "12",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 37,
+      "player": "Aaron Rai",
+      "Avg RTP": "+.333",
+      "Total Holes": "6",
+      "Total RTP": "+2.00"
+    },
+    {
+      "rank": 37,
+      "player": "Justin Thomas",
+      "Avg RTP": "+.333",
+      "Total Holes": "15",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 44,
+      "player": "Byeong Hun An",
+      "Avg RTP": "+.357",
+      "Total Holes": "14",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 44,
+      "player": "Cameron Young",
+      "Avg RTP": "+.357",
+      "Total Holes": "14",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 46,
+      "player": "Tyrrell Hatton",
+      "Avg RTP": "+.364",
+      "Total Holes": "11",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 46,
+      "player": "Ben Martin",
+      "Avg RTP": "+.364",
+      "Total Holes": "11",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 46,
+      "player": "Sepp Straka",
+      "Avg RTP": "+.364",
+      "Total Holes": "11",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 49,
+      "player": "Aaron Baddeley",
+      "Avg RTP": "+.375",
+      "Total Holes": "16",
+      "Total RTP": "+6.00"
+    },
+    {
+      "rank": 50,
+      "player": "Ryan Fox",
+      "Avg RTP": "+.385",
+      "Total Holes": "13",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 50,
+      "player": "Adam Svensson",
+      "Avg RTP": "+.385",
+      "Total Holes": "13",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 52,
+      "player": "Joel Dahmen",
+      "Avg RTP": "+.400",
+      "Total Holes": "10",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 52,
+      "player": "Xander Schauffele",
+      "Avg RTP": "+.400",
+      "Total Holes": "10",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 52,
+      "player": "Brandon Wu",
+      "Avg RTP": "+.400",
+      "Total Holes": "15",
+      "Total RTP": "+6.00"
+    },
+    {
+      "rank": 55,
+      "player": "Taylor Moore",
+      "Avg RTP": "+.412",
+      "Total Holes": "17",
+      "Total RTP": "+7.00"
+    },
+    {
+      "rank": 56,
+      "player": "Adam Hadwin",
+      "Avg RTP": "+.417",
+      "Total Holes": "12",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 56,
+      "player": "Viktor Hovland",
+      "Avg RTP": "+.417",
+      "Total Holes": "12",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 56,
+      "player": "Justin Rose",
+      "Avg RTP": "+.417",
+      "Total Holes": "12",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 59,
+      "player": "Si Woo Kim",
+      "Avg RTP": "+.429",
+      "Total Holes": "14",
+      "Total RTP": "+6.00"
+    },
+    {
+      "rank": 59,
+      "player": "Dylan Wu",
+      "Avg RTP": "+.429",
+      "Total Holes": "14",
+      "Total RTP": "+6.00"
+    },
+    {
+      "rank": 61,
+      "player": "Gary Woodland",
+      "Avg RTP": "+.444",
+      "Total Holes": "9",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 62,
+      "player": "Will Gordon",
+      "Avg RTP": "+.455",
+      "Total Holes": "11",
+      "Total RTP": "+5.00"
+    },
+    {
+      "rank": 63,
+      "player": "Austin Smotherman",
+      "Avg RTP": "+.462",
+      "Total Holes": "13",
+      "Total RTP": "+6.00"
+    },
+    {
+      "rank": 64,
+      "player": "Jerry Kelly",
+      "Avg RTP": "+.467",
+      "Total Holes": "15",
+      "Total RTP": "+7.00"
+    },
+    {
+      "rank": 65,
+      "player": "Tony Finau",
+      "Avg RTP": "+.500",
+      "Total Holes": "12",
+      "Total RTP": "+6.00"
+    },
+    {
+      "rank": 65,
+      "player": "Shane Lowry",
+      "Avg RTP": "+.500",
+      "Total Holes": "14",
+      "Total RTP": "+7.00"
+    },
+    {
+      "rank": 67,
+      "player": "Sahith Theegala",
+      "Avg RTP": "+.533",
+      "Total Holes": "15",
+      "Total RTP": "+8.00"
+    },
+    {
+      "rank": 67,
+      "player": "Will Zalatoris",
+      "Avg RTP": "+.533",
+      "Total Holes": "15",
+      "Total RTP": "+8.00"
+    },
+    {
+      "rank": 69,
+      "player": "Garrick Higgo",
+      "Avg RTP": "+.571",
+      "Total Holes": "7",
+      "Total RTP": "+4.00"
+    },
+    {
+      "rank": 70,
+      "player": "Patrick Cantlay",
+      "Avg RTP": "+.583",
+      "Total Holes": "12",
+      "Total RTP": "+7.00"
+    },
+    {
+      "rank": 70,
+      "player": "Patton Kizzire",
+      "Avg RTP": "+.583",
+      "Total Holes": "12",
+      "Total RTP": "+7.00"
+    },
+    {
+      "rank": 72,
+      "player": "Tommy Fleetwood",
+      "Avg RTP": "+.600",
+      "Total Holes": "10",
+      "Total RTP": "+6.00"
+    },
+    {
+      "rank": 73,
+      "player": "Kevin Kisner",
+      "Avg RTP": "+.667",
+      "Total Holes": "12",
+      "Total RTP": "+8.00"
+    },
+    {
+      "rank": 74,
+      "player": "Tom Hoge",
+      "Avg RTP": "+.800",
+      "Total Holes": "10",
+      "Total RTP": "+8.00"
+    },
+    {
+      "rank": 75,
+      "player": "Rickie Fowler",
+      "Avg RTP": "+.900",
+      "Total Holes": "10",
+      "Total RTP": "+9.00"
+    }
+  ]
+}

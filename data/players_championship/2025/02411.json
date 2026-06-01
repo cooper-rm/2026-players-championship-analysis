@@ -1,0 +1,657 @@
+{
+  "stat_id": "02411",
+  "stat_title": "Total Distance Efficiency",
+  "category": "Off The Tee",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Bud Cauley",
+      "Avg": "2.627",
+      "Average Distance (yards)": "303.058",
+      "Average Club Head Speed": "115.370",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0240302843"
+    },
+    {
+      "rank": 2,
+      "player": "Sepp Straka",
+      "Avg": "2.588",
+      "Average Distance (yards)": "291.427",
+      "Average Club Head Speed": "112.606",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0237903074"
+    },
+    {
+      "rank": 3,
+      "player": "Shane Lowry",
+      "Avg": "2.586",
+      "Average Distance (yards)": "296.178",
+      "Average Club Head Speed": "114.542",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0242202947"
+    },
+    {
+      "rank": 4,
+      "player": "Lucas Glover",
+      "Avg": "2.584",
+      "Average Distance (yards)": "288.302",
+      "Average Club Head Speed": "111.568",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0235302911"
+    },
+    {
+      "rank": 4,
+      "player": "Chandler Phillips",
+      "Avg": "2.584",
+      "Average Distance (yards)": "293.032",
+      "Average Club Head Speed": "113.397",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0234403144"
+    },
+    {
+      "rank": 6,
+      "player": "Jordan Spieth",
+      "Avg": "2.580",
+      "Average Distance (yards)": "300.557",
+      "Average Club Head Speed": "116.503",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0236202849"
+    },
+    {
+      "rank": 7,
+      "player": "C.T. Pan",
+      "Avg": "2.578",
+      "Average Distance (yards)": "285.163",
+      "Average Club Head Speed": "110.599",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0234802935"
+    },
+    {
+      "rank": 8,
+      "player": "Tom Kim",
+      "Avg": "2.576",
+      "Average Distance (yards)": "293.162",
+      "Average Club Head Speed": "113.785",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0223902846"
+    },
+    {
+      "rank": 9,
+      "player": "Justin Lower",
+      "Avg": "2.575",
+      "Average Distance (yards)": "294.862",
+      "Average Club Head Speed": "114.517",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0223002916"
+    },
+    {
+      "rank": 10,
+      "player": "Alex Smalley",
+      "Avg": "2.571",
+      "Average Distance (yards)": "300.022",
+      "Average Club Head Speed": "116.687",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0228202822"
+    },
+    {
+      "rank": 11,
+      "player": "Davis Riley",
+      "Avg": "2.570",
+      "Average Distance (yards)": "306.996",
+      "Average Club Head Speed": "119.473",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0229802853"
+    },
+    {
+      "rank": 12,
+      "player": "Sungjae Im",
+      "Avg": "2.567",
+      "Average Distance (yards)": "294.042",
+      "Average Club Head Speed": "114.553",
+      "Total Attempts": "24",
+      "Highest Dist. Efficiency": "0235602762"
+    },
+    {
+      "rank": 12,
+      "player": "Mac Meissner",
+      "Avg": "2.567",
+      "Average Distance (yards)": "289.920",
+      "Average Club Head Speed": "112.931",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0227402944"
+    },
+    {
+      "rank": 14,
+      "player": "Byeong Hun An",
+      "Avg": "2.566",
+      "Average Distance (yards)": "299.831",
+      "Average Club Head Speed": "116.850",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0229002804"
+    },
+    {
+      "rank": 14,
+      "player": "Russell Henley",
+      "Avg": "2.566",
+      "Average Distance (yards)": "282.941",
+      "Average Club Head Speed": "110.276",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0221802789"
+    },
+    {
+      "rank": 16,
+      "player": "Carson Young",
+      "Avg": "2.561",
+      "Average Distance (yards)": "286.426",
+      "Average Club Head Speed": "111.839",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0228602915"
+    },
+    {
+      "rank": 17,
+      "player": "Emiliano Grillo",
+      "Avg": "2.559",
+      "Average Distance (yards)": "291.376",
+      "Average Club Head Speed": "113.855",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0229302938"
+    },
+    {
+      "rank": 18,
+      "player": "Joel Dahmen",
+      "Avg": "2.557",
+      "Average Distance (yards)": "284.618",
+      "Average Club Head Speed": "111.323",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0232802897"
+    },
+    {
+      "rank": 19,
+      "player": "Matt McCarty",
+      "Avg": "2.556",
+      "Average Distance (yards)": "293.711",
+      "Average Club Head Speed": "114.897",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0231902790"
+    },
+    {
+      "rank": 20,
+      "player": "Charley Hoffman",
+      "Avg": "2.554",
+      "Average Distance (yards)": "298.182",
+      "Average Club Head Speed": "116.759",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0218102996"
+    },
+    {
+      "rank": 21,
+      "player": "Matt Kuchar",
+      "Avg": "2.552",
+      "Average Distance (yards)": "277.164",
+      "Average Club Head Speed": "108.610",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0204102880"
+    },
+    {
+      "rank": 22,
+      "player": "Tommy Fleetwood",
+      "Avg": "2.550",
+      "Average Distance (yards)": "293.472",
+      "Average Club Head Speed": "115.104",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0223303033"
+    },
+    {
+      "rank": 22,
+      "player": "Chris Kirk",
+      "Avg": "2.550",
+      "Average Distance (yards)": "295.620",
+      "Average Club Head Speed": "115.927",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0215202833"
+    },
+    {
+      "rank": 24,
+      "player": "Si Woo Kim",
+      "Avg": "2.548",
+      "Average Distance (yards)": "292.582",
+      "Average Club Head Speed": "114.838",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0229802943"
+    },
+    {
+      "rank": 25,
+      "player": "Max McGreevy",
+      "Avg": "2.546",
+      "Average Distance (yards)": "286.797",
+      "Average Club Head Speed": "112.654",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0227302852"
+    },
+    {
+      "rank": 26,
+      "player": "Jacob Bridgeman",
+      "Avg": "2.545",
+      "Average Distance (yards)": "294.624",
+      "Average Club Head Speed": "115.747",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0217702757"
+    },
+    {
+      "rank": 27,
+      "player": "Patrick Cantlay",
+      "Avg": "2.543",
+      "Average Distance (yards)": "301.143",
+      "Average Club Head Speed": "118.400",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0232002992"
+    },
+    {
+      "rank": 28,
+      "player": "Keegan Bradley",
+      "Avg": "2.542",
+      "Average Distance (yards)": "295.491",
+      "Average Club Head Speed": "116.237",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0224202729"
+    },
+    {
+      "rank": 29,
+      "player": "Kurt Kitayama",
+      "Avg": "2.540",
+      "Average Distance (yards)": "301.933",
+      "Average Club Head Speed": "118.878",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0223802810"
+    },
+    {
+      "rank": 30,
+      "player": "Collin Morikawa",
+      "Avg": "2.537",
+      "Average Distance (yards)": "291.787",
+      "Average Club Head Speed": "115.004",
+      "Total Attempts": "18",
+      "Highest Dist. Efficiency": "0223902892"
+    },
+    {
+      "rank": 31,
+      "player": "Denny McCarthy",
+      "Avg": "2.536",
+      "Average Distance (yards)": "289.035",
+      "Average Club Head Speed": "113.952",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0211302820"
+    },
+    {
+      "rank": 31,
+      "player": "Davis Thompson",
+      "Avg": "2.536",
+      "Average Distance (yards)": "296.516",
+      "Average Club Head Speed": "116.922",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0208702744"
+    },
+    {
+      "rank": 33,
+      "player": "Danny Walker",
+      "Avg": "2.535",
+      "Average Distance (yards)": "303.454",
+      "Average Club Head Speed": "119.729",
+      "Total Attempts": "18",
+      "Highest Dist. Efficiency": "0227102786"
+    },
+    {
+      "rank": 34,
+      "player": "Harris English",
+      "Avg": "2.533",
+      "Average Distance (yards)": "298.512",
+      "Average Club Head Speed": "117.837",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0225102746"
+    },
+    {
+      "rank": 35,
+      "player": "Beau Hossler",
+      "Avg": "2.530",
+      "Average Distance (yards)": "291.602",
+      "Average Club Head Speed": "115.241",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0229702745"
+    },
+    {
+      "rank": 36,
+      "player": "J.J. Spaun",
+      "Avg": "2.529",
+      "Average Distance (yards)": "296.116",
+      "Average Club Head Speed": "117.100",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0236902736"
+    },
+    {
+      "rank": 37,
+      "player": "Justin Thomas",
+      "Avg": "2.528",
+      "Average Distance (yards)": "298.374",
+      "Average Club Head Speed": "118.007",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0224202738"
+    },
+    {
+      "rank": 38,
+      "player": "Matthieu Pavon",
+      "Avg": "2.525",
+      "Average Distance (yards)": "296.421",
+      "Average Club Head Speed": "117.392",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0227902791"
+    },
+    {
+      "rank": 39,
+      "player": "Jhonattan Vegas",
+      "Avg": "2.521",
+      "Average Distance (yards)": "305.042",
+      "Average Club Head Speed": "120.991",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0231202799"
+    },
+    {
+      "rank": 40,
+      "player": "Robert MacIntyre",
+      "Avg": "2.519",
+      "Average Distance (yards)": "295.201",
+      "Average Club Head Speed": "117.184",
+      "Total Attempts": "24",
+      "Highest Dist. Efficiency": "0214602825"
+    },
+    {
+      "rank": 41,
+      "player": "Isaiah Salinda",
+      "Avg": "2.518",
+      "Average Distance (yards)": "304.122",
+      "Average Club Head Speed": "120.794",
+      "Total Attempts": "18",
+      "Highest Dist. Efficiency": "0230502734"
+    },
+    {
+      "rank": 42,
+      "player": "Billy Horschel",
+      "Avg": "2.517",
+      "Average Distance (yards)": "292.139",
+      "Average Club Head Speed": "116.056",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0225402789"
+    },
+    {
+      "rank": 43,
+      "player": "Sami Valimaki",
+      "Avg": "2.516",
+      "Average Distance (yards)": "291.492",
+      "Average Club Head Speed": "115.851",
+      "Total Attempts": "18",
+      "Highest Dist. Efficiency": "0226202811"
+    },
+    {
+      "rank": 44,
+      "player": "Jesper Svensson",
+      "Avg": "2.512",
+      "Average Distance (yards)": "308.576",
+      "Average Club Head Speed": "122.823",
+      "Total Attempts": "18",
+      "Highest Dist. Efficiency": "0204702873"
+    },
+    {
+      "rank": 45,
+      "player": "Rico Hoey",
+      "Avg": "2.510",
+      "Average Distance (yards)": "296.191",
+      "Average Club Head Speed": "117.993",
+      "Total Attempts": "16",
+      "Highest Dist. Efficiency": "0224702902"
+    },
+    {
+      "rank": 45,
+      "player": "Scottie Scheffler",
+      "Avg": "2.510",
+      "Average Distance (yards)": "299.862",
+      "Average Club Head Speed": "119.474",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0217703052"
+    },
+    {
+      "rank": 47,
+      "player": "Taylor Pendrith",
+      "Avg": "2.507",
+      "Average Distance (yards)": "304.747",
+      "Average Club Head Speed": "121.577",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0237002764"
+    },
+    {
+      "rank": 48,
+      "player": "Corey Conners",
+      "Avg": "2.503",
+      "Average Distance (yards)": "290.052",
+      "Average Club Head Speed": "115.883",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0211402716"
+    },
+    {
+      "rank": 48,
+      "player": "Austin Eckroat",
+      "Avg": "2.503",
+      "Average Distance (yards)": "290.803",
+      "Average Club Head Speed": "116.188",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0228902720"
+    },
+    {
+      "rank": 48,
+      "player": "Ryan Gerard",
+      "Avg": "2.503",
+      "Average Distance (yards)": "291.711",
+      "Average Club Head Speed": "116.556",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0225202797"
+    },
+    {
+      "rank": 48,
+      "player": "Camilo Villegas",
+      "Avg": "2.503",
+      "Average Distance (yards)": "282.132",
+      "Average Club Head Speed": "112.698",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0199102749"
+    },
+    {
+      "rank": 52,
+      "player": "Daniel Berger",
+      "Avg": "2.502",
+      "Average Distance (yards)": "290.947",
+      "Average Club Head Speed": "116.292",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0232102724"
+    },
+    {
+      "rank": 53,
+      "player": "Tom Hoge",
+      "Avg": "2.500",
+      "Average Distance (yards)": "288.460",
+      "Average Club Head Speed": "115.404",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0222002770"
+    },
+    {
+      "rank": 54,
+      "player": "Akshay Bhatia",
+      "Avg": "2.496",
+      "Average Distance (yards)": "295.225",
+      "Average Club Head Speed": "118.265",
+      "Total Attempts": "18",
+      "Highest Dist. Efficiency": "0216402784"
+    },
+    {
+      "rank": 55,
+      "player": "Aaron Rai",
+      "Avg": "2.494",
+      "Average Distance (yards)": "284.338",
+      "Average Club Head Speed": "114.001",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0231802688"
+    },
+    {
+      "rank": 56,
+      "player": "J.T. Poston",
+      "Avg": "2.493",
+      "Average Distance (yards)": "287.505",
+      "Average Club Head Speed": "115.311",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0222302807"
+    },
+    {
+      "rank": 57,
+      "player": "Rickie Fowler",
+      "Avg": "2.491",
+      "Average Distance (yards)": "289.726",
+      "Average Club Head Speed": "116.296",
+      "Total Attempts": "23",
+      "Highest Dist. Efficiency": "0224402737"
+    },
+    {
+      "rank": 58,
+      "player": "Will Chandler",
+      "Avg": "2.490",
+      "Average Distance (yards)": "282.771",
+      "Average Club Head Speed": "113.576",
+      "Total Attempts": "24",
+      "Highest Dist. Efficiency": "0221202872"
+    },
+    {
+      "rank": 58,
+      "player": "Taylor Moore",
+      "Avg": "2.490",
+      "Average Distance (yards)": "298.079",
+      "Average Club Head Speed": "119.716",
+      "Total Attempts": "18",
+      "Highest Dist. Efficiency": "0234402728"
+    },
+    {
+      "rank": 60,
+      "player": "Rory McIlroy",
+      "Avg": "2.484",
+      "Average Distance (yards)": "307.942",
+      "Average Club Head Speed": "123.958",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0227202683"
+    },
+    {
+      "rank": 61,
+      "player": "Sahith Theegala",
+      "Avg": "2.481",
+      "Average Distance (yards)": "293.822",
+      "Average Club Head Speed": "118.451",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0217202724"
+    },
+    {
+      "rank": 62,
+      "player": "Ryan Fox",
+      "Avg": "2.478",
+      "Average Distance (yards)": "298.998",
+      "Average Club Head Speed": "120.642",
+      "Total Attempts": "17",
+      "Highest Dist. Efficiency": "0221502705"
+    },
+    {
+      "rank": 63,
+      "player": "Will Zalatoris",
+      "Avg": "2.473",
+      "Average Distance (yards)": "294.246",
+      "Average Club Head Speed": "118.962",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0224802805"
+    },
+    {
+      "rank": 64,
+      "player": "Xander Schauffele",
+      "Avg": "2.464",
+      "Average Distance (yards)": "299.899",
+      "Average Club Head Speed": "121.713",
+      "Total Attempts": "17",
+      "Highest Dist. Efficiency": "0200302738"
+    },
+    {
+      "rank": 65,
+      "player": "Sam Ryder",
+      "Avg": "2.462",
+      "Average Distance (yards)": "292.266",
+      "Average Club Head Speed": "118.713",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0216402724"
+    },
+    {
+      "rank": 66,
+      "player": "Min Woo Lee",
+      "Avg": "2.460",
+      "Average Distance (yards)": "312.132",
+      "Average Club Head Speed": "126.879",
+      "Total Attempts": "13",
+      "Highest Dist. Efficiency": "0214002624"
+    },
+    {
+      "rank": 67,
+      "player": "Joe Highsmith",
+      "Avg": "2.459",
+      "Average Distance (yards)": "288.942",
+      "Average Club Head Speed": "117.481",
+      "Total Attempts": "21",
+      "Highest Dist. Efficiency": "0203202846"
+    },
+    {
+      "rank": 68,
+      "player": "Trey Mullinax",
+      "Avg": "2.447",
+      "Average Distance (yards)": "301.268",
+      "Average Club Head Speed": "123.123",
+      "Total Attempts": "19",
+      "Highest Dist. Efficiency": "0190502760"
+    },
+    {
+      "rank": 69,
+      "player": "Cameron Young",
+      "Avg": "2.438",
+      "Average Distance (yards)": "304.953",
+      "Average Club Head Speed": "125.079",
+      "Total Attempts": "22",
+      "Highest Dist. Efficiency": "0144902779"
+    },
+    {
+      "rank": 70,
+      "player": "Stephan Jaeger",
+      "Avg": "2.418",
+      "Average Distance (yards)": "292.984",
+      "Average Club Head Speed": "121.169",
+      "Total Attempts": "16",
+      "Highest Dist. Efficiency": "0218302827"
+    },
+    {
+      "rank": 71,
+      "player": "Hayden Springer",
+      "Avg": "2.399",
+      "Average Distance (yards)": "296.151",
+      "Average Club Head Speed": "123.445",
+      "Total Attempts": "20",
+      "Highest Dist. Efficiency": "0199302636"
+    },
+    {
+      "rank": 72,
+      "player": "Jake Knapp",
+      "Avg": "2.389",
+      "Average Distance (yards)": "291.943",
+      "Average Club Head Speed": "122.220",
+      "Total Attempts": "16",
+      "Highest Dist. Efficiency": "0211102846"
+    }
+  ]
+}

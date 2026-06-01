@@ -1,0 +1,609 @@
+{
+  "stat_id": "02422",
+  "stat_title": "Left Tendency",
+  "category": "Off The Tee",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tyler Duncan",
+      "%": "16.7",
+      "Number of Times": "2",
+      "Attempts": "12",
+      "Avg RTP Score": "-5.00"
+    },
+    {
+      "rank": 2,
+      "player": "Viktor Hovland",
+      "%": "20.0",
+      "Number of Times": "4",
+      "Attempts": "20",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 2,
+      "player": "Taylor Pendrith",
+      "%": "20.0",
+      "Number of Times": "4",
+      "Attempts": "20",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 4,
+      "player": "Justin Thomas",
+      "%": "22.2",
+      "Number of Times": "4",
+      "Attempts": "18",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 5,
+      "player": "Taylor Montgomery",
+      "%": "23.1",
+      "Number of Times": "6",
+      "Attempts": "26",
+      "Avg RTP Score": "-3.33"
+    },
+    {
+      "rank": 5,
+      "player": "Brandon Wu",
+      "%": "23.1",
+      "Number of Times": "6",
+      "Attempts": "26",
+      "Avg RTP Score": "+3.33"
+    },
+    {
+      "rank": 7,
+      "player": "Hideki Matsuyama",
+      "%": "23.5",
+      "Number of Times": "4",
+      "Attempts": "17",
+      "Avg RTP Score": "+5.00"
+    },
+    {
+      "rank": 8,
+      "player": "Danny Willett",
+      "%": "24.0",
+      "Number of Times": "6",
+      "Attempts": "25",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 9,
+      "player": "Byeong Hun An",
+      "%": "25.0",
+      "Number of Times": "8",
+      "Attempts": "32",
+      "Avg RTP Score": "-2.50"
+    },
+    {
+      "rank": 9,
+      "player": "Tommy Fleetwood",
+      "%": "25.0",
+      "Number of Times": "6",
+      "Attempts": "24",
+      "Avg RTP Score": "+3.33"
+    },
+    {
+      "rank": 9,
+      "player": "Si Woo Kim",
+      "%": "25.0",
+      "Number of Times": "5",
+      "Attempts": "20",
+      "Avg RTP Score": "+6.00"
+    },
+    {
+      "rank": 12,
+      "player": "Keith Mitchell",
+      "%": "25.9",
+      "Number of Times": "7",
+      "Attempts": "27",
+      "Avg RTP Score": "-1.43"
+    },
+    {
+      "rank": 12,
+      "player": "Adam Scott",
+      "%": "25.9",
+      "Number of Times": "7",
+      "Attempts": "27",
+      "Avg RTP Score": "-1.43"
+    },
+    {
+      "rank": 14,
+      "player": "Ryan Fox",
+      "%": "26.1",
+      "Number of Times": "6",
+      "Attempts": "23",
+      "Avg RTP Score": "-1.67"
+    },
+    {
+      "rank": 15,
+      "player": "Mark Hubbard",
+      "%": "26.3",
+      "Number of Times": "5",
+      "Attempts": "19",
+      "Avg RTP Score": "+2.00"
+    },
+    {
+      "rank": 16,
+      "player": "Dylan Wu",
+      "%": "26.7",
+      "Number of Times": "4",
+      "Attempts": "15",
+      "Avg RTP Score": "-2.50"
+    },
+    {
+      "rank": 17,
+      "player": "Tyrrell Hatton",
+      "%": "29.2",
+      "Number of Times": "7",
+      "Attempts": "24",
+      "Avg RTP Score": "-1.43"
+    },
+    {
+      "rank": 18,
+      "player": "Adam Hadwin",
+      "%": "29.4",
+      "Number of Times": "5",
+      "Attempts": "17",
+      "Avg RTP Score": "-4.00"
+    },
+    {
+      "rank": 19,
+      "player": "Tom Kim",
+      "%": "30.0",
+      "Number of Times": "3",
+      "Attempts": "10",
+      "Avg RTP Score": "+6.67"
+    },
+    {
+      "rank": 20,
+      "player": "Denny McCarthy",
+      "%": "30.8",
+      "Number of Times": "4",
+      "Attempts": "13",
+      "Avg RTP Score": "-5.00"
+    },
+    {
+      "rank": 21,
+      "player": "Tony Finau",
+      "%": "31.6",
+      "Number of Times": "6",
+      "Attempts": "19",
+      "Avg RTP Score": "+3.33"
+    },
+    {
+      "rank": 22,
+      "player": "Maverick McNealy",
+      "%": "31.8",
+      "Number of Times": "7",
+      "Attempts": "22",
+      "Avg RTP Score": "+1.43"
+    },
+    {
+      "rank": 23,
+      "player": "Rickie Fowler",
+      "%": "32.0",
+      "Number of Times": "8",
+      "Attempts": "25",
+      "Avg RTP Score": "+1.25"
+    },
+    {
+      "rank": 24,
+      "player": "Ben Griffin",
+      "%": "32.3",
+      "Number of Times": "10",
+      "Attempts": "31",
+      "Avg RTP Score": "+2.00"
+    },
+    {
+      "rank": 25,
+      "player": "Justin Suh",
+      "%": "33.3",
+      "Number of Times": "8",
+      "Attempts": "24",
+      "Avg RTP Score": "-2.50"
+    },
+    {
+      "rank": 26,
+      "player": "Will Gordon",
+      "%": "34.8",
+      "Number of Times": "8",
+      "Attempts": "23",
+      "Avg RTP Score": "+6.25"
+    },
+    {
+      "rank": 27,
+      "player": "Lucas Glover",
+      "%": "35.3",
+      "Number of Times": "6",
+      "Attempts": "17",
+      "Avg RTP Score": "+10.00"
+    },
+    {
+      "rank": 28,
+      "player": "Chesson Hadley",
+      "%": "35.7",
+      "Number of Times": "5",
+      "Attempts": "14",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Russell Henley",
+      "%": "35.7",
+      "Number of Times": "5",
+      "Attempts": "14",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 30,
+      "player": "Matthias Schwab",
+      "%": "36.8",
+      "Number of Times": "7",
+      "Attempts": "19",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 31,
+      "player": "Xander Schauffele",
+      "%": "37.0",
+      "Number of Times": "10",
+      "Attempts": "27",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 32,
+      "player": "Chad Ramey",
+      "%": "37.5",
+      "Number of Times": "6",
+      "Attempts": "16",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 33,
+      "player": "Cam Davis",
+      "%": "37.9",
+      "Number of Times": "11",
+      "Attempts": "29",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 34,
+      "player": "Min Woo Lee",
+      "%": "38.9",
+      "Number of Times": "7",
+      "Attempts": "18",
+      "Avg RTP Score": "-1.43"
+    },
+    {
+      "rank": 35,
+      "player": "Kramer Hickok",
+      "%": "40.0",
+      "Number of Times": "6",
+      "Attempts": "15",
+      "Avg RTP Score": "+1.67"
+    },
+    {
+      "rank": 35,
+      "player": "Alex Smalley",
+      "%": "40.0",
+      "Number of Times": "8",
+      "Attempts": "20",
+      "Avg RTP Score": "+5.00"
+    },
+    {
+      "rank": 37,
+      "player": "Jason Day",
+      "%": "40.7",
+      "Number of Times": "11",
+      "Attempts": "27",
+      "Avg RTP Score": "+5.45"
+    },
+    {
+      "rank": 37,
+      "player": "Patton Kizzire",
+      "%": "40.7",
+      "Number of Times": "11",
+      "Attempts": "27",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 39,
+      "player": "Shane Lowry",
+      "%": "40.9",
+      "Number of Times": "9",
+      "Attempts": "22",
+      "Avg RTP Score": "+4.44"
+    },
+    {
+      "rank": 40,
+      "player": "Scottie Scheffler",
+      "%": "41.2",
+      "Number of Times": "7",
+      "Attempts": "17",
+      "Avg RTP Score": "-1.43"
+    },
+    {
+      "rank": 41,
+      "player": "Cameron Young",
+      "%": "41.7",
+      "Number of Times": "10",
+      "Attempts": "24",
+      "Avg RTP Score": "-1.00"
+    },
+    {
+      "rank": 42,
+      "player": "Sam Burns",
+      "%": "42.1",
+      "Number of Times": "8",
+      "Attempts": "19",
+      "Avg RTP Score": "+2.50"
+    },
+    {
+      "rank": 42,
+      "player": "Austin Smotherman",
+      "%": "42.1",
+      "Number of Times": "8",
+      "Attempts": "19",
+      "Avg RTP Score": "+1.25"
+    },
+    {
+      "rank": 42,
+      "player": "Sepp Straka",
+      "%": "42.1",
+      "Number of Times": "8",
+      "Attempts": "19",
+      "Avg RTP Score": "+5.00"
+    },
+    {
+      "rank": 45,
+      "player": "Brian Harman",
+      "%": "42.9",
+      "Number of Times": "6",
+      "Attempts": "14",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 45,
+      "player": "Sahith Theegala",
+      "%": "42.9",
+      "Number of Times": "9",
+      "Attempts": "21",
+      "Avg RTP Score": "+5.56"
+    },
+    {
+      "rank": 47,
+      "player": "Kevin Kisner",
+      "%": "44.4",
+      "Number of Times": "12",
+      "Attempts": "27",
+      "Avg RTP Score": "+4.17"
+    },
+    {
+      "rank": 48,
+      "player": "Will Zalatoris",
+      "%": "44.8",
+      "Number of Times": "13",
+      "Attempts": "29",
+      "Avg RTP Score": "+3.08"
+    },
+    {
+      "rank": 49,
+      "player": "Christiaan Bezuidenhout",
+      "%": "45.0",
+      "Number of Times": "9",
+      "Attempts": "20",
+      "Avg RTP Score": "+2.22"
+    },
+    {
+      "rank": 50,
+      "player": "Stephan Jaeger",
+      "%": "45.5",
+      "Number of Times": "10",
+      "Attempts": "22",
+      "Avg RTP Score": "-1.00"
+    },
+    {
+      "rank": 51,
+      "player": "Tom Hoge",
+      "%": "46.7",
+      "Number of Times": "7",
+      "Attempts": "15",
+      "Avg RTP Score": "-1.43"
+    },
+    {
+      "rank": 51,
+      "player": "Sungjae Im",
+      "%": "46.7",
+      "Number of Times": "7",
+      "Attempts": "15",
+      "Avg RTP Score": "+1.43"
+    },
+    {
+      "rank": 53,
+      "player": "Garrick Higgo",
+      "%": "47.4",
+      "Number of Times": "9",
+      "Attempts": "19",
+      "Avg RTP Score": "+2.22"
+    },
+    {
+      "rank": 53,
+      "player": "Max Homa",
+      "%": "47.4",
+      "Number of Times": "9",
+      "Attempts": "19",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 55,
+      "player": "Wyndham Clark",
+      "%": "47.6",
+      "Number of Times": "10",
+      "Attempts": "21",
+      "Avg RTP Score": "-2.00"
+    },
+    {
+      "rank": 56,
+      "player": "Taylor Moore",
+      "%": "47.8",
+      "Number of Times": "11",
+      "Attempts": "23",
+      "Avg RTP Score": "+3.64"
+    },
+    {
+      "rank": 57,
+      "player": "Aaron Baddeley",
+      "%": "48.0",
+      "Number of Times": "12",
+      "Attempts": "25",
+      "Avg RTP Score": "+1.67"
+    },
+    {
+      "rank": 58,
+      "player": "Francesco Molinari",
+      "%": "50.0",
+      "Number of Times": "13",
+      "Attempts": "26",
+      "Avg RTP Score": "+3.08"
+    },
+    {
+      "rank": 58,
+      "player": "Scott Stallings",
+      "%": "50.0",
+      "Number of Times": "11",
+      "Attempts": "22",
+      "Avg RTP Score": "+4.55"
+    },
+    {
+      "rank": 60,
+      "player": "Joel Dahmen",
+      "%": "52.2",
+      "Number of Times": "12",
+      "Attempts": "23",
+      "Avg RTP Score": "+5.83"
+    },
+    {
+      "rank": 61,
+      "player": "Aaron Rai",
+      "%": "52.9",
+      "Number of Times": "9",
+      "Attempts": "17",
+      "Avg RTP Score": "+2.22"
+    },
+    {
+      "rank": 61,
+      "player": "Sam Ryder",
+      "%": "52.9",
+      "Number of Times": "9",
+      "Attempts": "17",
+      "Avg RTP Score": "+4.44"
+    },
+    {
+      "rank": 61,
+      "player": "Adam Svensson",
+      "%": "52.9",
+      "Number of Times": "9",
+      "Attempts": "17",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 61,
+      "player": "Gary Woodland",
+      "%": "52.9",
+      "Number of Times": "9",
+      "Attempts": "17",
+      "Avg RTP Score": "+4.44"
+    },
+    {
+      "rank": 65,
+      "player": "David Lingmerth",
+      "%": "53.3",
+      "Number of Times": "8",
+      "Attempts": "15",
+      "Avg RTP Score": "+3.75"
+    },
+    {
+      "rank": 65,
+      "player": "Justin Rose",
+      "%": "53.3",
+      "Number of Times": "8",
+      "Attempts": "15",
+      "Avg RTP Score": "+1.25"
+    },
+    {
+      "rank": 67,
+      "player": "Ben Martin",
+      "%": "55.0",
+      "Number of Times": "11",
+      "Attempts": "20",
+      "Avg RTP Score": "-0.91"
+    },
+    {
+      "rank": 68,
+      "player": "Jerry Kelly",
+      "%": "55.6",
+      "Number of Times": "5",
+      "Attempts": "9",
+      "Avg RTP Score": "E"
+    },
+    {
+      "rank": 69,
+      "player": "Patrick Cantlay",
+      "%": "56.3",
+      "Number of Times": "9",
+      "Attempts": "16",
+      "Avg RTP Score": "+6.67"
+    },
+    {
+      "rank": 69,
+      "player": "Brendon Todd",
+      "%": "56.3",
+      "Number of Times": "9",
+      "Attempts": "16",
+      "Avg RTP Score": "+1.11"
+    },
+    {
+      "rank": 71,
+      "player": "Jordan Spieth",
+      "%": "56.5",
+      "Number of Times": "13",
+      "Attempts": "23",
+      "Avg RTP Score": "-2.31"
+    },
+    {
+      "rank": 72,
+      "player": "Davis Thompson",
+      "%": "58.3",
+      "Number of Times": "14",
+      "Attempts": "24",
+      "Avg RTP Score": "+4.29"
+    },
+    {
+      "rank": 73,
+      "player": "Nate Lashley",
+      "%": "64.0",
+      "Number of Times": "16",
+      "Attempts": "25",
+      "Avg RTP Score": "+1.88"
+    },
+    {
+      "rank": 74,
+      "player": "Collin Morikawa",
+      "%": "64.7",
+      "Number of Times": "11",
+      "Attempts": "17",
+      "Avg RTP Score": "+1.82"
+    },
+    {
+      "rank": 75,
+      "player": "Eric Cole",
+      "%": "77.8",
+      "Number of Times": "14",
+      "Attempts": "18",
+      "Avg RTP Score": "+1.43"
+    }
+  ]
+}

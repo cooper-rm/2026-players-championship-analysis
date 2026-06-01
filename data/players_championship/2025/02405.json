@@ -1,0 +1,513 @@
+{
+  "stat_id": "02405",
+  "stat_title": "Spin Rate",
+  "category": "Off The Tee",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Hayden Springer",
+      "Avg": "3,112.4",
+      "Total Spin Speed": "115,159",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 2,
+      "player": "Aaron Rai",
+      "Avg": "3,111.3",
+      "Total Spin Speed": "146,231",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 3,
+      "player": "Will Chandler",
+      "Avg": "3,102.7",
+      "Total Spin Speed": "155,135",
+      "Total Attempts": "50"
+    },
+    {
+      "rank": 4,
+      "player": "Jake Knapp",
+      "Avg": "3,020.8",
+      "Total Spin Speed": "69,479",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 5,
+      "player": "Trey Mullinax",
+      "Avg": "2,969.1",
+      "Total Spin Speed": "121,735",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 6,
+      "player": "Sam Ryder",
+      "Avg": "2,908.5",
+      "Total Spin Speed": "116,340",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 7,
+      "player": "Rickie Fowler",
+      "Avg": "2,906.3",
+      "Total Spin Speed": "122,063",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 8,
+      "player": "Sami Valimaki",
+      "Avg": "2,874.3",
+      "Total Spin Speed": "120,722",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 9,
+      "player": "Joe Highsmith",
+      "Avg": "2,865.2",
+      "Total Spin Speed": "128,932",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 10,
+      "player": "Corey Conners",
+      "Avg": "2,857.3",
+      "Total Spin Speed": "131,434",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 11,
+      "player": "Sungjae Im",
+      "Avg": "2,838.6",
+      "Total Spin Speed": "133,415",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 12,
+      "player": "Taylor Moore",
+      "Avg": "2,837.7",
+      "Total Spin Speed": "107,834",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 13,
+      "player": "Akshay Bhatia",
+      "Avg": "2,832.8",
+      "Total Spin Speed": "116,143",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 14,
+      "player": "Ryan Fox",
+      "Avg": "2,819.4",
+      "Total Spin Speed": "101,498",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 15,
+      "player": "Rico Hoey",
+      "Avg": "2,808.1",
+      "Total Spin Speed": "109,517",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 16,
+      "player": "Stephan Jaeger",
+      "Avg": "2,756.2",
+      "Total Spin Speed": "96,466",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 17,
+      "player": "Scottie Scheffler",
+      "Avg": "2,755.4",
+      "Total Spin Speed": "101,948",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 18,
+      "player": "Lucas Glover",
+      "Avg": "2,720.7",
+      "Total Spin Speed": "108,829",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 19,
+      "player": "Harris English",
+      "Avg": "2,678.1",
+      "Total Spin Speed": "101,768",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 20,
+      "player": "Camilo Villegas",
+      "Avg": "2,678.0",
+      "Total Spin Speed": "77,663",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 21,
+      "player": "Davis Riley",
+      "Avg": "2,673.1",
+      "Total Spin Speed": "101,576",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 22,
+      "player": "Shane Lowry",
+      "Avg": "2,648.7",
+      "Total Spin Speed": "124,490",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 23,
+      "player": "Jacob Bridgeman",
+      "Avg": "2,647.2",
+      "Total Spin Speed": "119,124",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 24,
+      "player": "J.T. Poston",
+      "Avg": "2,642.3",
+      "Total Spin Speed": "108,334",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 25,
+      "player": "Min Woo Lee",
+      "Avg": "2,638.7",
+      "Total Spin Speed": "76,522",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 26,
+      "player": "Justin Thomas",
+      "Avg": "2,624.4",
+      "Total Spin Speed": "94,477",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 27,
+      "player": "Rory McIlroy",
+      "Avg": "2,617.2",
+      "Total Spin Speed": "75,900",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 28,
+      "player": "Si Woo Kim",
+      "Avg": "2,616.2",
+      "Total Spin Speed": "141,275",
+      "Total Attempts": "54"
+    },
+    {
+      "rank": 29,
+      "player": "Tommy Fleetwood",
+      "Avg": "2,597.0",
+      "Total Spin Speed": "90,896",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 30,
+      "player": "Beau Hossler",
+      "Avg": "2,583.2",
+      "Total Spin Speed": "105,913",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 31,
+      "player": "Byeong Hun An",
+      "Avg": "2,569.1",
+      "Total Spin Speed": "123,316",
+      "Total Attempts": "48"
+    },
+    {
+      "rank": 32,
+      "player": "Billy Horschel",
+      "Avg": "2,565.8",
+      "Total Spin Speed": "112,893",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 33,
+      "player": "Cameron Young",
+      "Avg": "2,550.3",
+      "Total Spin Speed": "91,811",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 34,
+      "player": "J.J. Spaun",
+      "Avg": "2,543.5",
+      "Total Spin Speed": "81,391",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 35,
+      "player": "Robert MacIntyre",
+      "Avg": "2,537.4",
+      "Total Spin Speed": "119,258",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 36,
+      "player": "Emiliano Grillo",
+      "Avg": "2,529.2",
+      "Total Spin Speed": "98,638",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 37,
+      "player": "Matt McCarty",
+      "Avg": "2,519.2",
+      "Total Spin Speed": "110,846",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 38,
+      "player": "Jordan Spieth",
+      "Avg": "2,508.9",
+      "Total Spin Speed": "102,863",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 39,
+      "player": "Taylor Pendrith",
+      "Avg": "2,507.4",
+      "Total Spin Speed": "110,327",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 40,
+      "player": "Austin Eckroat",
+      "Avg": "2,506.0",
+      "Total Spin Speed": "107,756",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 41,
+      "player": "Patrick Cantlay",
+      "Avg": "2,502.1",
+      "Total Spin Speed": "95,078",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 42,
+      "player": "Jhonattan Vegas",
+      "Avg": "2,496.3",
+      "Total Spin Speed": "82,379",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 43,
+      "player": "Xander Schauffele",
+      "Avg": "2,475.6",
+      "Total Spin Speed": "81,696",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 44,
+      "player": "Bud Cauley",
+      "Avg": "2,472.5",
+      "Total Spin Speed": "96,429",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 45,
+      "player": "Charley Hoffman",
+      "Avg": "2,471.2",
+      "Total Spin Speed": "101,321",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 46,
+      "player": "Alex Smalley",
+      "Avg": "2,459.8",
+      "Total Spin Speed": "78,715",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 47,
+      "player": "Will Zalatoris",
+      "Avg": "2,451.1",
+      "Total Spin Speed": "73,534",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 48,
+      "player": "Keegan Bradley",
+      "Avg": "2,448.9",
+      "Total Spin Speed": "90,610",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 49,
+      "player": "Tom Hoge",
+      "Avg": "2,430.4",
+      "Total Spin Speed": "80,202",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 50,
+      "player": "Danny Walker",
+      "Avg": "2,421.2",
+      "Total Spin Speed": "82,320",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 51,
+      "player": "Tom Kim",
+      "Avg": "2,417.9",
+      "Total Spin Speed": "82,210",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 52,
+      "player": "Sahith Theegala",
+      "Avg": "2,410.8",
+      "Total Spin Speed": "94,020",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 53,
+      "player": "Russell Henley",
+      "Avg": "2,398.5",
+      "Total Spin Speed": "105,534",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 54,
+      "player": "Sepp Straka",
+      "Avg": "2,383.9",
+      "Total Spin Speed": "100,124",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 55,
+      "player": "Denny McCarthy",
+      "Avg": "2,381.0",
+      "Total Spin Speed": "95,240",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 56,
+      "player": "Matt Kuchar",
+      "Avg": "2,379.0",
+      "Total Spin Speed": "116,573",
+      "Total Attempts": "49"
+    },
+    {
+      "rank": 57,
+      "player": "Chris Kirk",
+      "Avg": "2,373.2",
+      "Total Spin Speed": "92,556",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 58,
+      "player": "Ryan Gerard",
+      "Avg": "2,368.0",
+      "Total Spin Speed": "68,671",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 59,
+      "player": "Max McGreevy",
+      "Avg": "2,359.6",
+      "Total Spin Speed": "82,585",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 60,
+      "player": "Matthieu Pavon",
+      "Avg": "2,356.4",
+      "Total Spin Speed": "94,254",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 61,
+      "player": "Daniel Berger",
+      "Avg": "2,351.6",
+      "Total Spin Speed": "79,955",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 62,
+      "player": "Carson Young",
+      "Avg": "2,345.8",
+      "Total Spin Speed": "96,178",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 63,
+      "player": "Isaiah Salinda",
+      "Avg": "2,336.0",
+      "Total Spin Speed": "60,737",
+      "Total Attempts": "26"
+    },
+    {
+      "rank": 64,
+      "player": "Kurt Kitayama",
+      "Avg": "2,327.2",
+      "Total Spin Speed": "74,471",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 65,
+      "player": "Collin Morikawa",
+      "Avg": "2,279.6",
+      "Total Spin Speed": "61,548",
+      "Total Attempts": "27"
+    },
+    {
+      "rank": 66,
+      "player": "Chandler Phillips",
+      "Avg": "2,273.2",
+      "Total Spin Speed": "84,108",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 67,
+      "player": "Davis Thompson",
+      "Avg": "2,264.1",
+      "Total Spin Speed": "76,978",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 68,
+      "player": "Mac Meissner",
+      "Avg": "2,195.9",
+      "Total Spin Speed": "65,876",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 69,
+      "player": "Justin Lower",
+      "Avg": "2,190.8",
+      "Total Spin Speed": "85,441",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 70,
+      "player": "Joel Dahmen",
+      "Avg": "2,151.8",
+      "Total Spin Speed": "96,830",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 71,
+      "player": "C.T. Pan",
+      "Avg": "2,038.7",
+      "Total Spin Speed": "87,665",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 72,
+      "player": "Jesper Svensson",
+      "Avg": "2,015.6",
+      "Total Spin Speed": "58,451",
+      "Total Attempts": "29"
+    }
+  ]
+}

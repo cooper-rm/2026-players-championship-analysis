@@ -1,0 +1,499 @@
+{
+  "stat_id": "481",
+  "stat_title": "Scrambling Average Distance to Hole",
+  "category": "Around the Green",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Russell Knox",
+      "Avg dtp": "4' 6\"",
+      "Total Distance (Feet)": "62.833",
+      "Attempts": "14"
+    },
+    {
+      "rank": 1,
+      "player": "Rory McIlroy",
+      "Avg dtp": "4' 6\"",
+      "Total Distance (Feet)": "94.750",
+      "Attempts": "21"
+    },
+    {
+      "rank": 3,
+      "player": "Keegan Bradley",
+      "Avg dtp": "5' 1\"",
+      "Total Distance (Feet)": "92.167",
+      "Attempts": "18"
+    },
+    {
+      "rank": 4,
+      "player": "Branden Grace",
+      "Avg dtp": "5' 4\"",
+      "Total Distance (Feet)": "122.500",
+      "Attempts": "23"
+    },
+    {
+      "rank": 5,
+      "player": "Scott Stallings",
+      "Avg dtp": "5' 6\"",
+      "Total Distance (Feet)": "115.500",
+      "Attempts": "21"
+    },
+    {
+      "rank": 6,
+      "player": "Paul Casey",
+      "Avg dtp": "5' 8\"",
+      "Total Distance (Feet)": "124.250",
+      "Attempts": "22"
+    },
+    {
+      "rank": 6,
+      "player": "K.H. Lee",
+      "Avg dtp": "5' 8\"",
+      "Total Distance (Feet)": "84.917",
+      "Attempts": "15"
+    },
+    {
+      "rank": 8,
+      "player": "Daniel Berger",
+      "Avg dtp": "5' 10\"",
+      "Total Distance (Feet)": "145.167",
+      "Attempts": "25"
+    },
+    {
+      "rank": 8,
+      "player": "Justin Thomas",
+      "Avg dtp": "5' 10\"",
+      "Total Distance (Feet)": "93.083",
+      "Attempts": "16"
+    },
+    {
+      "rank": 10,
+      "player": "Ian Poulter",
+      "Avg dtp": "6' 0\"",
+      "Total Distance (Feet)": "125.750",
+      "Attempts": "21"
+    },
+    {
+      "rank": 10,
+      "player": "Cameron Smith",
+      "Avg dtp": "6' 0\"",
+      "Total Distance (Feet)": "113.250",
+      "Attempts": "19"
+    },
+    {
+      "rank": 12,
+      "player": "Dustin Johnson",
+      "Avg dtp": "6' 1\"",
+      "Total Distance (Feet)": "103.167",
+      "Attempts": "17"
+    },
+    {
+      "rank": 12,
+      "player": "Patrick Reed",
+      "Avg dtp": "6' 1\"",
+      "Total Distance (Feet)": "109.333",
+      "Attempts": "18"
+    },
+    {
+      "rank": 14,
+      "player": "Corey Conners",
+      "Avg dtp": "6' 2\"",
+      "Total Distance (Feet)": "117.583",
+      "Attempts": "19"
+    },
+    {
+      "rank": 15,
+      "player": "Anirban Lahiri",
+      "Avg dtp": "6' 3\"",
+      "Total Distance (Feet)": "113.000",
+      "Attempts": "18"
+    },
+    {
+      "rank": 16,
+      "player": "Lee Hodges",
+      "Avg dtp": "6' 4\"",
+      "Total Distance (Feet)": "164.667",
+      "Attempts": "26"
+    },
+    {
+      "rank": 17,
+      "player": "Kevin Kisner",
+      "Avg dtp": "6' 7\"",
+      "Total Distance (Feet)": "151.250",
+      "Attempts": "23"
+    },
+    {
+      "rank": 17,
+      "player": "Francesco Molinari",
+      "Avg dtp": "6' 7\"",
+      "Total Distance (Feet)": "105.500",
+      "Attempts": "16"
+    },
+    {
+      "rank": 19,
+      "player": "Taylor Pendrith",
+      "Avg dtp": "6' 10\"",
+      "Total Distance (Feet)": "102.750",
+      "Attempts": "15"
+    },
+    {
+      "rank": 20,
+      "player": "Denny McCarthy",
+      "Avg dtp": "6' 11\"",
+      "Total Distance (Feet)": "159.333",
+      "Attempts": "23"
+    },
+    {
+      "rank": 21,
+      "player": "Brice Garnett",
+      "Avg dtp": "7' 0\"",
+      "Total Distance (Feet)": "153.750",
+      "Attempts": "22"
+    },
+    {
+      "rank": 21,
+      "player": "Erik van Rooyen",
+      "Avg dtp": "7' 0\"",
+      "Total Distance (Feet)": "118.417",
+      "Attempts": "17"
+    },
+    {
+      "rank": 23,
+      "player": "Joaquin Niemann",
+      "Avg dtp": "7' 1\"",
+      "Total Distance (Feet)": "141.500",
+      "Attempts": "20"
+    },
+    {
+      "rank": 24,
+      "player": "Hank Lebioda",
+      "Avg dtp": "7' 3\"",
+      "Total Distance (Feet)": "144.417",
+      "Attempts": "20"
+    },
+    {
+      "rank": 25,
+      "player": "Harold Varner III",
+      "Avg dtp": "7' 4\"",
+      "Total Distance (Feet)": "102.750",
+      "Attempts": "14"
+    },
+    {
+      "rank": 26,
+      "player": "Alex Noren",
+      "Avg dtp": "7' 5\"",
+      "Total Distance (Feet)": "162.917",
+      "Attempts": "22"
+    },
+    {
+      "rank": 26,
+      "player": "Kevin Streelman",
+      "Avg dtp": "7' 5\"",
+      "Total Distance (Feet)": "141.500",
+      "Attempts": "19"
+    },
+    {
+      "rank": 28,
+      "player": "Keith Mitchell",
+      "Avg dtp": "7' 7\"",
+      "Total Distance (Feet)": "151.667",
+      "Attempts": "20"
+    },
+    {
+      "rank": 29,
+      "player": "Chesson Hadley",
+      "Avg dtp": "7' 9\"",
+      "Total Distance (Feet)": "163.417",
+      "Attempts": "21"
+    },
+    {
+      "rank": 29,
+      "player": "Patton Kizzire",
+      "Avg dtp": "7' 9\"",
+      "Total Distance (Feet)": "131.750",
+      "Attempts": "17"
+    },
+    {
+      "rank": 31,
+      "player": "Sam Burns",
+      "Avg dtp": "7' 10\"",
+      "Total Distance (Feet)": "171.500",
+      "Attempts": "22"
+    },
+    {
+      "rank": 32,
+      "player": "Adam Long",
+      "Avg dtp": "7' 11\"",
+      "Total Distance (Feet)": "182.917",
+      "Attempts": "23"
+    },
+    {
+      "rank": 32,
+      "player": "Peter Malnati",
+      "Avg dtp": "7' 11\"",
+      "Total Distance (Feet)": "141.750",
+      "Attempts": "18"
+    },
+    {
+      "rank": 34,
+      "player": "Doug Ghim",
+      "Avg dtp": "8' 0\"",
+      "Total Distance (Feet)": "127.833",
+      "Attempts": "16"
+    },
+    {
+      "rank": 34,
+      "player": "Pat Perez",
+      "Avg dtp": "8' 0\"",
+      "Total Distance (Feet)": "160.167",
+      "Attempts": "20"
+    },
+    {
+      "rank": 34,
+      "player": "Scottie Scheffler",
+      "Avg dtp": "8' 0\"",
+      "Total Distance (Feet)": "167.667",
+      "Attempts": "21"
+    },
+    {
+      "rank": 37,
+      "player": "Lucas Herbert",
+      "Avg dtp": "8' 1\"",
+      "Total Distance (Feet)": "194.667",
+      "Attempts": "24"
+    },
+    {
+      "rank": 37,
+      "player": "Jimmy Walker",
+      "Avg dtp": "8' 1\"",
+      "Total Distance (Feet)": "146.167",
+      "Attempts": "18"
+    },
+    {
+      "rank": 39,
+      "player": "Hayden Buckley",
+      "Avg dtp": "8' 2\"",
+      "Total Distance (Feet)": "155.250",
+      "Attempts": "19"
+    },
+    {
+      "rank": 39,
+      "player": "Kramer Hickok",
+      "Avg dtp": "8' 2\"",
+      "Total Distance (Feet)": "155.750",
+      "Attempts": "19"
+    },
+    {
+      "rank": 39,
+      "player": "Max Homa",
+      "Avg dtp": "8' 2\"",
+      "Total Distance (Feet)": "171.833",
+      "Attempts": "21"
+    },
+    {
+      "rank": 42,
+      "player": "Sergio Garcia",
+      "Avg dtp": "8' 4\"",
+      "Total Distance (Feet)": "141.250",
+      "Attempts": "17"
+    },
+    {
+      "rank": 42,
+      "player": "Troy Merritt",
+      "Avg dtp": "8' 4\"",
+      "Total Distance (Feet)": "133.000",
+      "Attempts": "16"
+    },
+    {
+      "rank": 42,
+      "player": "Doc Redman",
+      "Avg dtp": "8' 4\"",
+      "Total Distance (Feet)": "149.583",
+      "Attempts": "18"
+    },
+    {
+      "rank": 45,
+      "player": "Dylan Frittelli",
+      "Avg dtp": "8' 6\"",
+      "Total Distance (Feet)": "152.333",
+      "Attempts": "18"
+    },
+    {
+      "rank": 45,
+      "player": "Adam Hadwin",
+      "Avg dtp": "8' 6\"",
+      "Total Distance (Feet)": "187.167",
+      "Attempts": "22"
+    },
+    {
+      "rank": 47,
+      "player": "Tommy Fleetwood",
+      "Avg dtp": "8' 7\"",
+      "Total Distance (Feet)": "154.000",
+      "Attempts": "18"
+    },
+    {
+      "rank": 47,
+      "player": "Maverick McNealy",
+      "Avg dtp": "8' 7\"",
+      "Total Distance (Feet)": "145.750",
+      "Attempts": "17"
+    },
+    {
+      "rank": 49,
+      "player": "Viktor Hovland",
+      "Avg dtp": "8' 8\"",
+      "Total Distance (Feet)": "112.417",
+      "Attempts": "13"
+    },
+    {
+      "rank": 49,
+      "player": "Sungjae Im",
+      "Avg dtp": "8' 8\"",
+      "Total Distance (Feet)": "207.417",
+      "Attempts": "24"
+    },
+    {
+      "rank": 49,
+      "player": "Seamus Power",
+      "Avg dtp": "8' 8\"",
+      "Total Distance (Feet)": "121.667",
+      "Attempts": "14"
+    },
+    {
+      "rank": 52,
+      "player": "Sam Ryder",
+      "Avg dtp": "8' 9\"",
+      "Total Distance (Feet)": "183.750",
+      "Attempts": "21"
+    },
+    {
+      "rank": 53,
+      "player": "Brendan Steele",
+      "Avg dtp": "8' 10\"",
+      "Total Distance (Feet)": "186.083",
+      "Attempts": "21"
+    },
+    {
+      "rank": 54,
+      "player": "Tom Hoge",
+      "Avg dtp": "8' 11\"",
+      "Total Distance (Feet)": "134.000",
+      "Attempts": "15"
+    },
+    {
+      "rank": 55,
+      "player": "Abraham Ancer",
+      "Avg dtp": "9' 0\"",
+      "Total Distance (Feet)": "189.333",
+      "Attempts": "21"
+    },
+    {
+      "rank": 55,
+      "player": "Joel Dahmen",
+      "Avg dtp": "9' 0\"",
+      "Total Distance (Feet)": "197.750",
+      "Attempts": "22"
+    },
+    {
+      "rank": 57,
+      "player": "Sepp Straka",
+      "Avg dtp": "9' 3\"",
+      "Total Distance (Feet)": "139.083",
+      "Attempts": "15"
+    },
+    {
+      "rank": 58,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg dtp": "9' 7\"",
+      "Total Distance (Feet)": "182.667",
+      "Attempts": "19"
+    },
+    {
+      "rank": 59,
+      "player": "Michael Thompson",
+      "Avg dtp": "9' 9\"",
+      "Total Distance (Feet)": "234.167",
+      "Attempts": "24"
+    },
+    {
+      "rank": 59,
+      "player": "Will Zalatoris",
+      "Avg dtp": "9' 9\"",
+      "Total Distance (Feet)": "175.417",
+      "Attempts": "18"
+    },
+    {
+      "rank": 61,
+      "player": "Tyrrell Hatton",
+      "Avg dtp": "9' 10\"",
+      "Total Distance (Feet)": "226.250",
+      "Attempts": "23"
+    },
+    {
+      "rank": 62,
+      "player": "Shane Lowry",
+      "Avg dtp": "10' 0\"",
+      "Total Distance (Feet)": "159.667",
+      "Attempts": "16"
+    },
+    {
+      "rank": 63,
+      "player": "Jason Kokrak",
+      "Avg dtp": "10' 2\"",
+      "Total Distance (Feet)": "253.667",
+      "Attempts": "25"
+    },
+    {
+      "rank": 64,
+      "player": "Brian Harman",
+      "Avg dtp": "10' 8\"",
+      "Total Distance (Feet)": "202.167",
+      "Attempts": "19"
+    },
+    {
+      "rank": 65,
+      "player": "Jon Rahm",
+      "Avg dtp": "10' 10\"",
+      "Total Distance (Feet)": "173.083",
+      "Attempts": "16"
+    },
+    {
+      "rank": 66,
+      "player": "Bubba Watson",
+      "Avg dtp": "11' 1\"",
+      "Total Distance (Feet)": "244.083",
+      "Attempts": "22"
+    },
+    {
+      "rank": 67,
+      "player": "Nick Watney",
+      "Avg dtp": "11' 10\"",
+      "Total Distance (Feet)": "248.583",
+      "Attempts": "21"
+    },
+    {
+      "rank": 68,
+      "player": "Aaron Wise",
+      "Avg dtp": "12' 0\"",
+      "Total Distance (Feet)": "120.083",
+      "Attempts": "10"
+    },
+    {
+      "rank": 69,
+      "player": "Louis Oosthuizen",
+      "Avg dtp": "12' 1\"",
+      "Total Distance (Feet)": "325.500",
+      "Attempts": "27"
+    },
+    {
+      "rank": 70,
+      "player": "Russell Henley",
+      "Avg dtp": "12' 10\"",
+      "Total Distance (Feet)": "243.500",
+      "Attempts": "19"
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "stat_id": "02435",
+  "stat_title": "Rough Tendency",
+  "category": "Off The Tee",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Aaron Rai",
+      "%": "8.93%",
+      "Total Rough": "5",
+      "Possible Fwys": "56",
+      "Relative to par": "-2.00"
+    },
+    {
+      "rank": 2,
+      "player": "Brice Garnett",
+      "%": "10.71%",
+      "Total Rough": "6",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 2,
+      "player": "Doug Ghim",
+      "%": "10.71%",
+      "Total Rough": "6",
+      "Possible Fwys": "56",
+      "Relative to par": "-3.33"
+    },
+    {
+      "rank": 2,
+      "player": "Mark Hubbard",
+      "%": "10.71%",
+      "Total Rough": "6",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 5,
+      "player": "Tommy Fleetwood",
+      "%": "12.50%",
+      "Total Rough": "7",
+      "Possible Fwys": "56",
+      "Relative to par": "+5.71"
+    },
+    {
+      "rank": 5,
+      "player": "Viktor Hovland",
+      "%": "12.50%",
+      "Total Rough": "7",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 5,
+      "player": "Ryan Moore",
+      "%": "12.50%",
+      "Total Rough": "7",
+      "Possible Fwys": "56",
+      "Relative to par": "+2.86"
+    },
+    {
+      "rank": 8,
+      "player": "Sungjae Im",
+      "%": "12.73%",
+      "Total Rough": "7",
+      "Possible Fwys": "55",
+      "Relative to par": "-1.43"
+    },
+    {
+      "rank": 9,
+      "player": "Zac Blair",
+      "%": "14.29%",
+      "Total Rough": "8",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.25"
+    },
+    {
+      "rank": 9,
+      "player": "Taylor Moore",
+      "%": "14.29%",
+      "Total Rough": "8",
+      "Possible Fwys": "56",
+      "Relative to par": "-3.75"
+    },
+    {
+      "rank": 9,
+      "player": "Seamus Power",
+      "%": "14.29%",
+      "Total Rough": "8",
+      "Possible Fwys": "56",
+      "Relative to par": "+3.75"
+    },
+    {
+      "rank": 9,
+      "player": "Sam Ryder",
+      "%": "14.29%",
+      "Total Rough": "8",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 9,
+      "player": "Scottie Scheffler",
+      "%": "14.29%",
+      "Total Rough": "8",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 14,
+      "player": "Brian Harman",
+      "%": "14.55%",
+      "Total Rough": "8",
+      "Possible Fwys": "55",
+      "Relative to par": "+1.25"
+    },
+    {
+      "rank": 14,
+      "player": "J.J. Spaun",
+      "%": "14.55%",
+      "Total Rough": "8",
+      "Possible Fwys": "55",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Lee Hodges",
+      "%": "16.07%",
+      "Total Rough": "9",
+      "Possible Fwys": "56",
+      "Relative to par": "+3.33"
+    },
+    {
+      "rank": 16,
+      "player": "Chan Kim",
+      "%": "16.07%",
+      "Total Rough": "9",
+      "Possible Fwys": "56",
+      "Relative to par": "-1.11"
+    },
+    {
+      "rank": 16,
+      "player": "J.T. Poston",
+      "%": "16.07%",
+      "Total Rough": "9",
+      "Possible Fwys": "56",
+      "Relative to par": "-1.11"
+    },
+    {
+      "rank": 19,
+      "player": "David Lipsky",
+      "%": "16.36%",
+      "Total Rough": "9",
+      "Possible Fwys": "55",
+      "Relative to par": "+4.44"
+    },
+    {
+      "rank": 20,
+      "player": "Jason Day",
+      "%": "17.86%",
+      "Total Rough": "10",
+      "Possible Fwys": "56",
+      "Relative to par": "-2.00"
+    },
+    {
+      "rank": 20,
+      "player": "Si Woo Kim",
+      "%": "17.86%",
+      "Total Rough": "10",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 20,
+      "player": "Chris Kirk",
+      "%": "17.86%",
+      "Total Rough": "10",
+      "Possible Fwys": "56",
+      "Relative to par": "-2.00"
+    },
+    {
+      "rank": 20,
+      "player": "Shane Lowry",
+      "%": "17.86%",
+      "Total Rough": "10",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 20,
+      "player": "Adam Schenk",
+      "%": "17.86%",
+      "Total Rough": "10",
+      "Possible Fwys": "56",
+      "Relative to par": "+3.00"
+    },
+    {
+      "rank": 25,
+      "player": "Min Woo Lee",
+      "%": "18.18%",
+      "Total Rough": "10",
+      "Possible Fwys": "55",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 26,
+      "player": "Tyler Duncan",
+      "%": "19.64%",
+      "Total Rough": "11",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.82"
+    },
+    {
+      "rank": 26,
+      "player": "Harris English",
+      "%": "19.64%",
+      "Total Rough": "11",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.91"
+    },
+    {
+      "rank": 26,
+      "player": "Matt Fitzpatrick",
+      "%": "19.64%",
+      "Total Rough": "11",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.82"
+    },
+    {
+      "rank": 26,
+      "player": "Martin Laird",
+      "%": "19.64%",
+      "Total Rough": "11",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.91"
+    },
+    {
+      "rank": 26,
+      "player": "Rory McIlroy",
+      "%": "19.64%",
+      "Total Rough": "11",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.91"
+    },
+    {
+      "rank": 26,
+      "player": "Francesco Molinari",
+      "%": "19.64%",
+      "Total Rough": "11",
+      "Possible Fwys": "56",
+      "Relative to par": "+3.64"
+    },
+    {
+      "rank": 32,
+      "player": "Grayson Murray",
+      "%": "20.00%",
+      "Total Rough": "11",
+      "Possible Fwys": "55",
+      "Relative to par": "+0.91"
+    },
+    {
+      "rank": 33,
+      "player": "Ludvig \u00c5berg",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.83"
+    },
+    {
+      "rank": 33,
+      "player": "Wyndham Clark",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "-0.83"
+    },
+    {
+      "rank": 33,
+      "player": "Joel Dahmen",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.83"
+    },
+    {
+      "rank": 33,
+      "player": "Austin Eckroat",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 33,
+      "player": "Kurt Kitayama",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.83"
+    },
+    {
+      "rank": 33,
+      "player": "Nate Lashley",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.67"
+    },
+    {
+      "rank": 33,
+      "player": "Keith Mitchell",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.67"
+    },
+    {
+      "rank": 33,
+      "player": "Jimmy Stanger",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.83"
+    },
+    {
+      "rank": 33,
+      "player": "Cameron Young",
+      "%": "21.43%",
+      "Total Rough": "12",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 42,
+      "player": "Rickie Fowler",
+      "%": "21.82%",
+      "Total Rough": "12",
+      "Possible Fwys": "55",
+      "Relative to par": "+0.83"
+    },
+    {
+      "rank": 42,
+      "player": "Tom Hoge",
+      "%": "21.82%",
+      "Total Rough": "12",
+      "Possible Fwys": "55",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 42,
+      "player": "Sahith Theegala",
+      "%": "21.82%",
+      "Total Rough": "12",
+      "Possible Fwys": "55",
+      "Relative to par": "-2.50"
+    },
+    {
+      "rank": 45,
+      "player": "Taylor Montgomery",
+      "%": "22.22%",
+      "Total Rough": "12",
+      "Possible Fwys": "54",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 46,
+      "player": "Emiliano Grillo",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "-0.77"
+    },
+    {
+      "rank": 46,
+      "player": "Jake Knapp",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.77"
+    },
+    {
+      "rank": 46,
+      "player": "Maverick McNealy",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.77"
+    },
+    {
+      "rank": 46,
+      "player": "Matt NeSmith",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.54"
+    },
+    {
+      "rank": 46,
+      "player": "Alex Noren",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "-0.77"
+    },
+    {
+      "rank": 46,
+      "player": "Andrew Putnam",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.54"
+    },
+    {
+      "rank": 46,
+      "player": "Matti Schmid",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.77"
+    },
+    {
+      "rank": 46,
+      "player": "Adam Scott",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "+3.08"
+    },
+    {
+      "rank": 46,
+      "player": "Gary Woodland",
+      "%": "23.21%",
+      "Total Rough": "13",
+      "Possible Fwys": "56",
+      "Relative to par": "+3.08"
+    },
+    {
+      "rank": 55,
+      "player": "Patrick Cantlay",
+      "%": "23.64%",
+      "Total Rough": "13",
+      "Possible Fwys": "55",
+      "Relative to par": "+2.31"
+    },
+    {
+      "rank": 55,
+      "player": "Sami Valimaki",
+      "%": "23.64%",
+      "Total Rough": "13",
+      "Possible Fwys": "55",
+      "Relative to par": "+0.77"
+    },
+    {
+      "rank": 57,
+      "player": "Max Homa",
+      "%": "25.00%",
+      "Total Rough": "14",
+      "Possible Fwys": "56",
+      "Relative to par": "-0.71"
+    },
+    {
+      "rank": 57,
+      "player": "Mackenzie Hughes",
+      "%": "25.00%",
+      "Total Rough": "14",
+      "Possible Fwys": "56",
+      "Relative to par": "-0.71"
+    },
+    {
+      "rank": 57,
+      "player": "Collin Morikawa",
+      "%": "25.00%",
+      "Total Rough": "14",
+      "Possible Fwys": "56",
+      "Relative to par": "+2.14"
+    },
+    {
+      "rank": 57,
+      "player": "C.T. Pan",
+      "%": "25.00%",
+      "Total Rough": "14",
+      "Possible Fwys": "56",
+      "Relative to par": "+1.43"
+    },
+    {
+      "rank": 57,
+      "player": "Xander Schauffele",
+      "%": "25.00%",
+      "Total Rough": "14",
+      "Possible Fwys": "56",
+      "Relative to par": "-1.43"
+    },
+    {
+      "rank": 62,
+      "player": "Sam Burns",
+      "%": "25.45%",
+      "Total Rough": "14",
+      "Possible Fwys": "55",
+      "Relative to par": "+1.43"
+    },
+    {
+      "rank": 63,
+      "player": "Christiaan Bezuidenhout",
+      "%": "26.79%",
+      "Total Rough": "15",
+      "Possible Fwys": "56",
+      "Relative to par": "+0.67"
+    },
+    {
+      "rank": 63,
+      "player": "Peter Malnati",
+      "%": "26.79%",
+      "Total Rough": "15",
+      "Possible Fwys": "56",
+      "Relative to par": "-1.33"
+    },
+    {
+      "rank": 63,
+      "player": "Sepp Straka",
+      "%": "26.79%",
+      "Total Rough": "15",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 63,
+      "player": "Nick Taylor",
+      "%": "26.79%",
+      "Total Rough": "15",
+      "Possible Fwys": "56",
+      "Relative to par": "+2.00"
+    },
+    {
+      "rank": 67,
+      "player": "Corey Conners",
+      "%": "27.27%",
+      "Total Rough": "15",
+      "Possible Fwys": "55",
+      "Relative to par": "+2.00"
+    },
+    {
+      "rank": 68,
+      "player": "Ben Martin",
+      "%": "28.57%",
+      "Total Rough": "16",
+      "Possible Fwys": "56",
+      "Relative to par": "+2.50"
+    },
+    {
+      "rank": 68,
+      "player": "Dylan Wu",
+      "%": "28.57%",
+      "Total Rough": "16",
+      "Possible Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 70,
+      "player": "Tony Finau",
+      "%": "30.36%",
+      "Total Rough": "17",
+      "Possible Fwys": "56",
+      "Relative to par": "-2.94"
+    },
+    {
+      "rank": 70,
+      "player": "Hideki Matsuyama",
+      "%": "30.36%",
+      "Total Rough": "17",
+      "Possible Fwys": "56",
+      "Relative to par": "-1.18"
+    },
+    {
+      "rank": 72,
+      "player": "Denny McCarthy",
+      "%": "32.14%",
+      "Total Rough": "18",
+      "Possible Fwys": "56",
+      "Relative to par": "+2.78"
+    },
+    {
+      "rank": 73,
+      "player": "Thomas Detry",
+      "%": "33.93%",
+      "Total Rough": "19",
+      "Possible Fwys": "56",
+      "Relative to par": "-0.53"
+    }
+  ]
+}

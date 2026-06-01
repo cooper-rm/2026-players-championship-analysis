@@ -1,0 +1,609 @@
+{
+  "stat_id": "352",
+  "stat_title": "Birdie or Better Percentage",
+  "category": "Scoring",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tom Hoge",
+      "%": "34.72",
+      "Total Birdies": "25",
+      "Total Holes": "72",
+      "GIR Rank": "17"
+    },
+    {
+      "rank": 2,
+      "player": "Hideki Matsuyama",
+      "%": "31.94",
+      "Total Birdies": "23",
+      "Total Holes": "72",
+      "GIR Rank": "34"
+    },
+    {
+      "rank": 3,
+      "player": "Tony Finau",
+      "%": "30.56",
+      "Total Birdies": "22",
+      "Total Holes": "72",
+      "GIR Rank": "10"
+    },
+    {
+      "rank": 3,
+      "player": "Tommy Fleetwood",
+      "%": "30.56",
+      "Total Birdies": "22",
+      "Total Holes": "72",
+      "GIR Rank": "34"
+    },
+    {
+      "rank": 3,
+      "player": "Sungjae Im",
+      "%": "30.56",
+      "Total Birdies": "22",
+      "Total Holes": "72",
+      "GIR Rank": "29"
+    },
+    {
+      "rank": 3,
+      "player": "Min Woo Lee",
+      "%": "30.56",
+      "Total Birdies": "22",
+      "Total Holes": "72",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 3,
+      "player": "Brandon Wu",
+      "%": "30.56",
+      "Total Birdies": "22",
+      "Total Holes": "72",
+      "GIR Rank": "63"
+    },
+    {
+      "rank": 8,
+      "player": "Patrick Cantlay",
+      "%": "29.17",
+      "Total Birdies": "21",
+      "Total Holes": "72",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 8,
+      "player": "Rickie Fowler",
+      "%": "29.17",
+      "Total Birdies": "21",
+      "Total Holes": "72",
+      "GIR Rank": "17"
+    },
+    {
+      "rank": 8,
+      "player": "Tyrrell Hatton",
+      "%": "29.17",
+      "Total Birdies": "21",
+      "Total Holes": "72",
+      "GIR Rank": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Viktor Hovland",
+      "%": "29.17",
+      "Total Birdies": "21",
+      "Total Holes": "72",
+      "GIR Rank": "10"
+    },
+    {
+      "rank": 8,
+      "player": "Patton Kizzire",
+      "%": "29.17",
+      "Total Birdies": "21",
+      "Total Holes": "72",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 8,
+      "player": "Taylor Moore",
+      "%": "29.17",
+      "Total Birdies": "21",
+      "Total Holes": "72",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 8,
+      "player": "Scottie Scheffler",
+      "%": "29.17",
+      "Total Birdies": "21",
+      "Total Holes": "72",
+      "GIR Rank": "1"
+    },
+    {
+      "rank": 8,
+      "player": "Justin Suh",
+      "%": "29.17",
+      "Total Birdies": "21",
+      "Total Holes": "72",
+      "GIR Rank": "65"
+    },
+    {
+      "rank": 16,
+      "player": "Russell Henley",
+      "%": "27.78",
+      "Total Birdies": "20",
+      "Total Holes": "72",
+      "GIR Rank": "10"
+    },
+    {
+      "rank": 16,
+      "player": "Si Woo Kim",
+      "%": "27.78",
+      "Total Birdies": "20",
+      "Total Holes": "72",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 16,
+      "player": "David Lingmerth",
+      "%": "27.78",
+      "Total Birdies": "20",
+      "Total Holes": "72",
+      "GIR Rank": "34"
+    },
+    {
+      "rank": 16,
+      "player": "Chad Ramey",
+      "%": "27.78",
+      "Total Birdies": "20",
+      "Total Holes": "72",
+      "GIR Rank": "67"
+    },
+    {
+      "rank": 20,
+      "player": "Eric Cole",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 20,
+      "player": "Joel Dahmen",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "34"
+    },
+    {
+      "rank": 20,
+      "player": "Shane Lowry",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "34"
+    },
+    {
+      "rank": 20,
+      "player": "Keith Mitchell",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 20,
+      "player": "Taylor Montgomery",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "67"
+    },
+    {
+      "rank": 20,
+      "player": "Aaron Rai",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "2"
+    },
+    {
+      "rank": 20,
+      "player": "Xander Schauffele",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "41"
+    },
+    {
+      "rank": 20,
+      "player": "Austin Smotherman",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 20,
+      "player": "Brendon Todd",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 20,
+      "player": "Cameron Young",
+      "%": "26.39",
+      "Total Birdies": "19",
+      "Total Holes": "72",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 30,
+      "player": "Sam Burns",
+      "%": "25.00",
+      "Total Birdies": "18",
+      "Total Holes": "72",
+      "GIR Rank": "41"
+    },
+    {
+      "rank": 30,
+      "player": "Cam Davis",
+      "%": "25.00",
+      "Total Birdies": "18",
+      "Total Holes": "72",
+      "GIR Rank": "54"
+    },
+    {
+      "rank": 30,
+      "player": "Adam Hadwin",
+      "%": "25.00",
+      "Total Birdies": "18",
+      "Total Holes": "72",
+      "GIR Rank": "8"
+    },
+    {
+      "rank": 30,
+      "player": "Denny McCarthy",
+      "%": "25.00",
+      "Total Birdies": "18",
+      "Total Holes": "72",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 30,
+      "player": "Justin Rose",
+      "%": "25.00",
+      "Total Birdies": "18",
+      "Total Holes": "72",
+      "GIR Rank": "8"
+    },
+    {
+      "rank": 30,
+      "player": "Adam Svensson",
+      "%": "25.00",
+      "Total Birdies": "18",
+      "Total Holes": "72",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 30,
+      "player": "Dylan Wu",
+      "%": "25.00",
+      "Total Birdies": "18",
+      "Total Holes": "72",
+      "GIR Rank": "29"
+    },
+    {
+      "rank": 37,
+      "player": "Wyndham Clark",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 37,
+      "player": "Jason Day",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 37,
+      "player": "Tyler Duncan",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "4"
+    },
+    {
+      "rank": 37,
+      "player": "Ryan Fox",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 37,
+      "player": "Lucas Glover",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 37,
+      "player": "Kramer Hickok",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "34"
+    },
+    {
+      "rank": 37,
+      "player": "Garrick Higgo",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "10"
+    },
+    {
+      "rank": 37,
+      "player": "Max Homa",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "10"
+    },
+    {
+      "rank": 37,
+      "player": "Collin Morikawa",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "4"
+    },
+    {
+      "rank": 37,
+      "player": "Sam Ryder",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "65"
+    },
+    {
+      "rank": 37,
+      "player": "Jordan Spieth",
+      "%": "23.61",
+      "Total Birdies": "17",
+      "Total Holes": "72",
+      "GIR Rank": "22"
+    },
+    {
+      "rank": 48,
+      "player": "Francesco Molinari",
+      "%": "22.22",
+      "Total Birdies": "16",
+      "Total Holes": "72",
+      "GIR Rank": "10"
+    },
+    {
+      "rank": 48,
+      "player": "Scott Stallings",
+      "%": "22.22",
+      "Total Birdies": "16",
+      "Total Holes": "72",
+      "GIR Rank": "73"
+    },
+    {
+      "rank": 48,
+      "player": "Gary Woodland",
+      "%": "22.22",
+      "Total Birdies": "16",
+      "Total Holes": "72",
+      "GIR Rank": "2"
+    },
+    {
+      "rank": 51,
+      "player": "Ben Griffin",
+      "%": "20.83",
+      "Total Birdies": "15",
+      "Total Holes": "72",
+      "GIR Rank": "41"
+    },
+    {
+      "rank": 51,
+      "player": "Stephan Jaeger",
+      "%": "20.83",
+      "Total Birdies": "15",
+      "Total Holes": "72",
+      "GIR Rank": "10"
+    },
+    {
+      "rank": 51,
+      "player": "Taylor Pendrith",
+      "%": "20.83",
+      "Total Birdies": "15",
+      "Total Holes": "72",
+      "GIR Rank": "54"
+    },
+    {
+      "rank": 51,
+      "player": "Sepp Straka",
+      "%": "20.83",
+      "Total Birdies": "15",
+      "Total Holes": "72",
+      "GIR Rank": "17"
+    },
+    {
+      "rank": 55,
+      "player": "Will Gordon",
+      "%": "19.44",
+      "Total Birdies": "14",
+      "Total Holes": "72",
+      "GIR Rank": "4"
+    },
+    {
+      "rank": 55,
+      "player": "Brian Harman",
+      "%": "19.44",
+      "Total Birdies": "14",
+      "Total Holes": "72",
+      "GIR Rank": "41"
+    },
+    {
+      "rank": 55,
+      "player": "Mark Hubbard",
+      "%": "19.44",
+      "Total Birdies": "14",
+      "Total Holes": "72",
+      "GIR Rank": "29"
+    },
+    {
+      "rank": 55,
+      "player": "Nate Lashley",
+      "%": "19.44",
+      "Total Birdies": "14",
+      "Total Holes": "72",
+      "GIR Rank": "17"
+    },
+    {
+      "rank": 55,
+      "player": "Ben Martin",
+      "%": "19.44",
+      "Total Birdies": "14",
+      "Total Holes": "72",
+      "GIR Rank": "47"
+    },
+    {
+      "rank": 55,
+      "player": "Sahith Theegala",
+      "%": "19.44",
+      "Total Birdies": "14",
+      "Total Holes": "72",
+      "GIR Rank": "70"
+    },
+    {
+      "rank": 61,
+      "player": "Byeong Hun An",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "70"
+    },
+    {
+      "rank": 61,
+      "player": "Christiaan Bezuidenhout",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "34"
+    },
+    {
+      "rank": 61,
+      "player": "Chesson Hadley",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "17"
+    },
+    {
+      "rank": 61,
+      "player": "Jerry Kelly",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "29"
+    },
+    {
+      "rank": 61,
+      "player": "Tom Kim",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "29"
+    },
+    {
+      "rank": 61,
+      "player": "Maverick McNealy",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "54"
+    },
+    {
+      "rank": 61,
+      "player": "Adam Scott",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "73"
+    },
+    {
+      "rank": 61,
+      "player": "Justin Thomas",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "58"
+    },
+    {
+      "rank": 61,
+      "player": "Davis Thompson",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "70"
+    },
+    {
+      "rank": 61,
+      "player": "Danny Willett",
+      "%": "18.06",
+      "Total Birdies": "13",
+      "Total Holes": "72",
+      "GIR Rank": "41"
+    },
+    {
+      "rank": 71,
+      "player": "Matthias Schwab",
+      "%": "16.67",
+      "Total Birdies": "12",
+      "Total Holes": "72",
+      "GIR Rank": "75"
+    },
+    {
+      "rank": 72,
+      "player": "Aaron Baddeley",
+      "%": "15.28",
+      "Total Birdies": "11",
+      "Total Holes": "72",
+      "GIR Rank": "67"
+    },
+    {
+      "rank": 72,
+      "player": "Kevin Kisner",
+      "%": "15.28",
+      "Total Birdies": "11",
+      "Total Holes": "72",
+      "GIR Rank": "63"
+    },
+    {
+      "rank": 72,
+      "player": "Alex Smalley",
+      "%": "15.28",
+      "Total Birdies": "11",
+      "Total Holes": "72",
+      "GIR Rank": "54"
+    },
+    {
+      "rank": 72,
+      "player": "Will Zalatoris",
+      "%": "15.28",
+      "Total Birdies": "11",
+      "Total Holes": "72",
+      "GIR Rank": "41"
+    }
+  ]
+}

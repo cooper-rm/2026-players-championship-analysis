@@ -1,0 +1,359 @@
+{
+  "stat_id": "080",
+  "stat_title": "Right Rough Tendency (RTP Score)",
+  "category": "Off The Tee",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Dustin Johnson",
+      "RTP Score": "-.667"
+    },
+    {
+      "rank": 2,
+      "player": "Aaron Wise",
+      "RTP Score": "-.444"
+    },
+    {
+      "rank": 3,
+      "player": "Adam Long",
+      "RTP Score": "-.400"
+    },
+    {
+      "rank": 4,
+      "player": "Tom Hoge",
+      "RTP Score": "-.250"
+    },
+    {
+      "rank": 5,
+      "player": "Russell Henley",
+      "RTP Score": "-.222"
+    },
+    {
+      "rank": 5,
+      "player": "Cameron Smith",
+      "RTP Score": "-.222"
+    },
+    {
+      "rank": 7,
+      "player": "Patton Kizzire",
+      "RTP Score": "-.200"
+    },
+    {
+      "rank": 8,
+      "player": "Branden Grace",
+      "RTP Score": "-.167"
+    },
+    {
+      "rank": 8,
+      "player": "Anirban Lahiri",
+      "RTP Score": "-.167"
+    },
+    {
+      "rank": 8,
+      "player": "Seamus Power",
+      "RTP Score": "-.167"
+    },
+    {
+      "rank": 11,
+      "player": "Michael Thompson",
+      "RTP Score": "-.143"
+    },
+    {
+      "rank": 12,
+      "player": "Joaquin Niemann",
+      "RTP Score": "-.133"
+    },
+    {
+      "rank": 13,
+      "player": "Sam Burns",
+      "RTP Score": "-.111"
+    },
+    {
+      "rank": 14,
+      "player": "Dylan Frittelli",
+      "RTP Score": "-.100"
+    },
+    {
+      "rank": 14,
+      "player": "K.H. Lee",
+      "RTP Score": "-.100"
+    },
+    {
+      "rank": 16,
+      "player": "Daniel Berger",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Keegan Bradley",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Paul Casey",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Brian Harman",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Kevin Kisner",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Russell Knox",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Keith Mitchell",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Patrick Reed",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Brendan Steele",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Erik van Rooyen",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Nick Watney",
+      "RTP Score": "E"
+    },
+    {
+      "rank": 27,
+      "player": "Scott Stallings",
+      "RTP Score": "+.077"
+    },
+    {
+      "rank": 28,
+      "player": "Sungjae Im",
+      "RTP Score": "+.083"
+    },
+    {
+      "rank": 29,
+      "player": "Alex Noren",
+      "RTP Score": "+.111"
+    },
+    {
+      "rank": 29,
+      "player": "Jimmy Walker",
+      "RTP Score": "+.111"
+    },
+    {
+      "rank": 31,
+      "player": "Corey Conners",
+      "RTP Score": "+.125"
+    },
+    {
+      "rank": 31,
+      "player": "Lucas Herbert",
+      "RTP Score": "+.125"
+    },
+    {
+      "rank": 31,
+      "player": "Kramer Hickok",
+      "RTP Score": "+.125"
+    },
+    {
+      "rank": 31,
+      "player": "Max Homa",
+      "RTP Score": "+.125"
+    },
+    {
+      "rank": 35,
+      "player": "Adam Hadwin",
+      "RTP Score": "+.143"
+    },
+    {
+      "rank": 35,
+      "player": "Rory McIlroy",
+      "RTP Score": "+.143"
+    },
+    {
+      "rank": 35,
+      "player": "Ian Poulter",
+      "RTP Score": "+.143"
+    },
+    {
+      "rank": 38,
+      "player": "Tommy Fleetwood",
+      "RTP Score": "+.167"
+    },
+    {
+      "rank": 38,
+      "player": "Troy Merritt",
+      "RTP Score": "+.167"
+    },
+    {
+      "rank": 38,
+      "player": "Louis Oosthuizen",
+      "RTP Score": "+.167"
+    },
+    {
+      "rank": 41,
+      "player": "Chesson Hadley",
+      "RTP Score": "+.200"
+    },
+    {
+      "rank": 41,
+      "player": "Viktor Hovland",
+      "RTP Score": "+.200"
+    },
+    {
+      "rank": 41,
+      "player": "Sepp Straka",
+      "RTP Score": "+.200"
+    },
+    {
+      "rank": 41,
+      "player": "Bubba Watson",
+      "RTP Score": "+.200"
+    },
+    {
+      "rank": 45,
+      "player": "Shane Lowry",
+      "RTP Score": "+.214"
+    },
+    {
+      "rank": 46,
+      "player": "Harold Varner III",
+      "RTP Score": "+.222"
+    },
+    {
+      "rank": 47,
+      "player": "Sam Ryder",
+      "RTP Score": "+.250"
+    },
+    {
+      "rank": 48,
+      "player": "Hank Lebioda",
+      "RTP Score": "+.286"
+    },
+    {
+      "rank": 48,
+      "player": "Doc Redman",
+      "RTP Score": "+.286"
+    },
+    {
+      "rank": 50,
+      "player": "Scottie Scheffler",
+      "RTP Score": "+.313"
+    },
+    {
+      "rank": 51,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "RTP Score": "+.333"
+    },
+    {
+      "rank": 51,
+      "player": "Pat Perez",
+      "RTP Score": "+.333"
+    },
+    {
+      "rank": 51,
+      "player": "Jon Rahm",
+      "RTP Score": "+.333"
+    },
+    {
+      "rank": 51,
+      "player": "Kevin Streelman",
+      "RTP Score": "+.333"
+    },
+    {
+      "rank": 51,
+      "player": "Will Zalatoris",
+      "RTP Score": "+.333"
+    },
+    {
+      "rank": 56,
+      "player": "Maverick McNealy",
+      "RTP Score": "+.400"
+    },
+    {
+      "rank": 56,
+      "player": "Francesco Molinari",
+      "RTP Score": "+.400"
+    },
+    {
+      "rank": 56,
+      "player": "Taylor Pendrith",
+      "RTP Score": "+.400"
+    },
+    {
+      "rank": 56,
+      "player": "Justin Thomas",
+      "RTP Score": "+.400"
+    },
+    {
+      "rank": 60,
+      "player": "Denny McCarthy",
+      "RTP Score": "+.417"
+    },
+    {
+      "rank": 61,
+      "player": "Brice Garnett",
+      "RTP Score": "+.429"
+    },
+    {
+      "rank": 62,
+      "player": "Abraham Ancer",
+      "RTP Score": "+.444"
+    },
+    {
+      "rank": 62,
+      "player": "Hayden Buckley",
+      "RTP Score": "+.444"
+    },
+    {
+      "rank": 64,
+      "player": "Joel Dahmen",
+      "RTP Score": "+.500"
+    },
+    {
+      "rank": 64,
+      "player": "Sergio Garcia",
+      "RTP Score": "+.500"
+    },
+    {
+      "rank": 64,
+      "player": "Tyrrell Hatton",
+      "RTP Score": "+.500"
+    },
+    {
+      "rank": 67,
+      "player": "Doug Ghim",
+      "RTP Score": "+.600"
+    },
+    {
+      "rank": 68,
+      "player": "Jason Kokrak",
+      "RTP Score": "+.625"
+    },
+    {
+      "rank": 69,
+      "player": "Peter Malnati",
+      "RTP Score": "+1.000"
+    },
+    {
+      "rank": 70,
+      "player": "Lee Hodges",
+      "RTP Score": "+1.143"
+    }
+  ]
+}

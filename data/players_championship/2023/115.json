@@ -1,0 +1,534 @@
+{
+  "stat_id": "115",
+  "stat_title": "Birdie or Better Conversion Percentage",
+  "category": "Putting",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Chad Ramey",
+      "%": "52.63",
+      "# Birdies": "20",
+      "Greens Hit": "38"
+    },
+    {
+      "rank": 2,
+      "player": "Brandon Wu",
+      "%": "52.50",
+      "# Birdies": "21",
+      "Greens Hit": "40"
+    },
+    {
+      "rank": 3,
+      "player": "Taylor Montgomery",
+      "%": "50.00",
+      "# Birdies": "19",
+      "Greens Hit": "38"
+    },
+    {
+      "rank": 4,
+      "player": "Tom Hoge",
+      "%": "48.94",
+      "# Birdies": "23",
+      "Greens Hit": "47"
+    },
+    {
+      "rank": 5,
+      "player": "Patton Kizzire",
+      "%": "48.84",
+      "# Birdies": "21",
+      "Greens Hit": "43"
+    },
+    {
+      "rank": 5,
+      "player": "Taylor Moore",
+      "%": "48.84",
+      "# Birdies": "21",
+      "Greens Hit": "43"
+    },
+    {
+      "rank": 7,
+      "player": "Sungjae Im",
+      "%": "47.83",
+      "# Birdies": "22",
+      "Greens Hit": "46"
+    },
+    {
+      "rank": 8,
+      "player": "Min Woo Lee",
+      "%": "45.65",
+      "# Birdies": "21",
+      "Greens Hit": "46"
+    },
+    {
+      "rank": 9,
+      "player": "Tommy Fleetwood",
+      "%": "45.45",
+      "# Birdies": "20",
+      "Greens Hit": "44"
+    },
+    {
+      "rank": 10,
+      "player": "Keith Mitchell",
+      "%": "45.00",
+      "# Birdies": "18",
+      "Greens Hit": "40"
+    },
+    {
+      "rank": 11,
+      "player": "Patrick Cantlay",
+      "%": "44.68",
+      "# Birdies": "21",
+      "Greens Hit": "47"
+    },
+    {
+      "rank": 12,
+      "player": "David Lingmerth",
+      "%": "44.44",
+      "# Birdies": "20",
+      "Greens Hit": "45"
+    },
+    {
+      "rank": 12,
+      "player": "Hideki Matsuyama",
+      "%": "44.44",
+      "# Birdies": "20",
+      "Greens Hit": "45"
+    },
+    {
+      "rank": 14,
+      "player": "Austin Smotherman",
+      "%": "44.19",
+      "# Birdies": "19",
+      "Greens Hit": "43"
+    },
+    {
+      "rank": 15,
+      "player": "Eric Cole",
+      "%": "43.90",
+      "# Birdies": "18",
+      "Greens Hit": "41"
+    },
+    {
+      "rank": 16,
+      "player": "Tony Finau",
+      "%": "43.75",
+      "# Birdies": "21",
+      "Greens Hit": "48"
+    },
+    {
+      "rank": 17,
+      "player": "Viktor Hovland",
+      "%": "42.86",
+      "# Birdies": "21",
+      "Greens Hit": "49"
+    },
+    {
+      "rank": 18,
+      "player": "Si Woo Kim",
+      "%": "42.55",
+      "# Birdies": "20",
+      "Greens Hit": "47"
+    },
+    {
+      "rank": 19,
+      "player": "Shane Lowry",
+      "%": "42.22",
+      "# Birdies": "19",
+      "Greens Hit": "45"
+    },
+    {
+      "rank": 20,
+      "player": "Sam Ryder",
+      "%": "42.11",
+      "# Birdies": "16",
+      "Greens Hit": "38"
+    },
+    {
+      "rank": 21,
+      "player": "Xander Schauffele",
+      "%": "41.86",
+      "# Birdies": "18",
+      "Greens Hit": "43"
+    },
+    {
+      "rank": 21,
+      "player": "Cameron Young",
+      "%": "41.86",
+      "# Birdies": "18",
+      "Greens Hit": "43"
+    },
+    {
+      "rank": 23,
+      "player": "Rickie Fowler",
+      "%": "41.67",
+      "# Birdies": "20",
+      "Greens Hit": "48"
+    },
+    {
+      "rank": 24,
+      "player": "Tyrrell Hatton",
+      "%": "41.18",
+      "# Birdies": "21",
+      "Greens Hit": "51"
+    },
+    {
+      "rank": 25,
+      "player": "Joel Dahmen",
+      "%": "40.00",
+      "# Birdies": "18",
+      "Greens Hit": "45"
+    },
+    {
+      "rank": 26,
+      "player": "Brendon Todd",
+      "%": "39.53",
+      "# Birdies": "17",
+      "Greens Hit": "43"
+    },
+    {
+      "rank": 27,
+      "player": "Dylan Wu",
+      "%": "39.13",
+      "# Birdies": "18",
+      "Greens Hit": "46"
+    },
+    {
+      "rank": 28,
+      "player": "Wyndham Clark",
+      "%": "39.02",
+      "# Birdies": "16",
+      "Greens Hit": "41"
+    },
+    {
+      "rank": 28,
+      "player": "Adam Svensson",
+      "%": "39.02",
+      "# Birdies": "16",
+      "Greens Hit": "41"
+    },
+    {
+      "rank": 30,
+      "player": "Scott Stallings",
+      "%": "38.89",
+      "# Birdies": "14",
+      "Greens Hit": "36"
+    },
+    {
+      "rank": 31,
+      "player": "Russell Henley",
+      "%": "38.78",
+      "# Birdies": "19",
+      "Greens Hit": "49"
+    },
+    {
+      "rank": 32,
+      "player": "Sam Burns",
+      "%": "38.64",
+      "# Birdies": "17",
+      "Greens Hit": "44"
+    },
+    {
+      "rank": 33,
+      "player": "Justin Suh",
+      "%": "38.46",
+      "# Birdies": "15",
+      "Greens Hit": "39"
+    },
+    {
+      "rank": 34,
+      "player": "Denny McCarthy",
+      "%": "38.30",
+      "# Birdies": "18",
+      "Greens Hit": "47"
+    },
+    {
+      "rank": 35,
+      "player": "Kramer Hickok",
+      "%": "37.78",
+      "# Birdies": "17",
+      "Greens Hit": "45"
+    },
+    {
+      "rank": 36,
+      "player": "Ryan Fox",
+      "%": "36.17",
+      "# Birdies": "17",
+      "Greens Hit": "47"
+    },
+    {
+      "rank": 37,
+      "player": "Adam Scott",
+      "%": "36.11",
+      "# Birdies": "13",
+      "Greens Hit": "36"
+    },
+    {
+      "rank": 38,
+      "player": "Adam Hadwin",
+      "%": "36.00",
+      "# Birdies": "18",
+      "Greens Hit": "50"
+    },
+    {
+      "rank": 39,
+      "player": "Sahith Theegala",
+      "%": "35.14",
+      "# Birdies": "13",
+      "Greens Hit": "37"
+    },
+    {
+      "rank": 40,
+      "player": "Jordan Spieth",
+      "%": "34.78",
+      "# Birdies": "16",
+      "Greens Hit": "46"
+    },
+    {
+      "rank": 41,
+      "player": "Aaron Rai",
+      "%": "34.62",
+      "# Birdies": "18",
+      "Greens Hit": "52"
+    },
+    {
+      "rank": 42,
+      "player": "Cam Davis",
+      "%": "34.15",
+      "# Birdies": "14",
+      "Greens Hit": "41"
+    },
+    {
+      "rank": 43,
+      "player": "Justin Rose",
+      "%": "34.00",
+      "# Birdies": "17",
+      "Greens Hit": "50"
+    },
+    {
+      "rank": 44,
+      "player": "Scottie Scheffler",
+      "%": "33.96",
+      "# Birdies": "18",
+      "Greens Hit": "53"
+    },
+    {
+      "rank": 45,
+      "player": "Collin Morikawa",
+      "%": "33.33",
+      "# Birdies": "17",
+      "Greens Hit": "51"
+    },
+    {
+      "rank": 45,
+      "player": "Taylor Pendrith",
+      "%": "33.33",
+      "# Birdies": "14",
+      "Greens Hit": "42"
+    },
+    {
+      "rank": 47,
+      "player": "Garrick Higgo",
+      "%": "32.65",
+      "# Birdies": "16",
+      "Greens Hit": "49"
+    },
+    {
+      "rank": 47,
+      "player": "Max Homa",
+      "%": "32.65",
+      "# Birdies": "16",
+      "Greens Hit": "49"
+    },
+    {
+      "rank": 49,
+      "player": "Lucas Glover",
+      "%": "32.56",
+      "# Birdies": "14",
+      "Greens Hit": "43"
+    },
+    {
+      "rank": 50,
+      "player": "Davis Thompson",
+      "%": "32.43",
+      "# Birdies": "12",
+      "Greens Hit": "37"
+    },
+    {
+      "rank": 51,
+      "player": "Jason Day",
+      "%": "31.91",
+      "# Birdies": "15",
+      "Greens Hit": "47"
+    },
+    {
+      "rank": 52,
+      "player": "Brian Harman",
+      "%": "31.82",
+      "# Birdies": "14",
+      "Greens Hit": "44"
+    },
+    {
+      "rank": 53,
+      "player": "Matthias Schwab",
+      "%": "31.43",
+      "# Birdies": "11",
+      "Greens Hit": "35"
+    },
+    {
+      "rank": 54,
+      "player": "Maverick McNealy",
+      "%": "30.95",
+      "# Birdies": "13",
+      "Greens Hit": "42"
+    },
+    {
+      "rank": 55,
+      "player": "Stephan Jaeger",
+      "%": "30.61",
+      "# Birdies": "15",
+      "Greens Hit": "49"
+    },
+    {
+      "rank": 55,
+      "player": "Francesco Molinari",
+      "%": "30.61",
+      "# Birdies": "15",
+      "Greens Hit": "49"
+    },
+    {
+      "rank": 57,
+      "player": "Byeong Hun An",
+      "%": "30.56",
+      "# Birdies": "11",
+      "Greens Hit": "36"
+    },
+    {
+      "rank": 58,
+      "player": "Ben Martin",
+      "%": "30.23",
+      "# Birdies": "13",
+      "Greens Hit": "43"
+    },
+    {
+      "rank": 59,
+      "player": "Tyler Duncan",
+      "%": "29.41",
+      "# Birdies": "15",
+      "Greens Hit": "51"
+    },
+    {
+      "rank": 60,
+      "player": "Nate Lashley",
+      "%": "29.17",
+      "# Birdies": "14",
+      "Greens Hit": "48"
+    },
+    {
+      "rank": 61,
+      "player": "Aaron Baddeley",
+      "%": "28.95",
+      "# Birdies": "11",
+      "Greens Hit": "38"
+    },
+    {
+      "rank": 62,
+      "player": "Christiaan Bezuidenhout",
+      "%": "28.89",
+      "# Birdies": "13",
+      "Greens Hit": "45"
+    },
+    {
+      "rank": 63,
+      "player": "Gary Woodland",
+      "%": "28.30",
+      "# Birdies": "15",
+      "Greens Hit": "53"
+    },
+    {
+      "rank": 64,
+      "player": "Mark Hubbard",
+      "%": "28.26",
+      "# Birdies": "13",
+      "Greens Hit": "46"
+    },
+    {
+      "rank": 64,
+      "player": "Jerry Kelly",
+      "%": "28.26",
+      "# Birdies": "13",
+      "Greens Hit": "46"
+    },
+    {
+      "rank": 64,
+      "player": "Tom Kim",
+      "%": "28.26",
+      "# Birdies": "13",
+      "Greens Hit": "46"
+    },
+    {
+      "rank": 67,
+      "player": "Will Gordon",
+      "%": "27.45",
+      "# Birdies": "14",
+      "Greens Hit": "51"
+    },
+    {
+      "rank": 68,
+      "player": "Ben Griffin",
+      "%": "27.27",
+      "# Birdies": "12",
+      "Greens Hit": "44"
+    },
+    {
+      "rank": 69,
+      "player": "Sepp Straka",
+      "%": "27.08",
+      "# Birdies": "13",
+      "Greens Hit": "48"
+    },
+    {
+      "rank": 70,
+      "player": "Justin Thomas",
+      "%": "25.64",
+      "# Birdies": "10",
+      "Greens Hit": "39"
+    },
+    {
+      "rank": 71,
+      "player": "Kevin Kisner",
+      "%": "25.00",
+      "# Birdies": "10",
+      "Greens Hit": "40"
+    },
+    {
+      "rank": 71,
+      "player": "Danny Willett",
+      "%": "25.00",
+      "# Birdies": "11",
+      "Greens Hit": "44"
+    },
+    {
+      "rank": 73,
+      "player": "Alex Smalley",
+      "%": "24.39",
+      "# Birdies": "10",
+      "Greens Hit": "41"
+    },
+    {
+      "rank": 74,
+      "player": "Chesson Hadley",
+      "%": "23.40",
+      "# Birdies": "11",
+      "Greens Hit": "47"
+    },
+    {
+      "rank": 75,
+      "player": "Will Zalatoris",
+      "%": "22.73",
+      "# Birdies": "10",
+      "Greens Hit": "44"
+    }
+  ]
+}

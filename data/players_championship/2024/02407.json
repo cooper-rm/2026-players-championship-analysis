@@ -1,0 +1,520 @@
+{
+  "stat_id": "02407",
+  "stat_title": "Apex Height",
+  "category": "Off The Tee",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Thomas Detry",
+      "Avg": "131' 9\"",
+      "Total Apex Height": "5006' 7\"",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 2,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "126' 4\"",
+      "Total Apex Height": "4800' 10\"",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 3,
+      "player": "Sami Valimaki",
+      "Avg": "121' 9\"",
+      "Total Apex Height": "5236' 6\"",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 4,
+      "player": "Mackenzie Hughes",
+      "Avg": "117' 10\"",
+      "Total Apex Height": "5890' 0\"",
+      "Total Attempts": "50"
+    },
+    {
+      "rank": 5,
+      "player": "Wyndham Clark",
+      "Avg": "117' 7\"",
+      "Total Apex Height": "2468' 8\"",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 6,
+      "player": "Jason Day",
+      "Avg": "117' 2\"",
+      "Total Apex Height": "4216' 8\"",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 7,
+      "player": "Tyler Duncan",
+      "Avg": "116' 9\"",
+      "Total Apex Height": "5021' 3\"",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 8,
+      "player": "Gary Woodland",
+      "Avg": "116' 5\"",
+      "Total Apex Height": "3492' 5\"",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 9,
+      "player": "Rickie Fowler",
+      "Avg": "116' 4\"",
+      "Total Apex Height": "3488' 11\"",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 10,
+      "player": "Sam Burns",
+      "Avg": "116' 0\"",
+      "Total Apex Height": "3827' 4\"",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 10,
+      "player": "Patrick Cantlay",
+      "Avg": "116' 0\"",
+      "Total Apex Height": "3712' 11\"",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 12,
+      "player": "Tommy Fleetwood",
+      "Avg": "115' 7\"",
+      "Total Apex Height": "3929' 9\"",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 13,
+      "player": "Shane Lowry",
+      "Avg": "115' 3\"",
+      "Total Apex Height": "4611' 7\"",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 14,
+      "player": "Matti Schmid",
+      "Avg": "114' 11\"",
+      "Total Apex Height": "3792' 9\"",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 15,
+      "player": "Tony Finau",
+      "Avg": "114' 8\"",
+      "Total Apex Height": "3439' 2\"",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 16,
+      "player": "Keith Mitchell",
+      "Avg": "112' 3\"",
+      "Total Apex Height": "3929' 3\"",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 17,
+      "player": "Min Woo Lee",
+      "Avg": "111' 9\"",
+      "Total Apex Height": "3575' 4\"",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 18,
+      "player": "J.J. Spaun",
+      "Avg": "109' 4\"",
+      "Total Apex Height": "3607' 11\"",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 19,
+      "player": "Viktor Hovland",
+      "Avg": "108' 6\"",
+      "Total Apex Height": "4339' 6\"",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 20,
+      "player": "Cameron Young",
+      "Avg": "108' 5\"",
+      "Total Apex Height": "4227' 4\"",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 21,
+      "player": "Jimmy Stanger",
+      "Avg": "108' 3\"",
+      "Total Apex Height": "3789' 9\"",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 22,
+      "player": "Chris Kirk",
+      "Avg": "107' 7\"",
+      "Total Apex Height": "4196' 11\"",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 23,
+      "player": "Harris English",
+      "Avg": "107' 6\"",
+      "Total Apex Height": "2794' 11\"",
+      "Total Attempts": "26"
+    },
+    {
+      "rank": 24,
+      "player": "Max Homa",
+      "Avg": "107' 3\"",
+      "Total Apex Height": "3968' 8\"",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 25,
+      "player": "Rory McIlroy",
+      "Avg": "106' 1\"",
+      "Total Apex Height": "2228' 0\"",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 26,
+      "player": "Chan Kim",
+      "Avg": "105' 6\"",
+      "Total Apex Height": "3692' 0\"",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 27,
+      "player": "Mark Hubbard",
+      "Avg": "104' 6\"",
+      "Total Apex Height": "3239' 11\"",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 28,
+      "player": "Brice Garnett",
+      "Avg": "104' 0\"",
+      "Total Apex Height": "3431' 3\"",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 28,
+      "player": "Sepp Straka",
+      "Avg": "104' 0\"",
+      "Total Apex Height": "3641' 3\"",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 30,
+      "player": "Francesco Molinari",
+      "Avg": "103' 7\"",
+      "Total Apex Height": "4039' 7\"",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 31,
+      "player": "Austin Eckroat",
+      "Avg": "103' 6\"",
+      "Total Apex Height": "4346' 0\"",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 32,
+      "player": "Kurt Kitayama",
+      "Avg": "102' 11\"",
+      "Total Apex Height": "2985' 0\"",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 33,
+      "player": "J.T. Poston",
+      "Avg": "102' 6\"",
+      "Total Apex Height": "4099' 9\"",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 34,
+      "player": "Collin Morikawa",
+      "Avg": "102' 4\"",
+      "Total Apex Height": "3172' 5\"",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 35,
+      "player": "Scottie Scheffler",
+      "Avg": "102' 0\"",
+      "Total Apex Height": "3568' 7\"",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 36,
+      "player": "Adam Scott",
+      "Avg": "101' 9\"",
+      "Total Apex Height": "4172' 4\"",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 37,
+      "player": "Sahith Theegala",
+      "Avg": "101' 8\"",
+      "Total Apex Height": "4066' 3\"",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 38,
+      "player": "Alex Noren",
+      "Avg": "101' 6\"",
+      "Total Apex Height": "2537' 7\"",
+      "Total Attempts": "25"
+    },
+    {
+      "rank": 39,
+      "player": "David Lipsky",
+      "Avg": "101' 5\"",
+      "Total Apex Height": "3650' 1\"",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 40,
+      "player": "Matt NeSmith",
+      "Avg": "101' 4\"",
+      "Total Apex Height": "3344' 4\"",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 41,
+      "player": "Emiliano Grillo",
+      "Avg": "101' 1\"",
+      "Total Apex Height": "3536' 10\"",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 41,
+      "player": "Dylan Wu",
+      "Avg": "101' 1\"",
+      "Total Apex Height": "3335' 0\"",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 43,
+      "player": "Sam Ryder",
+      "Avg": "100' 3\"",
+      "Total Apex Height": "4310' 5\"",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 44,
+      "player": "Nate Lashley",
+      "Avg": "98' 8\"",
+      "Total Apex Height": "4439' 4\"",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 45,
+      "player": "Corey Conners",
+      "Avg": "98' 5\"",
+      "Total Apex Height": "4525' 9\"",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 46,
+      "player": "Hideki Matsuyama",
+      "Avg": "98' 2\"",
+      "Total Apex Height": "3534' 10\"",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 47,
+      "player": "Si Woo Kim",
+      "Avg": "96' 10\"",
+      "Total Apex Height": "3970' 3\"",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 48,
+      "player": "Brian Harman",
+      "Avg": "96' 8\"",
+      "Total Apex Height": "4832' 1\"",
+      "Total Attempts": "50"
+    },
+    {
+      "rank": 49,
+      "player": "Lee Hodges",
+      "Avg": "96' 5\"",
+      "Total Apex Height": "2989' 6\"",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 50,
+      "player": "Doug Ghim",
+      "Avg": "95' 8\"",
+      "Total Apex Height": "4306' 0\"",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 51,
+      "player": "Aaron Rai",
+      "Avg": "95' 2\"",
+      "Total Apex Height": "4188' 0\"",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 52,
+      "player": "Taylor Moore",
+      "Avg": "94' 8\"",
+      "Total Apex Height": "2745' 3\"",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 53,
+      "player": "Xander Schauffele",
+      "Avg": "93' 7\"",
+      "Total Apex Height": "2246' 7\"",
+      "Total Attempts": "24"
+    },
+    {
+      "rank": 54,
+      "player": "Adam Schenk",
+      "Avg": "92' 10\"",
+      "Total Apex Height": "2879' 0\"",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 55,
+      "player": "C.T. Pan",
+      "Avg": "92' 9\"",
+      "Total Apex Height": "3708' 7\"",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 56,
+      "player": "Joel Dahmen",
+      "Avg": "91' 10\"",
+      "Total Apex Height": "3763' 11\"",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 57,
+      "player": "Taylor Montgomery",
+      "Avg": "91' 9\"",
+      "Total Apex Height": "2294' 2\"",
+      "Total Attempts": "25"
+    },
+    {
+      "rank": 58,
+      "player": "Zac Blair",
+      "Avg": "91' 6\"",
+      "Total Apex Height": "4667' 6\"",
+      "Total Attempts": "51"
+    },
+    {
+      "rank": 59,
+      "player": "Martin Laird",
+      "Avg": "90' 6\"",
+      "Total Apex Height": "3167' 5\"",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 60,
+      "player": "Tom Hoge",
+      "Avg": "90' 4\"",
+      "Total Apex Height": "2891' 6\"",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 61,
+      "player": "Denny McCarthy",
+      "Avg": "90' 3\"",
+      "Total Apex Height": "3881' 10\"",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 62,
+      "player": "Sungjae Im",
+      "Avg": "89' 8\"",
+      "Total Apex Height": "4392' 0\"",
+      "Total Attempts": "49"
+    },
+    {
+      "rank": 63,
+      "player": "Andrew Putnam",
+      "Avg": "89' 6\"",
+      "Total Apex Height": "3759' 1\"",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 64,
+      "player": "Ben Martin",
+      "Avg": "89' 3\"",
+      "Total Apex Height": "3035' 3\"",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 65,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "89' 2\"",
+      "Total Apex Height": "3478' 6\"",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 66,
+      "player": "Seamus Power",
+      "Avg": "88' 1\"",
+      "Total Apex Height": "2642' 3\"",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 67,
+      "player": "Peter Malnati",
+      "Avg": "84' 0\"",
+      "Total Apex Height": "4200' 11\"",
+      "Total Attempts": "50"
+    },
+    {
+      "rank": 68,
+      "player": "Nick Taylor",
+      "Avg": "81' 3\"",
+      "Total Apex Height": "3575' 4\"",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 69,
+      "player": "Ryan Moore",
+      "Avg": "80' 11\"",
+      "Total Apex Height": "3559' 3\"",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 70,
+      "player": "Matt Fitzpatrick",
+      "Avg": "78' 7\"",
+      "Total Apex Height": "3692' 8\"",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 71,
+      "player": "Maverick McNealy",
+      "Avg": "75' 9\"",
+      "Total Apex Height": "2195' 7\"",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 72,
+      "player": "Jake Knapp",
+      "Avg": "75' 3\"",
+      "Total Apex Height": "2107' 1\"",
+      "Total Attempts": "28"
+    },
+    {
+      "rank": 73,
+      "player": "Grayson Murray",
+      "Avg": "68' 0\"",
+      "Total Apex Height": "2313' 2\"",
+      "Total Attempts": "34"
+    }
+  ]
+}

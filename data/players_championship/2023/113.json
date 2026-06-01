@@ -1,0 +1,534 @@
+{
+  "stat_id": "113",
+  "stat_title": "Par 4 Birdie or Better Leaders",
+  "category": "Scoring",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Viktor Hovland",
+      "%": "30.00",
+      "Par 4 Birdies or Better": "12",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 1,
+      "player": "Min Woo Lee",
+      "%": "30.00",
+      "Par 4 Birdies or Better": "12",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 1,
+      "player": "Taylor Moore",
+      "%": "30.00",
+      "Par 4 Birdies or Better": "12",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 4,
+      "player": "Jason Day",
+      "%": "27.50",
+      "Par 4 Birdies or Better": "11",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 4,
+      "player": "Tony Finau",
+      "%": "27.50",
+      "Par 4 Birdies or Better": "11",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 4,
+      "player": "Ryan Fox",
+      "%": "27.50",
+      "Par 4 Birdies or Better": "11",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 4,
+      "player": "Tyrrell Hatton",
+      "%": "27.50",
+      "Par 4 Birdies or Better": "11",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 4,
+      "player": "Denny McCarthy",
+      "%": "27.50",
+      "Par 4 Birdies or Better": "11",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 4,
+      "player": "Chad Ramey",
+      "%": "27.50",
+      "Par 4 Birdies or Better": "11",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 4,
+      "player": "Justin Suh",
+      "%": "27.50",
+      "Par 4 Birdies or Better": "11",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 4,
+      "player": "Dylan Wu",
+      "%": "27.50",
+      "Par 4 Birdies or Better": "11",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 12,
+      "player": "Joel Dahmen",
+      "%": "25.00",
+      "Par 4 Birdies or Better": "10",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 12,
+      "player": "Lucas Glover",
+      "%": "25.00",
+      "Par 4 Birdies or Better": "10",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 12,
+      "player": "Stephan Jaeger",
+      "%": "25.00",
+      "Par 4 Birdies or Better": "10",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 12,
+      "player": "Taylor Montgomery",
+      "%": "25.00",
+      "Par 4 Birdies or Better": "10",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 12,
+      "player": "Brendon Todd",
+      "%": "25.00",
+      "Par 4 Birdies or Better": "10",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 12,
+      "player": "Brandon Wu",
+      "%": "25.00",
+      "Par 4 Birdies or Better": "10",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Cam Davis",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Tommy Fleetwood",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Rickie Fowler",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Sungjae Im",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Shane Lowry",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Francesco Molinari",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Scottie Scheffler",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Sepp Straka",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 18,
+      "player": "Sahith Theegala",
+      "%": "22.50",
+      "Par 4 Birdies or Better": "9",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 27,
+      "player": "Patrick Cantlay",
+      "%": "20.00",
+      "Par 4 Birdies or Better": "8",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 27,
+      "player": "Russell Henley",
+      "%": "20.00",
+      "Par 4 Birdies or Better": "8",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 27,
+      "player": "Patton Kizzire",
+      "%": "20.00",
+      "Par 4 Birdies or Better": "8",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 27,
+      "player": "David Lingmerth",
+      "%": "20.00",
+      "Par 4 Birdies or Better": "8",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 27,
+      "player": "Xander Schauffele",
+      "%": "20.00",
+      "Par 4 Birdies or Better": "8",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 27,
+      "player": "Jordan Spieth",
+      "%": "20.00",
+      "Par 4 Birdies or Better": "8",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Tyler Duncan",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Ben Griffin",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Chesson Hadley",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Adam Hadwin",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Kramer Hickok",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Tom Hoge",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Max Homa",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Si Woo Kim",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Hideki Matsuyama",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Maverick McNealy",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Keith Mitchell",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Collin Morikawa",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Aaron Rai",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Justin Rose",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Matthias Schwab",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Scott Stallings",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 33,
+      "player": "Adam Svensson",
+      "%": "17.50",
+      "Par 4 Birdies or Better": "7",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Byeong Hun An",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Aaron Baddeley",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Sam Burns",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Wyndham Clark",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Eric Cole",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Will Gordon",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Jerry Kelly",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Ben Martin",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Sam Ryder",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Austin Smotherman",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Justin Thomas",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 50,
+      "player": "Cameron Young",
+      "%": "15.00",
+      "Par 4 Birdies or Better": "6",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 62,
+      "player": "Christiaan Bezuidenhout",
+      "%": "12.50",
+      "Par 4 Birdies or Better": "5",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 62,
+      "player": "Garrick Higgo",
+      "%": "12.50",
+      "Par 4 Birdies or Better": "5",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 62,
+      "player": "Mark Hubbard",
+      "%": "12.50",
+      "Par 4 Birdies or Better": "5",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 62,
+      "player": "Kevin Kisner",
+      "%": "12.50",
+      "Par 4 Birdies or Better": "5",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 62,
+      "player": "Alex Smalley",
+      "%": "12.50",
+      "Par 4 Birdies or Better": "5",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 62,
+      "player": "Gary Woodland",
+      "%": "12.50",
+      "Par 4 Birdies or Better": "5",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 68,
+      "player": "Brian Harman",
+      "%": "10.00",
+      "Par 4 Birdies or Better": "4",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 68,
+      "player": "Tom Kim",
+      "%": "10.00",
+      "Par 4 Birdies or Better": "4",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 68,
+      "player": "Taylor Pendrith",
+      "%": "10.00",
+      "Par 4 Birdies or Better": "4",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 68,
+      "player": "Adam Scott",
+      "%": "10.00",
+      "Par 4 Birdies or Better": "4",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 68,
+      "player": "Davis Thompson",
+      "%": "10.00",
+      "Par 4 Birdies or Better": "4",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 68,
+      "player": "Danny Willett",
+      "%": "10.00",
+      "Par 4 Birdies or Better": "4",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 74,
+      "player": "Will Zalatoris",
+      "%": "7.50",
+      "Par 4 Birdies or Better": "3",
+      "Par 4 Holes": "40"
+    },
+    {
+      "rank": 75,
+      "player": "Nate Lashley",
+      "%": "5.00",
+      "Par 4 Birdies or Better": "2",
+      "Par 4 Holes": "40"
+    }
+  ]
+}

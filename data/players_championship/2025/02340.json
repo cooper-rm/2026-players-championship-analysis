@@ -1,0 +1,513 @@
+{
+  "stat_id": "02340",
+  "stat_title": "Average Approach Distance - Bogey or Worse",
+  "category": "Approach the Green",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Kurt Kitayama",
+      "Avg (Yards)": "115.3",
+      "Total Distance (inches)": "45,665",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 2,
+      "player": "Billy Horschel",
+      "Avg (Yards)": "123.6",
+      "Total Distance (inches)": "53,393",
+      "Number of Approach Shots": "12"
+    },
+    {
+      "rank": 3,
+      "player": "Hayden Springer",
+      "Avg (Yards)": "125.7",
+      "Total Distance (inches)": "49,790",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 4,
+      "player": "Jesper Svensson",
+      "Avg (Yards)": "126.9",
+      "Total Distance (inches)": "73,097",
+      "Number of Approach Shots": "16"
+    },
+    {
+      "rank": 5,
+      "player": "Carson Young",
+      "Avg (Yards)": "130.0",
+      "Total Distance (inches)": "51,465",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 6,
+      "player": "Austin Eckroat",
+      "Avg (Yards)": "130.6",
+      "Total Distance (inches)": "51,718",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 7,
+      "player": "Sahith Theegala",
+      "Avg (Yards)": "132.4",
+      "Total Distance (inches)": "47,668",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 8,
+      "player": "Joe Highsmith",
+      "Avg (Yards)": "132.7",
+      "Total Distance (inches)": "33,432",
+      "Number of Approach Shots": "7"
+    },
+    {
+      "rank": 9,
+      "player": "Will Zalatoris",
+      "Avg (Yards)": "134.5",
+      "Total Distance (inches)": "53,254",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 10,
+      "player": "Stephan Jaeger",
+      "Avg (Yards)": "134.7",
+      "Total Distance (inches)": "58,195",
+      "Number of Approach Shots": "12"
+    },
+    {
+      "rank": 11,
+      "player": "Mac Meissner",
+      "Avg (Yards)": "137.3",
+      "Total Distance (inches)": "54,385",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 11,
+      "player": "Chandler Phillips",
+      "Avg (Yards)": "137.3",
+      "Total Distance (inches)": "74,149",
+      "Number of Approach Shots": "15"
+    },
+    {
+      "rank": 13,
+      "player": "Chris Kirk",
+      "Avg (Yards)": "141.1",
+      "Total Distance (inches)": "50,778",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 14,
+      "player": "Emiliano Grillo",
+      "Avg (Yards)": "141.5",
+      "Total Distance (inches)": "56,035",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 14,
+      "player": "Denny McCarthy",
+      "Avg (Yards)": "141.5",
+      "Total Distance (inches)": "45,851",
+      "Number of Approach Shots": "9"
+    },
+    {
+      "rank": 16,
+      "player": "Jake Knapp",
+      "Avg (Yards)": "141.9",
+      "Total Distance (inches)": "40,871",
+      "Number of Approach Shots": "8"
+    },
+    {
+      "rank": 17,
+      "player": "Byeong Hun An",
+      "Avg (Yards)": "142.0",
+      "Total Distance (inches)": "81,816",
+      "Number of Approach Shots": "16"
+    },
+    {
+      "rank": 18,
+      "player": "Xander Schauffele",
+      "Avg (Yards)": "142.1",
+      "Total Distance (inches)": "86,950",
+      "Number of Approach Shots": "17"
+    },
+    {
+      "rank": 19,
+      "player": "Ryan Fox",
+      "Avg (Yards)": "145.0",
+      "Total Distance (inches)": "78,275",
+      "Number of Approach Shots": "15"
+    },
+    {
+      "rank": 20,
+      "player": "Danny Walker",
+      "Avg (Yards)": "146.7",
+      "Total Distance (inches)": "52,822",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 21,
+      "player": "Justin Thomas",
+      "Avg (Yards)": "147.1",
+      "Total Distance (inches)": "74,144",
+      "Number of Approach Shots": "14"
+    },
+    {
+      "rank": 22,
+      "player": "Keegan Bradley",
+      "Avg (Yards)": "147.6",
+      "Total Distance (inches)": "58,438",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 23,
+      "player": "Si Woo Kim",
+      "Avg (Yards)": "148.1",
+      "Total Distance (inches)": "79,957",
+      "Number of Approach Shots": "15"
+    },
+    {
+      "rank": 24,
+      "player": "Tommy Fleetwood",
+      "Avg (Yards)": "148.7",
+      "Total Distance (inches)": "53,521",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 24,
+      "player": "Taylor Moore",
+      "Avg (Yards)": "148.7",
+      "Total Distance (inches)": "58,871",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 26,
+      "player": "Davis Riley",
+      "Avg (Yards)": "150.7",
+      "Total Distance (inches)": "59,682",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 27,
+      "player": "Tom Kim",
+      "Avg (Yards)": "151.9",
+      "Total Distance (inches)": "76,563",
+      "Number of Approach Shots": "14"
+    },
+    {
+      "rank": 28,
+      "player": "Isaiah Salinda",
+      "Avg (Yards)": "152.1",
+      "Total Distance (inches)": "71,176",
+      "Number of Approach Shots": "13"
+    },
+    {
+      "rank": 29,
+      "player": "Rickie Fowler",
+      "Avg (Yards)": "152.3",
+      "Total Distance (inches)": "93,187",
+      "Number of Approach Shots": "17"
+    },
+    {
+      "rank": 30,
+      "player": "Cameron Young",
+      "Avg (Yards)": "152.7",
+      "Total Distance (inches)": "82,466",
+      "Number of Approach Shots": "15"
+    },
+    {
+      "rank": 31,
+      "player": "Will Chandler",
+      "Avg (Yards)": "153.1",
+      "Total Distance (inches)": "88,191",
+      "Number of Approach Shots": "16"
+    },
+    {
+      "rank": 31,
+      "player": "Min Woo Lee",
+      "Avg (Yards)": "153.1",
+      "Total Distance (inches)": "44,085",
+      "Number of Approach Shots": "8"
+    },
+    {
+      "rank": 33,
+      "player": "Robert MacIntyre",
+      "Avg (Yards)": "153.4",
+      "Total Distance (inches)": "60,736",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 34,
+      "player": "Charley Hoffman",
+      "Avg (Yards)": "154.1",
+      "Total Distance (inches)": "77,647",
+      "Number of Approach Shots": "14"
+    },
+    {
+      "rank": 35,
+      "player": "Davis Thompson",
+      "Avg (Yards)": "154.2",
+      "Total Distance (inches)": "55,497",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 36,
+      "player": "Alex Smalley",
+      "Avg (Yards)": "154.4",
+      "Total Distance (inches)": "44,477",
+      "Number of Approach Shots": "8"
+    },
+    {
+      "rank": 37,
+      "player": "Lucas Glover",
+      "Avg (Yards)": "154.7",
+      "Total Distance (inches)": "55,697",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 37,
+      "player": "Scottie Scheffler",
+      "Avg (Yards)": "154.7",
+      "Total Distance (inches)": "44,555",
+      "Number of Approach Shots": "8"
+    },
+    {
+      "rank": 39,
+      "player": "Sungjae Im",
+      "Avg (Yards)": "155.8",
+      "Total Distance (inches)": "61,689",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 39,
+      "player": "J.T. Poston",
+      "Avg (Yards)": "155.8",
+      "Total Distance (inches)": "84,152",
+      "Number of Approach Shots": "15"
+    },
+    {
+      "rank": 41,
+      "player": "Matt Kuchar",
+      "Avg (Yards)": "155.9",
+      "Total Distance (inches)": "61,743",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 42,
+      "player": "J.J. Spaun",
+      "Avg (Yards)": "156.2",
+      "Total Distance (inches)": "44,983",
+      "Number of Approach Shots": "8"
+    },
+    {
+      "rank": 43,
+      "player": "Joel Dahmen",
+      "Avg (Yards)": "156.3",
+      "Total Distance (inches)": "67,538",
+      "Number of Approach Shots": "12"
+    },
+    {
+      "rank": 44,
+      "player": "Matt McCarty",
+      "Avg (Yards)": "159.1",
+      "Total Distance (inches)": "45,822",
+      "Number of Approach Shots": "8"
+    },
+    {
+      "rank": 44,
+      "player": "Rory McIlroy",
+      "Avg (Yards)": "159.1",
+      "Total Distance (inches)": "57,263",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 46,
+      "player": "Trey Mullinax",
+      "Avg (Yards)": "159.2",
+      "Total Distance (inches)": "80,244",
+      "Number of Approach Shots": "14"
+    },
+    {
+      "rank": 47,
+      "player": "Taylor Pendrith",
+      "Avg (Yards)": "159.7",
+      "Total Distance (inches)": "80,484",
+      "Number of Approach Shots": "14"
+    },
+    {
+      "rank": 48,
+      "player": "Corey Conners",
+      "Avg (Yards)": "160.3",
+      "Total Distance (inches)": "57,725",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 49,
+      "player": "Aaron Rai",
+      "Avg (Yards)": "161.3",
+      "Total Distance (inches)": "52,250",
+      "Number of Approach Shots": "9"
+    },
+    {
+      "rank": 50,
+      "player": "Bud Cauley",
+      "Avg (Yards)": "161.5",
+      "Total Distance (inches)": "81,379",
+      "Number of Approach Shots": "14"
+    },
+    {
+      "rank": 51,
+      "player": "Sepp Straka",
+      "Avg (Yards)": "162.4",
+      "Total Distance (inches)": "58,474",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 52,
+      "player": "Jhonattan Vegas",
+      "Avg (Yards)": "163.0",
+      "Total Distance (inches)": "93,905",
+      "Number of Approach Shots": "16"
+    },
+    {
+      "rank": 53,
+      "player": "Jacob Bridgeman",
+      "Avg (Yards)": "163.2",
+      "Total Distance (inches)": "58,750",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 53,
+      "player": "Tom Hoge",
+      "Avg (Yards)": "163.2",
+      "Total Distance (inches)": "41,121",
+      "Number of Approach Shots": "7"
+    },
+    {
+      "rank": 55,
+      "player": "Jordan Spieth",
+      "Avg (Yards)": "163.3",
+      "Total Distance (inches)": "70,556",
+      "Number of Approach Shots": "12"
+    },
+    {
+      "rank": 56,
+      "player": "Harris English",
+      "Avg (Yards)": "163.8",
+      "Total Distance (inches)": "53,087",
+      "Number of Approach Shots": "9"
+    },
+    {
+      "rank": 57,
+      "player": "Russell Henley",
+      "Avg (Yards)": "164.2",
+      "Total Distance (inches)": "59,111",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 58,
+      "player": "C.T. Pan",
+      "Avg (Yards)": "164.4",
+      "Total Distance (inches)": "88,801",
+      "Number of Approach Shots": "15"
+    },
+    {
+      "rank": 59,
+      "player": "Sam Ryder",
+      "Avg (Yards)": "166.3",
+      "Total Distance (inches)": "47,895",
+      "Number of Approach Shots": "8"
+    },
+    {
+      "rank": 60,
+      "player": "Ryan Gerard",
+      "Avg (Yards)": "166.4",
+      "Total Distance (inches)": "83,857",
+      "Number of Approach Shots": "14"
+    },
+    {
+      "rank": 61,
+      "player": "Rico Hoey",
+      "Avg (Yards)": "166.7",
+      "Total Distance (inches)": "72,022",
+      "Number of Approach Shots": "12"
+    },
+    {
+      "rank": 62,
+      "player": "Beau Hossler",
+      "Avg (Yards)": "166.8",
+      "Total Distance (inches)": "72,039",
+      "Number of Approach Shots": "12"
+    },
+    {
+      "rank": 63,
+      "player": "Akshay Bhatia",
+      "Avg (Yards)": "166.9",
+      "Total Distance (inches)": "60,089",
+      "Number of Approach Shots": "10"
+    },
+    {
+      "rank": 64,
+      "player": "Patrick Cantlay",
+      "Avg (Yards)": "167.5",
+      "Total Distance (inches)": "66,338",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 65,
+      "player": "Matthieu Pavon",
+      "Avg (Yards)": "168.6",
+      "Total Distance (inches)": "72,816",
+      "Number of Approach Shots": "12"
+    },
+    {
+      "rank": 66,
+      "player": "Collin Morikawa",
+      "Avg (Yards)": "169.3",
+      "Total Distance (inches)": "79,238",
+      "Number of Approach Shots": "13"
+    },
+    {
+      "rank": 67,
+      "player": "Shane Lowry",
+      "Avg (Yards)": "169.8",
+      "Total Distance (inches)": "55,029",
+      "Number of Approach Shots": "9"
+    },
+    {
+      "rank": 68,
+      "player": "Camilo Villegas",
+      "Avg (Yards)": "173.6",
+      "Total Distance (inches)": "75,016",
+      "Number of Approach Shots": "12"
+    },
+    {
+      "rank": 69,
+      "player": "Daniel Berger",
+      "Avg (Yards)": "177.8",
+      "Total Distance (inches)": "70,408",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 70,
+      "player": "Max McGreevy",
+      "Avg (Yards)": "179.9",
+      "Total Distance (inches)": "58,284",
+      "Number of Approach Shots": "9"
+    },
+    {
+      "rank": 71,
+      "player": "Justin Lower",
+      "Avg (Yards)": "181.6",
+      "Total Distance (inches)": "71,904",
+      "Number of Approach Shots": "11"
+    },
+    {
+      "rank": 72,
+      "player": "Sami Valimaki",
+      "Avg (Yards)": "186.9",
+      "Total Distance (inches)": "100,925",
+      "Number of Approach Shots": "15"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "stat_id": "392",
+  "stat_title": "Average Putting Distance - GIR 3+ Putts",
+  "category": "Putting",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tommy Fleetwood",
+      "Avg": "43' 5\"",
+      "Distance (feet)": "43.417",
+      "Total Putts": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Justin Suh",
+      "Avg": "39' 11\"",
+      "Distance (feet)": "39.917",
+      "Total Putts": "1"
+    },
+    {
+      "rank": 3,
+      "player": "Lucas Glover",
+      "Avg": "26' 9\"",
+      "Distance (feet)": "26.750",
+      "Total Putts": "1"
+    }
+  ]
+}

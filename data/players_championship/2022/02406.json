@@ -1,0 +1,499 @@
+{
+  "stat_id": "02406",
+  "stat_title": "Distance to Apex",
+  "category": "Off The Tee",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Lucas Herbert",
+      "Avg": "194.4",
+      "Total Apex Range": "7,969.5",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 2,
+      "player": "Rory McIlroy",
+      "Avg": "194.0",
+      "Total Apex Range": "7,758.9",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 3,
+      "player": "Sergio Garcia",
+      "Avg": "191.7",
+      "Total Apex Range": "8,434.8",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 4,
+      "player": "Sam Burns",
+      "Avg": "191.3",
+      "Total Apex Range": "7,460.8",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 4,
+      "player": "Dylan Frittelli",
+      "Avg": "191.3",
+      "Total Apex Range": "7,462.5",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 6,
+      "player": "Tommy Fleetwood",
+      "Avg": "191.1",
+      "Total Apex Range": "6,690.0",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 7,
+      "player": "Taylor Pendrith",
+      "Avg": "190.4",
+      "Total Apex Range": "7,805.3",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 7,
+      "player": "Jon Rahm",
+      "Avg": "190.4",
+      "Total Apex Range": "6,854.4",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 9,
+      "player": "Will Zalatoris",
+      "Avg": "190.3",
+      "Total Apex Range": "7,233.2",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 10,
+      "player": "Brendan Steele",
+      "Avg": "190.1",
+      "Total Apex Range": "7,412.2",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 11,
+      "player": "Max Homa",
+      "Avg": "189.5",
+      "Total Apex Range": "7,771.1",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 12,
+      "player": "Scottie Scheffler",
+      "Avg": "189.2",
+      "Total Apex Range": "8,703.2",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 12,
+      "player": "Nick Watney",
+      "Avg": "189.2",
+      "Total Apex Range": "7,947.8",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 14,
+      "player": "Keith Mitchell",
+      "Avg": "188.9",
+      "Total Apex Range": "7,743.5",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 15,
+      "player": "Joaquin Niemann",
+      "Avg": "186.9",
+      "Total Apex Range": "7,474.7",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 16,
+      "player": "Jason Kokrak",
+      "Avg": "186.7",
+      "Total Apex Range": "7,653.5",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 17,
+      "player": "Keegan Bradley",
+      "Avg": "186.6",
+      "Total Apex Range": "8,022.9",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 18,
+      "player": "Doc Redman",
+      "Avg": "185.6",
+      "Total Apex Range": "8,353.2",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 18,
+      "player": "Bubba Watson",
+      "Avg": "185.6",
+      "Total Apex Range": "8,720.9",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 20,
+      "player": "Justin Thomas",
+      "Avg": "185.1",
+      "Total Apex Range": "8,331.6",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 21,
+      "player": "Dustin Johnson",
+      "Avg": "184.4",
+      "Total Apex Range": "7,007.2",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 22,
+      "player": "Seamus Power",
+      "Avg": "183.9",
+      "Total Apex Range": "7,173.4",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 23,
+      "player": "Viktor Hovland",
+      "Avg": "183.5",
+      "Total Apex Range": "6,604.5",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 24,
+      "player": "Tyrrell Hatton",
+      "Avg": "183.3",
+      "Total Apex Range": "7,880.7",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 24,
+      "player": "Alex Noren",
+      "Avg": "183.3",
+      "Total Apex Range": "6,964.6",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 26,
+      "player": "Sam Ryder",
+      "Avg": "182.9",
+      "Total Apex Range": "7,316.2",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 27,
+      "player": "Erik van Rooyen",
+      "Avg": "182.8",
+      "Total Apex Range": "7,676.3",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 28,
+      "player": "Paul Casey",
+      "Avg": "182.7",
+      "Total Apex Range": "6,211.5",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 29,
+      "player": "Maverick McNealy",
+      "Avg": "182.5",
+      "Total Apex Range": "8,210.9",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 30,
+      "player": "Hayden Buckley",
+      "Avg": "182.3",
+      "Total Apex Range": "7,838.4",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 31,
+      "player": "Cameron Smith",
+      "Avg": "182.0",
+      "Total Apex Range": "7,280.6",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 32,
+      "player": "Chesson Hadley",
+      "Avg": "181.8",
+      "Total Apex Range": "6,725.5",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 33,
+      "player": "Sungjae Im",
+      "Avg": "181.7",
+      "Total Apex Range": "7,993.8",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 34,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "181.4",
+      "Total Apex Range": "8,342.3",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 35,
+      "player": "Harold Varner III",
+      "Avg": "181.3",
+      "Total Apex Range": "7,615.9",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 36,
+      "player": "Corey Conners",
+      "Avg": "180.8",
+      "Total Apex Range": "9,038.2",
+      "Total Attempts": "50"
+    },
+    {
+      "rank": 37,
+      "player": "Aaron Wise",
+      "Avg": "180.5",
+      "Total Apex Range": "8,303.7",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 38,
+      "player": "Lee Hodges",
+      "Avg": "180.0",
+      "Total Apex Range": "8,102.1",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 39,
+      "player": "Shane Lowry",
+      "Avg": "179.8",
+      "Total Apex Range": "7,552.5",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 40,
+      "player": "K.H. Lee",
+      "Avg": "179.7",
+      "Total Apex Range": "8,084.4",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 41,
+      "player": "Russell Henley",
+      "Avg": "179.6",
+      "Total Apex Range": "7,541.3",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 42,
+      "player": "Patton Kizzire",
+      "Avg": "179.3",
+      "Total Apex Range": "7,887.8",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 43,
+      "player": "Sepp Straka",
+      "Avg": "178.4",
+      "Total Apex Range": "7,847.9",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 44,
+      "player": "Branden Grace",
+      "Avg": "178.2",
+      "Total Apex Range": "8,196.6",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 45,
+      "player": "Tom Hoge",
+      "Avg": "177.8",
+      "Total Apex Range": "7,643.9",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 46,
+      "player": "Pat Perez",
+      "Avg": "177.7",
+      "Total Apex Range": "8,174.5",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 47,
+      "player": "Adam Hadwin",
+      "Avg": "177.6",
+      "Total Apex Range": "7,459.8",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 48,
+      "player": "Anirban Lahiri",
+      "Avg": "177.5",
+      "Total Apex Range": "7,630.8",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 49,
+      "player": "Peter Malnati",
+      "Avg": "177.3",
+      "Total Apex Range": "9,396.6",
+      "Total Attempts": "53"
+    },
+    {
+      "rank": 49,
+      "player": "Louis Oosthuizen",
+      "Avg": "177.3",
+      "Total Apex Range": "8,332.0",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 51,
+      "player": "Doug Ghim",
+      "Avg": "177.1",
+      "Total Apex Range": "7,259.6",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 51,
+      "player": "Patrick Reed",
+      "Avg": "177.1",
+      "Total Apex Range": "7,437.4",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 53,
+      "player": "Scott Stallings",
+      "Avg": "176.8",
+      "Total Apex Range": "6,717.5",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 54,
+      "player": "Kevin Streelman",
+      "Avg": "176.5",
+      "Total Apex Range": "7,588.7",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 55,
+      "player": "Francesco Molinari",
+      "Avg": "176.2",
+      "Total Apex Range": "7,048.0",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 56,
+      "player": "Kramer Hickok",
+      "Avg": "175.7",
+      "Total Apex Range": "7,029.5",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 57,
+      "player": "Adam Long",
+      "Avg": "175.2",
+      "Total Apex Range": "7,709.8",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 58,
+      "player": "Kevin Kisner",
+      "Avg": "175.1",
+      "Total Apex Range": "8,230.7",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 59,
+      "player": "Hank Lebioda",
+      "Avg": "175.0",
+      "Total Apex Range": "8,402.4",
+      "Total Attempts": "48"
+    },
+    {
+      "rank": 59,
+      "player": "Denny McCarthy",
+      "Avg": "175.0",
+      "Total Apex Range": "7,525.6",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 61,
+      "player": "Troy Merritt",
+      "Avg": "173.5",
+      "Total Apex Range": "8,329.1",
+      "Total Attempts": "48"
+    },
+    {
+      "rank": 62,
+      "player": "Ian Poulter",
+      "Avg": "173.4",
+      "Total Apex Range": "7,630.4",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 63,
+      "player": "Jimmy Walker",
+      "Avg": "173.2",
+      "Total Apex Range": "6,582.9",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 64,
+      "player": "Joel Dahmen",
+      "Avg": "172.9",
+      "Total Apex Range": "9,162.7",
+      "Total Attempts": "53"
+    },
+    {
+      "rank": 65,
+      "player": "Russell Knox",
+      "Avg": "171.8",
+      "Total Apex Range": "7,729.9",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 66,
+      "player": "Abraham Ancer",
+      "Avg": "171.7",
+      "Total Apex Range": "8,412.8",
+      "Total Attempts": "49"
+    },
+    {
+      "rank": 67,
+      "player": "Daniel Berger",
+      "Avg": "170.4",
+      "Total Apex Range": "7,325.2",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 68,
+      "player": "Michael Thompson",
+      "Avg": "170.3",
+      "Total Apex Range": "8,175.1",
+      "Total Attempts": "48"
+    },
+    {
+      "rank": 69,
+      "player": "Brian Harman",
+      "Avg": "168.8",
+      "Total Apex Range": "9,281.6",
+      "Total Attempts": "55"
+    },
+    {
+      "rank": 70,
+      "player": "Brice Garnett",
+      "Avg": "168.4",
+      "Total Apex Range": "7,748.1",
+      "Total Attempts": "46"
+    }
+  ]
+}

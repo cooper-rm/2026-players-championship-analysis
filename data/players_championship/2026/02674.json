@@ -1,0 +1,666 @@
+{
+  "stat_id": "02674",
+  "stat_title": "SG: Tee-to-Green",
+  "category": "Strokes Gained",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tommy Fleetwood",
+      "Avg": "3.098",
+      "SG:OTT": "0.949",
+      "SG:APR": "1.275",
+      "SG:ARG": "0.874",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 2,
+      "player": "Matt Fitzpatrick",
+      "Avg": "3.043",
+      "SG:OTT": "0.849",
+      "SG:APR": "1.144",
+      "SG:ARG": "1.049",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 3,
+      "player": "Ryo Hisatsune",
+      "Avg": "2.690",
+      "SG:OTT": "0.691",
+      "SG:APR": "1.251",
+      "SG:ARG": "0.748",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 4,
+      "player": "Xander Schauffele",
+      "Avg": "2.497",
+      "SG:OTT": "0.519",
+      "SG:APR": "1.870",
+      "SG:ARG": "0.108",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 5,
+      "player": "Cameron Young",
+      "Avg": "2.460",
+      "SG:OTT": "0.767",
+      "SG:APR": "1.770",
+      "SG:ARG": "-0.078",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 6,
+      "player": "Austin Smotherman",
+      "Avg": "2.320",
+      "SG:OTT": "1.477",
+      "SG:APR": "1.219",
+      "SG:ARG": "-0.377",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 7,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "2.309",
+      "SG:OTT": "1.025",
+      "SG:APR": "0.914",
+      "SG:ARG": "0.370",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Brian Harman",
+      "Avg": "2.232",
+      "SG:OTT": "0.757",
+      "SG:APR": "0.215",
+      "SG:ARG": "1.259",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 9,
+      "player": "Brooks Koepka",
+      "Avg": "2.202",
+      "SG:OTT": "0.357",
+      "SG:APR": "1.686",
+      "SG:ARG": "0.158",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 10,
+      "player": "Corey Conners",
+      "Avg": "1.797",
+      "SG:OTT": "0.701",
+      "SG:APR": "1.513",
+      "SG:ARG": "-0.417",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 11,
+      "player": "Sepp Straka",
+      "Avg": "1.773",
+      "SG:OTT": "0.337",
+      "SG:APR": "0.808",
+      "SG:ARG": "0.627",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 12,
+      "player": "Robert MacIntyre",
+      "Avg": "1.766",
+      "SG:OTT": "0.914",
+      "SG:APR": "0.365",
+      "SG:ARG": "0.487",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 13,
+      "player": "Viktor Hovland",
+      "Avg": "1.761",
+      "SG:OTT": "-0.456",
+      "SG:APR": "0.339",
+      "SG:ARG": "1.877",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 14,
+      "player": "Rory McIlroy",
+      "Avg": "1.756",
+      "SG:OTT": "1.237",
+      "SG:APR": "0.183",
+      "SG:ARG": "0.335",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 15,
+      "player": "Akshay Bhatia",
+      "Avg": "1.725",
+      "SG:OTT": "0.999",
+      "SG:APR": "1.815",
+      "SG:ARG": "-1.089",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Nick Taylor",
+      "Avg": "1.628",
+      "SG:OTT": "0.241",
+      "SG:APR": "0.260",
+      "SG:ARG": "1.127",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 17,
+      "player": "Taylor Pendrith",
+      "Avg": "1.499",
+      "SG:OTT": "1.135",
+      "SG:APR": "-0.745",
+      "SG:ARG": "1.109",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 18,
+      "player": "Jordan Spieth",
+      "Avg": "1.497",
+      "SG:OTT": "-0.576",
+      "SG:APR": "1.360",
+      "SG:ARG": "0.714",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 19,
+      "player": "Patrick Rodgers",
+      "Avg": "1.488",
+      "SG:OTT": "0.654",
+      "SG:APR": "0.043",
+      "SG:ARG": "0.790",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 20,
+      "player": "Chris Kirk",
+      "Avg": "1.455",
+      "SG:OTT": "0.074",
+      "SG:APR": "1.045",
+      "SG:ARG": "0.336",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 21,
+      "player": "Michael Thorbjornsen",
+      "Avg": "1.419",
+      "SG:OTT": "0.750",
+      "SG:APR": "0.079",
+      "SG:ARG": "0.590",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 22,
+      "player": "Bud Cauley",
+      "Avg": "1.384",
+      "SG:OTT": "0.064",
+      "SG:APR": "0.308",
+      "SG:ARG": "1.012",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 23,
+      "player": "Justin Thomas",
+      "Avg": "1.346",
+      "SG:OTT": "-0.363",
+      "SG:APR": "1.393",
+      "SG:ARG": "0.317",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 24,
+      "player": "Sudarshan Yellamaraju",
+      "Avg": "1.288",
+      "SG:OTT": "0.634",
+      "SG:APR": "1.127",
+      "SG:ARG": "-0.473",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 25,
+      "player": "Russell Henley",
+      "Avg": "1.242",
+      "SG:OTT": "0.361",
+      "SG:APR": "0.756",
+      "SG:ARG": "0.125",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 26,
+      "player": "Andrew Putnam",
+      "Avg": "1.226",
+      "SG:OTT": "0.291",
+      "SG:APR": "0.035",
+      "SG:ARG": "0.900",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 27,
+      "player": "Wyndham Clark",
+      "Avg": "1.145",
+      "SG:OTT": "-0.511",
+      "SG:APR": "0.924",
+      "SG:ARG": "0.731",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 28,
+      "player": "Justin Rose",
+      "Avg": "1.133",
+      "SG:OTT": "-0.145",
+      "SG:APR": "0.228",
+      "SG:ARG": "1.050",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 29,
+      "player": "Scottie Scheffler",
+      "Avg": "1.117",
+      "SG:OTT": "0.086",
+      "SG:APR": "0.264",
+      "SG:ARG": "0.767",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 30,
+      "player": "William Mouw",
+      "Avg": "1.055",
+      "SG:OTT": "0.952",
+      "SG:APR": "0.474",
+      "SG:ARG": "-0.372",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 31,
+      "player": "Sam Stevens",
+      "Avg": "1.038",
+      "SG:OTT": "1.027",
+      "SG:APR": "0.717",
+      "SG:ARG": "-0.707",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 32,
+      "player": "J.J. Spaun",
+      "Avg": "0.961",
+      "SG:OTT": "0.215",
+      "SG:APR": "1.240",
+      "SG:ARG": "-0.495",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 33,
+      "player": "Alex Smalley",
+      "Avg": "0.834",
+      "SG:OTT": "0.500",
+      "SG:APR": "0.536",
+      "SG:ARG": "-0.202",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 34,
+      "player": "Patrick Cantlay",
+      "Avg": "0.803",
+      "SG:OTT": "0.908",
+      "SG:APR": "-0.484",
+      "SG:ARG": "0.379",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 35,
+      "player": "Ryan Gerard",
+      "Avg": "0.680",
+      "SG:OTT": "0.381",
+      "SG:APR": "0.011",
+      "SG:ARG": "0.287",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 36,
+      "player": "Hideki Matsuyama",
+      "Avg": "0.597",
+      "SG:OTT": "-0.234",
+      "SG:APR": "0.559",
+      "SG:ARG": "0.272",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 37,
+      "player": "Chad Ramey",
+      "Avg": "0.562",
+      "SG:OTT": "0.358",
+      "SG:APR": "0.282",
+      "SG:ARG": "-0.078",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Sahith Theegala",
+      "Avg": "0.556",
+      "SG:OTT": "-0.494",
+      "SG:APR": "1.013",
+      "SG:ARG": "0.036",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 39,
+      "player": "Min Woo Lee",
+      "Avg": "0.550",
+      "SG:OTT": "0.909",
+      "SG:APR": "-0.032",
+      "SG:ARG": "-0.328",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 40,
+      "player": "Keith Mitchell",
+      "Avg": "0.500",
+      "SG:OTT": "0.333",
+      "SG:APR": "-0.456",
+      "SG:ARG": "0.623",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 41,
+      "player": "Adam Scott",
+      "Avg": "0.498",
+      "SG:OTT": "-1.004",
+      "SG:APR": "1.515",
+      "SG:ARG": "-0.013",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 42,
+      "player": "Zach Bauchou",
+      "Avg": "0.422",
+      "SG:OTT": "0.337",
+      "SG:APR": "0.200",
+      "SG:ARG": "-0.115",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 43,
+      "player": "Joe Highsmith",
+      "Avg": "0.319",
+      "SG:OTT": "-1.260",
+      "SG:APR": "1.254",
+      "SG:ARG": "0.325",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 44,
+      "player": "Max Homa",
+      "Avg": "0.314",
+      "SG:OTT": "-0.081",
+      "SG:APR": "0.833",
+      "SG:ARG": "-0.438",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 45,
+      "player": "Taylor Moore",
+      "Avg": "0.248",
+      "SG:OTT": "0.408",
+      "SG:APR": "0.110",
+      "SG:ARG": "-0.270",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 46,
+      "player": "Jacob Bridgeman",
+      "Avg": "0.226",
+      "SG:OTT": "0.765",
+      "SG:APR": "-0.860",
+      "SG:ARG": "0.320",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 47,
+      "player": "Kevin Roy",
+      "Avg": "0.210",
+      "SG:OTT": "-0.487",
+      "SG:APR": "0.594",
+      "SG:ARG": "0.103",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 48,
+      "player": "Maverick McNealy",
+      "Avg": "0.196",
+      "SG:OTT": "0.231",
+      "SG:APR": "-0.153",
+      "SG:ARG": "0.117",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 48,
+      "player": "Alex Noren",
+      "Avg": "0.196",
+      "SG:OTT": "-0.688",
+      "SG:APR": "-0.079",
+      "SG:ARG": "0.962",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 50,
+      "player": "Rickie Fowler",
+      "Avg": "0.114",
+      "SG:OTT": "0.529",
+      "SG:APR": "-0.028",
+      "SG:ARG": "-0.386",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 51,
+      "player": "Jason Day",
+      "Avg": "0.065",
+      "SG:OTT": "0.211",
+      "SG:APR": "-0.999",
+      "SG:ARG": "0.854",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 52,
+      "player": "Max McGreevy",
+      "Avg": "0.035",
+      "SG:OTT": "0.730",
+      "SG:APR": "0.311",
+      "SG:ARG": "-1.007",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 53,
+      "player": "Si Woo Kim",
+      "Avg": "0.021",
+      "SG:OTT": "0.603",
+      "SG:APR": "-0.963",
+      "SG:ARG": "0.381",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 54,
+      "player": "Sam Burns",
+      "Avg": "-0.010",
+      "SG:OTT": "0.526",
+      "SG:APR": "-0.178",
+      "SG:ARG": "-0.358",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 55,
+      "player": "Chris Gotterup",
+      "Avg": "-0.143",
+      "SG:OTT": "-0.164",
+      "SG:APR": "0.366",
+      "SG:ARG": "-0.345",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 56,
+      "player": "Nicolai H\u00f8jgaard",
+      "Avg": "-0.223",
+      "SG:OTT": "-1.196",
+      "SG:APR": "0.549",
+      "SG:ARG": "0.424",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 57,
+      "player": "Matti Schmid",
+      "Avg": "-0.285",
+      "SG:OTT": "-0.083",
+      "SG:APR": "-0.381",
+      "SG:ARG": "0.179",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 58,
+      "player": "Eric Cole",
+      "Avg": "-0.309",
+      "SG:OTT": "-0.853",
+      "SG:APR": "-0.064",
+      "SG:ARG": "0.609",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 59,
+      "player": "Michael Brennan",
+      "Avg": "-0.424",
+      "SG:OTT": "-0.506",
+      "SG:APR": "0.620",
+      "SG:ARG": "-0.539",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 60,
+      "player": "Seamus Power",
+      "Avg": "-0.482",
+      "SG:OTT": "-0.035",
+      "SG:APR": "-0.270",
+      "SG:ARG": "-0.177",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 61,
+      "player": "J.T. Poston",
+      "Avg": "-0.665",
+      "SG:OTT": "0.440",
+      "SG:APR": "-0.869",
+      "SG:ARG": "-0.236",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 62,
+      "player": "Tony Finau",
+      "Avg": "-0.975",
+      "SG:OTT": "-0.448",
+      "SG:APR": "-0.497",
+      "SG:ARG": "-0.031",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 63,
+      "player": "Nico Echavarria",
+      "Avg": "-1.000",
+      "SG:OTT": "-0.875",
+      "SG:APR": "0.199",
+      "SG:ARG": "-0.323",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 64,
+      "player": "Ricky Castillo",
+      "Avg": "-1.004",
+      "SG:OTT": "-0.310",
+      "SG:APR": "0.045",
+      "SG:ARG": "-0.739",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 65,
+      "player": "Steven Fisk",
+      "Avg": "-1.085",
+      "SG:OTT": "-0.123",
+      "SG:APR": "-0.762",
+      "SG:ARG": "-0.200",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 66,
+      "player": "Danny Walker",
+      "Avg": "-1.122",
+      "SG:OTT": "-0.918",
+      "SG:APR": "-0.454",
+      "SG:ARG": "0.250",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Keegan Bradley",
+      "Avg": "-1.132",
+      "SG:OTT": "-0.427",
+      "SG:APR": "-0.747",
+      "SG:ARG": "0.042",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 68,
+      "player": "Kristoffer Reitan",
+      "Avg": "-1.225",
+      "SG:OTT": "0.465",
+      "SG:APR": "-1.586",
+      "SG:ARG": "-0.104",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 69,
+      "player": "Daniel Berger",
+      "Avg": "-1.243",
+      "SG:OTT": "-0.149",
+      "SG:APR": "0.704",
+      "SG:ARG": "-1.798",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 70,
+      "player": "Lee Hodges",
+      "Avg": "-1.397",
+      "SG:OTT": "0.594",
+      "SG:APR": "-0.934",
+      "SG:ARG": "-1.057",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 71,
+      "player": "Rico Hoey",
+      "Avg": "-1.739",
+      "SG:OTT": "0.549",
+      "SG:APR": "-0.477",
+      "SG:ARG": "-1.811",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 72,
+      "player": "Stephan Jaeger",
+      "Avg": "-1.749",
+      "SG:OTT": "-0.260",
+      "SG:APR": "-1.380",
+      "SG:ARG": "-0.109",
+      "Measured Rounds": "4"
+    },
+    {
+      "rank": 73,
+      "player": "Takumi Kanaya",
+      "Avg": "-1.752",
+      "SG:OTT": "-0.438",
+      "SG:APR": "-1.084",
+      "SG:ARG": "-0.231",
+      "Measured Rounds": "4"
+    }
+  ]
+}

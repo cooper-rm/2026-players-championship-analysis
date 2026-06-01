@@ -1,0 +1,30 @@
+{
+  "stat_id": "392",
+  "stat_title": "Average Putting Distance - GIR 3+ Putts",
+  "category": "Putting",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Aaron Rai",
+      "Avg": "84' 6\"",
+      "Distance (feet)": "84.500",
+      "Total Putts": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Danny Walker",
+      "Avg": "40' 5\"",
+      "Distance (feet)": "40.417",
+      "Total Putts": "1"
+    },
+    {
+      "rank": 3,
+      "player": "Isaiah Salinda",
+      "Avg": "31' 9\"",
+      "Distance (feet)": "31.750",
+      "Total Putts": "1"
+    }
+  ]
+}

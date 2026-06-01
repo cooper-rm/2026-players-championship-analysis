@@ -431,3 +431,7 @@ FodyWeavers.xsd
 # Secrets — never commit the real key
 .env
 .env.local
+
+# Scrape/run artifacts — the cached data/ JSON is committed, but not run logs
+*.log
+data/**/_collect.log

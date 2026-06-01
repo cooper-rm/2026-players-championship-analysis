@@ -1,0 +1,585 @@
+{
+  "stat_id": "02439",
+  "stat_title": "Bonus Putting",
+  "category": "Putting",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Sam Ryder",
+      "Value": "108.00",
+      "Attempts(<= 5')": "50",
+      "Tot Made (>=20')": "4",
+      "Tot Made (<= 5')": "50"
+    },
+    {
+      "rank": 2,
+      "player": "Jake Knapp",
+      "Value": "106.38",
+      "Attempts(<= 5')": "47",
+      "Tot Made (>=20')": "4",
+      "Tot Made (<= 5')": "46"
+    },
+    {
+      "rank": 3,
+      "player": "Akshay Bhatia",
+      "Value": "105.88",
+      "Attempts(<= 5')": "51",
+      "Tot Made (>=20')": "4",
+      "Tot Made (<= 5')": "50"
+    },
+    {
+      "rank": 4,
+      "player": "Corey Conners",
+      "Value": "105.56",
+      "Attempts(<= 5')": "54",
+      "Tot Made (>=20')": "4",
+      "Tot Made (<= 5')": "53"
+    },
+    {
+      "rank": 5,
+      "player": "Taylor Pendrith",
+      "Value": "105.45",
+      "Attempts(<= 5')": "55",
+      "Tot Made (>=20')": "4",
+      "Tot Made (<= 5')": "54"
+    },
+    {
+      "rank": 6,
+      "player": "Cameron Young",
+      "Value": "105.36",
+      "Attempts(<= 5')": "56",
+      "Tot Made (>=20')": "4",
+      "Tot Made (<= 5')": "55"
+    },
+    {
+      "rank": 7,
+      "player": "Justin Lower",
+      "Value": "103.85",
+      "Attempts(<= 5')": "52",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "52"
+    },
+    {
+      "rank": 8,
+      "player": "Stephan Jaeger",
+      "Value": "103.70",
+      "Attempts(<= 5')": "54",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "54"
+    },
+    {
+      "rank": 9,
+      "player": "Denny McCarthy",
+      "Value": "103.57",
+      "Attempts(<= 5')": "56",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "56"
+    },
+    {
+      "rank": 10,
+      "player": "Hayden Springer",
+      "Value": "103.45",
+      "Attempts(<= 5')": "58",
+      "Tot Made (>=20')": "5",
+      "Tot Made (<= 5')": "55"
+    },
+    {
+      "rank": 11,
+      "player": "Ryan Fox",
+      "Value": "101.96",
+      "Attempts(<= 5')": "51",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "50"
+    },
+    {
+      "rank": 11,
+      "player": "Billy Horschel",
+      "Value": "101.96",
+      "Attempts(<= 5')": "51",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "51"
+    },
+    {
+      "rank": 11,
+      "player": "Kurt Kitayama",
+      "Value": "101.96",
+      "Attempts(<= 5')": "51",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "50"
+    },
+    {
+      "rank": 14,
+      "player": "Daniel Berger",
+      "Value": "101.89",
+      "Attempts(<= 5')": "53",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "53"
+    },
+    {
+      "rank": 14,
+      "player": "Bud Cauley",
+      "Value": "101.89",
+      "Attempts(<= 5')": "53",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "52"
+    },
+    {
+      "rank": 14,
+      "player": "Min Woo Lee",
+      "Value": "101.89",
+      "Attempts(<= 5')": "53",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "52"
+    },
+    {
+      "rank": 14,
+      "player": "Sahith Theegala",
+      "Value": "101.89",
+      "Attempts(<= 5')": "53",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "53"
+    },
+    {
+      "rank": 18,
+      "player": "Ryan Gerard",
+      "Value": "101.82",
+      "Attempts(<= 5')": "55",
+      "Tot Made (>=20')": "3",
+      "Tot Made (<= 5')": "53"
+    },
+    {
+      "rank": 19,
+      "player": "Collin Morikawa",
+      "Value": "101.79",
+      "Attempts(<= 5')": "56",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "56"
+    },
+    {
+      "rank": 19,
+      "player": "J.J. Spaun",
+      "Value": "101.79",
+      "Attempts(<= 5')": "56",
+      "Tot Made (>=20')": "3",
+      "Tot Made (<= 5')": "54"
+    },
+    {
+      "rank": 21,
+      "player": "Scottie Scheffler",
+      "Value": "101.72",
+      "Attempts(<= 5')": "58",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "58"
+    },
+    {
+      "rank": 22,
+      "player": "Rickie Fowler",
+      "Value": "101.69",
+      "Attempts(<= 5')": "59",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "58"
+    },
+    {
+      "rank": 22,
+      "player": "Camilo Villegas",
+      "Value": "101.69",
+      "Attempts(<= 5')": "59",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "58"
+    },
+    {
+      "rank": 24,
+      "player": "Harris English",
+      "Value": "101.67",
+      "Attempts(<= 5')": "60",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "59"
+    },
+    {
+      "rank": 24,
+      "player": "Trey Mullinax",
+      "Value": "101.67",
+      "Attempts(<= 5')": "60",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "59"
+    },
+    {
+      "rank": 24,
+      "player": "Davis Riley",
+      "Value": "101.67",
+      "Attempts(<= 5')": "60",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "59"
+    },
+    {
+      "rank": 24,
+      "player": "Carson Young",
+      "Value": "101.67",
+      "Attempts(<= 5')": "60",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "59"
+    },
+    {
+      "rank": 28,
+      "player": "Jacob Bridgeman",
+      "Value": "100.00",
+      "Attempts(<= 5')": "58",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "57"
+    },
+    {
+      "rank": 28,
+      "player": "Emiliano Grillo",
+      "Value": "100.00",
+      "Attempts(<= 5')": "57",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Joe Highsmith",
+      "Value": "100.00",
+      "Attempts(<= 5')": "57",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Beau Hossler",
+      "Value": "100.00",
+      "Attempts(<= 5')": "54",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "53"
+    },
+    {
+      "rank": 28,
+      "player": "Chris Kirk",
+      "Value": "100.00",
+      "Attempts(<= 5')": "59",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "57"
+    },
+    {
+      "rank": 28,
+      "player": "Matt Kuchar",
+      "Value": "100.00",
+      "Attempts(<= 5')": "58",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "57"
+    },
+    {
+      "rank": 28,
+      "player": "C.T. Pan",
+      "Value": "100.00",
+      "Attempts(<= 5')": "63",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "62"
+    },
+    {
+      "rank": 28,
+      "player": "Matthieu Pavon",
+      "Value": "100.00",
+      "Attempts(<= 5')": "55",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "53"
+    },
+    {
+      "rank": 28,
+      "player": "Chandler Phillips",
+      "Value": "100.00",
+      "Attempts(<= 5')": "57",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "56"
+    },
+    {
+      "rank": 28,
+      "player": "Aaron Rai",
+      "Value": "100.00",
+      "Attempts(<= 5')": "56",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "54"
+    },
+    {
+      "rank": 28,
+      "player": "Jesper Svensson",
+      "Value": "100.00",
+      "Attempts(<= 5')": "53",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "52"
+    },
+    {
+      "rank": 28,
+      "player": "Sami Valimaki",
+      "Value": "100.00",
+      "Attempts(<= 5')": "54",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "53"
+    },
+    {
+      "rank": 28,
+      "player": "Will Zalatoris",
+      "Value": "100.00",
+      "Attempts(<= 5')": "55",
+      "Tot Made (>=20')": "3",
+      "Tot Made (<= 5')": "52"
+    },
+    {
+      "rank": 41,
+      "player": "Rico Hoey",
+      "Value": "98.46",
+      "Attempts(<= 5')": "65",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "63"
+    },
+    {
+      "rank": 42,
+      "player": "Charley Hoffman",
+      "Value": "98.41",
+      "Attempts(<= 5')": "63",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "62"
+    },
+    {
+      "rank": 43,
+      "player": "Patrick Cantlay",
+      "Value": "98.39",
+      "Attempts(<= 5')": "62",
+      "Tot Made (>=20')": "4",
+      "Tot Made (<= 5')": "57"
+    },
+    {
+      "rank": 44,
+      "player": "Sepp Straka",
+      "Value": "98.36",
+      "Attempts(<= 5')": "61",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "58"
+    },
+    {
+      "rank": 45,
+      "player": "Will Chandler",
+      "Value": "98.33",
+      "Attempts(<= 5')": "60",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "57"
+    },
+    {
+      "rank": 45,
+      "player": "Isaiah Salinda",
+      "Value": "98.33",
+      "Attempts(<= 5')": "60",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "58"
+    },
+    {
+      "rank": 47,
+      "player": "Byeong Hun An",
+      "Value": "98.25",
+      "Attempts(<= 5')": "57",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "55"
+    },
+    {
+      "rank": 47,
+      "player": "Si Woo Kim",
+      "Value": "98.25",
+      "Attempts(<= 5')": "57",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "55"
+    },
+    {
+      "rank": 49,
+      "player": "Matt McCarty",
+      "Value": "98.18",
+      "Attempts(<= 5')": "55",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "54"
+    },
+    {
+      "rank": 49,
+      "player": "Justin Thomas",
+      "Value": "98.18",
+      "Attempts(<= 5')": "55",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "54"
+    },
+    {
+      "rank": 51,
+      "player": "J.T. Poston",
+      "Value": "98.11",
+      "Attempts(<= 5')": "53",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "51"
+    },
+    {
+      "rank": 52,
+      "player": "Lucas Glover",
+      "Value": "98.04",
+      "Attempts(<= 5')": "51",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "50"
+    },
+    {
+      "rank": 53,
+      "player": "Rory McIlroy",
+      "Value": "98.00",
+      "Attempts(<= 5')": "50",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "49"
+    },
+    {
+      "rank": 54,
+      "player": "Robert MacIntyre",
+      "Value": "96.83",
+      "Attempts(<= 5')": "63",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "60"
+    },
+    {
+      "rank": 54,
+      "player": "Jhonattan Vegas",
+      "Value": "96.83",
+      "Attempts(<= 5')": "63",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "60"
+    },
+    {
+      "rank": 56,
+      "player": "Jordan Spieth",
+      "Value": "96.77",
+      "Attempts(<= 5')": "62",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "59"
+    },
+    {
+      "rank": 56,
+      "player": "Danny Walker",
+      "Value": "96.77",
+      "Attempts(<= 5')": "62",
+      "Tot Made (>=20')": "3",
+      "Tot Made (<= 5')": "57"
+    },
+    {
+      "rank": 58,
+      "player": "Russell Henley",
+      "Value": "96.72",
+      "Attempts(<= 5')": "61",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "59"
+    },
+    {
+      "rank": 59,
+      "player": "Alex Smalley",
+      "Value": "96.61",
+      "Attempts(<= 5')": "59",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "57"
+    },
+    {
+      "rank": 60,
+      "player": "Davis Thompson",
+      "Value": "96.55",
+      "Attempts(<= 5')": "58",
+      "Tot Made (>=20')": "2",
+      "Tot Made (<= 5')": "54"
+    },
+    {
+      "rank": 61,
+      "player": "Sungjae Im",
+      "Value": "96.49",
+      "Attempts(<= 5')": "57",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "54"
+    },
+    {
+      "rank": 62,
+      "player": "Austin Eckroat",
+      "Value": "95.16",
+      "Attempts(<= 5')": "62",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "59"
+    },
+    {
+      "rank": 62,
+      "player": "Taylor Moore",
+      "Value": "95.16",
+      "Attempts(<= 5')": "62",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "59"
+    },
+    {
+      "rank": 64,
+      "player": "Shane Lowry",
+      "Value": "95.08",
+      "Attempts(<= 5')": "61",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "57"
+    },
+    {
+      "rank": 64,
+      "player": "Xander Schauffele",
+      "Value": "95.08",
+      "Attempts(<= 5')": "61",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "58"
+    },
+    {
+      "rank": 66,
+      "player": "Tommy Fleetwood",
+      "Value": "94.92",
+      "Attempts(<= 5')": "59",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "55"
+    },
+    {
+      "rank": 67,
+      "player": "Keegan Bradley",
+      "Value": "94.83",
+      "Attempts(<= 5')": "58",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "55"
+    },
+    {
+      "rank": 67,
+      "player": "Tom Hoge",
+      "Value": "94.83",
+      "Attempts(<= 5')": "58",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "55"
+    },
+    {
+      "rank": 69,
+      "player": "Mac Meissner",
+      "Value": "94.34",
+      "Attempts(<= 5')": "53",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "49"
+    },
+    {
+      "rank": 70,
+      "player": "Joel Dahmen",
+      "Value": "93.85",
+      "Attempts(<= 5')": "65",
+      "Tot Made (>=20')": "1",
+      "Tot Made (<= 5')": "60"
+    },
+    {
+      "rank": 71,
+      "player": "Max McGreevy",
+      "Value": "93.55",
+      "Attempts(<= 5')": "62",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "58"
+    },
+    {
+      "rank": 72,
+      "player": "Tom Kim",
+      "Value": "92.31",
+      "Attempts(<= 5')": "65",
+      "Tot Made (>=20')": "0",
+      "Tot Made (<= 5')": "60"
+    }
+  ]
+}

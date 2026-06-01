@@ -1,0 +1,520 @@
+{
+  "stat_id": "02408",
+  "stat_title": "Hang Time",
+  "category": "Off The Tee",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tyler Duncan",
+      "Avg": "6.8",
+      "Total Actual Hang Time": "291.8",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 2,
+      "player": "Thomas Detry",
+      "Avg": "6.7",
+      "Total Actual Hang Time": "254.3",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 2,
+      "player": "Harris English",
+      "Avg": "6.7",
+      "Total Actual Hang Time": "173.6",
+      "Total Attempts": "26"
+    },
+    {
+      "rank": 2,
+      "player": "Mackenzie Hughes",
+      "Avg": "6.7",
+      "Total Actual Hang Time": "332.8",
+      "Total Attempts": "50"
+    },
+    {
+      "rank": 2,
+      "player": "Gary Woodland",
+      "Avg": "6.7",
+      "Total Actual Hang Time": "201.6",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 6,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "6.6",
+      "Total Actual Hang Time": "251.5",
+      "Total Attempts": "38"
+    },
+    {
+      "rank": 6,
+      "player": "Jason Day",
+      "Avg": "6.6",
+      "Total Actual Hang Time": "236.3",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 6,
+      "player": "Tony Finau",
+      "Avg": "6.6",
+      "Total Actual Hang Time": "198.8",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 6,
+      "player": "Mark Hubbard",
+      "Avg": "6.6",
+      "Total Actual Hang Time": "204.3",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 6,
+      "player": "Aaron Rai",
+      "Avg": "6.6",
+      "Total Actual Hang Time": "289.3",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 11,
+      "player": "Zac Blair",
+      "Avg": "6.5",
+      "Total Actual Hang Time": "329.0",
+      "Total Attempts": "51"
+    },
+    {
+      "rank": 11,
+      "player": "Sam Burns",
+      "Avg": "6.5",
+      "Total Actual Hang Time": "213.7",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 11,
+      "player": "Shane Lowry",
+      "Avg": "6.5",
+      "Total Actual Hang Time": "259.8",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 11,
+      "player": "Francesco Molinari",
+      "Avg": "6.5",
+      "Total Actual Hang Time": "252.3",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 11,
+      "player": "Matt NeSmith",
+      "Avg": "6.5",
+      "Total Actual Hang Time": "214.4",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 11,
+      "player": "Sam Ryder",
+      "Avg": "6.5",
+      "Total Actual Hang Time": "277.8",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 17,
+      "player": "Min Woo Lee",
+      "Avg": "6.4",
+      "Total Actual Hang Time": "203.8",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 17,
+      "player": "Keith Mitchell",
+      "Avg": "6.4",
+      "Total Actual Hang Time": "225.4",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 17,
+      "player": "Scottie Scheffler",
+      "Avg": "6.4",
+      "Total Actual Hang Time": "224.4",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 17,
+      "player": "Matti Schmid",
+      "Avg": "6.4",
+      "Total Actual Hang Time": "212.7",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 17,
+      "player": "J.J. Spaun",
+      "Avg": "6.4",
+      "Total Actual Hang Time": "212.8",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 17,
+      "player": "Sami Valimaki",
+      "Avg": "6.4",
+      "Total Actual Hang Time": "277.1",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 17,
+      "player": "Dylan Wu",
+      "Avg": "6.4",
+      "Total Actual Hang Time": "210.3",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 24,
+      "player": "Patrick Cantlay",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "202.4",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 24,
+      "player": "Corey Conners",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "291.5",
+      "Total Attempts": "46"
+    },
+    {
+      "rank": 24,
+      "player": "Tommy Fleetwood",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "213.9",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 24,
+      "player": "Brice Garnett",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "207.2",
+      "Total Attempts": "33"
+    },
+    {
+      "rank": 24,
+      "player": "Brian Harman",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "315.4",
+      "Total Attempts": "50"
+    },
+    {
+      "rank": 24,
+      "player": "Sungjae Im",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "306.9",
+      "Total Attempts": "49"
+    },
+    {
+      "rank": 24,
+      "player": "Chris Kirk",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "247.1",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 24,
+      "player": "Martin Laird",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "219.2",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 24,
+      "player": "Ben Martin",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "214.9",
+      "Total Attempts": "34"
+    },
+    {
+      "rank": 24,
+      "player": "Hideki Matsuyama",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "225.7",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 24,
+      "player": "Taylor Moore",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "182.4",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 24,
+      "player": "J.T. Poston",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "253.8",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 24,
+      "player": "Andrew Putnam",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "263.2",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 24,
+      "player": "Adam Schenk",
+      "Avg": "6.3",
+      "Total Actual Hang Time": "195.9",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 38,
+      "player": "Austin Eckroat",
+      "Avg": "6.2",
+      "Total Actual Hang Time": "260.1",
+      "Total Attempts": "42"
+    },
+    {
+      "rank": 38,
+      "player": "Emiliano Grillo",
+      "Avg": "6.2",
+      "Total Actual Hang Time": "217.9",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 38,
+      "player": "David Lipsky",
+      "Avg": "6.2",
+      "Total Actual Hang Time": "223.5",
+      "Total Attempts": "36"
+    },
+    {
+      "rank": 38,
+      "player": "Alex Noren",
+      "Avg": "6.2",
+      "Total Actual Hang Time": "155.1",
+      "Total Attempts": "25"
+    },
+    {
+      "rank": 38,
+      "player": "Seamus Power",
+      "Avg": "6.2",
+      "Total Actual Hang Time": "185.4",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 38,
+      "player": "Jimmy Stanger",
+      "Avg": "6.2",
+      "Total Actual Hang Time": "217.4",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 44,
+      "player": "Wyndham Clark",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "128.7",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 44,
+      "player": "Joel Dahmen",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "251.0",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 44,
+      "player": "Doug Ghim",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "273.1",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 44,
+      "player": "Lee Hodges",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "189.2",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 44,
+      "player": "Viktor Hovland",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "245.1",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 44,
+      "player": "Chan Kim",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "214.6",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 44,
+      "player": "Nate Lashley",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "276.0",
+      "Total Attempts": "45"
+    },
+    {
+      "rank": 44,
+      "player": "Adam Scott",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "252.0",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 44,
+      "player": "Cameron Young",
+      "Avg": "6.1",
+      "Total Actual Hang Time": "238.3",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 53,
+      "player": "Rickie Fowler",
+      "Avg": "6.0",
+      "Total Actual Hang Time": "180.0",
+      "Total Attempts": "30"
+    },
+    {
+      "rank": 53,
+      "player": "Tom Hoge",
+      "Avg": "6.0",
+      "Total Actual Hang Time": "192.5",
+      "Total Attempts": "32"
+    },
+    {
+      "rank": 53,
+      "player": "Max Homa",
+      "Avg": "6.0",
+      "Total Actual Hang Time": "222.2",
+      "Total Attempts": "37"
+    },
+    {
+      "rank": 53,
+      "player": "Kurt Kitayama",
+      "Avg": "6.0",
+      "Total Actual Hang Time": "173.1",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 53,
+      "player": "Denny McCarthy",
+      "Avg": "6.0",
+      "Total Actual Hang Time": "259.3",
+      "Total Attempts": "43"
+    },
+    {
+      "rank": 53,
+      "player": "Xander Schauffele",
+      "Avg": "6.0",
+      "Total Actual Hang Time": "143.7",
+      "Total Attempts": "24"
+    },
+    {
+      "rank": 53,
+      "player": "Sepp Straka",
+      "Avg": "6.0",
+      "Total Actual Hang Time": "210.4",
+      "Total Attempts": "35"
+    },
+    {
+      "rank": 60,
+      "player": "Rory McIlroy",
+      "Avg": "5.9",
+      "Total Actual Hang Time": "123.1",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 60,
+      "player": "Maverick McNealy",
+      "Avg": "5.9",
+      "Total Actual Hang Time": "170.7",
+      "Total Attempts": "29"
+    },
+    {
+      "rank": 60,
+      "player": "Ryan Moore",
+      "Avg": "5.9",
+      "Total Actual Hang Time": "258.4",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 60,
+      "player": "C.T. Pan",
+      "Avg": "5.9",
+      "Total Actual Hang Time": "236.1",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 60,
+      "player": "Nick Taylor",
+      "Avg": "5.9",
+      "Total Actual Hang Time": "258.6",
+      "Total Attempts": "44"
+    },
+    {
+      "rank": 60,
+      "player": "Sahith Theegala",
+      "Avg": "5.9",
+      "Total Actual Hang Time": "235.3",
+      "Total Attempts": "40"
+    },
+    {
+      "rank": 66,
+      "player": "Matt Fitzpatrick",
+      "Avg": "5.8",
+      "Total Actual Hang Time": "271.7",
+      "Total Attempts": "47"
+    },
+    {
+      "rank": 66,
+      "player": "Si Woo Kim",
+      "Avg": "5.8",
+      "Total Actual Hang Time": "239.0",
+      "Total Attempts": "41"
+    },
+    {
+      "rank": 66,
+      "player": "Jake Knapp",
+      "Avg": "5.8",
+      "Total Actual Hang Time": "162.8",
+      "Total Attempts": "28"
+    },
+    {
+      "rank": 66,
+      "player": "Peter Malnati",
+      "Avg": "5.8",
+      "Total Actual Hang Time": "289.7",
+      "Total Attempts": "50"
+    },
+    {
+      "rank": 66,
+      "player": "Taylor Montgomery",
+      "Avg": "5.8",
+      "Total Actual Hang Time": "145.6",
+      "Total Attempts": "25"
+    },
+    {
+      "rank": 66,
+      "player": "Collin Morikawa",
+      "Avg": "5.8",
+      "Total Actual Hang Time": "180.1",
+      "Total Attempts": "31"
+    },
+    {
+      "rank": 72,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "5.7",
+      "Total Actual Hang Time": "221.5",
+      "Total Attempts": "39"
+    },
+    {
+      "rank": 73,
+      "player": "Grayson Murray",
+      "Avg": "5.4",
+      "Total Actual Hang Time": "183.8",
+      "Total Attempts": "34"
+    }
+  ]
+}

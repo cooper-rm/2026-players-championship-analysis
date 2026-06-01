@@ -1,0 +1,666 @@
+{
+  "stat_id": "02448",
+  "stat_title": "% of Potential Pts won - FedExCup Regular Season",
+  "category": "Points/Rankings",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Scottie Scheffler",
+      "%": "100.00%",
+      "Points Won": "750",
+      "Potential Pts": "750",
+      "# of Wins": "1",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Wyndham Clark",
+      "%": "47.78%",
+      "Points Won": "358",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Brian Harman",
+      "%": "47.78%",
+      "Points Won": "358",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Xander Schauffele",
+      "%": "47.78%",
+      "Points Won": "358",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 5,
+      "player": "Matt Fitzpatrick",
+      "%": "40.00%",
+      "Points Won": "300",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 6,
+      "player": "Si Woo Kim",
+      "%": "35.00%",
+      "Points Won": "263",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 6,
+      "player": "Hideki Matsuyama",
+      "%": "35.00%",
+      "Points Won": "263",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 8,
+      "player": "Ludvig \u00c5berg",
+      "%": "30.00%",
+      "Points Won": "225",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 9,
+      "player": "Maverick McNealy",
+      "%": "25.00%",
+      "Points Won": "188",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 9,
+      "player": "Sahith Theegala",
+      "%": "25.00%",
+      "Points Won": "188",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "1"
+    },
+    {
+      "rank": 11,
+      "player": "Joel Dahmen",
+      "%": "21.33%",
+      "Points Won": "160",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 11,
+      "player": "Taylor Montgomery",
+      "%": "21.33%",
+      "Points Won": "160",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 13,
+      "player": "Christiaan Bezuidenhout",
+      "%": "18.00%",
+      "Points Won": "135",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 13,
+      "player": "Corey Conners",
+      "%": "18.00%",
+      "Points Won": "135",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 13,
+      "player": "Nate Lashley",
+      "%": "18.00%",
+      "Points Won": "135",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Doug Ghim",
+      "%": "15.33%",
+      "Points Won": "115",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Sam Ryder",
+      "%": "15.33%",
+      "Points Won": "115",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Sepp Straka",
+      "%": "15.33%",
+      "Points Won": "115",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 19,
+      "player": "Harris English",
+      "%": "12.00%",
+      "Points Won": "90",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 19,
+      "player": "Kurt Kitayama",
+      "%": "12.00%",
+      "Points Won": "90",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 19,
+      "player": "Shane Lowry",
+      "%": "12.00%",
+      "Points Won": "90",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 19,
+      "player": "Rory McIlroy",
+      "%": "12.00%",
+      "Points Won": "90",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 19,
+      "player": "Alex Noren",
+      "%": "12.00%",
+      "Points Won": "90",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 19,
+      "player": "Adam Schenk",
+      "%": "12.00%",
+      "Points Won": "90",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 19,
+      "player": "Dylan Wu",
+      "%": "12.00%",
+      "Points Won": "90",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 26,
+      "player": "Mackenzie Hughes",
+      "%": "8.00%",
+      "Points Won": "60",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 26,
+      "player": "Chris Kirk",
+      "%": "8.00%",
+      "Points Won": "60",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 26,
+      "player": "Matt NeSmith",
+      "%": "8.00%",
+      "Points Won": "60",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 26,
+      "player": "Matti Schmid",
+      "%": "8.00%",
+      "Points Won": "60",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 26,
+      "player": "Nick Taylor",
+      "%": "8.00%",
+      "Points Won": "60",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 31,
+      "player": "Mark Hubbard",
+      "%": "5.00%",
+      "Points Won": "38",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 31,
+      "player": "Sungjae Im",
+      "%": "5.00%",
+      "Points Won": "38",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 31,
+      "player": "Ben Martin",
+      "%": "5.00%",
+      "Points Won": "38",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 31,
+      "player": "Taylor Moore",
+      "%": "5.00%",
+      "Points Won": "38",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 35,
+      "player": "Jason Day",
+      "%": "2.95%",
+      "Points Won": "22",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 35,
+      "player": "Tommy Fleetwood",
+      "%": "2.95%",
+      "Points Won": "22",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 35,
+      "player": "Brice Garnett",
+      "%": "2.95%",
+      "Points Won": "22",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 35,
+      "player": "Lee Hodges",
+      "%": "2.95%",
+      "Points Won": "22",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 35,
+      "player": "Denny McCarthy",
+      "%": "2.95%",
+      "Points Won": "22",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 35,
+      "player": "Aaron Rai",
+      "%": "2.95%",
+      "Points Won": "22",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 35,
+      "player": "Jimmy Stanger",
+      "%": "2.95%",
+      "Points Won": "22",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 42,
+      "player": "David Lipsky",
+      "%": "2.40%",
+      "Points Won": "18",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 42,
+      "player": "Grayson Murray",
+      "%": "2.40%",
+      "Points Won": "18",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 42,
+      "player": "C.T. Pan",
+      "%": "2.40%",
+      "Points Won": "18",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 45,
+      "player": "Sam Burns",
+      "%": "1.88%",
+      "Points Won": "14",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 45,
+      "player": "Austin Eckroat",
+      "%": "1.88%",
+      "Points Won": "14",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 45,
+      "player": "Tony Finau",
+      "%": "1.88%",
+      "Points Won": "14",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 45,
+      "player": "Jake Knapp",
+      "%": "1.88%",
+      "Points Won": "14",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 45,
+      "player": "Ryan Moore",
+      "%": "1.88%",
+      "Points Won": "14",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 45,
+      "player": "Collin Morikawa",
+      "%": "1.88%",
+      "Points Won": "14",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 45,
+      "player": "J.T. Poston",
+      "%": "1.88%",
+      "Points Won": "14",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 45,
+      "player": "Adam Scott",
+      "%": "1.88%",
+      "Points Won": "14",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 53,
+      "player": "Andrew Putnam",
+      "%": "1.53%",
+      "Points Won": "12",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 54,
+      "player": "Zac Blair",
+      "%": "1.25%",
+      "Points Won": "9",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 54,
+      "player": "Emiliano Grillo",
+      "%": "1.25%",
+      "Points Won": "9",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 54,
+      "player": "Tom Hoge",
+      "%": "1.25%",
+      "Points Won": "9",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 54,
+      "player": "Martin Laird",
+      "%": "1.25%",
+      "Points Won": "9",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 54,
+      "player": "Min Woo Lee",
+      "%": "1.25%",
+      "Points Won": "9",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 54,
+      "player": "Francesco Molinari",
+      "%": "1.25%",
+      "Points Won": "9",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 54,
+      "player": "Sami Valimaki",
+      "%": "1.25%",
+      "Points Won": "9",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 54,
+      "player": "Cameron Young",
+      "%": "1.25%",
+      "Points Won": "9",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 62,
+      "player": "Thomas Detry",
+      "%": "1.02%",
+      "Points Won": "8",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 62,
+      "player": "Viktor Hovland",
+      "%": "1.02%",
+      "Points Won": "8",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 64,
+      "player": "Tyler Duncan",
+      "%": ".92%",
+      "Points Won": "7",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 64,
+      "player": "Max Homa",
+      "%": ".92%",
+      "Points Won": "7",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 64,
+      "player": "Seamus Power",
+      "%": ".92%",
+      "Points Won": "7",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 64,
+      "player": "J.J. Spaun",
+      "%": ".92%",
+      "Points Won": "7",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 68,
+      "player": "Patrick Cantlay",
+      "%": ".79%",
+      "Points Won": "6",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 68,
+      "player": "Rickie Fowler",
+      "%": ".79%",
+      "Points Won": "6",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 68,
+      "player": "Chan Kim",
+      "%": ".79%",
+      "Points Won": "6",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 68,
+      "player": "Peter Malnati",
+      "%": ".79%",
+      "Points Won": "6",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 72,
+      "player": "Gary Woodland",
+      "%": ".74%",
+      "Points Won": "6",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    },
+    {
+      "rank": 73,
+      "player": "Keith Mitchell",
+      "%": ".72%",
+      "Points Won": "5",
+      "Potential Pts": "750",
+      "# of Wins": "0",
+      "# of Top 10's": "0"
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "stat_id": "101",
+  "stat_title": "Driving Distance",
+  "category": "Off The Tee",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Scottie Scheffler",
+      "Avg": "305.9",
+      "Total Distance": "2,447",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 2,
+      "player": "Davis Thompson",
+      "Avg": "302.9",
+      "Total Distance": "2,423",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 3,
+      "player": "Cam Davis",
+      "Avg": "301.4",
+      "Total Distance": "2,411",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 4,
+      "player": "Wyndham Clark",
+      "Avg": "301.1",
+      "Total Distance": "2,409",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 5,
+      "player": "Keith Mitchell",
+      "Avg": "300.9",
+      "Total Distance": "2,407",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 6,
+      "player": "Cameron Young",
+      "Avg": "299.4",
+      "Total Distance": "2,395",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 7,
+      "player": "Garrick Higgo",
+      "Avg": "299.0",
+      "Total Distance": "2,392",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 8,
+      "player": "Shane Lowry",
+      "Avg": "298.6",
+      "Total Distance": "2,389",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 9,
+      "player": "Patrick Cantlay",
+      "Avg": "297.6",
+      "Total Distance": "2,381",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 10,
+      "player": "Adam Scott",
+      "Avg": "297.0",
+      "Total Distance": "2,376",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 11,
+      "player": "Min Woo Lee",
+      "Avg": "296.6",
+      "Total Distance": "2,373",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 12,
+      "player": "Will Gordon",
+      "Avg": "296.5",
+      "Total Distance": "2,372",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 13,
+      "player": "Alex Smalley",
+      "Avg": "296.0",
+      "Total Distance": "2,368",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 14,
+      "player": "Byeong Hun An",
+      "Avg": "295.9",
+      "Total Distance": "2,367",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 14,
+      "player": "Scott Stallings",
+      "Avg": "295.9",
+      "Total Distance": "2,367",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 14,
+      "player": "Gary Woodland",
+      "Avg": "295.9",
+      "Total Distance": "2,367",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 17,
+      "player": "Sahith Theegala",
+      "Avg": "295.4",
+      "Total Distance": "2,363",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 18,
+      "player": "Ryan Fox",
+      "Avg": "294.8",
+      "Total Distance": "2,358",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 19,
+      "player": "Taylor Pendrith",
+      "Avg": "294.0",
+      "Total Distance": "2,352",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 20,
+      "player": "Sam Burns",
+      "Avg": "293.8",
+      "Total Distance": "2,350",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 21,
+      "player": "Xander Schauffele",
+      "Avg": "293.4",
+      "Total Distance": "2,347",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 22,
+      "player": "Will Zalatoris",
+      "Avg": "293.0",
+      "Total Distance": "2,344",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 23,
+      "player": "Justin Thomas",
+      "Avg": "292.8",
+      "Total Distance": "2,342",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 24,
+      "player": "Jason Day",
+      "Avg": "292.5",
+      "Total Distance": "2,340",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 25,
+      "player": "Ben Griffin",
+      "Avg": "291.8",
+      "Total Distance": "2,334",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 25,
+      "player": "Jordan Spieth",
+      "Avg": "291.8",
+      "Total Distance": "2,334",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 27,
+      "player": "Kramer Hickok",
+      "Avg": "291.6",
+      "Total Distance": "2,333",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 28,
+      "player": "Tony Finau",
+      "Avg": "291.5",
+      "Total Distance": "2,332",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 29,
+      "player": "Eric Cole",
+      "Avg": "291.0",
+      "Total Distance": "2,328",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 29,
+      "player": "Tom Hoge",
+      "Avg": "291.0",
+      "Total Distance": "2,328",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 31,
+      "player": "Chesson Hadley",
+      "Avg": "290.9",
+      "Total Distance": "2,327",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 32,
+      "player": "Adam Hadwin",
+      "Avg": "290.6",
+      "Total Distance": "2,325",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 33,
+      "player": "Stephan Jaeger",
+      "Avg": "290.5",
+      "Total Distance": "2,324",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 34,
+      "player": "Justin Rose",
+      "Avg": "290.3",
+      "Total Distance": "2,322",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 35,
+      "player": "Aaron Rai",
+      "Avg": "289.5",
+      "Total Distance": "2,316",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 36,
+      "player": "Viktor Hovland",
+      "Avg": "289.1",
+      "Total Distance": "2,313",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 36,
+      "player": "Danny Willett",
+      "Avg": "289.1",
+      "Total Distance": "2,313",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 38,
+      "player": "Taylor Moore",
+      "Avg": "289.0",
+      "Total Distance": "2,312",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 39,
+      "player": "Matthias Schwab",
+      "Avg": "288.8",
+      "Total Distance": "2,310",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 40,
+      "player": "Tom Kim",
+      "Avg": "288.5",
+      "Total Distance": "2,308",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 40,
+      "player": "Hideki Matsuyama",
+      "Avg": "288.5",
+      "Total Distance": "2,308",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 42,
+      "player": "Brandon Wu",
+      "Avg": "288.3",
+      "Total Distance": "2,306",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 43,
+      "player": "Tyrrell Hatton",
+      "Avg": "288.1",
+      "Total Distance": "2,305",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 43,
+      "player": "Sepp Straka",
+      "Avg": "288.1",
+      "Total Distance": "2,305",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 45,
+      "player": "Russell Henley",
+      "Avg": "287.9",
+      "Total Distance": "2,303",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 46,
+      "player": "Max Homa",
+      "Avg": "287.8",
+      "Total Distance": "2,302",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 47,
+      "player": "Dylan Wu",
+      "Avg": "287.4",
+      "Total Distance": "2,299",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 48,
+      "player": "Rickie Fowler",
+      "Avg": "287.3",
+      "Total Distance": "2,298",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 49,
+      "player": "Patton Kizzire",
+      "Avg": "287.1",
+      "Total Distance": "2,297",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 50,
+      "player": "Justin Suh",
+      "Avg": "286.5",
+      "Total Distance": "2,292",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 51,
+      "player": "Collin Morikawa",
+      "Avg": "286.4",
+      "Total Distance": "2,291",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 52,
+      "player": "Maverick McNealy",
+      "Avg": "286.3",
+      "Total Distance": "2,290",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 53,
+      "player": "Austin Smotherman",
+      "Avg": "285.8",
+      "Total Distance": "2,286",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 54,
+      "player": "Denny McCarthy",
+      "Avg": "284.4",
+      "Total Distance": "2,275",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 55,
+      "player": "Sungjae Im",
+      "Avg": "284.0",
+      "Total Distance": "2,272",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 56,
+      "player": "Tyler Duncan",
+      "Avg": "283.9",
+      "Total Distance": "2,271",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 57,
+      "player": "Francesco Molinari",
+      "Avg": "283.3",
+      "Total Distance": "2,266",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 58,
+      "player": "Joel Dahmen",
+      "Avg": "282.8",
+      "Total Distance": "2,262",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 59,
+      "player": "Tommy Fleetwood",
+      "Avg": "282.6",
+      "Total Distance": "2,261",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 60,
+      "player": "Taylor Montgomery",
+      "Avg": "282.5",
+      "Total Distance": "2,260",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 60,
+      "player": "Sam Ryder",
+      "Avg": "282.5",
+      "Total Distance": "2,260",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 62,
+      "player": "Chad Ramey",
+      "Avg": "281.9",
+      "Total Distance": "2,255",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 63,
+      "player": "Brian Harman",
+      "Avg": "281.8",
+      "Total Distance": "2,254",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 63,
+      "player": "Ben Martin",
+      "Avg": "281.8",
+      "Total Distance": "2,254",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 65,
+      "player": "Mark Hubbard",
+      "Avg": "280.6",
+      "Total Distance": "2,245",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 66,
+      "player": "Lucas Glover",
+      "Avg": "278.8",
+      "Total Distance": "2,230",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 67,
+      "player": "Si Woo Kim",
+      "Avg": "277.8",
+      "Total Distance": "2,222",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 68,
+      "player": "Brendon Todd",
+      "Avg": "276.4",
+      "Total Distance": "2,211",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 69,
+      "player": "Adam Svensson",
+      "Avg": "276.3",
+      "Total Distance": "2,210",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 70,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "274.9",
+      "Total Distance": "2,199",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 71,
+      "player": "David Lingmerth",
+      "Avg": "274.4",
+      "Total Distance": "2,195",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 72,
+      "player": "Kevin Kisner",
+      "Avg": "273.9",
+      "Total Distance": "2,191",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 73,
+      "player": "Nate Lashley",
+      "Avg": "273.4",
+      "Total Distance": "2,187",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 74,
+      "player": "Aaron Baddeley",
+      "Avg": "269.5",
+      "Total Distance": "2,156",
+      "Total Drives": "8"
+    },
+    {
+      "rank": 75,
+      "player": "Jerry Kelly",
+      "Avg": "259.1",
+      "Total Distance": "2,073",
+      "Total Drives": "8"
+    }
+  ]
+}

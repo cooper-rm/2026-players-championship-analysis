@@ -1,0 +1,520 @@
+{
+  "stat_id": "293",
+  "stat_title": "Late Scoring Average",
+  "category": "Scoring",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Scottie Scheffler",
+      "Avg": "66.33",
+      "Total Strokes": "199",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 2,
+      "player": "Tyler Duncan",
+      "Avg": "67.00",
+      "Total Strokes": "67",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 3,
+      "player": "Joel Dahmen",
+      "Avg": "67.50",
+      "Total Strokes": "135",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 3,
+      "player": "Si Woo Kim",
+      "Avg": "67.50",
+      "Total Strokes": "135",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 5,
+      "player": "Matt Fitzpatrick",
+      "Avg": "67.67",
+      "Total Strokes": "203",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 6,
+      "player": "Wyndham Clark",
+      "Avg": "68.00",
+      "Total Strokes": "204",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 6,
+      "player": "Brian Harman",
+      "Avg": "68.00",
+      "Total Strokes": "204",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 6,
+      "player": "Max Homa",
+      "Avg": "68.00",
+      "Total Strokes": "68",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 6,
+      "player": "Hideki Matsuyama",
+      "Avg": "68.00",
+      "Total Strokes": "204",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 6,
+      "player": "Xander Schauffele",
+      "Avg": "68.00",
+      "Total Strokes": "204",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 11,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "69.00",
+      "Total Strokes": "207",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 11,
+      "player": "Viktor Hovland",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 11,
+      "player": "Maverick McNealy",
+      "Avg": "69.00",
+      "Total Strokes": "207",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 11,
+      "player": "Andrew Putnam",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 11,
+      "player": "Jimmy Stanger",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 11,
+      "player": "Dylan Wu",
+      "Avg": "69.00",
+      "Total Strokes": "69",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 17,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "69.33",
+      "Total Strokes": "208",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 17,
+      "player": "Doug Ghim",
+      "Avg": "69.33",
+      "Total Strokes": "208",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 17,
+      "player": "Taylor Montgomery",
+      "Avg": "69.33",
+      "Total Strokes": "208",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 17,
+      "player": "Sahith Theegala",
+      "Avg": "69.33",
+      "Total Strokes": "208",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 21,
+      "player": "Corey Conners",
+      "Avg": "69.67",
+      "Total Strokes": "209",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 21,
+      "player": "Nate Lashley",
+      "Avg": "69.67",
+      "Total Strokes": "209",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 21,
+      "player": "Taylor Moore",
+      "Avg": "69.67",
+      "Total Strokes": "209",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 21,
+      "player": "Sam Ryder",
+      "Avg": "69.67",
+      "Total Strokes": "209",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 25,
+      "player": "Zac Blair",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 25,
+      "player": "Patrick Cantlay",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 25,
+      "player": "Mark Hubbard",
+      "Avg": "70.00",
+      "Total Strokes": "140",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 25,
+      "player": "Mackenzie Hughes",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 25,
+      "player": "Chan Kim",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 25,
+      "player": "Min Woo Lee",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 25,
+      "player": "David Lipsky",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 25,
+      "player": "Alex Noren",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 25,
+      "player": "Sepp Straka",
+      "Avg": "70.00",
+      "Total Strokes": "210",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 25,
+      "player": "Gary Woodland",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 35,
+      "player": "Chris Kirk",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 36,
+      "player": "Matti Schmid",
+      "Avg": "70.67",
+      "Total Strokes": "212",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 37,
+      "player": "Lee Hodges",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 37,
+      "player": "Kurt Kitayama",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 37,
+      "player": "Shane Lowry",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 37,
+      "player": "Denny McCarthy",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 37,
+      "player": "Ryan Moore",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 37,
+      "player": "Matt NeSmith",
+      "Avg": "71.00",
+      "Total Strokes": "213",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 37,
+      "player": "Adam Schenk",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 37,
+      "player": "Sami Valimaki",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 45,
+      "player": "Rory McIlroy",
+      "Avg": "71.33",
+      "Total Strokes": "214",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 45,
+      "player": "C.T. Pan",
+      "Avg": "71.33",
+      "Total Strokes": "214",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 45,
+      "player": "Nick Taylor",
+      "Avg": "71.33",
+      "Total Strokes": "214",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 48,
+      "player": "Tony Finau",
+      "Avg": "71.50",
+      "Total Strokes": "143",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 48,
+      "player": "Aaron Rai",
+      "Avg": "71.50",
+      "Total Strokes": "143",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 48,
+      "player": "Cameron Young",
+      "Avg": "71.50",
+      "Total Strokes": "143",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 51,
+      "player": "Jason Day",
+      "Avg": "71.67",
+      "Total Strokes": "215",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 51,
+      "player": "Austin Eckroat",
+      "Avg": "71.67",
+      "Total Strokes": "215",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 51,
+      "player": "Collin Morikawa",
+      "Avg": "71.67",
+      "Total Strokes": "215",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 54,
+      "player": "Thomas Detry",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "Harris English",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 54,
+      "player": "Tommy Fleetwood",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "Brice Garnett",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 54,
+      "player": "Tom Hoge",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 54,
+      "player": "Sungjae Im",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "Jake Knapp",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 54,
+      "player": "Ben Martin",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "Francesco Molinari",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "J.T. Poston",
+      "Avg": "72.00",
+      "Total Strokes": "216",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 54,
+      "player": "Adam Scott",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "J.J. Spaun",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 66,
+      "player": "Emiliano Grillo",
+      "Avg": "72.33",
+      "Total Strokes": "217",
+      "Total Late Rounds": "3"
+    },
+    {
+      "rank": 67,
+      "player": "Keith Mitchell",
+      "Avg": "72.50",
+      "Total Strokes": "145",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 68,
+      "player": "Sam Burns",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 68,
+      "player": "Martin Laird",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 68,
+      "player": "Grayson Murray",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 71,
+      "player": "Rickie Fowler",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total Late Rounds": "1"
+    },
+    {
+      "rank": 72,
+      "player": "Seamus Power",
+      "Avg": "75.00",
+      "Total Strokes": "150",
+      "Total Late Rounds": "2"
+    },
+    {
+      "rank": 73,
+      "player": "Peter Malnati",
+      "Avg": "75.50",
+      "Total Strokes": "151",
+      "Total Late Rounds": "2"
+    }
+  ]
+}

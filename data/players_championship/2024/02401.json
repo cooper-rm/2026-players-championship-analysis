@@ -1,0 +1,520 @@
+{
+  "stat_id": "02401",
+  "stat_title": "Club Head Speed",
+  "category": "Off The Tee",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Tony Finau",
+      "Avg": "125.87",
+      "Total Club Head Speed": "2,013.98",
+      "Total Attempts": "16"
+    },
+    {
+      "rank": 2,
+      "player": "Min Woo Lee",
+      "Avg": "124.82",
+      "Total Club Head Speed": "2,121.89",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 3,
+      "player": "Gary Woodland",
+      "Avg": "124.14",
+      "Total Club Head Speed": "1,613.78",
+      "Total Attempts": "13"
+    },
+    {
+      "rank": 4,
+      "player": "Wyndham Clark",
+      "Avg": "124.03",
+      "Total Club Head Speed": "1,860.40",
+      "Total Attempts": "15"
+    },
+    {
+      "rank": 5,
+      "player": "Xander Schauffele",
+      "Avg": "123.98",
+      "Total Club Head Speed": "1,735.72",
+      "Total Attempts": "14"
+    },
+    {
+      "rank": 6,
+      "player": "Rory McIlroy",
+      "Avg": "123.95",
+      "Total Club Head Speed": "1,611.37",
+      "Total Attempts": "13"
+    },
+    {
+      "rank": 7,
+      "player": "Thomas Detry",
+      "Avg": "123.68",
+      "Total Club Head Speed": "1,484.18",
+      "Total Attempts": "12"
+    },
+    {
+      "rank": 8,
+      "player": "Adam Schenk",
+      "Avg": "122.23",
+      "Total Club Head Speed": "2,077.91",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 9,
+      "player": "Cameron Young",
+      "Avg": "121.42",
+      "Total Club Head Speed": "2,792.65",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 10,
+      "player": "Taylor Moore",
+      "Avg": "120.93",
+      "Total Club Head Speed": "1,572.06",
+      "Total Attempts": "13"
+    },
+    {
+      "rank": 11,
+      "player": "Max Homa",
+      "Avg": "120.59",
+      "Total Club Head Speed": "2,291.30",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 12,
+      "player": "Ludvig \u00c5berg",
+      "Avg": "120.46",
+      "Total Club Head Speed": "2,288.69",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 13,
+      "player": "Sam Burns",
+      "Avg": "120.28",
+      "Total Club Head Speed": "2,165.03",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 14,
+      "player": "Grayson Murray",
+      "Avg": "119.93",
+      "Total Club Head Speed": "2,398.53",
+      "Total Attempts": "20"
+    },
+    {
+      "rank": 15,
+      "player": "Jake Knapp",
+      "Avg": "119.84",
+      "Total Club Head Speed": "2,037.24",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 16,
+      "player": "Keith Mitchell",
+      "Avg": "119.73",
+      "Total Club Head Speed": "2,035.47",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 17,
+      "player": "Matt Fitzpatrick",
+      "Avg": "119.63",
+      "Total Club Head Speed": "2,751.48",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 18,
+      "player": "Taylor Montgomery",
+      "Avg": "119.50",
+      "Total Club Head Speed": "2,150.92",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 19,
+      "player": "Kurt Kitayama",
+      "Avg": "119.48",
+      "Total Club Head Speed": "2,031.15",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 20,
+      "player": "Sahith Theegala",
+      "Avg": "119.18",
+      "Total Club Head Speed": "2,502.71",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 21,
+      "player": "Maverick McNealy",
+      "Avg": "118.36",
+      "Total Club Head Speed": "1,538.74",
+      "Total Attempts": "13"
+    },
+    {
+      "rank": 22,
+      "player": "Harris English",
+      "Avg": "118.29",
+      "Total Club Head Speed": "1,537.79",
+      "Total Attempts": "13"
+    },
+    {
+      "rank": 23,
+      "player": "Jimmy Stanger",
+      "Avg": "118.13",
+      "Total Club Head Speed": "1,771.90",
+      "Total Attempts": "15"
+    },
+    {
+      "rank": 24,
+      "player": "Scottie Scheffler",
+      "Avg": "118.11",
+      "Total Club Head Speed": "1,889.72",
+      "Total Attempts": "16"
+    },
+    {
+      "rank": 25,
+      "player": "Adam Scott",
+      "Avg": "118.04",
+      "Total Club Head Speed": "2,360.87",
+      "Total Attempts": "20"
+    },
+    {
+      "rank": 26,
+      "player": "Corey Conners",
+      "Avg": "117.83",
+      "Total Club Head Speed": "2,710.12",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 27,
+      "player": "Matt NeSmith",
+      "Avg": "117.80",
+      "Total Club Head Speed": "2,120.47",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 28,
+      "player": "Alex Noren",
+      "Avg": "117.77",
+      "Total Club Head Speed": "1,413.23",
+      "Total Attempts": "12"
+    },
+    {
+      "rank": 29,
+      "player": "Matti Schmid",
+      "Avg": "117.67",
+      "Total Club Head Speed": "2,235.71",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 30,
+      "player": "Patrick Cantlay",
+      "Avg": "117.48",
+      "Total Club Head Speed": "1,997.19",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 31,
+      "player": "Jason Day",
+      "Avg": "117.21",
+      "Total Club Head Speed": "1,640.98",
+      "Total Attempts": "14"
+    },
+    {
+      "rank": 32,
+      "player": "Peter Malnati",
+      "Avg": "117.10",
+      "Total Club Head Speed": "2,576.20",
+      "Total Attempts": "22"
+    },
+    {
+      "rank": 33,
+      "player": "Ben Martin",
+      "Avg": "116.86",
+      "Total Club Head Speed": "1,986.67",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 34,
+      "player": "Sam Ryder",
+      "Avg": "116.46",
+      "Total Club Head Speed": "2,096.22",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 35,
+      "player": "Hideki Matsuyama",
+      "Avg": "116.11",
+      "Total Club Head Speed": "2,206.14",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 36,
+      "player": "Mark Hubbard",
+      "Avg": "116.08",
+      "Total Club Head Speed": "1,625.15",
+      "Total Attempts": "14"
+    },
+    {
+      "rank": 37,
+      "player": "Chris Kirk",
+      "Avg": "115.99",
+      "Total Club Head Speed": "2,203.74",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 38,
+      "player": "Tommy Fleetwood",
+      "Avg": "115.70",
+      "Total Club Head Speed": "2,198.21",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 39,
+      "player": "Dylan Wu",
+      "Avg": "115.69",
+      "Total Club Head Speed": "2,082.48",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 40,
+      "player": "Viktor Hovland",
+      "Avg": "115.68",
+      "Total Club Head Speed": "1,966.59",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 41,
+      "player": "Aaron Rai",
+      "Avg": "115.56",
+      "Total Club Head Speed": "2,657.92",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 42,
+      "player": "Shane Lowry",
+      "Avg": "115.47",
+      "Total Club Head Speed": "2,309.49",
+      "Total Attempts": "20"
+    },
+    {
+      "rank": 43,
+      "player": "Lee Hodges",
+      "Avg": "115.44",
+      "Total Club Head Speed": "1,962.48",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 44,
+      "player": "Mackenzie Hughes",
+      "Avg": "115.38",
+      "Total Club Head Speed": "2,769.22",
+      "Total Attempts": "24"
+    },
+    {
+      "rank": 45,
+      "player": "J.J. Spaun",
+      "Avg": "115.30",
+      "Total Club Head Speed": "1,960.10",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 46,
+      "player": "Seamus Power",
+      "Avg": "115.14",
+      "Total Club Head Speed": "2,072.58",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 47,
+      "player": "Tom Hoge",
+      "Avg": "115.00",
+      "Total Club Head Speed": "2,070.07",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 48,
+      "player": "Rickie Fowler",
+      "Avg": "114.96",
+      "Total Club Head Speed": "1,954.35",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 49,
+      "player": "Austin Eckroat",
+      "Avg": "114.86",
+      "Total Club Head Speed": "1,952.54",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 49,
+      "player": "Sami Valimaki",
+      "Avg": "114.86",
+      "Total Club Head Speed": "2,641.73",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 51,
+      "player": "Sungjae Im",
+      "Avg": "114.76",
+      "Total Club Head Speed": "2,639.39",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 52,
+      "player": "Si Woo Kim",
+      "Avg": "114.71",
+      "Total Club Head Speed": "2,179.41",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 53,
+      "player": "Collin Morikawa",
+      "Avg": "113.69",
+      "Total Club Head Speed": "1,705.30",
+      "Total Attempts": "15"
+    },
+    {
+      "rank": 54,
+      "player": "Nick Taylor",
+      "Avg": "113.41",
+      "Total Club Head Speed": "2,608.48",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 55,
+      "player": "Emiliano Grillo",
+      "Avg": "113.39",
+      "Total Club Head Speed": "2,154.45",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 56,
+      "player": "J.T. Poston",
+      "Avg": "113.16",
+      "Total Club Head Speed": "2,263.12",
+      "Total Attempts": "20"
+    },
+    {
+      "rank": 57,
+      "player": "Martin Laird",
+      "Avg": "113.08",
+      "Total Club Head Speed": "1,922.34",
+      "Total Attempts": "17"
+    },
+    {
+      "rank": 58,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "112.97",
+      "Total Club Head Speed": "2,146.44",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 59,
+      "player": "Nate Lashley",
+      "Avg": "112.87",
+      "Total Club Head Speed": "2,595.92",
+      "Total Attempts": "23"
+    },
+    {
+      "rank": 60,
+      "player": "Tyler Duncan",
+      "Avg": "112.83",
+      "Total Club Head Speed": "2,030.88",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 61,
+      "player": "Denny McCarthy",
+      "Avg": "112.44",
+      "Total Club Head Speed": "2,473.69",
+      "Total Attempts": "22"
+    },
+    {
+      "rank": 62,
+      "player": "Sepp Straka",
+      "Avg": "112.07",
+      "Total Club Head Speed": "2,353.44",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 63,
+      "player": "Chan Kim",
+      "Avg": "111.99",
+      "Total Club Head Speed": "2,127.90",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 64,
+      "player": "David Lipsky",
+      "Avg": "111.90",
+      "Total Club Head Speed": "2,126.16",
+      "Total Attempts": "19"
+    },
+    {
+      "rank": 65,
+      "player": "Doug Ghim",
+      "Avg": "111.61",
+      "Total Club Head Speed": "2,008.89",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 66,
+      "player": "Joel Dahmen",
+      "Avg": "111.59",
+      "Total Club Head Speed": "2,008.71",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 67,
+      "player": "Zac Blair",
+      "Avg": "111.58",
+      "Total Club Head Speed": "2,343.19",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 68,
+      "player": "Andrew Putnam",
+      "Avg": "111.41",
+      "Total Club Head Speed": "2,339.56",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 69,
+      "player": "Francesco Molinari",
+      "Avg": "111.31",
+      "Total Club Head Speed": "2,337.50",
+      "Total Attempts": "21"
+    },
+    {
+      "rank": 70,
+      "player": "C.T. Pan",
+      "Avg": "111.27",
+      "Total Club Head Speed": "2,225.42",
+      "Total Attempts": "20"
+    },
+    {
+      "rank": 71,
+      "player": "Brian Harman",
+      "Avg": "111.17",
+      "Total Club Head Speed": "2,668.16",
+      "Total Attempts": "24"
+    },
+    {
+      "rank": 72,
+      "player": "Brice Garnett",
+      "Avg": "110.44",
+      "Total Club Head Speed": "1,987.98",
+      "Total Attempts": "18"
+    },
+    {
+      "rank": 73,
+      "player": "Ryan Moore",
+      "Avg": "109.02",
+      "Total Club Head Speed": "2,507.46",
+      "Total Attempts": "23"
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "stat_id": "01008",
+  "stat_title": "Fairway Bunker Tendency",
+  "category": "Off The Tee",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Patrick Cantlay",
+      "%": ".0",
+      "Total Fairway Bunkers": "0",
+      "Possible Fwys": "0",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 1,
+      "player": "William Mouw",
+      "%": ".0",
+      "Total Fairway Bunkers": "0",
+      "Possible Fwys": "0",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 3,
+      "player": "Scottie Scheffler",
+      "%": "1.8",
+      "Total Fairway Bunkers": "1",
+      "Possible Fwys": "4",
+      "Relative to par": "+2.000"
+    },
+    {
+      "rank": 4,
+      "player": "Sam Burns",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "+0.500"
+    },
+    {
+      "rank": 4,
+      "player": "Corey Conners",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 4,
+      "player": "Steven Fisk",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "9",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 4,
+      "player": "Tommy Fleetwood",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "+0.500"
+    },
+    {
+      "rank": 4,
+      "player": "Chris Gotterup",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "+1.000"
+    },
+    {
+      "rank": 4,
+      "player": "Lee Hodges",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "+1.500"
+    },
+    {
+      "rank": 4,
+      "player": "Taylor Pendrith",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "-0.500"
+    },
+    {
+      "rank": 4,
+      "player": "J.T. Poston",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 4,
+      "player": "Alex Smalley",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "+1.000"
+    },
+    {
+      "rank": 4,
+      "player": "Michael Thorbjornsen",
+      "%": "3.6",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "+0.500"
+    },
+    {
+      "rank": 14,
+      "player": "Wyndham Clark",
+      "%": "3.7",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "9",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 14,
+      "player": "Stephan Jaeger",
+      "%": "3.7",
+      "Total Fairway Bunkers": "2",
+      "Possible Fwys": "8",
+      "Relative to par": "+1.000"
+    },
+    {
+      "rank": 16,
+      "player": "Ludvig \u00c5berg",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "-0.333"
+    },
+    {
+      "rank": 16,
+      "player": "Zach Bauchou",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "+0.667"
+    },
+    {
+      "rank": 16,
+      "player": "Michael Brennan",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "+0.333"
+    },
+    {
+      "rank": 16,
+      "player": "Matt Fitzpatrick",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Brian Harman",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "+0.333"
+    },
+    {
+      "rank": 16,
+      "player": "Si Woo Kim",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "+0.333"
+    },
+    {
+      "rank": 16,
+      "player": "Brooks Koepka",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "-0.333"
+    },
+    {
+      "rank": 16,
+      "player": "Taylor Moore",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "+0.333"
+    },
+    {
+      "rank": 16,
+      "player": "J.J. Spaun",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 16,
+      "player": "Sam Stevens",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "+0.667"
+    },
+    {
+      "rank": 16,
+      "player": "Sepp Straka",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "12",
+      "Relative to par": "-0.333"
+    },
+    {
+      "rank": 16,
+      "player": "Sudarshan Yellamaraju",
+      "%": "5.4",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "13",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 28,
+      "player": "Seamus Power",
+      "%": "5.5",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "13",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 29,
+      "player": "Keegan Bradley",
+      "%": "5.6",
+      "Total Fairway Bunkers": "3",
+      "Possible Fwys": "13",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 30,
+      "player": "Jacob Bridgeman",
+      "%": "7.1",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "17",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 30,
+      "player": "Ryan Gerard",
+      "%": "7.1",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "16",
+      "Relative to par": "-0.250"
+    },
+    {
+      "rank": 30,
+      "player": "Takumi Kanaya",
+      "%": "7.1",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "16",
+      "Relative to par": "+1.000"
+    },
+    {
+      "rank": 30,
+      "player": "Robert MacIntyre",
+      "%": "7.1",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "16",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 30,
+      "player": "Kristoffer Reitan",
+      "%": "7.1",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "16",
+      "Relative to par": "+0.250"
+    },
+    {
+      "rank": 30,
+      "player": "Austin Smotherman",
+      "%": "7.1",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "17",
+      "Relative to par": "-0.250"
+    },
+    {
+      "rank": 30,
+      "player": "Nick Taylor",
+      "%": "7.1",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "16",
+      "Relative to par": "+0.250"
+    },
+    {
+      "rank": 30,
+      "player": "Cameron Young",
+      "%": "7.1",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "17",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 38,
+      "player": "Alex Noren",
+      "%": "7.3",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "16",
+      "Relative to par": "-0.250"
+    },
+    {
+      "rank": 38,
+      "player": "Xander Schauffele",
+      "%": "7.3",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "17",
+      "Relative to par": "+0.250"
+    },
+    {
+      "rank": 38,
+      "player": "Sahith Theegala",
+      "%": "7.3",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "17",
+      "Relative to par": "+0.250"
+    },
+    {
+      "rank": 38,
+      "player": "Justin Thomas",
+      "%": "7.3",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "17",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 42,
+      "player": "Nicolai H\u00f8jgaard",
+      "%": "7.4",
+      "Total Fairway Bunkers": "4",
+      "Possible Fwys": "16",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 43,
+      "player": "Bud Cauley",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "21",
+      "Relative to par": "+0.400"
+    },
+    {
+      "rank": 43,
+      "player": "Jason Day",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "20",
+      "Relative to par": "-0.200"
+    },
+    {
+      "rank": 43,
+      "player": "Russell Henley",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "20",
+      "Relative to par": "+0.600"
+    },
+    {
+      "rank": 43,
+      "player": "Rico Hoey",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "20",
+      "Relative to par": "+0.600"
+    },
+    {
+      "rank": 43,
+      "player": "Min Woo Lee",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "20",
+      "Relative to par": "+1.000"
+    },
+    {
+      "rank": 43,
+      "player": "Maverick McNealy",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "20",
+      "Relative to par": "+0.200"
+    },
+    {
+      "rank": 43,
+      "player": "Andrew Putnam",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "20",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 43,
+      "player": "Patrick Rodgers",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "21",
+      "Relative to par": "+0.200"
+    },
+    {
+      "rank": 43,
+      "player": "Justin Rose",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "20",
+      "Relative to par": "+0.200"
+    },
+    {
+      "rank": 43,
+      "player": "Matti Schmid",
+      "%": "8.9",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "20",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 53,
+      "player": "Nico Echavarria",
+      "%": "9.1",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "22",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 53,
+      "player": "Joe Highsmith",
+      "%": "9.1",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "21",
+      "Relative to par": "+0.200"
+    },
+    {
+      "rank": 53,
+      "player": "Rory McIlroy",
+      "%": "9.1",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "22",
+      "Relative to par": "-0.600"
+    },
+    {
+      "rank": 53,
+      "player": "Adam Scott",
+      "%": "9.1",
+      "Total Fairway Bunkers": "5",
+      "Possible Fwys": "21",
+      "Relative to par": "+0.400"
+    },
+    {
+      "rank": 57,
+      "player": "Akshay Bhatia",
+      "%": "10.7",
+      "Total Fairway Bunkers": "6",
+      "Possible Fwys": "24",
+      "Relative to par": "+0.167"
+    },
+    {
+      "rank": 57,
+      "player": "Eric Cole",
+      "%": "10.7",
+      "Total Fairway Bunkers": "6",
+      "Possible Fwys": "24",
+      "Relative to par": "+0.333"
+    },
+    {
+      "rank": 59,
+      "player": "Daniel Berger",
+      "%": "12.5",
+      "Total Fairway Bunkers": "7",
+      "Possible Fwys": "30",
+      "Relative to par": "+0.143"
+    },
+    {
+      "rank": 59,
+      "player": "Ricky Castillo",
+      "%": "12.5",
+      "Total Fairway Bunkers": "7",
+      "Possible Fwys": "30",
+      "Relative to par": "-0.286"
+    },
+    {
+      "rank": 59,
+      "player": "Max McGreevy",
+      "%": "12.5",
+      "Total Fairway Bunkers": "7",
+      "Possible Fwys": "28",
+      "Relative to par": "+0.857"
+    },
+    {
+      "rank": 59,
+      "player": "Kevin Roy",
+      "%": "12.5",
+      "Total Fairway Bunkers": "7",
+      "Possible Fwys": "29",
+      "Relative to par": "+0.286"
+    },
+    {
+      "rank": 63,
+      "player": "Hideki Matsuyama",
+      "%": "12.7",
+      "Total Fairway Bunkers": "7",
+      "Possible Fwys": "29",
+      "Relative to par": "+0.143"
+    },
+    {
+      "rank": 63,
+      "player": "Danny Walker",
+      "%": "12.7",
+      "Total Fairway Bunkers": "7",
+      "Possible Fwys": "28",
+      "Relative to par": "+0.429"
+    },
+    {
+      "rank": 65,
+      "player": "Tony Finau",
+      "%": "14.3",
+      "Total Fairway Bunkers": "8",
+      "Possible Fwys": "35",
+      "Relative to par": "+0.125"
+    },
+    {
+      "rank": 65,
+      "player": "Rickie Fowler",
+      "%": "14.3",
+      "Total Fairway Bunkers": "8",
+      "Possible Fwys": "34",
+      "Relative to par": "+0.375"
+    },
+    {
+      "rank": 65,
+      "player": "Max Homa",
+      "%": "14.3",
+      "Total Fairway Bunkers": "8",
+      "Possible Fwys": "32",
+      "Relative to par": "+0.250"
+    },
+    {
+      "rank": 65,
+      "player": "Viktor Hovland",
+      "%": "14.3",
+      "Total Fairway Bunkers": "8",
+      "Possible Fwys": "32",
+      "Relative to par": "+0.125"
+    },
+    {
+      "rank": 65,
+      "player": "Chris Kirk",
+      "%": "14.3",
+      "Total Fairway Bunkers": "8",
+      "Possible Fwys": "33",
+      "Relative to par": "+0.625"
+    },
+    {
+      "rank": 65,
+      "player": "Jordan Spieth",
+      "%": "14.3",
+      "Total Fairway Bunkers": "8",
+      "Possible Fwys": "32",
+      "Relative to par": "-0.125"
+    },
+    {
+      "rank": 71,
+      "player": "Chad Ramey",
+      "%": "16.1",
+      "Total Fairway Bunkers": "9",
+      "Possible Fwys": "38",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 72,
+      "player": "Keith Mitchell",
+      "%": "17.9",
+      "Total Fairway Bunkers": "10",
+      "Possible Fwys": "41",
+      "Relative to par": "+0.300"
+    },
+    {
+      "rank": 73,
+      "player": "Ryo Hisatsune",
+      "%": "19.6",
+      "Total Fairway Bunkers": "11",
+      "Possible Fwys": "45",
+      "Relative to par": "+0.182"
+    }
+  ]
+}

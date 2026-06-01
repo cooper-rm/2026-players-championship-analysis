@@ -1,0 +1,401 @@
+{
+  "stat_id": "400",
+  "stat_title": "3-Putts per Round",
+  "category": "Putting",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Nate Lashley",
+      "Avg": "1.50",
+      "Total 3 Putts": "6",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 2,
+      "player": "Harris English",
+      "Avg": "1.25",
+      "Total 3 Putts": "5",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 2,
+      "player": "Gary Woodland",
+      "Avg": "1.25",
+      "Total 3 Putts": "5",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 4,
+      "player": "Chan Kim",
+      "Avg": "1.00",
+      "Total 3 Putts": "4",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 4,
+      "player": "Martin Laird",
+      "Avg": "1.00",
+      "Total 3 Putts": "4",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 4,
+      "player": "Sam Ryder",
+      "Avg": "1.00",
+      "Total 3 Putts": "4",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 4,
+      "player": "Sami Valimaki",
+      "Avg": "1.00",
+      "Total 3 Putts": "4",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Doug Ghim",
+      "Avg": ".75",
+      "Total 3 Putts": "3",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Tom Hoge",
+      "Avg": ".75",
+      "Total 3 Putts": "3",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Sungjae Im",
+      "Avg": ".75",
+      "Total 3 Putts": "3",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Peter Malnati",
+      "Avg": ".75",
+      "Total 3 Putts": "3",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Keith Mitchell",
+      "Avg": ".75",
+      "Total 3 Putts": "3",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Grayson Murray",
+      "Avg": ".75",
+      "Total 3 Putts": "3",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "J.T. Poston",
+      "Avg": ".75",
+      "Total 3 Putts": "3",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 8,
+      "player": "Sepp Straka",
+      "Avg": ".75",
+      "Total 3 Putts": "3",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Sam Burns",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Corey Conners",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Tyler Duncan",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Austin Eckroat",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Tommy Fleetwood",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Rickie Fowler",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Max Homa",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Viktor Hovland",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Mark Hubbard",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Mackenzie Hughes",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Chris Kirk",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Shane Lowry",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Hideki Matsuyama",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Francesco Molinari",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Ryan Moore",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Taylor Moore",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Collin Morikawa",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "C.T. Pan",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Seamus Power",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Aaron Rai",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Matti Schmid",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Cameron Young",
+      "Avg": ".50",
+      "Total 3 Putts": "2",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Ludvig \u00c5berg",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Zac Blair",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Joel Dahmen",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Tony Finau",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Matt Fitzpatrick",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Emiliano Grillo",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Brian Harman",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Jake Knapp",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "David Lipsky",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Ben Martin",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Rory McIlroy",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Taylor Montgomery",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Alex Noren",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Andrew Putnam",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "J.J. Spaun",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Jimmy Stanger",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Nick Taylor",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    },
+    {
+      "rank": 38,
+      "player": "Dylan Wu",
+      "Avg": ".25",
+      "Total 3 Putts": "1",
+      "Total Rounds": "4"
+    }
+  ]
+}

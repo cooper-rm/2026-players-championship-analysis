@@ -1,0 +1,534 @@
+{
+  "stat_id": "02431",
+  "stat_title": "Average Distance after Going for it Shot",
+  "category": "Approach the Green",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Patrick Cantlay",
+      "Avg": "14.5",
+      "Total Dist after GFG Shot": "7,835.000",
+      "Total GFG Shots": "15"
+    },
+    {
+      "rank": 2,
+      "player": "Adam Scott",
+      "Avg": "16.2",
+      "Total Dist after GFG Shot": "7,583.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 3,
+      "player": "Shane Lowry",
+      "Avg": "17.1",
+      "Total Dist after GFG Shot": "8,007.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 4,
+      "player": "Tom Hoge",
+      "Avg": "17.4",
+      "Total Dist after GFG Shot": "8,161.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 5,
+      "player": "Brandon Wu",
+      "Avg": "17.6",
+      "Total Dist after GFG Shot": "7,606.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 6,
+      "player": "Taylor Moore",
+      "Avg": "17.8",
+      "Total Dist after GFG Shot": "8,953.000",
+      "Total GFG Shots": "14"
+    },
+    {
+      "rank": 7,
+      "player": "Gary Woodland",
+      "Avg": "18.1",
+      "Total Dist after GFG Shot": "10,434.000",
+      "Total GFG Shots": "16"
+    },
+    {
+      "rank": 8,
+      "player": "Tommy Fleetwood",
+      "Avg": "18.2",
+      "Total Dist after GFG Shot": "7,843.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 9,
+      "player": "Tony Finau",
+      "Avg": "18.3",
+      "Total Dist after GFG Shot": "6,599.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 9,
+      "player": "Justin Rose",
+      "Avg": "18.3",
+      "Total Dist after GFG Shot": "7,260.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 11,
+      "player": "Viktor Hovland",
+      "Avg": "18.9",
+      "Total Dist after GFG Shot": "9,519.000",
+      "Total GFG Shots": "14"
+    },
+    {
+      "rank": 12,
+      "player": "Chesson Hadley",
+      "Avg": "19.3",
+      "Total Dist after GFG Shot": "11,126.000",
+      "Total GFG Shots": "16"
+    },
+    {
+      "rank": 12,
+      "player": "Dylan Wu",
+      "Avg": "19.3",
+      "Total Dist after GFG Shot": "8,349.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 12,
+      "player": "Cameron Young",
+      "Avg": "19.3",
+      "Total Dist after GFG Shot": "9,015.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 15,
+      "player": "Danny Willett",
+      "Avg": "19.4",
+      "Total Dist after GFG Shot": "6,987.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 16,
+      "player": "Will Zalatoris",
+      "Avg": "19.5",
+      "Total Dist after GFG Shot": "7,034.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 17,
+      "player": "Mark Hubbard",
+      "Avg": "19.9",
+      "Total Dist after GFG Shot": "8,591.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 17,
+      "player": "Hideki Matsuyama",
+      "Avg": "19.9",
+      "Total Dist after GFG Shot": "12,189.000",
+      "Total GFG Shots": "17"
+    },
+    {
+      "rank": 19,
+      "player": "Russell Henley",
+      "Avg": "20.7",
+      "Total Dist after GFG Shot": "7,463.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 20,
+      "player": "Brian Harman",
+      "Avg": "20.9",
+      "Total Dist after GFG Shot": "7,526.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 21,
+      "player": "Kevin Kisner",
+      "Avg": "21.0",
+      "Total Dist after GFG Shot": "5,299.000",
+      "Total GFG Shots": "7"
+    },
+    {
+      "rank": 22,
+      "player": "Tyrrell Hatton",
+      "Avg": "21.6",
+      "Total Dist after GFG Shot": "9,345.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 23,
+      "player": "Sungjae Im",
+      "Avg": "21.7",
+      "Total Dist after GFG Shot": "11,719.000",
+      "Total GFG Shots": "15"
+    },
+    {
+      "rank": 24,
+      "player": "Taylor Pendrith",
+      "Avg": "22.0",
+      "Total Dist after GFG Shot": "8,727.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 25,
+      "player": "Scottie Scheffler",
+      "Avg": "22.3",
+      "Total Dist after GFG Shot": "13,660.000",
+      "Total GFG Shots": "17"
+    },
+    {
+      "rank": 26,
+      "player": "Min Woo Lee",
+      "Avg": "22.4",
+      "Total Dist after GFG Shot": "9,698.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 27,
+      "player": "Austin Smotherman",
+      "Avg": "22.5",
+      "Total Dist after GFG Shot": "9,708.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 28,
+      "player": "Nate Lashley",
+      "Avg": "22.7",
+      "Total Dist after GFG Shot": "6,525.000",
+      "Total GFG Shots": "8"
+    },
+    {
+      "rank": 29,
+      "player": "Wyndham Clark",
+      "Avg": "22.9",
+      "Total Dist after GFG Shot": "12,377.000",
+      "Total GFG Shots": "15"
+    },
+    {
+      "rank": 30,
+      "player": "Aaron Baddeley",
+      "Avg": "23.1",
+      "Total Dist after GFG Shot": "4,166.000",
+      "Total GFG Shots": "5"
+    },
+    {
+      "rank": 31,
+      "player": "Xander Schauffele",
+      "Avg": "23.4",
+      "Total Dist after GFG Shot": "10,932.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 32,
+      "player": "Sam Burns",
+      "Avg": "23.7",
+      "Total Dist after GFG Shot": "11,949.000",
+      "Total GFG Shots": "14"
+    },
+    {
+      "rank": 33,
+      "player": "Adam Svensson",
+      "Avg": "23.9",
+      "Total Dist after GFG Shot": "9,452.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 34,
+      "player": "Stephan Jaeger",
+      "Avg": "24.4",
+      "Total Dist after GFG Shot": "8,792.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 34,
+      "player": "Tom Kim",
+      "Avg": "24.4",
+      "Total Dist after GFG Shot": "14,080.000",
+      "Total GFG Shots": "16"
+    },
+    {
+      "rank": 36,
+      "player": "Max Homa",
+      "Avg": "24.5",
+      "Total Dist after GFG Shot": "11,457.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 37,
+      "player": "David Lingmerth",
+      "Avg": "24.8",
+      "Total Dist after GFG Shot": "10,714.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 38,
+      "player": "Will Gordon",
+      "Avg": "25.1",
+      "Total Dist after GFG Shot": "11,731.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 39,
+      "player": "Ryan Fox",
+      "Avg": "25.2",
+      "Total Dist after GFG Shot": "9,982.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 40,
+      "player": "Keith Mitchell",
+      "Avg": "25.3",
+      "Total Dist after GFG Shot": "12,743.000",
+      "Total GFG Shots": "14"
+    },
+    {
+      "rank": 41,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "25.5",
+      "Total Dist after GFG Shot": "10,084.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 42,
+      "player": "Adam Hadwin",
+      "Avg": "25.6",
+      "Total Dist after GFG Shot": "12,888.000",
+      "Total GFG Shots": "14"
+    },
+    {
+      "rank": 42,
+      "player": "Sepp Straka",
+      "Avg": "25.6",
+      "Total Dist after GFG Shot": "10,120.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 44,
+      "player": "Byeong Hun An",
+      "Avg": "25.8",
+      "Total Dist after GFG Shot": "9,303.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 44,
+      "player": "Si Woo Kim",
+      "Avg": "25.8",
+      "Total Dist after GFG Shot": "10,198.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 46,
+      "player": "Aaron Rai",
+      "Avg": "25.9",
+      "Total Dist after GFG Shot": "12,099.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 47,
+      "player": "Collin Morikawa",
+      "Avg": "26.6",
+      "Total Dist after GFG Shot": "11,481.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 48,
+      "player": "Garrick Higgo",
+      "Avg": "28.3",
+      "Total Dist after GFG Shot": "16,315.000",
+      "Total GFG Shots": "16"
+    },
+    {
+      "rank": 49,
+      "player": "Sam Ryder",
+      "Avg": "28.7",
+      "Total Dist after GFG Shot": "12,390.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 50,
+      "player": "Jordan Spieth",
+      "Avg": "28.8",
+      "Total Dist after GFG Shot": "13,487.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 51,
+      "player": "Taylor Montgomery",
+      "Avg": "29.1",
+      "Total Dist after GFG Shot": "11,529.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 52,
+      "player": "Justin Suh",
+      "Avg": "29.3",
+      "Total Dist after GFG Shot": "10,551.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 52,
+      "player": "Justin Thomas",
+      "Avg": "29.3",
+      "Total Dist after GFG Shot": "14,787.000",
+      "Total GFG Shots": "14"
+    },
+    {
+      "rank": 54,
+      "player": "Francesco Molinari",
+      "Avg": "29.4",
+      "Total Dist after GFG Shot": "11,649.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 55,
+      "player": "Eric Cole",
+      "Avg": "29.5",
+      "Total Dist after GFG Shot": "13,802.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 56,
+      "player": "Joel Dahmen",
+      "Avg": "29.7",
+      "Total Dist after GFG Shot": "10,678.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 57,
+      "player": "Rickie Fowler",
+      "Avg": "29.9",
+      "Total Dist after GFG Shot": "12,899.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 57,
+      "player": "Lucas Glover",
+      "Avg": "29.9",
+      "Total Dist after GFG Shot": "9,672.000",
+      "Total GFG Shots": "9"
+    },
+    {
+      "rank": 57,
+      "player": "Davis Thompson",
+      "Avg": "29.9",
+      "Total Dist after GFG Shot": "16,146.000",
+      "Total GFG Shots": "15"
+    },
+    {
+      "rank": 60,
+      "player": "Cam Davis",
+      "Avg": "30.8",
+      "Total Dist after GFG Shot": "9,995.000",
+      "Total GFG Shots": "9"
+    },
+    {
+      "rank": 61,
+      "player": "Denny McCarthy",
+      "Avg": "31.0",
+      "Total Dist after GFG Shot": "13,383.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 62,
+      "player": "Alex Smalley",
+      "Avg": "32.3",
+      "Total Dist after GFG Shot": "15,095.000",
+      "Total GFG Shots": "13"
+    },
+    {
+      "rank": 63,
+      "player": "Brendon Todd",
+      "Avg": "32.7",
+      "Total Dist after GFG Shot": "14,140.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 64,
+      "player": "Matthias Schwab",
+      "Avg": "33.0",
+      "Total Dist after GFG Shot": "13,084.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 65,
+      "player": "Kramer Hickok",
+      "Avg": "33.1",
+      "Total Dist after GFG Shot": "13,119.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 65,
+      "player": "Jerry Kelly",
+      "Avg": "33.1",
+      "Total Dist after GFG Shot": "4,768.000",
+      "Total GFG Shots": "4"
+    },
+    {
+      "rank": 67,
+      "player": "Sahith Theegala",
+      "Avg": "34.6",
+      "Total Dist after GFG Shot": "14,964.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 68,
+      "player": "Ben Martin",
+      "Avg": "34.8",
+      "Total Dist after GFG Shot": "15,029.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 69,
+      "player": "Patton Kizzire",
+      "Avg": "37.8",
+      "Total Dist after GFG Shot": "12,239.000",
+      "Total GFG Shots": "9"
+    },
+    {
+      "rank": 70,
+      "player": "Jason Day",
+      "Avg": "38.1",
+      "Total Dist after GFG Shot": "15,098.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 71,
+      "player": "Ben Griffin",
+      "Avg": "38.3",
+      "Total Dist after GFG Shot": "16,531.000",
+      "Total GFG Shots": "12"
+    },
+    {
+      "rank": 72,
+      "player": "Maverick McNealy",
+      "Avg": "38.8",
+      "Total Dist after GFG Shot": "15,375.000",
+      "Total GFG Shots": "11"
+    },
+    {
+      "rank": 73,
+      "player": "Tyler Duncan",
+      "Avg": "38.9",
+      "Total Dist after GFG Shot": "19,594.000",
+      "Total GFG Shots": "14"
+    },
+    {
+      "rank": 74,
+      "player": "Chad Ramey",
+      "Avg": "40.7",
+      "Total Dist after GFG Shot": "14,646.000",
+      "Total GFG Shots": "10"
+    },
+    {
+      "rank": 75,
+      "player": "Scott Stallings",
+      "Avg": "56.8",
+      "Total Dist after GFG Shot": "16,372.000",
+      "Total GFG Shots": "8"
+    }
+  ]
+}

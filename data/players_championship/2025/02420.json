@@ -1,0 +1,513 @@
+{
+  "stat_id": "02420",
+  "stat_title": "Distance from Edge of Fairway",
+  "category": "Off The Tee",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Aaron Rai",
+      "Avg": "11' 5\"",
+      "Total Distance (Feet)": "125.833",
+      "Total Strokes": "11"
+    },
+    {
+      "rank": 2,
+      "player": "Danny Walker",
+      "Avg": "12' 10\"",
+      "Total Distance (Feet)": "282.667",
+      "Total Strokes": "22"
+    },
+    {
+      "rank": 3,
+      "player": "J.T. Poston",
+      "Avg": "15' 0\"",
+      "Total Distance (Feet)": "345.167",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 4,
+      "player": "Isaiah Salinda",
+      "Avg": "15' 6\"",
+      "Total Distance (Feet)": "356.083",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 5,
+      "player": "Si Woo Kim",
+      "Avg": "16' 9\"",
+      "Total Distance (Feet)": "385.667",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 6,
+      "player": "Max McGreevy",
+      "Avg": "17' 7\"",
+      "Total Distance (Feet)": "210.583",
+      "Total Strokes": "12"
+    },
+    {
+      "rank": 7,
+      "player": "Russell Henley",
+      "Avg": "18' 1\"",
+      "Total Distance (Feet)": "361.750",
+      "Total Strokes": "20"
+    },
+    {
+      "rank": 8,
+      "player": "Matt Kuchar",
+      "Avg": "18' 2\"",
+      "Total Distance (Feet)": "381.000",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 9,
+      "player": "Patrick Cantlay",
+      "Avg": "18' 3\"",
+      "Total Distance (Feet)": "401.250",
+      "Total Strokes": "22"
+    },
+    {
+      "rank": 10,
+      "player": "C.T. Pan",
+      "Avg": "18' 5\"",
+      "Total Distance (Feet)": "386.833",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 11,
+      "player": "Keegan Bradley",
+      "Avg": "18' 6\"",
+      "Total Distance (Feet)": "369.833",
+      "Total Strokes": "20"
+    },
+    {
+      "rank": 11,
+      "player": "Bud Cauley",
+      "Avg": "18' 6\"",
+      "Total Distance (Feet)": "259.167",
+      "Total Strokes": "14"
+    },
+    {
+      "rank": 13,
+      "player": "Joel Dahmen",
+      "Avg": "19' 8\"",
+      "Total Distance (Feet)": "314.000",
+      "Total Strokes": "16"
+    },
+    {
+      "rank": 14,
+      "player": "Will Zalatoris",
+      "Avg": "19' 9\"",
+      "Total Distance (Feet)": "571.750",
+      "Total Strokes": "29"
+    },
+    {
+      "rank": 15,
+      "player": "Tom Kim",
+      "Avg": "19' 11\"",
+      "Total Distance (Feet)": "339.167",
+      "Total Strokes": "17"
+    },
+    {
+      "rank": 16,
+      "player": "Shane Lowry",
+      "Avg": "20' 1\"",
+      "Total Distance (Feet)": "402.333",
+      "Total Strokes": "20"
+    },
+    {
+      "rank": 16,
+      "player": "Jhonattan Vegas",
+      "Avg": "20' 1\"",
+      "Total Distance (Feet)": "482.583",
+      "Total Strokes": "24"
+    },
+    {
+      "rank": 18,
+      "player": "Sepp Straka",
+      "Avg": "20' 6\"",
+      "Total Distance (Feet)": "267.000",
+      "Total Strokes": "13"
+    },
+    {
+      "rank": 19,
+      "player": "Byeong Hun An",
+      "Avg": "20' 10\"",
+      "Total Distance (Feet)": "479.417",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 19,
+      "player": "Daniel Berger",
+      "Avg": "20' 10\"",
+      "Total Distance (Feet)": "271.333",
+      "Total Strokes": "13"
+    },
+    {
+      "rank": 21,
+      "player": "Justin Lower",
+      "Avg": "21' 3\"",
+      "Total Distance (Feet)": "489.167",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 22,
+      "player": "Charley Hoffman",
+      "Avg": "21' 4\"",
+      "Total Distance (Feet)": "448.833",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 23,
+      "player": "Alex Smalley",
+      "Avg": "21' 9\"",
+      "Total Distance (Feet)": "544.500",
+      "Total Strokes": "25"
+    },
+    {
+      "rank": 24,
+      "player": "Kurt Kitayama",
+      "Avg": "22' 0\"",
+      "Total Distance (Feet)": "484.250",
+      "Total Strokes": "22"
+    },
+    {
+      "rank": 25,
+      "player": "Sahith Theegala",
+      "Avg": "22' 8\"",
+      "Total Distance (Feet)": "520.667",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 26,
+      "player": "Billy Horschel",
+      "Avg": "22' 9\"",
+      "Total Distance (Feet)": "409.750",
+      "Total Strokes": "18"
+    },
+    {
+      "rank": 27,
+      "player": "Jacob Bridgeman",
+      "Avg": "23' 11\"",
+      "Total Distance (Feet)": "478.500",
+      "Total Strokes": "20"
+    },
+    {
+      "rank": 28,
+      "player": "Scottie Scheffler",
+      "Avg": "24' 1\"",
+      "Total Distance (Feet)": "409.833",
+      "Total Strokes": "17"
+    },
+    {
+      "rank": 29,
+      "player": "Akshay Bhatia",
+      "Avg": "24' 3\"",
+      "Total Distance (Feet)": "460.333",
+      "Total Strokes": "19"
+    },
+    {
+      "rank": 29,
+      "player": "Tom Hoge",
+      "Avg": "24' 3\"",
+      "Total Distance (Feet)": "436.417",
+      "Total Strokes": "18"
+    },
+    {
+      "rank": 29,
+      "player": "Sami Valimaki",
+      "Avg": "24' 3\"",
+      "Total Distance (Feet)": "508.917",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 32,
+      "player": "Denny McCarthy",
+      "Avg": "24' 4\"",
+      "Total Distance (Feet)": "511.333",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 33,
+      "player": "Matt McCarty",
+      "Avg": "24' 7\"",
+      "Total Distance (Feet)": "368.667",
+      "Total Strokes": "15"
+    },
+    {
+      "rank": 34,
+      "player": "Mac Meissner",
+      "Avg": "25' 2\"",
+      "Total Distance (Feet)": "579.167",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 35,
+      "player": "Taylor Moore",
+      "Avg": "25' 8\"",
+      "Total Distance (Feet)": "589.833",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 36,
+      "player": "Xander Schauffele",
+      "Avg": "25' 10\"",
+      "Total Distance (Feet)": "672.500",
+      "Total Strokes": "26"
+    },
+    {
+      "rank": 37,
+      "player": "Emiliano Grillo",
+      "Avg": "26' 2\"",
+      "Total Distance (Feet)": "627.750",
+      "Total Strokes": "24"
+    },
+    {
+      "rank": 38,
+      "player": "Corey Conners",
+      "Avg": "26' 3\"",
+      "Total Distance (Feet)": "367.833",
+      "Total Strokes": "14"
+    },
+    {
+      "rank": 39,
+      "player": "Collin Morikawa",
+      "Avg": "26' 6\"",
+      "Total Distance (Feet)": "476.250",
+      "Total Strokes": "18"
+    },
+    {
+      "rank": 40,
+      "player": "J.J. Spaun",
+      "Avg": "26' 7\"",
+      "Total Distance (Feet)": "479.000",
+      "Total Strokes": "18"
+    },
+    {
+      "rank": 41,
+      "player": "Rico Hoey",
+      "Avg": "26' 9\"",
+      "Total Distance (Feet)": "374.750",
+      "Total Strokes": "14"
+    },
+    {
+      "rank": 42,
+      "player": "Rory McIlroy",
+      "Avg": "27' 3\"",
+      "Total Distance (Feet)": "736.083",
+      "Total Strokes": "27"
+    },
+    {
+      "rank": 43,
+      "player": "Lucas Glover",
+      "Avg": "27' 5\"",
+      "Total Distance (Feet)": "410.667",
+      "Total Strokes": "15"
+    },
+    {
+      "rank": 44,
+      "player": "Carson Young",
+      "Avg": "27' 6\"",
+      "Total Distance (Feet)": "412.083",
+      "Total Strokes": "15"
+    },
+    {
+      "rank": 45,
+      "player": "Sam Ryder",
+      "Avg": "27' 11\"",
+      "Total Distance (Feet)": "530.250",
+      "Total Strokes": "19"
+    },
+    {
+      "rank": 46,
+      "player": "Ryan Fox",
+      "Avg": "28' 4\"",
+      "Total Distance (Feet)": "736.500",
+      "Total Strokes": "26"
+    },
+    {
+      "rank": 46,
+      "player": "Matthieu Pavon",
+      "Avg": "28' 4\"",
+      "Total Distance (Feet)": "652.083",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 48,
+      "player": "Sungjae Im",
+      "Avg": "28' 6\"",
+      "Total Distance (Feet)": "541.333",
+      "Total Strokes": "19"
+    },
+    {
+      "rank": 49,
+      "player": "Beau Hossler",
+      "Avg": "28' 9\"",
+      "Total Distance (Feet)": "632.417",
+      "Total Strokes": "22"
+    },
+    {
+      "rank": 50,
+      "player": "Will Chandler",
+      "Avg": "29' 0\"",
+      "Total Distance (Feet)": "492.667",
+      "Total Strokes": "17"
+    },
+    {
+      "rank": 51,
+      "player": "Joe Highsmith",
+      "Avg": "29' 1\"",
+      "Total Distance (Feet)": "611.083",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 52,
+      "player": "Austin Eckroat",
+      "Avg": "29' 2\"",
+      "Total Distance (Feet)": "554.750",
+      "Total Strokes": "19"
+    },
+    {
+      "rank": 52,
+      "player": "Jake Knapp",
+      "Avg": "29' 2\"",
+      "Total Distance (Feet)": "788.250",
+      "Total Strokes": "27"
+    },
+    {
+      "rank": 54,
+      "player": "Hayden Springer",
+      "Avg": "29' 3\"",
+      "Total Distance (Feet)": "614.083",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 55,
+      "player": "Harris English",
+      "Avg": "29' 6\"",
+      "Total Distance (Feet)": "618.750",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 56,
+      "player": "Ryan Gerard",
+      "Avg": "29' 7\"",
+      "Total Distance (Feet)": "620.917",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 57,
+      "player": "Tommy Fleetwood",
+      "Avg": "29' 9\"",
+      "Total Distance (Feet)": "564.583",
+      "Total Strokes": "19"
+    },
+    {
+      "rank": 58,
+      "player": "Chandler Phillips",
+      "Avg": "30' 2\"",
+      "Total Distance (Feet)": "602.500",
+      "Total Strokes": "20"
+    },
+    {
+      "rank": 59,
+      "player": "Davis Riley",
+      "Avg": "30' 4\"",
+      "Total Distance (Feet)": "850.083",
+      "Total Strokes": "28"
+    },
+    {
+      "rank": 60,
+      "player": "Jordan Spieth",
+      "Avg": "30' 5\"",
+      "Total Distance (Feet)": "639.333",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 61,
+      "player": "Trey Mullinax",
+      "Avg": "30' 7\"",
+      "Total Distance (Feet)": "825.917",
+      "Total Strokes": "27"
+    },
+    {
+      "rank": 62,
+      "player": "Davis Thompson",
+      "Avg": "33' 4\"",
+      "Total Distance (Feet)": "532.750",
+      "Total Strokes": "16"
+    },
+    {
+      "rank": 63,
+      "player": "Robert MacIntyre",
+      "Avg": "34' 4\"",
+      "Total Distance (Feet)": "755.583",
+      "Total Strokes": "22"
+    },
+    {
+      "rank": 64,
+      "player": "Cameron Young",
+      "Avg": "35' 10\"",
+      "Total Distance (Feet)": "1,073.833",
+      "Total Strokes": "30"
+    },
+    {
+      "rank": 65,
+      "player": "Stephan Jaeger",
+      "Avg": "36' 10\"",
+      "Total Distance (Feet)": "846.250",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 66,
+      "player": "Camilo Villegas",
+      "Avg": "37' 2\"",
+      "Total Distance (Feet)": "855.500",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 67,
+      "player": "Rickie Fowler",
+      "Avg": "37' 8\"",
+      "Total Distance (Feet)": "640.250",
+      "Total Strokes": "17"
+    },
+    {
+      "rank": 68,
+      "player": "Taylor Pendrith",
+      "Avg": "39' 5\"",
+      "Total Distance (Feet)": "906.167",
+      "Total Strokes": "23"
+    },
+    {
+      "rank": 69,
+      "player": "Jesper Svensson",
+      "Avg": "39' 9\"",
+      "Total Distance (Feet)": "994.250",
+      "Total Strokes": "25"
+    },
+    {
+      "rank": 70,
+      "player": "Chris Kirk",
+      "Avg": "40' 4\"",
+      "Total Distance (Feet)": "847.750",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 71,
+      "player": "Min Woo Lee",
+      "Avg": "40' 11\"",
+      "Total Distance (Feet)": "858.917",
+      "Total Strokes": "21"
+    },
+    {
+      "rank": 72,
+      "player": "Justin Thomas",
+      "Avg": "44' 8\"",
+      "Total Distance (Feet)": "892.917",
+      "Total Strokes": "20"
+    }
+  ]
+}

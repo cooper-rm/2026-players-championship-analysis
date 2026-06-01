@@ -1,0 +1,520 @@
+{
+  "stat_id": "129",
+  "stat_title": "Total Driving",
+  "category": "Off The Tee",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Matt Fitzpatrick",
+      "Total": "13",
+      "Distance Rank": "2",
+      "Accuracy Rank": "11"
+    },
+    {
+      "rank": 2,
+      "player": "Scottie Scheffler",
+      "Total": "15",
+      "Distance Rank": "14",
+      "Accuracy Rank": "1"
+    },
+    {
+      "rank": 3,
+      "player": "Min Woo Lee",
+      "Total": "27",
+      "Distance Rank": "11",
+      "Accuracy Rank": "16"
+    },
+    {
+      "rank": 4,
+      "player": "Tyler Duncan",
+      "Total": "30",
+      "Distance Rank": "19",
+      "Accuracy Rank": "11"
+    },
+    {
+      "rank": 5,
+      "player": "Viktor Hovland",
+      "Total": "32",
+      "Distance Rank": "16",
+      "Accuracy Rank": "16"
+    },
+    {
+      "rank": 6,
+      "player": "Wyndham Clark",
+      "Total": "33",
+      "Distance Rank": "7",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 7,
+      "player": "Joel Dahmen",
+      "Total": "36",
+      "Distance Rank": "28",
+      "Accuracy Rank": "8"
+    },
+    {
+      "rank": 8,
+      "player": "Ludvig \u00c5berg",
+      "Total": "38",
+      "Distance Rank": "3",
+      "Accuracy Rank": "35"
+    },
+    {
+      "rank": 8,
+      "player": "Taylor Moore",
+      "Total": "38",
+      "Distance Rank": "17",
+      "Accuracy Rank": "21"
+    },
+    {
+      "rank": 8,
+      "player": "Grayson Murray",
+      "Total": "38",
+      "Distance Rank": "1",
+      "Accuracy Rank": "37"
+    },
+    {
+      "rank": 11,
+      "player": "Chris Kirk",
+      "Total": "43",
+      "Distance Rank": "22",
+      "Accuracy Rank": "21"
+    },
+    {
+      "rank": 11,
+      "player": "Kurt Kitayama",
+      "Total": "43",
+      "Distance Rank": "6",
+      "Accuracy Rank": "37"
+    },
+    {
+      "rank": 13,
+      "player": "Brice Garnett",
+      "Total": "44",
+      "Distance Rank": "41",
+      "Accuracy Rank": "3"
+    },
+    {
+      "rank": 13,
+      "player": "Si Woo Kim",
+      "Total": "44",
+      "Distance Rank": "36",
+      "Accuracy Rank": "8"
+    },
+    {
+      "rank": 15,
+      "player": "Adam Schenk",
+      "Total": "46",
+      "Distance Rank": "39",
+      "Accuracy Rank": "7"
+    },
+    {
+      "rank": 16,
+      "player": "Lee Hodges",
+      "Total": "48",
+      "Distance Rank": "37",
+      "Accuracy Rank": "11"
+    },
+    {
+      "rank": 16,
+      "player": "Sungjae Im",
+      "Total": "48",
+      "Distance Rank": "44",
+      "Accuracy Rank": "4"
+    },
+    {
+      "rank": 18,
+      "player": "Hideki Matsuyama",
+      "Total": "49",
+      "Distance Rank": "23",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 19,
+      "player": "Mackenzie Hughes",
+      "Total": "50",
+      "Distance Rank": "24",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 20,
+      "player": "C.T. Pan",
+      "Total": "51",
+      "Distance Rank": "8",
+      "Accuracy Rank": "43"
+    },
+    {
+      "rank": 21,
+      "player": "Nate Lashley",
+      "Total": "52",
+      "Distance Rank": "41",
+      "Accuracy Rank": "11"
+    },
+    {
+      "rank": 22,
+      "player": "Shane Lowry",
+      "Total": "53",
+      "Distance Rank": "37",
+      "Accuracy Rank": "16"
+    },
+    {
+      "rank": 23,
+      "player": "Maverick McNealy",
+      "Total": "57",
+      "Distance Rank": "31",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 23,
+      "player": "Sam Ryder",
+      "Total": "57",
+      "Distance Rank": "46",
+      "Accuracy Rank": "11"
+    },
+    {
+      "rank": 25,
+      "player": "Jimmy Stanger",
+      "Total": "58",
+      "Distance Rank": "15",
+      "Accuracy Rank": "43"
+    },
+    {
+      "rank": 26,
+      "player": "Aaron Rai",
+      "Total": "61",
+      "Distance Rank": "60",
+      "Accuracy Rank": "1"
+    },
+    {
+      "rank": 26,
+      "player": "Matti Schmid",
+      "Total": "61",
+      "Distance Rank": "18",
+      "Accuracy Rank": "43"
+    },
+    {
+      "rank": 28,
+      "player": "Sahith Theegala",
+      "Total": "62",
+      "Distance Rank": "5",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 29,
+      "player": "Xander Schauffele",
+      "Total": "63",
+      "Distance Rank": "13",
+      "Accuracy Rank": "50"
+    },
+    {
+      "rank": 30,
+      "player": "Matt NeSmith",
+      "Total": "64",
+      "Distance Rank": "48",
+      "Accuracy Rank": "16"
+    },
+    {
+      "rank": 31,
+      "player": "Ryan Moore",
+      "Total": "68",
+      "Distance Rank": "60",
+      "Accuracy Rank": "8"
+    },
+    {
+      "rank": 32,
+      "player": "Corey Conners",
+      "Total": "70",
+      "Distance Rank": "20",
+      "Accuracy Rank": "50"
+    },
+    {
+      "rank": 33,
+      "player": "Collin Morikawa",
+      "Total": "72",
+      "Distance Rank": "56",
+      "Accuracy Rank": "16"
+    },
+    {
+      "rank": 34,
+      "player": "Tommy Fleetwood",
+      "Total": "73",
+      "Distance Rank": "69",
+      "Accuracy Rank": "4"
+    },
+    {
+      "rank": 34,
+      "player": "Rory McIlroy",
+      "Total": "73",
+      "Distance Rank": "4",
+      "Accuracy Rank": "69"
+    },
+    {
+      "rank": 36,
+      "player": "Jason Day",
+      "Total": "74",
+      "Distance Rank": "31",
+      "Accuracy Rank": "43"
+    },
+    {
+      "rank": 36,
+      "player": "Martin Laird",
+      "Total": "74",
+      "Distance Rank": "53",
+      "Accuracy Rank": "21"
+    },
+    {
+      "rank": 38,
+      "player": "Adam Scott",
+      "Total": "75",
+      "Distance Rank": "25",
+      "Accuracy Rank": "50"
+    },
+    {
+      "rank": 39,
+      "player": "Sam Burns",
+      "Total": "76",
+      "Distance Rank": "26",
+      "Accuracy Rank": "50"
+    },
+    {
+      "rank": 39,
+      "player": "Brian Harman",
+      "Total": "76",
+      "Distance Rank": "50",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 41,
+      "player": "Mark Hubbard",
+      "Total": "77",
+      "Distance Rank": "71",
+      "Accuracy Rank": "6"
+    },
+    {
+      "rank": 41,
+      "player": "Keith Mitchell",
+      "Total": "77",
+      "Distance Rank": "10",
+      "Accuracy Rank": "67"
+    },
+    {
+      "rank": 41,
+      "player": "Alex Noren",
+      "Total": "77",
+      "Distance Rank": "56",
+      "Accuracy Rank": "21"
+    },
+    {
+      "rank": 44,
+      "player": "Harris English",
+      "Total": "78",
+      "Distance Rank": "35",
+      "Accuracy Rank": "43"
+    },
+    {
+      "rank": 44,
+      "player": "Sami Valimaki",
+      "Total": "78",
+      "Distance Rank": "41",
+      "Accuracy Rank": "37"
+    },
+    {
+      "rank": 46,
+      "player": "Max Homa",
+      "Total": "80",
+      "Distance Rank": "9",
+      "Accuracy Rank": "71"
+    },
+    {
+      "rank": 47,
+      "player": "Tony Finau",
+      "Total": "83",
+      "Distance Rank": "12",
+      "Accuracy Rank": "71"
+    },
+    {
+      "rank": 48,
+      "player": "Patrick Cantlay",
+      "Total": "85",
+      "Distance Rank": "28",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 49,
+      "player": "Tom Hoge",
+      "Total": "87",
+      "Distance Rank": "20",
+      "Accuracy Rank": "67"
+    },
+    {
+      "rank": 49,
+      "player": "Ben Martin",
+      "Total": "87",
+      "Distance Rank": "30",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 51,
+      "player": "Austin Eckroat",
+      "Total": "89",
+      "Distance Rank": "63",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 51,
+      "player": "Jake Knapp",
+      "Total": "89",
+      "Distance Rank": "52",
+      "Accuracy Rank": "37"
+    },
+    {
+      "rank": 51,
+      "player": "J.T. Poston",
+      "Total": "89",
+      "Distance Rank": "68",
+      "Accuracy Rank": "21"
+    },
+    {
+      "rank": 51,
+      "player": "J.J. Spaun",
+      "Total": "89",
+      "Distance Rank": "46",
+      "Accuracy Rank": "43"
+    },
+    {
+      "rank": 51,
+      "player": "Dylan Wu",
+      "Total": "89",
+      "Distance Rank": "39",
+      "Accuracy Rank": "50"
+    },
+    {
+      "rank": 56,
+      "player": "Gary Woodland",
+      "Total": "90",
+      "Distance Rank": "33",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 57,
+      "player": "Francesco Molinari",
+      "Total": "91",
+      "Distance Rank": "65",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 57,
+      "player": "Cameron Young",
+      "Total": "91",
+      "Distance Rank": "34",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 59,
+      "player": "Doug Ghim",
+      "Total": "93",
+      "Distance Rank": "67",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 59,
+      "player": "Emiliano Grillo",
+      "Total": "93",
+      "Distance Rank": "56",
+      "Accuracy Rank": "37"
+    },
+    {
+      "rank": 61,
+      "player": "Thomas Detry",
+      "Total": "96",
+      "Distance Rank": "27",
+      "Accuracy Rank": "69"
+    },
+    {
+      "rank": 61,
+      "player": "Chan Kim",
+      "Total": "96",
+      "Distance Rank": "70",
+      "Accuracy Rank": "26"
+    },
+    {
+      "rank": 61,
+      "player": "Seamus Power",
+      "Total": "96",
+      "Distance Rank": "59",
+      "Accuracy Rank": "37"
+    },
+    {
+      "rank": 64,
+      "player": "Nick Taylor",
+      "Total": "100",
+      "Distance Rank": "50",
+      "Accuracy Rank": "50"
+    },
+    {
+      "rank": 65,
+      "player": "Denny McCarthy",
+      "Total": "102",
+      "Distance Rank": "45",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 66,
+      "player": "Taylor Montgomery",
+      "Total": "107",
+      "Distance Rank": "64",
+      "Accuracy Rank": "43"
+    },
+    {
+      "rank": 67,
+      "player": "Zac Blair",
+      "Total": "108",
+      "Distance Rank": "73",
+      "Accuracy Rank": "35"
+    },
+    {
+      "rank": 68,
+      "player": "Rickie Fowler",
+      "Total": "110",
+      "Distance Rank": "53",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 69,
+      "player": "Sepp Straka",
+      "Total": "112",
+      "Distance Rank": "55",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 70,
+      "player": "David Lipsky",
+      "Total": "117",
+      "Distance Rank": "60",
+      "Accuracy Rank": "57"
+    },
+    {
+      "rank": 71,
+      "player": "Peter Malnati",
+      "Total": "122",
+      "Distance Rank": "49",
+      "Accuracy Rank": "73"
+    },
+    {
+      "rank": 71,
+      "player": "Andrew Putnam",
+      "Total": "122",
+      "Distance Rank": "72",
+      "Accuracy Rank": "50"
+    },
+    {
+      "rank": 73,
+      "player": "Christiaan Bezuidenhout",
+      "Total": "132",
+      "Distance Rank": "66",
+      "Accuracy Rank": "66"
+    }
+  ]
+}

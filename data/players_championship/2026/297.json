@@ -1,0 +1,741 @@
+{
+  "stat_id": "297",
+  "stat_title": "Consecutive Fairways Hit",
+  "category": "Streaks",
+  "year": 2026,
+  "tournament_id": "R2026011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Xander Schauffele",
+      "Best Streak": "19",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Andrew Putnam",
+      "Best Streak": "16",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 3,
+      "player": "Rico Hoey",
+      "Best Streak": "13",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 3,
+      "player": "Sam Stevens",
+      "Best Streak": "13",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 5,
+      "player": "Corey Conners",
+      "Best Streak": "11",
+      "Current Streak": "5"
+    },
+    {
+      "rank": 5,
+      "player": "Brian Harman",
+      "Best Streak": "11",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 5,
+      "player": "J.T. Poston",
+      "Best Streak": "11",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 8,
+      "player": "Akshay Bhatia",
+      "Best Streak": "10",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 8,
+      "player": "Taylor Pendrith",
+      "Best Streak": "10",
+      "Current Streak": "10"
+    },
+    {
+      "rank": 8,
+      "player": "Austin Smotherman",
+      "Best Streak": "10",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 11,
+      "player": "Patrick Cantlay",
+      "Best Streak": "9",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 11,
+      "player": "Wyndham Clark",
+      "Best Streak": "9",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 11,
+      "player": "Si Woo Kim",
+      "Best Streak": "9",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 11,
+      "player": "Chris Kirk",
+      "Best Streak": "9",
+      "Current Streak": "8"
+    },
+    {
+      "rank": 11,
+      "player": "Seamus Power",
+      "Best Streak": "9",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Daniel Berger",
+      "Best Streak": "8",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Keegan Bradley",
+      "Best Streak": "8",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Jacob Bridgeman",
+      "Best Streak": "8",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 16,
+      "player": "Bud Cauley",
+      "Best Streak": "8",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Nico Echavarria",
+      "Best Streak": "8",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Matt Fitzpatrick",
+      "Best Streak": "8",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Lucas Glover",
+      "Best Streak": "8",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 16,
+      "player": "Lee Hodges",
+      "Best Streak": "8",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 16,
+      "player": "Takumi Kanaya",
+      "Best Streak": "8",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Patton Kizzire",
+      "Best Streak": "8",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Aaron Rai",
+      "Best Streak": "8",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Michael Thorbjornsen",
+      "Best Streak": "8",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 16,
+      "player": "Jhonattan Vegas",
+      "Best Streak": "8",
+      "Current Streak": "8"
+    },
+    {
+      "rank": 29,
+      "player": "Zach Bauchou",
+      "Best Streak": "7",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 29,
+      "player": "Jason Day",
+      "Best Streak": "7",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 29,
+      "player": "Tommy Fleetwood",
+      "Best Streak": "7",
+      "Current Streak": "7"
+    },
+    {
+      "rank": 29,
+      "player": "Harry Hall",
+      "Best Streak": "7",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 29,
+      "player": "Max Homa",
+      "Best Streak": "7",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 29,
+      "player": "Mark Hubbard",
+      "Best Streak": "7",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 29,
+      "player": "Stephan Jaeger",
+      "Best Streak": "7",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 29,
+      "player": "S.H. Kim",
+      "Best Streak": "7",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 29,
+      "player": "Jake Knapp",
+      "Best Streak": "7",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 29,
+      "player": "Rory McIlroy",
+      "Best Streak": "7",
+      "Current Streak": "5"
+    },
+    {
+      "rank": 29,
+      "player": "Thorbj\u00f8rn Olesen",
+      "Best Streak": "7",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 29,
+      "player": "Justin Rose",
+      "Best Streak": "7",
+      "Current Streak": "7"
+    },
+    {
+      "rank": 29,
+      "player": "Adam Schenk",
+      "Best Streak": "7",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 29,
+      "player": "Jordan Spieth",
+      "Best Streak": "7",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 29,
+      "player": "Nick Taylor",
+      "Best Streak": "7",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 44,
+      "player": "Ludvig \u00c5berg",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Sam Burns",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Ben Griffin",
+      "Best Streak": "6",
+      "Current Streak": "5"
+    },
+    {
+      "rank": 44,
+      "player": "Emiliano Grillo",
+      "Best Streak": "6",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 44,
+      "player": "Russell Henley",
+      "Best Streak": "6",
+      "Current Streak": "5"
+    },
+    {
+      "rank": 44,
+      "player": "Garrick Higgo",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Ryo Hisatsune",
+      "Best Streak": "6",
+      "Current Streak": "6"
+    },
+    {
+      "rank": 44,
+      "player": "Viktor Hovland",
+      "Best Streak": "6",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 44,
+      "player": "Brooks Koepka",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Min Woo Lee",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Robert MacIntyre",
+      "Best Streak": "6",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 44,
+      "player": "Denny McCarthy",
+      "Best Streak": "6",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 44,
+      "player": "Max McGreevy",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Alex Noren",
+      "Best Streak": "6",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 44,
+      "player": "Chandler Phillips",
+      "Best Streak": "6",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 44,
+      "player": "Chad Ramey",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Kristoffer Reitan",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "J.J. Spaun",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Justin Thomas",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Erik van Rooyen",
+      "Best Streak": "6",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 44,
+      "player": "Gary Woodland",
+      "Best Streak": "6",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 44,
+      "player": "Sudarshan Yellamaraju",
+      "Best Streak": "6",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 44,
+      "player": "Cameron Young",
+      "Best Streak": "6",
+      "Current Streak": "5"
+    },
+    {
+      "rank": 67,
+      "player": "Christiaan Bezuidenhout",
+      "Best Streak": "5",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 67,
+      "player": "Michael Brennan",
+      "Best Streak": "5",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 67,
+      "player": "Brian Campbell",
+      "Best Streak": "5",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 67,
+      "player": "Eric Cole",
+      "Best Streak": "5",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 67,
+      "player": "Ryan Gerard",
+      "Best Streak": "5",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 67,
+      "player": "Joe Highsmith",
+      "Best Streak": "5",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 67,
+      "player": "Rasmus H\u00f8jgaard",
+      "Best Streak": "5",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 67,
+      "player": "Johnny Keefer",
+      "Best Streak": "5",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 67,
+      "player": "Shane Lowry",
+      "Best Streak": "5",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 67,
+      "player": "Matt McCarty",
+      "Best Streak": "5",
+      "Current Streak": "5"
+    },
+    {
+      "rank": 67,
+      "player": "Taylor Moore",
+      "Best Streak": "5",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 67,
+      "player": "William Mouw",
+      "Best Streak": "5",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 67,
+      "player": "Aldrich Potgieter",
+      "Best Streak": "5",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 67,
+      "player": "Patrick Rodgers",
+      "Best Streak": "5",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 67,
+      "player": "Kevin Roy",
+      "Best Streak": "5",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 67,
+      "player": "Scottie Scheffler",
+      "Best Streak": "5",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 67,
+      "player": "Matti Schmid",
+      "Best Streak": "5",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 67,
+      "player": "Sepp Straka",
+      "Best Streak": "5",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 67,
+      "player": "Davis Thompson",
+      "Best Streak": "5",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 86,
+      "player": "Ricky Castillo",
+      "Best Streak": "4",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 86,
+      "player": "Pierceson Coody",
+      "Best Streak": "4",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 86,
+      "player": "Joel Dahmen",
+      "Best Streak": "4",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 86,
+      "player": "Cam Davis",
+      "Best Streak": "4",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 86,
+      "player": "A.J. Ewart",
+      "Best Streak": "4",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 86,
+      "player": "Tony Finau",
+      "Best Streak": "4",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 86,
+      "player": "Steven Fisk",
+      "Best Streak": "4",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 86,
+      "player": "Rickie Fowler",
+      "Best Streak": "4",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 86,
+      "player": "Max Greyserman",
+      "Best Streak": "4",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 86,
+      "player": "Mackenzie Hughes",
+      "Best Streak": "4",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 86,
+      "player": "Sungjae Im",
+      "Best Streak": "4",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 86,
+      "player": "Michael Kim",
+      "Best Streak": "4",
+      "Current Streak": "4"
+    },
+    {
+      "rank": 86,
+      "player": "Haotong Li",
+      "Best Streak": "4",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 86,
+      "player": "Hideki Matsuyama",
+      "Best Streak": "4",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 86,
+      "player": "Maverick McNealy",
+      "Best Streak": "4",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 86,
+      "player": "Keith Mitchell",
+      "Best Streak": "4",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 86,
+      "player": "Matthieu Pavon",
+      "Best Streak": "4",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 86,
+      "player": "Marco Penge",
+      "Best Streak": "4",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 86,
+      "player": "Alex Smalley",
+      "Best Streak": "4",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 86,
+      "player": "Jordan Smith",
+      "Best Streak": "4",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 86,
+      "player": "Sami Valimaki",
+      "Best Streak": "4",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 86,
+      "player": "Danny Walker",
+      "Best Streak": "4",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 108,
+      "player": "Harris English",
+      "Best Streak": "3",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 108,
+      "player": "David Ford",
+      "Best Streak": "3",
+      "Current Streak": "2"
+    },
+    {
+      "rank": 108,
+      "player": "Chris Gotterup",
+      "Best Streak": "3",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 108,
+      "player": "Tom Hoge",
+      "Best Streak": "3",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 108,
+      "player": "Nicolai H\u00f8jgaard",
+      "Best Streak": "3",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 108,
+      "player": "Kurt Kitayama",
+      "Best Streak": "3",
+      "Current Streak": "3"
+    },
+    {
+      "rank": 108,
+      "player": "Mac Meissner",
+      "Best Streak": "3",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 108,
+      "player": "Andrew Novak",
+      "Best Streak": "3",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 108,
+      "player": "Adam Scott",
+      "Best Streak": "3",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 108,
+      "player": "Sahith Theegala",
+      "Best Streak": "3",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 108,
+      "player": "Kevin Yu",
+      "Best Streak": "3",
+      "Current Streak": "1"
+    },
+    {
+      "rank": 119,
+      "player": "Zecheng Dou",
+      "Best Streak": "2",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 119,
+      "player": "Davis Riley",
+      "Best Streak": "2",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 119,
+      "player": "Vince Whaley",
+      "Best Streak": "2",
+      "Current Streak": "0"
+    },
+    {
+      "rank": 122,
+      "player": "Karl Vilips",
+      "Best Streak": "1",
+      "Current Streak": "1"
+    }
+  ]
+}

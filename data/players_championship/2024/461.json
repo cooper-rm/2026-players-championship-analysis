@@ -1,0 +1,593 @@
+{
+  "stat_id": "461",
+  "stat_title": "Missed Fairway Percent - Other",
+  "category": "Off The Tee",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Joel Dahmen",
+      "%": ".00%",
+      "Total Missed": "0",
+      "Total Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 1,
+      "player": "Alex Noren",
+      "%": ".00%",
+      "Total Missed": "0",
+      "Total Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 3,
+      "player": "Brice Garnett",
+      "%": "1.79%",
+      "Total Missed": "1",
+      "Total Fwys": "56",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 3,
+      "player": "Adam Schenk",
+      "%": "1.79%",
+      "Total Missed": "1",
+      "Total Fwys": "56",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 5,
+      "player": "Tyler Duncan",
+      "%": "3.57%",
+      "Total Missed": "2",
+      "Total Fwys": "56",
+      "Relative to par": "+1.50"
+    },
+    {
+      "rank": 5,
+      "player": "Hideki Matsuyama",
+      "%": "3.57%",
+      "Total Missed": "2",
+      "Total Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 5,
+      "player": "Denny McCarthy",
+      "%": "3.57%",
+      "Total Missed": "2",
+      "Total Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 5,
+      "player": "Francesco Molinari",
+      "%": "3.57%",
+      "Total Missed": "2",
+      "Total Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 5,
+      "player": "Collin Morikawa",
+      "%": "3.57%",
+      "Total Missed": "2",
+      "Total Fwys": "56",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 5,
+      "player": "Aaron Rai",
+      "%": "3.57%",
+      "Total Missed": "2",
+      "Total Fwys": "56",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 5,
+      "player": "Scottie Scheffler",
+      "%": "3.57%",
+      "Total Missed": "2",
+      "Total Fwys": "56",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 12,
+      "player": "Sungjae Im",
+      "%": "3.64%",
+      "Total Missed": "2",
+      "Total Fwys": "55",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Austin Eckroat",
+      "%": "5.36%",
+      "Total Missed": "3",
+      "Total Fwys": "56",
+      "Relative to par": "+0.67"
+    },
+    {
+      "rank": 13,
+      "player": "Si Woo Kim",
+      "%": "5.36%",
+      "Total Missed": "3",
+      "Total Fwys": "56",
+      "Relative to par": "-0.67"
+    },
+    {
+      "rank": 13,
+      "player": "Chris Kirk",
+      "%": "5.36%",
+      "Total Missed": "3",
+      "Total Fwys": "56",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 13,
+      "player": "Nate Lashley",
+      "%": "5.36%",
+      "Total Missed": "3",
+      "Total Fwys": "56",
+      "Relative to par": "+0.33"
+    },
+    {
+      "rank": 13,
+      "player": "Ben Martin",
+      "%": "5.36%",
+      "Total Missed": "3",
+      "Total Fwys": "56",
+      "Relative to par": "+0.33"
+    },
+    {
+      "rank": 13,
+      "player": "Matt NeSmith",
+      "%": "5.36%",
+      "Total Missed": "3",
+      "Total Fwys": "56",
+      "Relative to par": "+0.67"
+    },
+    {
+      "rank": 19,
+      "player": "Rickie Fowler",
+      "%": "5.45%",
+      "Total Missed": "3",
+      "Total Fwys": "55",
+      "Relative to par": "+1.00"
+    },
+    {
+      "rank": 20,
+      "player": "Matt Fitzpatrick",
+      "%": "7.14%",
+      "Total Missed": "4",
+      "Total Fwys": "56",
+      "Relative to par": "-0.50"
+    },
+    {
+      "rank": 20,
+      "player": "Tommy Fleetwood",
+      "%": "7.14%",
+      "Total Missed": "4",
+      "Total Fwys": "56",
+      "Relative to par": "+1.25"
+    },
+    {
+      "rank": 20,
+      "player": "Emiliano Grillo",
+      "%": "7.14%",
+      "Total Missed": "4",
+      "Total Fwys": "56",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 20,
+      "player": "Lee Hodges",
+      "%": "7.14%",
+      "Total Missed": "4",
+      "Total Fwys": "56",
+      "Relative to par": "+0.25"
+    },
+    {
+      "rank": 20,
+      "player": "Ryan Moore",
+      "%": "7.14%",
+      "Total Missed": "4",
+      "Total Fwys": "56",
+      "Relative to par": "+0.25"
+    },
+    {
+      "rank": 20,
+      "player": "Sam Ryder",
+      "%": "7.14%",
+      "Total Missed": "4",
+      "Total Fwys": "56",
+      "Relative to par": "-0.25"
+    },
+    {
+      "rank": 26,
+      "player": "Sam Burns",
+      "%": "7.27%",
+      "Total Missed": "4",
+      "Total Fwys": "55",
+      "Relative to par": "+0.75"
+    },
+    {
+      "rank": 26,
+      "player": "Corey Conners",
+      "%": "7.27%",
+      "Total Missed": "4",
+      "Total Fwys": "55",
+      "Relative to par": "+0.25"
+    },
+    {
+      "rank": 26,
+      "player": "Sami Valimaki",
+      "%": "7.27%",
+      "Total Missed": "4",
+      "Total Fwys": "55",
+      "Relative to par": "+0.75"
+    },
+    {
+      "rank": 29,
+      "player": "Zac Blair",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "-0.20"
+    },
+    {
+      "rank": 29,
+      "player": "Wyndham Clark",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "-0.40"
+    },
+    {
+      "rank": 29,
+      "player": "Viktor Hovland",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "-0.20"
+    },
+    {
+      "rank": 29,
+      "player": "Mark Hubbard",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "+0.40"
+    },
+    {
+      "rank": 29,
+      "player": "Mackenzie Hughes",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "+0.20"
+    },
+    {
+      "rank": 29,
+      "player": "Jake Knapp",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "+0.40"
+    },
+    {
+      "rank": 29,
+      "player": "Martin Laird",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "+0.40"
+    },
+    {
+      "rank": 29,
+      "player": "Shane Lowry",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "+0.20"
+    },
+    {
+      "rank": 29,
+      "player": "Maverick McNealy",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "+0.20"
+    },
+    {
+      "rank": 29,
+      "player": "Jimmy Stanger",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "+0.40"
+    },
+    {
+      "rank": 29,
+      "player": "Dylan Wu",
+      "%": "8.93%",
+      "Total Missed": "5",
+      "Total Fwys": "56",
+      "Relative to par": "+0.20"
+    },
+    {
+      "rank": 40,
+      "player": "Min Woo Lee",
+      "%": "9.09%",
+      "Total Missed": "5",
+      "Total Fwys": "55",
+      "Relative to par": "+0.20"
+    },
+    {
+      "rank": 41,
+      "player": "Ludvig \u00c5berg",
+      "%": "10.71%",
+      "Total Missed": "6",
+      "Total Fwys": "56",
+      "Relative to par": "+0.17"
+    },
+    {
+      "rank": 41,
+      "player": "Thomas Detry",
+      "%": "10.71%",
+      "Total Missed": "6",
+      "Total Fwys": "56",
+      "Relative to par": "+1.50"
+    },
+    {
+      "rank": 41,
+      "player": "Andrew Putnam",
+      "%": "10.71%",
+      "Total Missed": "6",
+      "Total Fwys": "56",
+      "Relative to par": "-0.17"
+    },
+    {
+      "rank": 41,
+      "player": "Xander Schauffele",
+      "%": "10.71%",
+      "Total Missed": "6",
+      "Total Fwys": "56",
+      "Relative to par": "-0.17"
+    },
+    {
+      "rank": 41,
+      "player": "Adam Scott",
+      "%": "10.71%",
+      "Total Missed": "6",
+      "Total Fwys": "56",
+      "Relative to par": "+0.33"
+    },
+    {
+      "rank": 46,
+      "player": "Grayson Murray",
+      "%": "10.91%",
+      "Total Missed": "6",
+      "Total Fwys": "55",
+      "Relative to par": "-0.17"
+    },
+    {
+      "rank": 47,
+      "player": "Christiaan Bezuidenhout",
+      "%": "12.50%",
+      "Total Missed": "7",
+      "Total Fwys": "56",
+      "Relative to par": "-0.14"
+    },
+    {
+      "rank": 47,
+      "player": "Jason Day",
+      "%": "12.50%",
+      "Total Missed": "7",
+      "Total Fwys": "56",
+      "Relative to par": "+0.43"
+    },
+    {
+      "rank": 47,
+      "player": "Harris English",
+      "%": "12.50%",
+      "Total Missed": "7",
+      "Total Fwys": "56",
+      "Relative to par": "-0.29"
+    },
+    {
+      "rank": 47,
+      "player": "Tony Finau",
+      "%": "12.50%",
+      "Total Missed": "7",
+      "Total Fwys": "56",
+      "Relative to par": "+0.86"
+    },
+    {
+      "rank": 47,
+      "player": "Chan Kim",
+      "%": "12.50%",
+      "Total Missed": "7",
+      "Total Fwys": "56",
+      "Relative to par": "+0.57"
+    },
+    {
+      "rank": 47,
+      "player": "C.T. Pan",
+      "%": "12.50%",
+      "Total Missed": "7",
+      "Total Fwys": "56",
+      "Relative to par": "+0.57"
+    },
+    {
+      "rank": 47,
+      "player": "Matti Schmid",
+      "%": "12.50%",
+      "Total Missed": "7",
+      "Total Fwys": "56",
+      "Relative to par": "+0.29"
+    },
+    {
+      "rank": 47,
+      "player": "Sepp Straka",
+      "%": "12.50%",
+      "Total Missed": "7",
+      "Total Fwys": "56",
+      "Relative to par": "-0.29"
+    },
+    {
+      "rank": 55,
+      "player": "Patrick Cantlay",
+      "%": "12.73%",
+      "Total Missed": "7",
+      "Total Fwys": "55",
+      "Relative to par": "+0.14"
+    },
+    {
+      "rank": 55,
+      "player": "David Lipsky",
+      "%": "12.73%",
+      "Total Missed": "7",
+      "Total Fwys": "55",
+      "Relative to par": "E"
+    },
+    {
+      "rank": 55,
+      "player": "J.J. Spaun",
+      "%": "12.73%",
+      "Total Missed": "7",
+      "Total Fwys": "55",
+      "Relative to par": "+0.71"
+    },
+    {
+      "rank": 55,
+      "player": "Sahith Theegala",
+      "%": "12.73%",
+      "Total Missed": "7",
+      "Total Fwys": "55",
+      "Relative to par": "-0.14"
+    },
+    {
+      "rank": 59,
+      "player": "Taylor Montgomery",
+      "%": "12.96%",
+      "Total Missed": "7",
+      "Total Fwys": "54",
+      "Relative to par": "-0.29"
+    },
+    {
+      "rank": 60,
+      "player": "Doug Ghim",
+      "%": "14.29%",
+      "Total Missed": "8",
+      "Total Fwys": "56",
+      "Relative to par": "+0.13"
+    },
+    {
+      "rank": 60,
+      "player": "Kurt Kitayama",
+      "%": "14.29%",
+      "Total Missed": "8",
+      "Total Fwys": "56",
+      "Relative to par": "+0.25"
+    },
+    {
+      "rank": 60,
+      "player": "Taylor Moore",
+      "%": "14.29%",
+      "Total Missed": "8",
+      "Total Fwys": "56",
+      "Relative to par": "+0.38"
+    },
+    {
+      "rank": 60,
+      "player": "J.T. Poston",
+      "%": "14.29%",
+      "Total Missed": "8",
+      "Total Fwys": "56",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 60,
+      "player": "Nick Taylor",
+      "%": "14.29%",
+      "Total Missed": "8",
+      "Total Fwys": "56",
+      "Relative to par": "+0.13"
+    },
+    {
+      "rank": 65,
+      "player": "Max Homa",
+      "%": "16.07%",
+      "Total Missed": "9",
+      "Total Fwys": "56",
+      "Relative to par": "+0.78"
+    },
+    {
+      "rank": 66,
+      "player": "Brian Harman",
+      "%": "16.36%",
+      "Total Missed": "9",
+      "Total Fwys": "55",
+      "Relative to par": "+0.22"
+    },
+    {
+      "rank": 66,
+      "player": "Tom Hoge",
+      "%": "16.36%",
+      "Total Missed": "9",
+      "Total Fwys": "55",
+      "Relative to par": "+0.78"
+    },
+    {
+      "rank": 68,
+      "player": "Peter Malnati",
+      "%": "17.86%",
+      "Total Missed": "10",
+      "Total Fwys": "56",
+      "Relative to par": "+0.60"
+    },
+    {
+      "rank": 68,
+      "player": "Keith Mitchell",
+      "%": "17.86%",
+      "Total Missed": "10",
+      "Total Fwys": "56",
+      "Relative to par": "+0.60"
+    },
+    {
+      "rank": 68,
+      "player": "Gary Woodland",
+      "%": "17.86%",
+      "Total Missed": "10",
+      "Total Fwys": "56",
+      "Relative to par": "+0.20"
+    },
+    {
+      "rank": 68,
+      "player": "Cameron Young",
+      "%": "17.86%",
+      "Total Missed": "10",
+      "Total Fwys": "56",
+      "Relative to par": "+0.50"
+    },
+    {
+      "rank": 72,
+      "player": "Seamus Power",
+      "%": "19.64%",
+      "Total Missed": "11",
+      "Total Fwys": "56",
+      "Relative to par": "+0.27"
+    },
+    {
+      "rank": 73,
+      "player": "Rory McIlroy",
+      "%": "23.21%",
+      "Total Missed": "13",
+      "Total Fwys": "56",
+      "Relative to par": "+0.23"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "stat_id": "02414",
+  "stat_title": "Bogey Avoidance",
+  "category": "Scoring",
+  "year": 2025,
+  "tournament_id": "R2025011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Joe Highsmith",
+      "% Makes Bogey": "11.11%",
+      "Bogeys": "8",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 1,
+      "player": "Tom Hoge",
+      "% Makes Bogey": "11.11%",
+      "Bogeys": "8",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 1,
+      "player": "Jake Knapp",
+      "% Makes Bogey": "11.11%",
+      "Bogeys": "8",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 1,
+      "player": "J.J. Spaun",
+      "% Makes Bogey": "11.11%",
+      "Bogeys": "8",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 5,
+      "player": "Denny McCarthy",
+      "% Makes Bogey": "12.50%",
+      "Bogeys": "9",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 5,
+      "player": "Max McGreevy",
+      "% Makes Bogey": "12.50%",
+      "Bogeys": "9",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 5,
+      "player": "Scottie Scheffler",
+      "% Makes Bogey": "12.50%",
+      "Bogeys": "9",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Akshay Bhatia",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Corey Conners",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Harris English",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Russell Henley",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Min Woo Lee",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Matt McCarty",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Rory McIlroy",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Sam Ryder",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Alex Smalley",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 8,
+      "player": "Sepp Straka",
+      "% Makes Bogey": "13.89%",
+      "Bogeys": "10",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Jacob Bridgeman",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Patrick Cantlay",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Tommy Fleetwood",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Lucas Glover",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Matt Kuchar",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Shane Lowry",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Robert MacIntyre",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Taylor Moore",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Aaron Rai",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Davis Thompson",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 18,
+      "player": "Danny Walker",
+      "% Makes Bogey": "15.28%",
+      "Bogeys": "11",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Daniel Berger",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Keegan Bradley",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Joel Dahmen",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Austin Eckroat",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Rico Hoey",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Chris Kirk",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Justin Lower",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Mac Meissner",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Hayden Springer",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Sahith Theegala",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 29,
+      "player": "Carson Young",
+      "% Makes Bogey": "16.67%",
+      "Bogeys": "12",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 40,
+      "player": "Emiliano Grillo",
+      "% Makes Bogey": "18.06%",
+      "Bogeys": "13",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 40,
+      "player": "Stephan Jaeger",
+      "% Makes Bogey": "18.06%",
+      "Bogeys": "13",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 40,
+      "player": "Kurt Kitayama",
+      "% Makes Bogey": "18.06%",
+      "Bogeys": "13",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 40,
+      "player": "Collin Morikawa",
+      "% Makes Bogey": "18.06%",
+      "Bogeys": "13",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 40,
+      "player": "Matthieu Pavon",
+      "% Makes Bogey": "18.06%",
+      "Bogeys": "13",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 40,
+      "player": "Davis Riley",
+      "% Makes Bogey": "18.06%",
+      "Bogeys": "13",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 40,
+      "player": "Will Zalatoris",
+      "% Makes Bogey": "18.06%",
+      "Bogeys": "13",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 47,
+      "player": "Charley Hoffman",
+      "% Makes Bogey": "19.44%",
+      "Bogeys": "14",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 47,
+      "player": "Billy Horschel",
+      "% Makes Bogey": "19.44%",
+      "Bogeys": "14",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 47,
+      "player": "Sungjae Im",
+      "% Makes Bogey": "19.44%",
+      "Bogeys": "14",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 47,
+      "player": "Tom Kim",
+      "% Makes Bogey": "19.44%",
+      "Bogeys": "14",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 47,
+      "player": "Taylor Pendrith",
+      "% Makes Bogey": "19.44%",
+      "Bogeys": "14",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "Bud Cauley",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "Ryan Fox",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "Ryan Gerard",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "Beau Hossler",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "Si Woo Kim",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "Trey Mullinax",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "C.T. Pan",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "J.T. Poston",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 52,
+      "player": "Camilo Villegas",
+      "% Makes Bogey": "20.83%",
+      "Bogeys": "15",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 61,
+      "player": "Will Chandler",
+      "% Makes Bogey": "22.22%",
+      "Bogeys": "16",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 61,
+      "player": "Isaiah Salinda",
+      "% Makes Bogey": "22.22%",
+      "Bogeys": "16",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 61,
+      "player": "Sami Valimaki",
+      "% Makes Bogey": "22.22%",
+      "Bogeys": "16",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 61,
+      "player": "Jhonattan Vegas",
+      "% Makes Bogey": "22.22%",
+      "Bogeys": "16",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 61,
+      "player": "Cameron Young",
+      "% Makes Bogey": "22.22%",
+      "Bogeys": "16",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 66,
+      "player": "Byeong Hun An",
+      "% Makes Bogey": "23.61%",
+      "Bogeys": "17",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 66,
+      "player": "Rickie Fowler",
+      "% Makes Bogey": "23.61%",
+      "Bogeys": "17",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 66,
+      "player": "Chandler Phillips",
+      "% Makes Bogey": "23.61%",
+      "Bogeys": "17",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 66,
+      "player": "Xander Schauffele",
+      "% Makes Bogey": "23.61%",
+      "Bogeys": "17",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 66,
+      "player": "Jordan Spieth",
+      "% Makes Bogey": "23.61%",
+      "Bogeys": "17",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 66,
+      "player": "Justin Thomas",
+      "% Makes Bogey": "23.61%",
+      "Bogeys": "17",
+      "Holes Played": "72"
+    },
+    {
+      "rank": 72,
+      "player": "Jesper Svensson",
+      "% Makes Bogey": "25.00%",
+      "Bogeys": "18",
+      "Holes Played": "72"
+    }
+  ]
+}

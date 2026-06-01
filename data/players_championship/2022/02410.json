@@ -1,0 +1,639 @@
+{
+  "stat_id": "02410",
+  "stat_title": "Carry Efficiency",
+  "category": "Off The Tee",
+  "year": 2022,
+  "tournament_id": "R2022011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Keegan Bradley",
+      "Avg": "2.457",
+      "Average Carry Dist. Yards": "283.9",
+      "Average Club Head Speed": "115.552",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0228502667"
+    },
+    {
+      "rank": 2,
+      "player": "Tommy Fleetwood",
+      "Avg": "2.445",
+      "Average Carry Dist. Yards": "286.8",
+      "Average Club Head Speed": "117.311",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0242302677"
+    },
+    {
+      "rank": 3,
+      "player": "Sam Burns",
+      "Avg": "2.444",
+      "Average Carry Dist. Yards": "289.7",
+      "Average Club Head Speed": "118.540",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0241202562"
+    },
+    {
+      "rank": 4,
+      "player": "Brendan Steele",
+      "Avg": "2.440",
+      "Average Carry Dist. Yards": "284.9",
+      "Average Club Head Speed": "116.778",
+      "Total Attempts": "13",
+      "Highest Carry Efficiency": "0225402594"
+    },
+    {
+      "rank": 5,
+      "player": "Brian Harman",
+      "Avg": "2.437",
+      "Average Carry Dist. Yards": "262.4",
+      "Average Club Head Speed": "107.688",
+      "Total Attempts": "12",
+      "Highest Carry Efficiency": "0223602594"
+    },
+    {
+      "rank": 5,
+      "player": "Louis Oosthuizen",
+      "Avg": "2.437",
+      "Average Carry Dist. Yards": "271.2",
+      "Average Club Head Speed": "111.287",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0234702678"
+    },
+    {
+      "rank": 7,
+      "player": "Sepp Straka",
+      "Avg": "2.436",
+      "Average Carry Dist. Yards": "277.8",
+      "Average Club Head Speed": "114.044",
+      "Total Attempts": "14",
+      "Highest Carry Efficiency": "0238402617"
+    },
+    {
+      "rank": 8,
+      "player": "Hank Lebioda",
+      "Avg": "2.435",
+      "Average Carry Dist. Yards": "266.1",
+      "Average Club Head Speed": "109.253",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0224302570"
+    },
+    {
+      "rank": 9,
+      "player": "Tyrrell Hatton",
+      "Avg": "2.433",
+      "Average Carry Dist. Yards": "281.5",
+      "Average Club Head Speed": "115.723",
+      "Total Attempts": "7",
+      "Highest Carry Efficiency": "0244902566"
+    },
+    {
+      "rank": 10,
+      "player": "Troy Merritt",
+      "Avg": "2.430",
+      "Average Carry Dist. Yards": "267.9",
+      "Average Club Head Speed": "110.244",
+      "Total Attempts": "12",
+      "Highest Carry Efficiency": "0231502698"
+    },
+    {
+      "rank": 11,
+      "player": "K.H. Lee",
+      "Avg": "2.429",
+      "Average Carry Dist. Yards": "273.6",
+      "Average Club Head Speed": "112.669",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0241302615"
+    },
+    {
+      "rank": 12,
+      "player": "Rory McIlroy",
+      "Avg": "2.427",
+      "Average Carry Dist. Yards": "290.6",
+      "Average Club Head Speed": "119.714",
+      "Total Attempts": "14",
+      "Highest Carry Efficiency": "0216502644"
+    },
+    {
+      "rank": 13,
+      "player": "Chesson Hadley",
+      "Avg": "2.425",
+      "Average Carry Dist. Yards": "277.6",
+      "Average Club Head Speed": "114.481",
+      "Total Attempts": "15",
+      "Highest Carry Efficiency": "0237802623"
+    },
+    {
+      "rank": 14,
+      "player": "Jason Kokrak",
+      "Avg": "2.423",
+      "Average Carry Dist. Yards": "282.6",
+      "Average Club Head Speed": "116.618",
+      "Total Attempts": "14",
+      "Highest Carry Efficiency": "0233802622"
+    },
+    {
+      "rank": 15,
+      "player": "Abraham Ancer",
+      "Avg": "2.422",
+      "Average Carry Dist. Yards": "266.1",
+      "Average Club Head Speed": "109.857",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0226202628"
+    },
+    {
+      "rank": 15,
+      "player": "Aaron Wise",
+      "Avg": "2.422",
+      "Average Carry Dist. Yards": "278.9",
+      "Average Club Head Speed": "115.122",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0233702519"
+    },
+    {
+      "rank": 17,
+      "player": "Russell Henley",
+      "Avg": "2.420",
+      "Average Carry Dist. Yards": "271.5",
+      "Average Club Head Speed": "112.209",
+      "Total Attempts": "14",
+      "Highest Carry Efficiency": "0225902622"
+    },
+    {
+      "rank": 17,
+      "player": "Viktor Hovland",
+      "Avg": "2.420",
+      "Average Carry Dist. Yards": "279.9",
+      "Average Club Head Speed": "115.659",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0241502515"
+    },
+    {
+      "rank": 19,
+      "player": "Hayden Buckley",
+      "Avg": "2.419",
+      "Average Carry Dist. Yards": "274.1",
+      "Average Club Head Speed": "113.337",
+      "Total Attempts": "6",
+      "Highest Carry Efficiency": "0234102643"
+    },
+    {
+      "rank": 20,
+      "player": "Michael Thompson",
+      "Avg": "2.417",
+      "Average Carry Dist. Yards": "262.1",
+      "Average Club Head Speed": "108.436",
+      "Total Attempts": "14",
+      "Highest Carry Efficiency": "0231802593"
+    },
+    {
+      "rank": 21,
+      "player": "Shane Lowry",
+      "Avg": "2.414",
+      "Average Carry Dist. Yards": "275.3",
+      "Average Club Head Speed": "114.014",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0236902568"
+    },
+    {
+      "rank": 22,
+      "player": "Ian Poulter",
+      "Avg": "2.413",
+      "Average Carry Dist. Yards": "266.1",
+      "Average Club Head Speed": "110.257",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0220802589"
+    },
+    {
+      "rank": 23,
+      "player": "Adam Hadwin",
+      "Avg": "2.412",
+      "Average Carry Dist. Yards": "272.9",
+      "Average Club Head Speed": "113.167",
+      "Total Attempts": "14",
+      "Highest Carry Efficiency": "0228302540"
+    },
+    {
+      "rank": 23,
+      "player": "Francesco Molinari",
+      "Avg": "2.412",
+      "Average Carry Dist. Yards": "270.7",
+      "Average Club Head Speed": "112.243",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0240002667"
+    },
+    {
+      "rank": 25,
+      "player": "Lee Hodges",
+      "Avg": "2.411",
+      "Average Carry Dist. Yards": "271.7",
+      "Average Club Head Speed": "112.714",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0226402578"
+    },
+    {
+      "rank": 26,
+      "player": "Harold Varner III",
+      "Avg": "2.409",
+      "Average Carry Dist. Yards": "275.0",
+      "Average Club Head Speed": "114.167",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0231402585"
+    },
+    {
+      "rank": 27,
+      "player": "Paul Casey",
+      "Avg": "2.406",
+      "Average Carry Dist. Yards": "279.9",
+      "Average Club Head Speed": "116.323",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0234802558"
+    },
+    {
+      "rank": 28,
+      "player": "Jimmy Walker",
+      "Avg": "2.404",
+      "Average Carry Dist. Yards": "273.5",
+      "Average Club Head Speed": "113.769",
+      "Total Attempts": "7",
+      "Highest Carry Efficiency": "0220502478"
+    },
+    {
+      "rank": 29,
+      "player": "Cameron Smith",
+      "Avg": "2.403",
+      "Average Carry Dist. Yards": "280.5",
+      "Average Club Head Speed": "116.736",
+      "Total Attempts": "6",
+      "Highest Carry Efficiency": "0231002553"
+    },
+    {
+      "rank": 30,
+      "player": "Sungjae Im",
+      "Avg": "2.401",
+      "Average Carry Dist. Yards": "276.0",
+      "Average Club Head Speed": "114.965",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0232302539"
+    },
+    {
+      "rank": 31,
+      "player": "Denny McCarthy",
+      "Avg": "2.400",
+      "Average Carry Dist. Yards": "267.9",
+      "Average Club Head Speed": "111.647",
+      "Total Attempts": "12",
+      "Highest Carry Efficiency": "0213002628"
+    },
+    {
+      "rank": 31,
+      "player": "Taylor Pendrith",
+      "Avg": "2.400",
+      "Average Carry Dist. Yards": "290.7",
+      "Average Club Head Speed": "121.140",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0233202547"
+    },
+    {
+      "rank": 33,
+      "player": "Anirban Lahiri",
+      "Avg": "2.394",
+      "Average Carry Dist. Yards": "272.2",
+      "Average Club Head Speed": "113.673",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0242402561"
+    },
+    {
+      "rank": 34,
+      "player": "Bubba Watson",
+      "Avg": "2.393",
+      "Average Carry Dist. Yards": "276.9",
+      "Average Club Head Speed": "115.707",
+      "Total Attempts": "13",
+      "Highest Carry Efficiency": "0232702602"
+    },
+    {
+      "rank": 35,
+      "player": "Brice Garnett",
+      "Avg": "2.392",
+      "Average Carry Dist. Yards": "263.1",
+      "Average Club Head Speed": "109.979",
+      "Total Attempts": "16",
+      "Highest Carry Efficiency": "0224502654"
+    },
+    {
+      "rank": 36,
+      "player": "Joaquin Niemann",
+      "Avg": "2.391",
+      "Average Carry Dist. Yards": "285.0",
+      "Average Club Head Speed": "119.228",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0222702522"
+    },
+    {
+      "rank": 37,
+      "player": "Joel Dahmen",
+      "Avg": "2.390",
+      "Average Carry Dist. Yards": "265.1",
+      "Average Club Head Speed": "110.944",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0220102543"
+    },
+    {
+      "rank": 38,
+      "player": "Justin Thomas",
+      "Avg": "2.388",
+      "Average Carry Dist. Yards": "280.5",
+      "Average Club Head Speed": "117.425",
+      "Total Attempts": "15",
+      "Highest Carry Efficiency": "0210702617"
+    },
+    {
+      "rank": 39,
+      "player": "Kevin Streelman",
+      "Avg": "2.385",
+      "Average Carry Dist. Yards": "268.0",
+      "Average Club Head Speed": "112.354",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0233802565"
+    },
+    {
+      "rank": 40,
+      "player": "Adam Long",
+      "Avg": "2.383",
+      "Average Carry Dist. Yards": "264.1",
+      "Average Club Head Speed": "110.833",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0220902538"
+    },
+    {
+      "rank": 40,
+      "player": "Alex Noren",
+      "Avg": "2.383",
+      "Average Carry Dist. Yards": "277.2",
+      "Average Club Head Speed": "116.355",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0228402711"
+    },
+    {
+      "rank": 42,
+      "player": "Dylan Frittelli",
+      "Avg": "2.382",
+      "Average Carry Dist. Yards": "282.7",
+      "Average Club Head Speed": "118.684",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0222002617"
+    },
+    {
+      "rank": 43,
+      "player": "Tom Hoge",
+      "Avg": "2.377",
+      "Average Carry Dist. Yards": "271.1",
+      "Average Club Head Speed": "114.027",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0222402542"
+    },
+    {
+      "rank": 43,
+      "player": "Russell Knox",
+      "Avg": "2.377",
+      "Average Carry Dist. Yards": "264.0",
+      "Average Club Head Speed": "111.022",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0219402510"
+    },
+    {
+      "rank": 45,
+      "player": "Dustin Johnson",
+      "Avg": "2.376",
+      "Average Carry Dist. Yards": "281.8",
+      "Average Club Head Speed": "118.626",
+      "Total Attempts": "12",
+      "Highest Carry Efficiency": "0212302572"
+    },
+    {
+      "rank": 46,
+      "player": "Doug Ghim",
+      "Avg": "2.374",
+      "Average Carry Dist. Yards": "265.9",
+      "Average Club Head Speed": "111.969",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0221202618"
+    },
+    {
+      "rank": 46,
+      "player": "Maverick McNealy",
+      "Avg": "2.374",
+      "Average Carry Dist. Yards": "277.2",
+      "Average Club Head Speed": "116.749",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0219102583"
+    },
+    {
+      "rank": 48,
+      "player": "Keith Mitchell",
+      "Avg": "2.373",
+      "Average Carry Dist. Yards": "284.1",
+      "Average Club Head Speed": "119.696",
+      "Total Attempts": "6",
+      "Highest Carry Efficiency": "0231402521"
+    },
+    {
+      "rank": 49,
+      "player": "Will Zalatoris",
+      "Avg": "2.372",
+      "Average Carry Dist. Yards": "284.7",
+      "Average Club Head Speed": "120.028",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0229202522"
+    },
+    {
+      "rank": 50,
+      "player": "Nick Watney",
+      "Avg": "2.370",
+      "Average Carry Dist. Yards": "277.9",
+      "Average Club Head Speed": "117.270",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0221802522"
+    },
+    {
+      "rank": 51,
+      "player": "Jon Rahm",
+      "Avg": "2.368",
+      "Average Carry Dist. Yards": "285.3",
+      "Average Club Head Speed": "120.510",
+      "Total Attempts": "5",
+      "Highest Carry Efficiency": "0224502573"
+    },
+    {
+      "rank": 52,
+      "player": "Sergio Garcia",
+      "Avg": "2.367",
+      "Average Carry Dist. Yards": "281.4",
+      "Average Club Head Speed": "118.920",
+      "Total Attempts": "7",
+      "Highest Carry Efficiency": "0220202630"
+    },
+    {
+      "rank": 52,
+      "player": "Scottie Scheffler",
+      "Avg": "2.367",
+      "Average Carry Dist. Yards": "284.4",
+      "Average Club Head Speed": "120.148",
+      "Total Attempts": "16",
+      "Highest Carry Efficiency": "0223802588"
+    },
+    {
+      "rank": 54,
+      "player": "Kevin Kisner",
+      "Avg": "2.363",
+      "Average Carry Dist. Yards": "262.1",
+      "Average Club Head Speed": "110.919",
+      "Total Attempts": "13",
+      "Highest Carry Efficiency": "0231502469"
+    },
+    {
+      "rank": 54,
+      "player": "Scott Stallings",
+      "Avg": "2.363",
+      "Average Carry Dist. Yards": "272.7",
+      "Average Club Head Speed": "115.383",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0215502545"
+    },
+    {
+      "rank": 56,
+      "player": "Patton Kizzire",
+      "Avg": "2.362",
+      "Average Carry Dist. Yards": "272.9",
+      "Average Club Head Speed": "115.524",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0234002500"
+    },
+    {
+      "rank": 57,
+      "player": "Sam Ryder",
+      "Avg": "2.358",
+      "Average Carry Dist. Yards": "270.6",
+      "Average Club Head Speed": "114.736",
+      "Total Attempts": "12",
+      "Highest Carry Efficiency": "0219102570"
+    },
+    {
+      "rank": 58,
+      "player": "Kramer Hickok",
+      "Avg": "2.348",
+      "Average Carry Dist. Yards": "265.9",
+      "Average Club Head Speed": "113.262",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0224602485"
+    },
+    {
+      "rank": 59,
+      "player": "Lucas Herbert",
+      "Avg": "2.346",
+      "Average Carry Dist. Yards": "287.5",
+      "Average Club Head Speed": "122.555",
+      "Total Attempts": "14",
+      "Highest Carry Efficiency": "0220302626"
+    },
+    {
+      "rank": 60,
+      "player": "Peter Malnati",
+      "Avg": "2.345",
+      "Average Carry Dist. Yards": "269.5",
+      "Average Club Head Speed": "114.886",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0201002516"
+    },
+    {
+      "rank": 61,
+      "player": "Corey Conners",
+      "Avg": "2.343",
+      "Average Carry Dist. Yards": "272.4",
+      "Average Club Head Speed": "116.271",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0222402488"
+    },
+    {
+      "rank": 62,
+      "player": "Doc Redman",
+      "Avg": "2.331",
+      "Average Carry Dist. Yards": "274.5",
+      "Average Club Head Speed": "117.748",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0224302495"
+    },
+    {
+      "rank": 62,
+      "player": "Erik van Rooyen",
+      "Avg": "2.331",
+      "Average Carry Dist. Yards": "274.3",
+      "Average Club Head Speed": "117.682",
+      "Total Attempts": "8",
+      "Highest Carry Efficiency": "0219702530"
+    },
+    {
+      "rank": 64,
+      "player": "Branden Grace",
+      "Avg": "2.327",
+      "Average Carry Dist. Yards": "270.1",
+      "Average Club Head Speed": "116.056",
+      "Total Attempts": "11",
+      "Highest Carry Efficiency": "0213402613"
+    },
+    {
+      "rank": 65,
+      "player": "Patrick Reed",
+      "Avg": "2.318",
+      "Average Carry Dist. Yards": "267.8",
+      "Average Club Head Speed": "115.515",
+      "Total Attempts": "9",
+      "Highest Carry Efficiency": "0217002482"
+    },
+    {
+      "rank": 66,
+      "player": "Pat Perez",
+      "Avg": "2.314",
+      "Average Carry Dist. Yards": "264.6",
+      "Average Club Head Speed": "114.370",
+      "Total Attempts": "10",
+      "Highest Carry Efficiency": "0212602422"
+    },
+    {
+      "rank": 67,
+      "player": "Max Homa",
+      "Avg": "2.305",
+      "Average Carry Dist. Yards": "280.3",
+      "Average Club Head Speed": "121.586",
+      "Total Attempts": "14",
+      "Highest Carry Efficiency": "0205802574"
+    },
+    {
+      "rank": 68,
+      "player": "Seamus Power",
+      "Avg": "2.299",
+      "Average Carry Dist. Yards": "274.0",
+      "Average Club Head Speed": "119.188",
+      "Total Attempts": "12",
+      "Highest Carry Efficiency": "0229202473"
+    },
+    {
+      "rank": 69,
+      "player": "Sebasti\u00e1n Mu\u00f1oz",
+      "Avg": "2.276",
+      "Average Carry Dist. Yards": "274.1",
+      "Average Club Head Speed": "120.432",
+      "Total Attempts": "7",
+      "Highest Carry Efficiency": "0225202496"
+    },
+    {
+      "rank": 70,
+      "player": "Daniel Berger",
+      "Avg": "2.238",
+      "Average Carry Dist. Yards": "260.6",
+      "Average Club Head Speed": "116.446",
+      "Total Attempts": "13",
+      "Highest Carry Efficiency": "0204902520"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "stat_id": "211",
+  "stat_title": "First Tee Late Scoring Average",
+  "category": "Scoring",
+  "year": 2023,
+  "tournament_id": "R2023011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Scottie Scheffler",
+      "Avg": "67.67",
+      "Total Strokes": "203",
+      "Total 1st Tee Late Rounds": "3"
+    },
+    {
+      "rank": 2,
+      "player": "Sam Burns",
+      "Avg": "68.00",
+      "Total Strokes": "68",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 2,
+      "player": "Tyrrell Hatton",
+      "Avg": "68.00",
+      "Total Strokes": "136",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 4,
+      "player": "Viktor Hovland",
+      "Avg": "69.00",
+      "Total Strokes": "207",
+      "Total 1st Tee Late Rounds": "3"
+    },
+    {
+      "rank": 4,
+      "player": "Hideki Matsuyama",
+      "Avg": "69.00",
+      "Total Strokes": "138",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 4,
+      "player": "Justin Suh",
+      "Avg": "69.00",
+      "Total Strokes": "207",
+      "Total 1st Tee Late Rounds": "3"
+    },
+    {
+      "rank": 7,
+      "player": "Ryan Fox",
+      "Avg": "69.50",
+      "Total Strokes": "139",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 8,
+      "player": "Tom Hoge",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 8,
+      "player": "David Lingmerth",
+      "Avg": "70.00",
+      "Total Strokes": "140",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 8,
+      "player": "Sahith Theegala",
+      "Avg": "70.00",
+      "Total Strokes": "70",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 8,
+      "player": "Brandon Wu",
+      "Avg": "70.00",
+      "Total Strokes": "140",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 12,
+      "player": "Cam Davis",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 12,
+      "player": "Rickie Fowler",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 12,
+      "player": "Adam Hadwin",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 12,
+      "player": "Max Homa",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 12,
+      "player": "Sungjae Im",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 12,
+      "player": "Denny McCarthy",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 12,
+      "player": "Jordan Spieth",
+      "Avg": "70.50",
+      "Total Strokes": "141",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 19,
+      "player": "Jason Day",
+      "Avg": "70.67",
+      "Total Strokes": "212",
+      "Total 1st Tee Late Rounds": "3"
+    },
+    {
+      "rank": 20,
+      "player": "Patrick Cantlay",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 20,
+      "player": "Chesson Hadley",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 20,
+      "player": "Min Woo Lee",
+      "Avg": "71.00",
+      "Total Strokes": "142",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 20,
+      "player": "Danny Willett",
+      "Avg": "71.00",
+      "Total Strokes": "71",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 24,
+      "player": "Byeong Hun An",
+      "Avg": "71.50",
+      "Total Strokes": "143",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 24,
+      "player": "Christiaan Bezuidenhout",
+      "Avg": "71.50",
+      "Total Strokes": "143",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 24,
+      "player": "Tony Finau",
+      "Avg": "71.50",
+      "Total Strokes": "143",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 27,
+      "player": "Wyndham Clark",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 27,
+      "player": "Tom Kim",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 27,
+      "player": "Taylor Moore",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 27,
+      "player": "Collin Morikawa",
+      "Avg": "72.00",
+      "Total Strokes": "216",
+      "Total 1st Tee Late Rounds": "3"
+    },
+    {
+      "rank": 27,
+      "player": "Chad Ramey",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 27,
+      "player": "Justin Rose",
+      "Avg": "72.00",
+      "Total Strokes": "144",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 27,
+      "player": "Xander Schauffele",
+      "Avg": "72.00",
+      "Total Strokes": "72",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 34,
+      "player": "Taylor Pendrith",
+      "Avg": "72.50",
+      "Total Strokes": "145",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 34,
+      "player": "Cameron Young",
+      "Avg": "72.50",
+      "Total Strokes": "145",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 36,
+      "player": "Eric Cole",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 36,
+      "player": "Tommy Fleetwood",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 36,
+      "player": "Will Gordon",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 36,
+      "player": "Ben Griffin",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 36,
+      "player": "Si Woo Kim",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 36,
+      "player": "Nate Lashley",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 36,
+      "player": "Sam Ryder",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 36,
+      "player": "Adam Scott",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 36,
+      "player": "Adam Svensson",
+      "Avg": "73.00",
+      "Total Strokes": "146",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 36,
+      "player": "Justin Thomas",
+      "Avg": "73.00",
+      "Total Strokes": "73",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 46,
+      "player": "Garrick Higgo",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 46,
+      "player": "Stephan Jaeger",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 46,
+      "player": "Maverick McNealy",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 46,
+      "player": "Brendon Todd",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 46,
+      "player": "Dylan Wu",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 46,
+      "player": "Will Zalatoris",
+      "Avg": "74.00",
+      "Total Strokes": "74",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 52,
+      "player": "Taylor Montgomery",
+      "Avg": "74.50",
+      "Total Strokes": "149",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 53,
+      "player": "Aaron Rai",
+      "Avg": "75.00",
+      "Total Strokes": "75",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "Francesco Molinari",
+      "Avg": "76.00",
+      "Total Strokes": "76",
+      "Total 1st Tee Late Rounds": "1"
+    },
+    {
+      "rank": 54,
+      "player": "Davis Thompson",
+      "Avg": "76.00",
+      "Total Strokes": "152",
+      "Total 1st Tee Late Rounds": "2"
+    },
+    {
+      "rank": 56,
+      "player": "Shane Lowry",
+      "Avg": "77.00",
+      "Total Strokes": "77",
+      "Total 1st Tee Late Rounds": "1"
+    }
+  ]
+}

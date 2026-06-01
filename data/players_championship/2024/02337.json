@@ -1,0 +1,520 @@
+{
+  "stat_id": "02337",
+  "stat_title": "Percentage of Available Purse Won",
+  "category": "Money/Finishes",
+  "year": 2024,
+  "tournament_id": "R2024011",
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Scottie Scheffler",
+      "%": "18.00%",
+      "Official Money Won": "4,500,000",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 2,
+      "player": "Wyndham Clark",
+      "%": "7.57%",
+      "Official Money Won": "1,891,667",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 2,
+      "player": "Brian Harman",
+      "%": "7.57%",
+      "Official Money Won": "1,891,667",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 2,
+      "player": "Xander Schauffele",
+      "%": "7.57%",
+      "Official Money Won": "1,891,667",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 5,
+      "player": "Matt Fitzpatrick",
+      "%": "4.10%",
+      "Official Money Won": "1,025,000",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 6,
+      "player": "Si Woo Kim",
+      "%": "3.50%",
+      "Official Money Won": "875,000",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 6,
+      "player": "Hideki Matsuyama",
+      "%": "3.50%",
+      "Official Money Won": "875,000",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 8,
+      "player": "Ludvig \u00c5berg",
+      "%": "3.13%",
+      "Official Money Won": "781,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 9,
+      "player": "Maverick McNealy",
+      "%": "2.83%",
+      "Official Money Won": "706,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 9,
+      "player": "Sahith Theegala",
+      "%": "2.83%",
+      "Official Money Won": "706,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 11,
+      "player": "Joel Dahmen",
+      "%": "2.43%",
+      "Official Money Won": "606,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 11,
+      "player": "Taylor Montgomery",
+      "%": "2.43%",
+      "Official Money Won": "606,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 13,
+      "player": "Christiaan Bezuidenhout",
+      "%": "1.96%",
+      "Official Money Won": "489,583",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 13,
+      "player": "Corey Conners",
+      "%": "1.96%",
+      "Official Money Won": "489,583",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 13,
+      "player": "Nate Lashley",
+      "%": "1.96%",
+      "Official Money Won": "489,583",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 16,
+      "player": "Doug Ghim",
+      "%": "1.63%",
+      "Official Money Won": "406,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 16,
+      "player": "Sam Ryder",
+      "%": "1.63%",
+      "Official Money Won": "406,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 16,
+      "player": "Sepp Straka",
+      "%": "1.63%",
+      "Official Money Won": "406,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 19,
+      "player": "Harris English",
+      "%": "1.14%",
+      "Official Money Won": "285,536",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 19,
+      "player": "Kurt Kitayama",
+      "%": "1.14%",
+      "Official Money Won": "285,536",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 19,
+      "player": "Shane Lowry",
+      "%": "1.14%",
+      "Official Money Won": "285,536",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 19,
+      "player": "Rory McIlroy",
+      "%": "1.14%",
+      "Official Money Won": "285,536",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 19,
+      "player": "Alex Noren",
+      "%": "1.14%",
+      "Official Money Won": "285,536",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 19,
+      "player": "Adam Schenk",
+      "%": "1.14%",
+      "Official Money Won": "285,536",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 19,
+      "player": "Dylan Wu",
+      "%": "1.14%",
+      "Official Money Won": "285,536",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 26,
+      "player": "Mackenzie Hughes",
+      "%": ".75%",
+      "Official Money Won": "186,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 26,
+      "player": "Chris Kirk",
+      "%": ".75%",
+      "Official Money Won": "186,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 26,
+      "player": "Matt NeSmith",
+      "%": ".75%",
+      "Official Money Won": "186,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 26,
+      "player": "Matti Schmid",
+      "%": ".75%",
+      "Official Money Won": "186,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 26,
+      "player": "Nick Taylor",
+      "%": ".75%",
+      "Official Money Won": "186,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 31,
+      "player": "Mark Hubbard",
+      "%": ".61%",
+      "Official Money Won": "152,813",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 31,
+      "player": "Sungjae Im",
+      "%": ".61%",
+      "Official Money Won": "152,813",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 31,
+      "player": "Ben Martin",
+      "%": ".61%",
+      "Official Money Won": "152,813",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 31,
+      "player": "Taylor Moore",
+      "%": ".61%",
+      "Official Money Won": "152,813",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 35,
+      "player": "Jason Day",
+      "%": ".48%",
+      "Official Money Won": "119,286",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 35,
+      "player": "Tommy Fleetwood",
+      "%": ".48%",
+      "Official Money Won": "119,286",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 35,
+      "player": "Brice Garnett",
+      "%": ".48%",
+      "Official Money Won": "119,286",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 35,
+      "player": "Lee Hodges",
+      "%": ".48%",
+      "Official Money Won": "119,286",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 35,
+      "player": "Denny McCarthy",
+      "%": ".48%",
+      "Official Money Won": "119,286",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 35,
+      "player": "Aaron Rai",
+      "%": ".48%",
+      "Official Money Won": "119,286",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 35,
+      "player": "Jimmy Stanger",
+      "%": ".48%",
+      "Official Money Won": "119,286",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 42,
+      "player": "David Lipsky",
+      "%": ".38%",
+      "Official Money Won": "93,750",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 42,
+      "player": "Grayson Murray",
+      "%": ".38%",
+      "Official Money Won": "93,750",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 42,
+      "player": "C.T. Pan",
+      "%": ".38%",
+      "Official Money Won": "93,750",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 45,
+      "player": "Sam Burns",
+      "%": ".28%",
+      "Official Money Won": "70,063",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 45,
+      "player": "Austin Eckroat",
+      "%": ".28%",
+      "Official Money Won": "70,063",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 45,
+      "player": "Tony Finau",
+      "%": ".28%",
+      "Official Money Won": "70,063",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 45,
+      "player": "Jake Knapp",
+      "%": ".28%",
+      "Official Money Won": "70,063",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 45,
+      "player": "Ryan Moore",
+      "%": ".28%",
+      "Official Money Won": "70,063",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 45,
+      "player": "Collin Morikawa",
+      "%": ".28%",
+      "Official Money Won": "70,063",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 45,
+      "player": "J.T. Poston",
+      "%": ".28%",
+      "Official Money Won": "70,063",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 45,
+      "player": "Adam Scott",
+      "%": ".28%",
+      "Official Money Won": "70,063",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 53,
+      "player": "Andrew Putnam",
+      "%": ".24%",
+      "Official Money Won": "60,250",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 54,
+      "player": "Zac Blair",
+      "%": ".23%",
+      "Official Money Won": "57,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 54,
+      "player": "Emiliano Grillo",
+      "%": ".23%",
+      "Official Money Won": "57,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 54,
+      "player": "Tom Hoge",
+      "%": ".23%",
+      "Official Money Won": "57,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 54,
+      "player": "Martin Laird",
+      "%": ".23%",
+      "Official Money Won": "57,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 54,
+      "player": "Min Woo Lee",
+      "%": ".23%",
+      "Official Money Won": "57,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 54,
+      "player": "Francesco Molinari",
+      "%": ".23%",
+      "Official Money Won": "57,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 54,
+      "player": "Sami Valimaki",
+      "%": ".23%",
+      "Official Money Won": "57,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 54,
+      "player": "Cameron Young",
+      "%": ".23%",
+      "Official Money Won": "57,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 62,
+      "player": "Thomas Detry",
+      "%": ".22%",
+      "Official Money Won": "55,000",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 62,
+      "player": "Viktor Hovland",
+      "%": ".22%",
+      "Official Money Won": "55,000",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 64,
+      "player": "Patrick Cantlay",
+      "%": ".21%",
+      "Official Money Won": "51,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 64,
+      "player": "Tyler Duncan",
+      "%": ".21%",
+      "Official Money Won": "53,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 64,
+      "player": "Rickie Fowler",
+      "%": ".21%",
+      "Official Money Won": "51,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 64,
+      "player": "Max Homa",
+      "%": ".21%",
+      "Official Money Won": "53,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 64,
+      "player": "Chan Kim",
+      "%": ".21%",
+      "Official Money Won": "51,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 64,
+      "player": "Peter Malnati",
+      "%": ".21%",
+      "Official Money Won": "51,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 64,
+      "player": "Seamus Power",
+      "%": ".21%",
+      "Official Money Won": "53,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 64,
+      "player": "J.J. Spaun",
+      "%": ".21%",
+      "Official Money Won": "53,500",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 72,
+      "player": "Keith Mitchell",
+      "%": ".20%",
+      "Official Money Won": "49,750",
+      "Total Purse Available": "25,000,000"
+    },
+    {
+      "rank": 72,
+      "player": "Gary Woodland",
+      "%": ".20%",
+      "Official Money Won": "50,250",
+      "Total Purse Available": "25,000,000"
+    }
+  ]
+}
